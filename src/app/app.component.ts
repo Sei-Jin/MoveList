@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {MoveListComponent} from "./moves/move-list/move-list.component";
+import { MoveListComponent } from "./moves/move-list/move-list.component";
 
 @Component({
   selector: 'app-root',

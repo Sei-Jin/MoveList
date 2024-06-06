@@ -5,3 +5,7 @@
 .mat-subheader {
   padding-top: 40px;
 }
+
+.move-icon {
+  /*transform: scale(1.2);*/
+}

@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { MatListModule } from "@angular/material/list";
 import moveDataRaw from "../../../character-data/Alisa.json";
 import { MatIconModule, MatIconRegistry } from "@angular/material/icon";
-import { HttpClientModule} from "@angular/common/http";
 import { DomSanitizer } from "@angular/platform-browser";
 
 export interface MoveData {
@@ -20,12 +19,19 @@ export interface MoveData {
   imports: [
     MatListModule,
     MatIconModule,
-    HttpClientModule
   ],
   templateUrl: './move-list.component.html',
-  styleUrl: './move-list.component.css'
+  styleUrl: './move-list.component.css',
+  providers: []
 })
 export class MoveListComponent {
+
+  constructor(iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
+    iconRegistry.addSvgIcon(
+      "1",
+       sanitizer.bypassSecurityTrustResourceUrl("/assets/button-inputs/1-medium-whitespace.svg")
+    );
+  }
 
   previousType: string = "";
   moves: MoveData[] = moveDataRaw;
