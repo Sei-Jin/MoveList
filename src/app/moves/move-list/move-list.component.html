@@ -1,0 +1,20 @@
+<mat-selection-list>
+  @for (move of moves; track move.Id)
+  {
+    @if (move.Type != previousType)
+    {
+      <div mat-subheader class="mat-subheader"> {{ move.Type }}</div>
+      <mat-divider></mat-divider>
+
+      {{ updatePreviousType(move.Type) }}
+    }
+
+    <mat-list-item>
+      <div matListItemTitle> {{ move.Name }} </div>
+      <div matListItemLine>
+        {{ move.Description }}
+<!--        <mat-icon svgIcon="1"></mat-icon>-->
+      </div>
+    </mat-list-item>
+  }
+</mat-selection-list>
