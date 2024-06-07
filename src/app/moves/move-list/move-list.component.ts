@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { MatListModule } from "@angular/material/list";
-import moveDataRaw from "../../../character-data/Alisa.json";
+import moveDataRaw from "../../../assets/character-data/Alisa.json";
 import { MatIconModule, MatIconRegistry } from "@angular/material/icon";
 import { DomSanitizer } from "@angular/platform-browser";
 
@@ -29,7 +29,7 @@ export class MoveListComponent {
   constructor(iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     iconRegistry.addSvgIcon(
       "1",
-       sanitizer.bypassSecurityTrustResourceUrl("/assets/button-inputs/1-medium-whitespace.svg")
+       sanitizer.bypassSecurityTrustResourceUrl("/assets/inputs/button/1.svg")
     );
   }
 
