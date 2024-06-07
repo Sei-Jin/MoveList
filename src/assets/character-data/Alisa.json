@@ -499,7 +499,7 @@
     "Id": 63,
     "Type": "Normal Moves",
     "Name": "Cradle Star",
-    "Description": "{uf,3 on hit or block 2}",
+    "Description": "{uf,3} on hit or block {2}",
     "Properties": "",
     "Comment": ""
   },
@@ -587,7 +587,7 @@
     "Id": 74,
     "Type": "Normal Moves",
     "Name": "Thrust Double Punch",
-    "Description": "{While running f-hold,1+2}",
+    "Description": "While running {f-hold,1+2}",
     "Properties": "",
     "Comment": ""
   },
