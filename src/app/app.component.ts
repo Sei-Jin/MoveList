@@ -5,7 +5,10 @@ import { MoveListComponent } from "./moves/move-list/move-list.component";
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, MoveListComponent],
+  imports: [
+    RouterOutlet,
+    MoveListComponent,
+  ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

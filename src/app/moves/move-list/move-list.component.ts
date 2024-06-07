@@ -1,8 +1,8 @@
-import { Component } from '@angular/core';
+import {Component, Inject} from '@angular/core';
 import { MatListModule } from "@angular/material/list";
 import moveDataRaw from "../../../assets/character-data/Alisa.json";
-import { MatIconModule, MatIconRegistry } from "@angular/material/icon";
-import { DomSanitizer } from "@angular/platform-browser";
+import { MatIconModule } from "@angular/material/icon";
+import { MoveIconsService } from "../move-icons.service";
 
 export interface MoveData {
   "Id": number;
@@ -26,12 +26,7 @@ export interface MoveData {
 })
 export class MoveListComponent {
 
-  constructor(iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
-    iconRegistry.addSvgIcon(
-      "1",
-       sanitizer.bypassSecurityTrustResourceUrl("/assets/inputs/button/1.svg")
-    );
-  }
+  constructor(private service: MoveIconsService) {}
 
   previousType: string = "";
   moves: MoveData[] = moveDataRaw;
