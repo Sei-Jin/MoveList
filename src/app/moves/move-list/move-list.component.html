@@ -10,10 +10,11 @@
     }
 
     <mat-list-item>
-      <div matListItemTitle> {{ move.Name }} </div>
-      <div matListItemLine>
+      <div matListItemIcon class="mat-list-item-icon"> {{ move.Id }} </div>
+      <div matListItemTitle class="mat-list-item-title"> {{ move.Name }} </div>
+      <div matListItemLine class="mat-list-item-line">
         {{ move.Description }}
-        <mat-icon svgIcon="1" class="move-icon"></mat-icon>
+        <mat-icon svgIcon="1" class="move-icon">1</mat-icon>
       </div>
     </mat-list-item>
   }

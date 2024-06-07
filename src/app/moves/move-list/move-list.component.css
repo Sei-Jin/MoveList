@@ -7,5 +7,19 @@
 }
 
 .move-icon {
-  /*transform: scale(1.2);*/
+  position: relative;
+  top: 3px;
+  transform: scale(1.2);
 }
+
+.mat-list-item-icon {
+  text-align: center;
+}
+
+.mat-list-item-title {
+}
+
+.mat-list-item-line {
+  padding-top: 5px;
+}
+
