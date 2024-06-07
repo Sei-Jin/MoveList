@@ -51,7 +51,7 @@
     "Id": 7,
     "Type": "Heat Moves",
     "Name": "Heat Burst",
-    "Description": "When Heat activation available 2+3",
+    "Description": "When Heat activation available {2+3}",
     "Properties": "",
     "Comment": ""
   },
@@ -59,7 +59,7 @@
     "Id": 8,
     "Type": "Heat Moves",
     "Name": "Quick trim",
-    "Description": "3,2",
+    "Description": "{3,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -67,7 +67,7 @@
     "Id": 9,
     "Type": "Heat Moves",
     "Name": "Uninstall",
-    "Description": "1+2",
+    "Description": "{1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -75,7 +75,7 @@
     "Id": 10,
     "Type": "Heat Moves",
     "Name": "Dual Session",
-    "Description": "f,2,1",
+    "Description": "{f,2,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -83,7 +83,7 @@
     "Id": 11,
     "Type": "Heat Moves",
     "Name": "Image Cutter",
-    "Description": "uf,2",
+    "Description": "{uf,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -91,7 +91,7 @@
     "Id": 12,
     "Type": "Heat Moves",
     "Name": "Gigahertz Storm",
-    "Description": "During Destructive Form (d,1+2, etc.) f,2,1,2",
+    "Description": "During Destructive Form ({d,1+2}, etc.) {f,2,1,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -99,7 +99,7 @@
     "Id": 13,
     "Type": "Heat Moves",
     "Name": "Emergency Dual Boot",
-    "Description": "During Heat f,1+4",
+    "Description": "During Heat {f,1+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -107,7 +107,7 @@
     "Id": 14,
     "Type": "Heat Moves",
     "Name": "Emergency Destructive Form",
-    "Description": "During Heat d,1+2",
+    "Description": "During Heat {d,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -115,7 +115,7 @@
     "Id": 15,
     "Type": "Heat Moves",
     "Name": "Quick-fix Protocol",
-    "Description": "During Heat 2+3",
+    "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": ""
   },
@@ -123,7 +123,7 @@
     "Id": 16,
     "Type": "Rage Moves",
     "Name": "Radiant Pegasus Bomb",
-    "Description": "During Rage df,1+2",
+    "Description": "During Rage {df,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -131,7 +131,7 @@
     "Id": 17,
     "Type": "Normal Moves",
     "Name": "Stop Bit",
-    "Description": "1,1",
+    "Description": "{1,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -139,7 +139,7 @@
     "Id": 18,
     "Type": "Normal Moves",
     "Name": "Typing Combo",
-    "Description": "1,2",
+    "Description": "{1,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -147,7 +147,7 @@
     "Id": 19,
     "Type": "Normal Moves",
     "Name": "Liftoff Combo",
-    "Description": "1,2,2",
+    "Description": "{1,2,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -155,7 +155,7 @@
     "Id": 20,
     "Type": "Normal Moves",
     "Name": "Coil Punch Combo",
-    "Description": "1,2,d,2",
+    "Description": "{1,2,d,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -163,7 +163,7 @@
     "Id": 21,
     "Type": "Normal Moves",
     "Name": "Troubleshooting",
-    "Description": "2 on hit or block 2",
+    "Description": "{2} on hit or block {2}",
     "Properties": "",
     "Comment": ""
   },
@@ -171,7 +171,7 @@
     "Id": 22,
     "Type": "Normal Moves",
     "Name": "Down Time",
-    "Description": "2,3,3",
+    "Description": "{2,3,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -179,7 +179,7 @@
     "Id": 23,
     "Type": "Normal Moves",
     "Name": "Down Link",
-    "Description": "2,3,4",
+    "Description": "{2,3,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -187,7 +187,7 @@
     "Id": 24,
     "Type": "Normal Moves",
     "Name": "Quick Trim",
-    "Description": "3,2",
+    "Description": "{3,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -195,7 +195,7 @@
     "Id": 25,
     "Type": "Normal Moves",
     "Name": "Quick Access",
-    "Description": "3,f,2",
+    "Description": "{3,f,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -203,7 +203,7 @@
     "Id": 26,
     "Type": "Normal Moves",
     "Name": "Accelerator",
-    "Description": 4,
+    "Description": "{4}",
     "Properties": "",
     "Comment": ""
   },
@@ -211,7 +211,7 @@
     "Id": 27,
     "Type": "Normal Moves",
     "Name": "Uninstall",
-    "Description": "1+2",
+    "Description": "{1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -219,7 +219,7 @@
     "Id": 28,
     "Type": "Normal Moves",
     "Name": "Dual Session",
-    "Description": "f,2,1",
+    "Description": "{f,2,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -227,7 +227,7 @@
     "Id": 29,
     "Type": "Normal Moves",
     "Name": "Triple Session",
-    "Description": "f,2,3,3",
+    "Description": "{f,2,3,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -235,7 +235,7 @@
     "Id": 30,
     "Type": "Normal Moves",
     "Name": "Lost Access",
-    "Description": "f,3,2",
+    "Description": "{f,3,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -243,7 +243,7 @@
     "Id": 31,
     "Type": "Normal Moves",
     "Name": "Automatic Transmission",
-    "Description": "f,3,1+2",
+    "Description": "{f,3,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -251,7 +251,7 @@
     "Id": 32,
     "Type": "Normal Moves",
     "Name": "Logic Bomb",
-    "Description": "f,4,1,4",
+    "Description": "{f,4,1,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -259,7 +259,7 @@
     "Id": 33,
     "Type": "Normal Moves",
     "Name": "Overflow",
-    "Description": "f,1+2",
+    "Description": "{f,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -267,7 +267,7 @@
     "Id": 34,
     "Type": "Normal Moves",
     "Name": "Boot",
-    "Description": "f,3+4",
+    "Description": "{f,3+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -275,7 +275,7 @@
     "Id": 35,
     "Type": "Normal Moves",
     "Name": "Cyclone Mixer",
-    "Description": "df,1,1,2",
+    "Description": "{df,1,1,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -283,7 +283,7 @@
     "Id": 36,
     "Type": "Normal Moves",
     "Name": "Cyclone Hacker",
-    "Description": "df,1,4",
+    "Description": "{df,1,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -291,7 +291,7 @@
     "Id": 37,
     "Type": "Normal Moves",
     "Name": "Pickup",
-    "Description": "df,2",
+    "Description": "{df,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -299,7 +299,7 @@
     "Id": 38,
     "Type": "Normal Moves",
     "Name": "Double Socket",
-    "Description": "df,3,3",
+    "Description": "{df,3,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -307,7 +307,7 @@
     "Id": 39,
     "Type": "Normal Moves",
     "Name": "Deadlock",
-    "Description": "d,2,4",
+    "Description": "{d,2,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -315,7 +315,7 @@
     "Id": 40,
     "Type": "Normal Moves",
     "Name": "Quick Slider",
-    "Description": "d,3",
+    "Description": "{d,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -323,7 +323,7 @@
     "Id": 41,
     "Type": "Normal Moves",
     "Name": "Optimizer",
-    "Description": "d,4,1+2",
+    "Description": "{d,4,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -331,7 +331,7 @@
     "Id": 42,
     "Type": "Normal Moves",
     "Name": "Destructive Form",
-    "Description": "d,1+2",
+    "Description": "{d,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -339,7 +339,7 @@
     "Id": 43,
     "Type": "Normal Moves",
     "Name": "Harpoon Sweep",
-    "Description": "d,3+4",
+    "Description": "{d,3+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -347,7 +347,7 @@
     "Id": 44,
     "Type": "Normal Moves",
     "Name": "Backup",
-    "Description": "db,1",
+    "Description": "{db,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -355,7 +355,7 @@
     "Id": 45,
     "Type": "Normal Moves",
     "Name": "Daisy Chain",
-    "Description": "db,2,2",
+    "Description": "{db,2,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -363,7 +363,7 @@
     "Id": 46,
     "Type": "Normal Moves",
     "Name": "Deep Link",
-    "Description": "db,3",
+    "Description": "{db,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -371,7 +371,7 @@
     "Id": 47,
     "Type": "Normal Moves",
     "Name": "Deep Web",
-    "Description": "db,4",
+    "Description": "{db,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -379,7 +379,7 @@
     "Id": 48,
     "Type": "Normal Moves",
     "Name": "Gadget Found",
-    "Description": "b,1,1+2",
+    "Description": "{b,1,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -387,7 +387,7 @@
     "Id": 49,
     "Type": "Normal Moves",
     "Name": "Trance Hammer",
-    "Description": "b,2,1",
+    "Description": "{b,2,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -395,7 +395,7 @@
     "Id": 50,
     "Type": "Normal Moves",
     "Name": "Trance Generator",
-    "Description": "b,2,3",
+    "Description": "{b,2,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -403,7 +403,7 @@
     "Id": 51,
     "Type": "Normal Moves",
     "Name": "Trance Accelerator Kick",
-    "Description": "b,2,4",
+    "Description": "{b,2,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -411,7 +411,7 @@
     "Id": 52,
     "Type": "Normal Moves",
     "Name": "Spinning Top",
-    "Description": "b,3",
+    "Description": "{b,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -419,7 +419,7 @@
     "Id": 53,
     "Type": "Normal Moves",
     "Name": "Double Threading",
-    "Description": "b,4,3",
+    "Description": "{b,4,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -427,7 +427,7 @@
     "Id": 54,
     "Type": "Normal Moves",
     "Name": "Double Override",
-    "Description": "b,4,4",
+    "Description": "{b,4,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -435,7 +435,7 @@
     "Id": 55,
     "Type": "Normal Moves",
     "Name": "Transmission",
-    "Description": "b,1+2",
+    "Description": "{b,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -443,7 +443,7 @@
     "Id": 56,
     "Type": "Normal Moves",
     "Name": "Dynamic Range",
-    "Description": "b,3+4,3+4",
+    "Description": "{b,3+4,3+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -451,7 +451,7 @@
     "Id": 57,
     "Type": "Normal Moves",
     "Name": "Hang-Up",
-    "Description": "b,2+3",
+    "Description": "{b,2+3}",
     "Properties": "",
     "Comment": ""
   },
@@ -459,7 +459,7 @@
     "Id": 58,
     "Type": "Normal Moves",
     "Name": "Overload",
-    "Description": "ub,2",
+    "Description": "{ub,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -467,7 +467,7 @@
     "Id": 59,
     "Type": "Normal Moves",
     "Name": "Docking Bay",
-    "Description": "ub,3+4,1+2",
+    "Description": "{ub,3+4,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -475,7 +475,7 @@
     "Id": 60,
     "Type": "Normal Moves",
     "Name": "Gigabyte Hammer",
-    "Description": "u,1+2",
+    "Description": "{u,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -483,7 +483,7 @@
     "Id": 61,
     "Type": "Normal Moves",
     "Name": "Brute Force Attack",
-    "Description": "uf,1",
+    "Description": "{uf,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -491,7 +491,7 @@
     "Id": 62,
     "Type": "Normal Moves",
     "Name": "Image Cutter",
-    "Description": "uf,2",
+    "Description": "{uf,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -499,7 +499,7 @@
     "Id": 63,
     "Type": "Normal Moves",
     "Name": "Cradle Star",
-    "Description": "uf,3 on hit or block 2",
+    "Description": "{uf,3 on hit or block 2}",
     "Properties": "",
     "Comment": ""
   },
@@ -507,7 +507,7 @@
     "Id": 64,
     "Type": "Normal Moves",
     "Name": "Inbound Kick",
-    "Description": "uf,4,4",
+    "Description": "{uf,4,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -515,7 +515,7 @@
     "Id": 65,
     "Type": "Normal Moves",
     "Name": "Downstream",
-    "Description": "uf,3+4",
+    "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -523,7 +523,7 @@
     "Id": 66,
     "Type": "Normal Moves",
     "Name": "Jumper Switch",
-    "Description": "f,f*,2,3",
+    "Description": "{f,f-hold,2,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -531,7 +531,7 @@
     "Id": 67,
     "Type": "Normal Moves",
     "Name": "Cutover",
-    "Description": "f,f*,3,4,4",
+    "Description": "{f,f-hold,3,4,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -539,7 +539,7 @@
     "Id": 68,
     "Type": "Normal Moves",
     "Name": "Sandbox",
-    "Description": "f,f*,4",
+    "Description": "{f,f-hold,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -547,7 +547,7 @@
     "Id": 69,
     "Type": "Normal Moves",
     "Name": "Worm Virus",
-    "Description": "f,f*,1+2",
+    "Description": "{f,f-hold,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -555,7 +555,7 @@
     "Id": 70,
     "Type": "Normal Moves",
     "Name": "Kiler Worm Virus",
-    "Description": "f,f*,1+2",
+    "Description": "{f,f-hold,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -563,7 +563,7 @@
     "Id": 71,
     "Type": "Normal Moves",
     "Name": "Double Rocket Punch",
-    "Description": "b,b*,1+4",
+    "Description": "{b,b-hold,1+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -571,7 +571,7 @@
     "Id": 72,
     "Type": "Normal Moves",
     "Name": "Linear Punch",
-    "Description": "f,f,f*,2",
+    "Description": "{f,f,f-hold,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -579,7 +579,7 @@
     "Id": 73,
     "Type": "Normal Moves",
     "Name": "Linear Dropkick",
-    "Description": "f,f,f*,3,4",
+    "Description": "{f,f,f-hold,3,4}",
     "Properties": "",
     "Comment": ""
   },
@@ -587,7 +587,7 @@
     "Id": 74,
     "Type": "Normal Moves",
     "Name": "Thrust Double Punch",
-    "Description": "While running f*,1+2",
+    "Description": "{While running f-hold,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -595,7 +595,7 @@
     "Id": 75,
     "Type": "Normal Moves",
     "Name": "10 Hit Combo",
-    "Description": "ub,4,1,1,2,1,1,3+4,3,2,2",
+    "Description": "{ub,4,1,1,2,1,1,3+4,3,2,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -603,7 +603,7 @@
     "Id": 76,
     "Type": "Special Move",
     "Name": "Taunt 1",
-    "Description": "1+2+3",
+    "Description": "{1+2+3}",
     "Properties": "",
     "Comment": ""
   },
@@ -611,7 +611,7 @@
     "Id": 77,
     "Type": "Special Move",
     "Name": "Taunt 2",
-    "Description": "1+2+4",
+    "Description": "{1+2+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -619,7 +619,7 @@
     "Id": 78,
     "Type": "Special Move",
     "Name": "Ki Charge",
-    "Description": "1+2+3+4",
+    "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -627,7 +627,7 @@
     "Id": 79,
     "Type": "Moves While Crouching",
     "Name": "Spear Fishing",
-    "Description": "While rising 1,2,3",
+    "Description": "While rising {1,2,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -635,7 +635,7 @@
     "Id": 80,
     "Type": "Moves While Crouching",
     "Name": "Digital Lift",
-    "Description": "While rising 2",
+    "Description": "While rising {2}",
     "Properties": "",
     "Comment": ""
   },
@@ -643,7 +643,7 @@
     "Id": 81,
     "Type": "Moves While Crouching",
     "Name": "Clockwork",
-    "Description": "While rising 3",
+    "Description": "While rising {3}",
     "Properties": "",
     "Comment": ""
   },
@@ -651,7 +651,7 @@
     "Id": 82,
     "Type": "Moves While Crouching",
     "Name": "Clockwork Spring Middle",
-    "Description": "During Clockwork 3",
+    "Description": "During Clockwork {3}",
     "Properties": "",
     "Comment": ""
   },
@@ -659,7 +659,7 @@
     "Id": 83,
     "Type": "Moves While Crouching",
     "Name": "Clockwork Spring Low",
-    "Description": "During Clockwork d,3",
+    "Description": "During Clockwork {d,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -667,7 +667,7 @@
     "Id": 84,
     "Type": "Moves While Crouching",
     "Name": "Key Smash",
-    "Description": "While rising 4",
+    "Description": "While rising {4}",
     "Properties": "",
     "Comment": ""
   },
@@ -675,7 +675,7 @@
     "Id": 85,
     "Type": "Moves While Crouching",
     "Name": "Cute But Deadly",
-    "Description": "While rising 1+2",
+    "Description": "While rising {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -683,7 +683,7 @@
     "Id": 86,
     "Type": "Moves While Crouching",
     "Name": "Sad Hound",
-    "Description": "While crouching 1+2",
+    "Description": "While crouching {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -691,7 +691,7 @@
     "Id": 87,
     "Type": "Moves during Sidestep (u,n or d,n)",
     "Name": "Happy Propeller",
-    "Description": "During sidestep 4,1+2",
+    "Description": "During sidestep {4,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -699,7 +699,7 @@
     "Id": 88,
     "Type": "Moves While Facing Backward",
     "Name": "Goody Two Shoes",
-    "Description": "Back facing opponent 4",
+    "Description": "Back facing opponent {4}",
     "Properties": "",
     "Comment": ""
   },
@@ -707,7 +707,7 @@
     "Id": 89,
     "Type": "Moves While Down",
     "Name": "Reboot",
-    "Description": "While down and facing up 1+2",
+    "Description": "While down and facing up {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -715,7 +715,7 @@
     "Id": 90,
     "Type": "Moves While Down",
     "Name": "Reboot Meteor Kick",
-    "Description": "While down and facing up 1+2,3",
+    "Description": "While down and facing up {1+2,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -723,7 +723,7 @@
     "Id": 91,
     "Type": "During Destructive Form",
     "Name": "Destructive Form",
-    "Description": "d,1+2",
+    "Description": "{d,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -731,7 +731,7 @@
     "Id": 92,
     "Type": "During Destructive Form",
     "Name": "Shredder",
-    "Description": "During Destructive Form 1",
+    "Description": "During Destructive Form {1}",
     "Properties": "",
     "Comment": ""
   },
@@ -739,7 +739,7 @@
     "Id": 93,
     "Type": "During Destructive Form",
     "Name": "Shredding Uppercut",
-    "Description": "During Destructive Form 2",
+    "Description": "During Destructive Form {2}",
     "Properties": "",
     "Comment": ""
   },
@@ -747,7 +747,7 @@
     "Id": 94,
     "Type": "During Destructive Form",
     "Name": "Shredding Sky Punch",
-    "Description": "During Destructive Form 2 on hit 1",
+    "Description": "During Destructive Form {2} on hit {1}",
     "Properties": "",
     "Comment": ""
   },
@@ -755,7 +755,7 @@
     "Id": 95,
     "Type": "During Destructive Form",
     "Name": "Death Marionette",
-    "Description": "During Destructive Form 1+2",
+    "Description": "During Destructive Form {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -763,7 +763,7 @@
     "Id": 96,
     "Type": "During Destructive Form",
     "Name": "Hertz Blade",
-    "Description": "During Destructive Form f,1",
+    "Description": "During Destructive Form {f,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -771,7 +771,7 @@
     "Id": 97,
     "Type": "During Destructive Form",
     "Name": "Gigahertz Storm",
-    "Description": "During Destructive Form f,2,1,2",
+    "Description": "During Destructive Form {f,2,1,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -779,7 +779,7 @@
     "Id": 98,
     "Type": "During Destructive Form",
     "Name": "Hertz Blade - Diablo",
-    "Description": "During Destructive Form f,1+2,1+2",
+    "Description": "During Destructive Form {f,1+2,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -787,7 +787,7 @@
     "Id": 99,
     "Type": "During Destructive Form",
     "Name": "Hertz Blade - Scud",
-    "Description": "During Destructive Form d,1",
+    "Description": "During Destructive Form {d,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -795,7 +795,7 @@
     "Id": 100,
     "Type": "During Destructive Form",
     "Name": "Clock Boosting",
-    "Description": "During Destructive Form d,2",
+    "Description": "During Destructive Form {d,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -803,7 +803,7 @@
     "Id": 101,
     "Type": "During Destructive Form",
     "Name": "Hertz Blade - Tomahawk",
-    "Description": "During Destructive Form b,2,1",
+    "Description": "During Destructive Form {b,2,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -811,7 +811,7 @@
     "Id": 102,
     "Type": "During Destructive Form",
     "Name": "Hertz Blade - Aegis",
-    "Description": "During Destructive Form uf,2",
+    "Description": "During Destructive Form {uf,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -819,7 +819,7 @@
     "Id": 103,
     "Type": "During Destructive Form",
     "Name": "Spindle Slash",
-    "Description": "During Destructive Form uf,1+2",
+    "Description": "During Destructive Form {uf,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -827,7 +827,7 @@
     "Id": 104,
     "Type": "During Destructive Form",
     "Name": "Hertz Blade - Flare",
-    "Description": "During Destructive Form with back facing opponent 1 (or 2)",
+    "Description": "During Destructive Form with back facing opponent {1} (or {2})",
     "Properties": "",
     "Comment": ""
   },
@@ -835,7 +835,7 @@
     "Id": 105,
     "Type": "During Destructive Form",
     "Name": "Idling",
-    "Description": "During Destructive Form 3",
+    "Description": "During Destructive Form {3}",
     "Properties": "",
     "Comment": ""
   },
@@ -843,7 +843,7 @@
     "Id": 106,
     "Type": "During Destructive Form",
     "Name": "Dual Boot",
-    "Description": "During Destructive Form f,3",
+    "Description": "During Destructive Form {f,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -851,7 +851,7 @@
     "Id": 107,
     "Type": "During Destructive Form",
     "Name": "Evasive Action",
-    "Description": "During Destructive Form d,3",
+    "Description": "During Destructive Form {d,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -859,7 +859,7 @@
     "Id": 108,
     "Type": "During Destructive Form",
     "Name": "Evasive Slash",
-    "Description": "During Destructive Form d,3,1",
+    "Description": "During Destructive Form {d,3,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -867,7 +867,7 @@
     "Id": 109,
     "Type": "During Destructive Form",
     "Name": "Retro Rockets",
-    "Description": "During Destructive Form b,3",
+    "Description": "During Destructive Form {b,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -875,7 +875,7 @@
     "Id": 110,
     "Type": "During Destructive Form",
     "Name": "Move Forward",
-    "Description": "During Destructive Form f,f",
+    "Description": "During Destructive Form {f,f}",
     "Properties": "",
     "Comment": ""
   },
@@ -883,7 +883,7 @@
     "Id": 111,
     "Type": "During Destructive Form",
     "Name": "Move Back",
-    "Description": "During Destructive Form b,b",
+    "Description": "During Destructive Form {b,b}",
     "Properties": "",
     "Comment": ""
   },
@@ -891,7 +891,7 @@
     "Id": 112,
     "Type": "During Boot",
     "Name": "Boot",
-    "Description": "f,3+4, etc.",
+    "Description": "{f,3+4}, etc.",
     "Properties": "",
     "Comment": ""
   },
@@ -899,7 +899,7 @@
     "Id": 113,
     "Type": "During Boot",
     "Name": "Abort",
-    "Description": "During Boot d*, (or b*)",
+    "Description": "During Boot {d-hold}, (or {b-hold})",
     "Properties": "",
     "Comment": ""
   },
@@ -907,7 +907,7 @@
     "Id": 114,
     "Type": "During Boot",
     "Name": "Hard Reset",
-    "Description": "During Boot 1,2,1,3+4",
+    "Description": "During Boot {1,2,1,3+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -915,7 +915,7 @@
     "Id": 115,
     "Type": "During Boot",
     "Name": "Linear Elbow",
-    "Description": "During Boot 2",
+    "Description": "During Boot {2}",
     "Properties": "",
     "Comment": ""
   },
@@ -923,7 +923,7 @@
     "Id": 116,
     "Type": "During Boot",
     "Name": "Eject Slider",
-    "Description": "During Boot 3",
+    "Description": "During Boot {3}",
     "Properties": "",
     "Comment": ""
   },
@@ -931,7 +931,7 @@
     "Id": 117,
     "Type": "During Boot",
     "Name": "Upstream",
-    "Description": "During Boot 4",
+    "Description": "During Boot {4}",
     "Properties": "",
     "Comment": ""
   },
@@ -939,7 +939,7 @@
     "Id": 118,
     "Type": "During Boot",
     "Name": "Wire Clipper",
-    "Description": "During Boot 1+2",
+    "Description": "During Boot {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -947,7 +947,7 @@
     "Id": 119,
     "Type": "During Dual Boot",
     "Name": "Dual Boot",
-    "Description": "During Destructive Form f,3, etc.",
+    "Description": "During Destructive Form {f,3}, etc.",
     "Properties": "",
     "Comment": ""
   },
@@ -955,7 +955,7 @@
     "Id": 120,
     "Type": "During Dual Boot",
     "Name": "Thrust Left",
-    "Description": "During Dual Boot 1",
+    "Description": "During Dual Boot {1}",
     "Properties": "",
     "Comment": ""
   },
@@ -963,7 +963,7 @@
     "Id": 121,
     "Type": "During Dual Boot",
     "Name": "Thruster Right - Burst",
-    "Description": "During Dual Boot 2,1",
+    "Description": "During Dual Boot {2,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -971,7 +971,7 @@
     "Id": 122,
     "Type": "During Dual Boot",
     "Name": "Eject Slider",
-    "Description": "During Dual Boot 3",
+    "Description": "During Dual Boot {3}",
     "Properties": "",
     "Comment": ""
   },
@@ -979,7 +979,7 @@
     "Id": 123,
     "Type": "During Dual Boot",
     "Name": "Upstream",
-    "Description": "During Dual Boot 4",
+    "Description": "During Dual Boot {4}",
     "Properties": "",
     "Comment": ""
   },
@@ -987,7 +987,7 @@
     "Id": 124,
     "Type": "During Dual Boot",
     "Name": "Thruster Drill",
-    "Description": "During Dual Boot 1+2",
+    "Description": "During Dual Boot {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -995,7 +995,7 @@
     "Id": 125,
     "Type": "During Dual Boot",
     "Name": "Heartbeat Disabler",
-    "Description": "During Dual Boot f,1",
+    "Description": "During Dual Boot {f,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -1003,7 +1003,7 @@
     "Id": 126,
     "Type": "During Dual Boot",
     "Name": "Shut Down",
-    "Description": "During Dual Boot f,2,2",
+    "Description": "During Dual Boot {f,2,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -1011,7 +1011,7 @@
     "Id": 127,
     "Type": "During Backup",
     "Name": "Backup",
-    "Description": "db,1, etc.",
+    "Description": "{db,1}, etc.",
     "Properties": "",
     "Comment": ""
   },
@@ -1019,7 +1019,7 @@
     "Id": 128,
     "Type": "During Backup",
     "Name": "Recovery Hook",
-    "Description": "During Backup 1",
+    "Description": "During Backup {1}",
     "Properties": "",
     "Comment": ""
   },
@@ -1027,7 +1027,7 @@
     "Id": 129,
     "Type": "During Backup",
     "Name": "Rapid Rocket Punch",
-    "Description": "During Backup 2",
+    "Description": "During Backup {2}",
     "Properties": "",
     "Comment": ""
   },
@@ -1035,7 +1035,7 @@
     "Id": 130,
     "Type": "During Backup",
     "Name": "Meteor Kick",
-    "Description": "During Backup 3",
+    "Description": "During Backup {3}",
     "Properties": "",
     "Comment": ""
   },
@@ -1043,7 +1043,7 @@
     "Id": 131,
     "Type": "During Backup",
     "Name": "Uplink Knee",
-    "Description": "During Backup 4",
+    "Description": "During Backup {4}",
     "Properties": "",
     "Comment": ""
   },
@@ -1051,7 +1051,7 @@
     "Id": 132,
     "Type": "During Backup",
     "Name": "Rocket Punch",
-    "Description": "During Backup 1+2",
+    "Description": "During Backup {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -1059,7 +1059,7 @@
     "Id": 133,
     "Type": "Throws",
     "Name": "Trigger Shuffle",
-    "Description": "Approach opponent 1+3",
+    "Description": "Approach opponent {1+3}",
     "Properties": "",
     "Comment": ""
   },
@@ -1067,7 +1067,7 @@
     "Id": 134,
     "Type": "Throws",
     "Name": "Back Door",
-    "Description": "Approach opponent 2+4",
+    "Description": "Approach opponent {2+4}",
     "Properties": "",
     "Comment": ""
   },
@@ -1075,7 +1075,7 @@
     "Id": 135,
     "Type": "Throws",
     "Name": "Compression",
-    "Description": "Approach opponent from left side 1+3 (or 2+4)",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": ""
   },
@@ -1083,7 +1083,7 @@
     "Id": 136,
     "Type": "Throws",
     "Name": "Hat Trick",
-    "Description": "Approach opponent from right side 1+3 (or 2+4)",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": ""
   },
@@ -1091,7 +1091,7 @@
     "Id": 137,
     "Type": "Throws",
     "Name": "Random Typing",
-    "Description": "Approach opponent from behind 1+3 (or 2+4)",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": ""
   },
@@ -1099,7 +1099,7 @@
     "Id": 138,
     "Type": "Throws",
     "Name": "Spam Bomb",
-    "Description": "Approach opponent uf,1+2",
+    "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -1107,7 +1107,7 @@
     "Id": 139,
     "Type": "Throws",
     "Name": "Double Bull Shoot",
-    "Description": "While crouching db,1+2",
+    "Description": "While crouching {db,1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -1115,7 +1115,7 @@
     "Id": 140,
     "Type": "Attack Reversal",
     "Name": "Model Change",
-    "Description": "Time with opponent high attack b,1+3 (or b,2+4)",
+    "Description": "Time with opponent high attack {b,1+3} (or {b,2+4})",
     "Properties": "",
     "Comment": ""
   },
@@ -1123,7 +1123,7 @@
     "Id": 141,
     "Type": "Attack Reversal",
     "Name": "Low Parry",
-    "Description": "Time with opponent low attack df*",
+    "Description": "Time with opponent low attack {df-hold}",
     "Properties": "",
     "Comment": ""
   },
@@ -1131,7 +1131,7 @@
     "Id": 142,
     "Type": "Moves While Opponent is Down",
     "Name": "Ground Rocket Punch",
-    "Description": "While opponent is down db,1+2",
+    "Description": "While opponent is down {db,1+2}",
     "Properties": "",
     "Comment": ""
   }
