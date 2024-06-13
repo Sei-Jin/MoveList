@@ -1,6 +1,33 @@
-<app-navbar></app-navbar>
+<mat-toolbar>
 
-<div class="page-body">
-  <app-move-list></app-move-list>
-</div>
+  <button mat-icon-button (click)="sidenav.toggle()" class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+
+  <span class="move-list-text">Move List</span>
+
+  <a href="https://github.com/Sei-Jin/MoveList">
+    <button mat-icon-button aria-label="Link to project github">
+      <mat-icon svgIcon="github-mark">Github</mat-icon>
+    </button>
+  </a>
+
+</mat-toolbar>
+
+
+
+
+<mat-sidenav-container hasBackdrop="true">
+
+  <mat-sidenav class="sidenav-container" #sidenav mode="over">
+    <app-sidenav-buttons></app-sidenav-buttons>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <div class="page-body">
+      <app-move-list></app-move-list>
+    </div>
+  </mat-sidenav-content>
+
+</mat-sidenav-container>
 

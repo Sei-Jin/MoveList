@@ -1,20 +1,37 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+
+import { MatSidenavModule } from "@angular/material/sidenav";
+import { MatIconModule } from "@angular/material/icon";
+import { MatButtonModule } from "@angular/material/button";
+import { MatToolbarModule } from "@angular/material/toolbar";
+
 import { MoveListComponent } from "./moves/move-list/move-list.component";
-import { NavbarComponent } from "./navigation/navbar/navbar.component";
+
+import { NavigationIconsService } from "./navigation/navigation-icons.service";
+import {SidenavButtonsComponent} from "./navigation/sidenav-buttons/sidenav-buttons.component";
+
 
 @Component({
   selector: 'app-root',
   standalone: true,
   imports: [
     RouterOutlet,
+    MatSidenavModule,
+    MatIconModule,
+    MatButtonModule,
+    MatToolbarModule,
     MoveListComponent,
-    NavbarComponent,
+    SidenavButtonsComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
 
+
 export class AppComponent {
+
+  constructor(navigationIconsService: NavigationIconsService) {}
+
   title = 'MoveList';
 }

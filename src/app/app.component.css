@@ -1,3 +1,13 @@
+.move-list-text {
+  margin: auto;
+}
+
+.sidenav-container
+{
+  width: 240px;
+  height: auto;
+}
+
 .page-body
 {
   padding-top: 40px;
