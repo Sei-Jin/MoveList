@@ -1,4 +1,4 @@
-import {Component, inject} from '@angular/core';
+import { Component, inject } from '@angular/core';
 
 import { MatListModule } from "@angular/material/list";
 import { MatIconModule } from "@angular/material/icon";
@@ -6,10 +6,10 @@ import { MatIconModule } from "@angular/material/icon";
 import { MoveIconsService } from "../move-icons.service";
 import { MoveDataService } from "../move-data.service";
 import { MoveDescriptionParserService } from "../move-description-parser.service";
+import { MoveInputParserService } from "../move-input-parser.service";
 
 import { MoveData } from "../move-data";
 import { ParsedDescription } from "../parsed-description";
-import {MoveInputParserService} from "../move-input-parser.service";
 
 
 @Component({
