@@ -19,7 +19,8 @@ export class MoveIconsService {
 
   movementInputs: string[] = [
     "f", "uf", "u", "ub", "b", "db", "d", "df",
-    "f-hold", "uf-hold", "u-hold", "ub-hold", "b-hold", "db-hold", "d-hold", "df-hold"
+    "f-hold", "uf-hold", "u-hold", "ub-hold", "b-hold", "db-hold", "d-hold", "df-hold",
+    "n", "LB", "RB"
   ]
 
   constructor(iconRegistry: MatIconRegistry, sanitizer: DomSanitizer)

@@ -4,7 +4,6 @@ import { MatListModule } from "@angular/material/list";
 import { MatIconModule } from "@angular/material/icon";
 import { ActivatedRoute, Router } from "@angular/router";
 
-import { MoveIconsService } from "../move-icons.service";
 import { MoveDataService } from "../move-data.service";
 import { MoveDescriptionParserService } from "../move-description-parser.service";
 import { MoveInputParserService } from "../move-input-parser.service";
@@ -31,7 +30,6 @@ export class MoveListComponent {
   character: string = "";
 
   constructor(
-    private moveIconsService: MoveIconsService,
     private moveDataService: MoveDataService,
     private router: Router,
     private activatedRoute: ActivatedRoute
