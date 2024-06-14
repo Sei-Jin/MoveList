@@ -1,0 +1,994 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Additional folow up attack triggered when attack using doppelganger is block",
+    "Properties": "",
+    "Comment": "{df,1} on hit or block {4}, while rising {3} on hit or block {2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Partially restores remaining Heat time when attack using doppelganger hits",
+    "Properties": "",
+    "Comment": "{df,1} on hit or block {4}, while rising {3} on hit or block {2}, etc."
+  },
+  {
+    "Id": 6,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of Typhon Fang Phantom",
+    "Properties": "",
+    "Comment": "{f,f,f-hold,3} on hit or block {4}"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Crusader",
+    "Description": "{1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Minos Typhoon",
+    "Description": "{f,1+2}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Spinning Middle Kick",
+    "Description": "Whie rising {3+4}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Or {d,df,f,3+4}, while rising {3+4,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Chronos Lathe",
+    "Description": "Back facing opponent ({b,3+4},etc.) {4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Dual Thanatos",
+    "Description": "During Soulzone ({3+4},etc.) {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Typhon Fang Phantom",
+    "Description": "During Heat {f,f,f-hold,3} on hit or block {4}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Pandemonium",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw, on block shift to Soulzone"
+  },
+  {
+    "Id": 15,
+    "Type": "Rage Moves",
+    "Name": "Wild Hunt X-ecutor",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Left Right Combo",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": "{1,2,3+4} (or {1,2,d-hold} to shift to Soulzone"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Left Right Combo > Back Hole",
+    "Description": "{1,2,4}",
+    "Properties": "Tornado",
+    "Comment": "{1,2,3+4} (or {1,2,d-hold} to shift to Soulzone"
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "PDK Combo",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "PK Combo",
+    "Description": "{2,4}",
+    "Properties": "",
+    "Comment": "Shift to Shadow Sprint during hit, {2,4,b-hold} to stand up"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Valkyrie Lance Combo",
+    "Description": "{3,3,4}",
+    "Properties": "",
+    "Comment": "{3,3,4,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Brocken Connect",
+    "Description": "{4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Chariot",
+    "Description": "{LB,3,4,RB}",
+    "Properties": "",
+    "Comment": "{LB,3,4,RB,f-hold} to shift to Blind Roll"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Hydra Bite Low",
+    "Description": "{LB,4,3,RB,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Hydra Bite High",
+    "Description": "{LB,4,3,RB,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Hydra Bite Mid",
+    "Description": "{LB,4,3,RB,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Crusader",
+    "Description": "{1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Soulzone",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "Or {d,3+4} or while crouching {3+4}, shift to Soulzone"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Tartaros",
+    "Description": "{f,2,3}",
+    "Properties": "",
+    "Comment": "{f,2,3,3+4} (or {f,2,3,d-hold}) to shift to Soulzone"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Circling Winds",
+    "Description": "{f,3,2}",
+    "Properties": "Homing",
+    "Comment": "{f,3,b-hold} to face backward"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Lance Kick",
+    "Description": "{f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Minos Typhoon",
+    "Description": "{f,1+2}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Body Blow > Phantom Mace",
+    "Description": "{df,1} on hit or block {4}",
+    "Properties": "",
+    "Comment": "Power up during Heat"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Meat Hook",
+    "Description": "{df,2,3}",
+    "Properties": "",
+    "Comment": "{df,2} to face backward"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Bolt Stunner",
+    "Description": "{df,2,4}",
+    "Properties": "",
+    "Comment": "{df,2} to face backward"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Shadow Snap Kick",
+    "Description": "{df,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Pendulum Kick",
+    "Description": "{df,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Pendulum Shadow",
+    "Description": "{df,4,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Stinging Low",
+    "Description": "{d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Basilisk Fang",
+    "Description": "{d,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Assassin's Sting > Phantom Javelin",
+    "Description": "{db,2,1} on hit or block {1}",
+    "Properties": "",
+    "Comment": "Power up during Heat, {db,2} to face backward, {db,2,1,3+4} (or {db,2,1,d-hold}) to shift to Soulzone"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Killer Bee",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Shinobi Cyclone",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Elbow Strike",
+    "Description": "{b,1}",
+    "Properties": "",
+    "Comment": "Shift to Soulzone on hit or block, chip damage on block"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Unicorn's Tail",
+    "Description": "{b,2,2,3}",
+    "Properties": "",
+    "Comment": "{b,2,2} to face backward"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Deadly Talon",
+    "Description": "{b,2,2,1+2}",
+    "Properties": "",
+    "Comment": "{b,2,2} to face backward"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Missing Worm > Phantom Halberd",
+    "Description": "{b,2,4} on hit or block {2}",
+    "Properties": "Tornado",
+    "Comment": "Power up during Heat"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Hades Heel",
+    "Description": "{b,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Skull Smasher",
+    "Description": "{b,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Skull Smasher Feint",
+    "Description": "{b,4,b-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Skull Spin",
+    "Description": "{b,4,b-hold,4,3,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Alternating Smash",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Labyrinth",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Back towards opponent"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Gate Keeper",
+    "Description": "{ub,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Deathbringer Low",
+    "Description": "{u,3,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3,3}, first attack deals chip damage on block, {u,3} to face backward, on hit gain Ki Charge"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Deathbringer Low > Shadow",
+    "Description": "{u,3,3,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3,3,3}, first attack deals chip damage on block, {u,3} to face backward"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Shadow Scythe",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Stormbringer",
+    "Description": "{uf,4,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4,4} or {u,4,4}, {uf,4,4,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Chakram",
+    "Description": "{uf,3+4,4,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Spinning Chakram",
+    "Description": "{uf,3+4,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Shadow Spear",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Sudden Strike",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Iron Maul",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Typhon Fang",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "War Hound",
+    "Description": "{b,b-hold,2}",
+    "Properties": "",
+    "Comment": "Has attack reversal effect"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{ub,1,2,2,2,4,2,3,4,2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Special Move",
+    "Name": "Pandora Spin",
+    "Description": "{ub,b-hold,3+4}",
+    "Properties": "",
+    "Comment": "{ub,b} to shift to Soulzone"
+  },
+  {
+    "Id": 68,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 69,
+    "Type": "Special Move",
+    "Name": "Dead End",
+    "Description": "{1+2+3+4,b,f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Moves While Crouching",
+    "Name": "Rising Uppercut",
+    "Description": "While rising {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Jackknife Elbow",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Moves While Crouching",
+    "Name": "Trident Kick > Phantom Halberd",
+    "Description": "While rising {3} on hit or block {2}",
+    "Properties": "Tornado",
+    "Comment": "Power up during Heat"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves While Crouching",
+    "Name": "Shadow Snap Kick",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Moves While Crouching",
+    "Name": "Spinning Middle Kick",
+    "Description": "While rising {3+4}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Or {d,df,f,3+4}, while rising {3+4,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Crouching",
+    "Name": "Aqua Spider",
+    "Description": "While crouching {df,3}",
+    "Properties": "",
+    "Comment": "Or {d,df-hold,3}"
+  },
+  {
+    "Id": 76,
+    "Type": "Moves While Crouching",
+    "Name": "Tornado Destruction",
+    "Description": "While crouching {df,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Soulzone on hit, power up during Heat"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves While Crouching",
+    "Name": "Crouch Step",
+    "Description": "While crouching {df,d,df-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Facing Backward",
+    "Name": "Blind Lance",
+    "Description": "Back facing opponent {1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Facing Backward",
+    "Name": "Backfist > Straight",
+    "Description": "Back facing opponent {2,1}",
+    "Properties": "",
+    "Comment": "Back facing opponent {2} (or {2,1,b-hold}) to face backward, back facing opponent {2,1,f-hold} to shift to Shadow Sprint"
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Facing Backward",
+    "Name": "Blinding Knife > Phantom Javelin",
+    "Description": "Back facing opponent {2,2} on hit or block {1}",
+    "Properties": "",
+    "Comment": "Power up during Heat, back facing opponent {2,2,3+4} (or back facing opponent {2,2,d-hold}) to shift to Soulzone"
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Facing Backward",
+    "Name": "Crescent Mirage",
+    "Description": "Back facing opponent {3,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Facing Backward",
+    "Name": "Fafnir",
+    "Description": "Back facing opponent {3,4,4}",
+    "Properties": "",
+    "Comment": "Back towards opponent, back facing opponent {3,4,4,f-hold} to shift to Blind Roll"
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Facing Backward",
+    "Name": "Chronos Lathe",
+    "Description": "Back facing opponent {4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Facing Backward",
+    "Name": "Crusader",
+    "Description": "Back facing opponent {1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves While Facing Backward",
+    "Name": "Spiral Cannon",
+    "Description": "Back facing opponent {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves While Facing Backward",
+    "Name": "Soul Steal",
+    "Description": "Back facing opponent {f,1}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 87,
+    "Type": "Moves While Facing Backward",
+    "Name": "Cold Massacre",
+    "Description": "Back facing opponent {f,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves While Facing Backward",
+    "Name": "Cold Worm > Phantom Halberd",
+    "Description": "Back facing opponent {f,2,4} on hit or block {2}",
+    "Properties": "Tornado",
+    "Comment": "Power up during Heat"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves While Facing Backward",
+    "Name": "Demon Knee",
+    "Description": "Back facing opponent {f,3}",
+    "Properties": "",
+    "Comment": "Back facing opponent {f,3,b-hold} to face backward"
+  },
+  {
+    "Id": 90,
+    "Type": "Moves While Facing Backward",
+    "Name": "Trick Bang",
+    "Description": "Back facing opponent {f,4,1}",
+    "Properties": "Tornado",
+    "Comment": "Back facing opponent {f,4} to face backward, back facing opponent {f,4,1,3+4} (or back opponent {f,4,1,d-hold}) to shift to Soulzone"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves While Facing Backward",
+    "Name": "Reverse Chakram",
+    "Description": "Back facing opponent {f,3+4}",
+    "Properties": "",
+    "Comment": "Back facing opponent {f,3+4,f-hold} to shift to Blind Roll"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves While Facing Backward",
+    "Name": "Shinobi Cyclone",
+    "Description": "Back facing opponent {d,3}",
+    "Properties": "",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 93,
+    "Type": "Moves While Facing Backward",
+    "Name": "Abyss Cannon",
+    "Description": "Back facing opponent {b,2,3}",
+    "Properties": "",
+    "Comment": "Back facing opponent {b,2} to face backward"
+  },
+  {
+    "Id": 94,
+    "Type": "Moves While Facing Backward",
+    "Name": "Abyss Spear",
+    "Description": "Back facing opponent {b,2,4}",
+    "Properties": "",
+    "Comment": "Back facing opponent {b,2} to face backward"
+  },
+  {
+    "Id": 95,
+    "Type": "Moves While Facing Backward",
+    "Name": "Cannon Tail",
+    "Description": "Back facing opponent {b,3}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 96,
+    "Type": "Moves While Facing Backward",
+    "Name": "Labyrinth",
+    "Description": "Back facing opponent {b,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "Moves While Facing Backward",
+    "Name": "Gremlin Smasher",
+    "Description": "Back facing opponent {f,f-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 98,
+    "Type": "Moves While Facing Backward",
+    "Name": "Vermillion",
+    "Description": "Back facing opponent {f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 99,
+    "Type": "Moves While Facing Backward",
+    "Name": "Blind Roll",
+    "Description": "Back facing opponent {f,f,f}",
+    "Properties": "",
+    "Comment": "When close to opponent, transition behind opponent"
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Shadow Sprint",
+    "Name": "Shadow Sprint",
+    "Description": "{d,df,f}",
+    "Properties": "",
+    "Comment": "{d,df-hold} to shift to crouching state"
+  },
+  {
+    "Id": 101,
+    "Type": "Moves during Shadow Sprint",
+    "Name": "Fatal Elbow > Phantom Halberd",
+    "Description": "{d,df,f,1} on hit or block {2}",
+    "Properties": "Tornado",
+    "Comment": "Power up during Heat, {d,df,f,1,3+4} (or {d,df,f,1,d-hold}) to shift to Soulzone"
+  },
+  {
+    "Id": 102,
+    "Type": "Moves during Shadow Sprint",
+    "Name": "Buzzsaw",
+    "Description": "{d,df,f,2}",
+    "Properties": "",
+    "Comment": "{d,df,f,2,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 103,
+    "Type": "Moves during Shadow Sprint",
+    "Name": "Laevateinn",
+    "Description": "{d,df,f,LB,2,1,RB}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 104,
+    "Type": "Moves during Shadow Sprint",
+    "Name": "Poison Needle > Nightmare",
+    "Description": "{d,df,f,3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front, power up during Heat"
+  },
+  {
+    "Id": 105,
+    "Type": "Moves during Shadow Sprint",
+    "Name": "Black Hole",
+    "Description": "{d,df,f,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 106,
+    "Type": "Moves during Shadow Sprint",
+    "Name": "Hellhound",
+    "Description": "{d,df,f,1+2}",
+    "Properties": "",
+    "Comment": "Attack reversal"
+  },
+  {
+    "Id": 107,
+    "Type": "Moves during Soulzone",
+    "Name": "Soulzone",
+    "Description": "{3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Soulzone"
+  },
+  {
+    "Id": 108,
+    "Type": "Moves during Soulzone",
+    "Name": "Swift Blade > Phantom Mace",
+    "Description": "During Soulzone {1} on hit or block {4}",
+    "Properties": "",
+    "Comment": "Power up during Heat, during Soulzone {1,f-hold} to shift to Shadow Sprint"
+  },
+  {
+    "Id": 109,
+    "Type": "Moves during Soulzone",
+    "Name": "Dual Thanatos",
+    "Description": "During Soulzone {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat"
+  },
+  {
+    "Id": 110,
+    "Type": "Moves during Soulzone",
+    "Name": "Radius Flail > Phantom Halberd",
+    "Description": "During Soulzone {3} on hit or block {2}",
+    "Properties": "Tornado",
+    "Comment": "Power up during Heat"
+  },
+  {
+    "Id": 111,
+    "Type": "Moves during Soulzone",
+    "Name": "Cocytus Glide",
+    "Description": "During Soulzone {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Moves during Soulzone",
+    "Name": "Oceanus Fissure",
+    "Description": "During Soulzone {1+2}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 113,
+    "Type": "Moves during Soulzone",
+    "Name": "Blind Fall",
+    "Description": "During Soulzone {d-hold} (or {u-hold})",
+    "Properties": "",
+    "Comment": "During Soulzone {d-hold} to shift to crouching state, during Soulzone {u-hold} to shift to standing state"
+  },
+  {
+    "Id": 114,
+    "Type": "Moves during Soulzone",
+    "Name": "Blind Labyrinth",
+    "Description": "During Soulzone {b-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 115,
+    "Type": "Throws",
+    "Name": "Grave Digger",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 116,
+    "Type": "Throws",
+    "Name": "Salamander",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 117,
+    "Type": "Throws",
+    "Name": "Neck Ringer",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 118,
+    "Type": "Throws",
+    "Name": "Swift Assassin",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 119,
+    "Type": "Throws",
+    "Name": "Dark Matter",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 120,
+    "Type": "Throws",
+    "Name": "Orbiting Moon",
+    "Description": "{df,1+4}",
+    "Properties": "",
+    "Comment": "Or approach opponent {d,df,f,df,1+4}, throw escape {1}"
+  },
+  {
+    "Id": 121,
+    "Type": "Throws",
+    "Name": "Undertaker",
+    "Description": "{uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 122,
+    "Type": "Attack Reversal",
+    "Name": "Utsusemi Escape",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": "Or back facing opponent and time with opponent attack {b,1+3} (or {b,2+4}), completely evade attacks, on success deals self-damage (recoverable)"
+  },
+  {
+    "Id": 123,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 124,
+    "Type": "Attack Reversal",
+    "Name": "Sixth Sense",
+    "Description": "Back facing opponent and time with opponent attack {f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  }
+]

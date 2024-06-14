@@ -1,0 +1,946 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Cannot throw escape Feint & Catch or Ambush Tackle",
+    "Properties": "",
+    "Comment": "{f,f-hold,2,1+2}, during sidestep {2,1+2,1+2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Ambush Tackle can be used from attack sequences",
+    "Properties": "",
+    "Comment": "{f,f,f-hold,2,1+2}, while crouching {df,1,1+2}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Salvo",
+    "Description": "{1,2,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Crushing Blizzard",
+    "Description": "{f,3,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, {f,3,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Tundra Slash",
+    "Description": "{b,4,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Ignition Switch",
+    "Description": "During Sneak ({d,df,f}) {4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Cold Fate",
+    "Description": "Approach crouching opponent {d,1+3} (or {d,2+4})",
+    "Properties": "Heat Engager",
+    "Comment": "Cannot throw escape, unable to Heat Dash"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Feint & Low Catch",
+    "Description": "Approach crouching opponent {db,3,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Cannot throw escape, unable to Heat Dash, {db,3,1+2,d-hold} to cancel into crouch"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Russian Hook Special > Ambush Tackle",
+    "Description": "During Heat {f,f,f-hold,2,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape, to shift to takedown on hit, partially uses remaining Heat time"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Hail Slicer > Ambush Tackle",
+    "Description": "During Heat, while crouching {df,1,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape, to shift to takedown on hit, partially uses remaining Heat time"
+  },
+  {
+    "Id": 15,
+    "Type": "Heat Moves",
+    "Name": "Ultra Russian Sickle",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 16,
+    "Type": "Heat Moves",
+    "Name": "Ultra Russian Sickle > Ambush Tackle",
+    "Description": "During Heat {2+3,db,1+2}",
+    "Properties": "",
+    "Comment": "Heat Smash, cannot throw escape, to shift to takedown on hit"
+  },
+  {
+    "Id": 17,
+    "Type": "Rage Moves",
+    "Name": "White Angel of Death",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Eye Gouge > Hilt",
+    "Description": "{1,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Salvo",
+    "Description": "{1,2,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Hammer and Sickle",
+    "Description": "{1,3,2}",
+    "Properties": "",
+    "Comment": "{1,3,2,1+2} to shift to Feint & Catch"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "One Two Scud Kick",
+    "Description": "{2,1,3}",
+    "Properties": "",
+    "Comment": "{2,1,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "One Two Mine Kick",
+    "Description": "{2,1,4}",
+    "Properties": "",
+    "Comment": "{2,1,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Disconnector Combo Middle",
+    "Description": "{3,1,2}",
+    "Properties": "",
+    "Comment": "{3,1,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Disconnector Combo High",
+    "Description": "{3,1,4}",
+    "Properties": "",
+    "Comment": "{3,1,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Karnov Hook",
+    "Description": "{4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Karnov Kick",
+    "Description": "{4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Karnov Avalanche",
+    "Description": "{4,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Bloodhound Strike",
+    "Description": "{1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Iron Flail",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "Side ukemi can be used"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Stun Gun",
+    "Description": "{f,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Step-in Mantis",
+    "Description": "{f,3,3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range, {f,3,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Crushing Blizzard",
+    "Description": "{f,3,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, {f,3,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Falcon Combination",
+    "Description": "{f,4,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Cougar Combination",
+    "Description": "{f,4,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Orca Combination",
+    "Description": "{f,4,d,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Scabbard",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Switchblade Ripper",
+    "Description": "{df,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Scimitar",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Mantis Heel",
+    "Description": "{df,3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Reaper Kick",
+    "Description": "{df,3+4}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Bunker-buster Elbow",
+    "Description": "{d,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Razer",
+    "Description": "{d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Avalanche Hammer Rush",
+    "Description": "{d,3,2,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Detached Kick",
+    "Description": "{d,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Separator",
+    "Description": "{d,4,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Stiletto",
+    "Description": "{d,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Death's Door",
+    "Description": "{db,2,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Clipping Sweep",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Feint & Low Catch",
+    "Description": "Approach crouching opponent {db,3,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Cannot throw escape, unable to shift to Heat Dash, {db,3,1+2,d-hold} to cancel into crouch"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Deadly Scorpion",
+    "Description": "{db,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Pommel FLing",
+    "Description": "{b,1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Eye Gouge > Stingray",
+    "Description": "{b,2,1,3}",
+    "Properties": "",
+    "Comment": "Has clean hit effect, shift to Clipping Heel Hook on close range counter hit, {b,2,1,3,1+2} to shift to Clipping Sweep to Feint & Catch"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Serrated Edge",
+    "Description": "{b,3}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Tundra Strike > Ear Grab",
+    "Description": "{b,4,2,1}",
+    "Properties": "",
+    "Comment": "{b,4,2,d-hold} to directly shift to crouching state, {b,4,2,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Tundra Strike > Ambush Tackle",
+    "Description": "{b,4,2,1+2}",
+    "Properties": "",
+    "Comment": "{b,4,2,d-hold} to directly shift to crouching, {b,4,2,df-hold} to shift to Sneak, throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Tundra Slash",
+    "Description": "{b,4,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Blizzard Hammer",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Inertia Kick",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Punch parry effect"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Counterstrike",
+    "Description": "{ub,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Sub-Zero",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Eye Blast",
+    "Description": "{uf,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Under Pressure",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Or {u,2}"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Breaching Charge Kick",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Slicing Sobat",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Russian Sickle",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Feint & Catch",
+    "Description": "{f,f-hold,2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2} (cannot throw escape during Heat), {f,f-hold,2,1+2,b-hold} to cancel, partially uses remaining Heat time"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Stringer Kick",
+    "Description": "{f,f-hold,3}",
+    "Properties": "Homing Attack",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Rolling Thunder",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Russian Hook Special",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up with quick input"
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "Snap Knee Assault",
+    "Description": "{f,f,f-hold,4}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "Death's Fragrance",
+    "Description": "During opponent wall stun {f,f,f-hold,4}",
+    "Properties": "Tornado",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 73,
+    "Type": "Normal Moves",
+    "Name": "Chernobog Sweep",
+    "Description": "While running (two steps or more) {f-hold,3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 74,
+    "Type": "Normal Moves",
+    "Name": "Mass Elbow",
+    "Description": "{d,db,b,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{1,3,1,2,1,1,4,1,3,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 76,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{1,3,1,2,4,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 77,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Crouching",
+    "Name": "Quillion",
+    "Description": "While rising {1,2}",
+    "Properties": "",
+    "Comment": "While rising {1,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Crouching",
+    "Name": "Double HIlt",
+    "Description": "While rising {1,3}",
+    "Properties": "",
+    "Comment": "While rising {1,df-hold} to shift to Sneak"
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Crouching",
+    "Name": "Ballistic Upper",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Crouching",
+    "Name": "Glacial Hilt",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Crouching",
+    "Name": "Gelid Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Crouching",
+    "Name": "Frost Tackle",
+    "Description": "While rising {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Crouching",
+    "Name": "Hail Slicer",
+    "Description": "While crouching {df,1} on hit {4}",
+    "Properties": "",
+    "Comment": "Just Input to power up, shift to Sneak"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves While Crouching",
+    "Name": "Hail Slicer > Ambush Tackle",
+    "Description": "During Heat, while crouching {df,1,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape, to shift to takedown on hit, partially uses remaining Heat time"
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Sidestep",
+    "Name": "Integral Slicer Clutch",
+    "Description": "During sidestep {2,3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 87,
+    "Type": "Moves during Sidestep",
+    "Name": "Integral Blitz",
+    "Description": "During sidestep {2,1+2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves during Sidestep",
+    "Name": "Integral Blitz > Ambush Tackle",
+    "Description": "During sidestep {2,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Sidestep",
+    "Name": "Pigeon Roll",
+    "Description": "During sidestep {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Moves While Down",
+    "Name": "Clipping Heel Hook",
+    "Description": "(By opponent's feet) while down and facing down {3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves While Down",
+    "Name": "Living Dead",
+    "Description": "While down and facing down {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 92,
+    "Type": "Moves While Down",
+    "Name": "Living Dead > Ambush Tackle",
+    "Description": "While down and facing down {1+2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat"
+  },
+  {
+    "Id": 93,
+    "Type": "Moves While Facing Backward",
+    "Name": "Cane Stab",
+    "Description": "Back facing opponent {d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "Moves during Sneak",
+    "Name": "Sneak",
+    "Description": "{d,df,f}",
+    "Properties": "",
+    "Comment": "{d,df-hold} to shift to crouching state"
+  },
+  {
+    "Id": 95,
+    "Type": "Moves during Sneak",
+    "Name": "Cocked Hammer",
+    "Description": "{d,df,f,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 96,
+    "Type": "Moves during Sneak",
+    "Name": "Stinger Elbow",
+    "Description": "{d,df,f,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "Moves during Sneak",
+    "Name": "Slay Ride",
+    "Description": "{d,df,f,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 98,
+    "Type": "Moves during Sneak",
+    "Name": "Needle Hold",
+    "Description": "{d,df,f,3} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range"
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Sneak",
+    "Name": "Ignition Switch",
+    "Description": "{d,df,f,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Sneak",
+    "Name": "Snap Knee",
+    "Description": "{d,df,f,3+4}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to shift to Snap Knee Assault"
+  },
+  {
+    "Id": 101,
+    "Type": "Throws",
+    "Name": "Volk Clutch",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 102,
+    "Type": "Throws",
+    "Name": "Purge Slam",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 103,
+    "Type": "Throws",
+    "Name": "Tarantula Sting",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 104,
+    "Type": "Throws",
+    "Name": "Reverse Fracture",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 105,
+    "Type": "Throws",
+    "Name": "Absolute Silence",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 106,
+    "Type": "Throws",
+    "Name": "Reverse Victor Clutch",
+    "Description": "Approach opponent {f,1+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 107,
+    "Type": "Throws",
+    "Name": "Victor Clutch",
+    "Description": "Approach opponent {f,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 108,
+    "Type": "Throws",
+    "Name": "Blizzard Rush",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 109,
+    "Type": "Throws",
+    "Name": "Cold Fate",
+    "Description": "Approach crouching opponent {d,1+3} (or {d,2+4})",
+    "Properties": "Heat Engager",
+    "Comment": "Cannot throw escape, unable to Heat Dash"
+  },
+  {
+    "Id": 110,
+    "Type": "Throws",
+    "Name": "Scorpion Scissors",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 111,
+    "Type": "Throws",
+    "Name": "Pigeon Roll > Ambush Tackle",
+    "Description": "During sidestep {3+4,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat"
+  },
+  {
+    "Id": 112,
+    "Type": "Throws",
+    "Name": "Frost Bite",
+    "Description": "During takedown {1}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 113,
+    "Type": "Throws",
+    "Name": "Achilles' Hold",
+    "Description": "During takedown {2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 114,
+    "Type": "Throws",
+    "Name": "Iron Curtain",
+    "Description": "During takedown {1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 115,
+    "Type": "Attack Reversal",
+    "Name": "Red Alert",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 116,
+    "Type": "Attack Reversal",
+    "Name": "Pit Fall",
+    "Description": "Time with opponent low attack {d,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 117,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 118,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Six Feet Under",
+    "Description": "While opponent is down {d,3+4}",
+    "Properties": "",
+    "Comment": ""
+  }
+]

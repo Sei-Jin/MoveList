@@ -1,0 +1,618 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can use Starburst moves",
+    "Properties": "",
+    "Comment": "During Starburst {4,2}, {f,f,f-hold,1+2}, {d,1,2}, {db,1+2}, {f,1+2,1+2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, gain Starburst, {2+3,b,b} to cancel"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Circle of Judgment",
+    "Description": "{2,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Requiescat",
+    "Description": "{3,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Shining Ray",
+    "Description": "{b,4,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Meteor Storm",
+    "Description": "{uf,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Or {ub,2} or {u,2}, gain Starburst on hit"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Ira",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit, chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Stella Cadente",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 12,
+    "Type": "Rage Moves",
+    "Name": "La Luce Di Sirio",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit, gain Starburst on hit"
+  },
+  {
+    "Id": 13,
+    "Type": "Normal Moves",
+    "Name": "Scattered Ashes",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Absolve",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Circle of Judgment",
+    "Description": "{2,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Requiescat",
+    "Description": "{3,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Battle Scars",
+    "Description": "{4,3}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Crimson Delta Edge",
+    "Description": "{1+2} during front hit on ground {1+2,2}",
+    "Properties": "",
+    "Comment": "Gain Starburst on hit, {1+2} during front hit on ground, {1+2,b,f,2} to power up"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Rolling Strike",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Trinity of Pain",
+    "Description": "{f,2,1,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Deadly Sin",
+    "Description": "{f,2,2}",
+    "Properties": "",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Scared Edge",
+    "Description": "{f,3}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Into the Abyss",
+    "Description": "{f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Cross Arm Impact",
+    "Description": "{f,1+2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Above the Storm",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Sky's Arc",
+    "Description": "{df,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Chaos Fist",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Dispel Magic",
+    "Description": "{df,3,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Dispel Force",
+    "Description": "{df,3,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Mystic Ray",
+    "Description": "{d,1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Gravity Hole",
+    "Description": "{d,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Superbia",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": "Or back facing opponent {1+2}"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Twin Claws",
+    "Description": "{db,2,1}",
+    "Properties": "",
+    "Comment": "Or while crouching {2,1}"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Acedia",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Lagrange Needle",
+    "Description": "{db,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Blue Moon",
+    "Description": "{db,1+2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Vanishing Storm",
+    "Description": "{b,1}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Spinning SKies",
+    "Description": "{b,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Crescent Heel",
+    "Description": "{b,3,n,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Shining Wind",
+    "Description": "{b,4,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Shining Ray",
+    "Description": "{b,4,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Avaritia",
+    "Description": "{b,4,3,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Lunar Ray",
+    "Description": "{b,4,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Judgment Claw",
+    "Description": "{b,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Eternal Moon",
+    "Description": "{b,3+4}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Big Bang",
+    "Description": "{b,2+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Meteor Storm",
+    "Description": "{uf,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Or {ub,2} or {u,2}, gain Starburst on hit"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Ground Slash Nova",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3} or {u,3}, chip damage on block"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Sky Slash Nova",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Pollux",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Dual Guns",
+    "Description": "{f,f-hold,2,2}",
+    "Properties": "",
+    "Comment": "Or while crouching {df,2,2}"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Bringer of Justice",
+    "Description": "{f,f-hold,2,1+2}",
+    "Properties": "",
+    "Comment": "Or while crouching {df,2,1+2}, gain Starburst on hit"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Invidia",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Ira",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Starburst on hit, chip damage on block"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{2,1,3,1,4,3,2,4,3,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 57,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 58,
+    "Type": "Moves While Crouching",
+    "Name": "Noble Step",
+    "Description": "While rising {1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Moves While Crouching",
+    "Name": "Malefic Draw",
+    "Description": "While rising {1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Moves While Crouching",
+    "Name": "Sylvia",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": "Gain Starburst on hit"
+  },
+  {
+    "Id": 61,
+    "Type": "Moves While Crouching",
+    "Name": "Piercing Wind",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Moves While Crouching",
+    "Name": "Holy Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 63,
+    "Type": "Moves during Sidestep",
+    "Name": "Luxuria",
+    "Description": "During sidestep {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 64,
+    "Type": "During Starburst",
+    "Name": "Aurora Pactum",
+    "Description": "During Starburst {4,2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage when blocking, removes Starburst (during Heat, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 65,
+    "Type": "During Starburst",
+    "Name": "Cross Arm Impact Burst",
+    "Description": "During Starburst {f,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage when blocking, removes Starburst (during Heat, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 66,
+    "Type": "During Starburst",
+    "Name": "Mystic Ray Burst",
+    "Description": "During Starburst {d,1,2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage when blocking, removes Starburst (during Heat, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 67,
+    "Type": "During Starburst",
+    "Name": "Blue Moon Burst",
+    "Description": "During Starburst {db,1+2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage when blocking, removes Starburst (during Heat, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 68,
+    "Type": "During Starburst",
+    "Name": "Avaritia Burst",
+    "Description": "During Starburst {b,4,3,2}",
+    "Properties": "",
+    "Comment": "Chip damage when blocking, removes Starburst (during Heat, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 69,
+    "Type": "During Starburst",
+    "Name": "Anima",
+    "Description": "During Starburst {f,f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage when blocking, removes Starburst (during Heat, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 70,
+    "Type": "During Starburst",
+    "Name": "Malefic Draw Burst",
+    "Description": "During Starburst while rising {1,2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage when blocking, removes Starburst (during Heat, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 71,
+    "Type": "Throws",
+    "Name": "Punishment",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} (or {2})"
+  },
+  {
+    "Id": 72,
+    "Type": "Throws",
+    "Name": "Roche Limit",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} (or {2})"
+  },
+  {
+    "Id": 73,
+    "Type": "Throws",
+    "Name": "Avalanche Throw",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 74,
+    "Type": "Throws",
+    "Name": "Prayer into the Void",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 75,
+    "Type": "Throws",
+    "Name": "Sudden Shadow",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 76,
+    "Type": "Throws",
+    "Name": "Gula",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 77,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

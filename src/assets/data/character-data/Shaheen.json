@@ -1,0 +1,674 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Partially restores remaining Heat time when some attacks using knife hand land",
+    "Properties": "",
+    "Comment": "{uf,1}, {f,f,f-hold,2}, {f,b,2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Al-Ghul Master can be used",
+    "Properties": "",
+    "Comment": "{d-hold} (hold input) {u,2}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Rapid Strikes",
+    "Description": "{db,2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "{db,2,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Achernar",
+    "Description": "{b,1}",
+    "Properties": "Heat Engager",
+    "Comment": "{b,1,d-hold} to directly shift to crouching state"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Elnath",
+    "Description": "{b,3+4}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Vega",
+    "Description": "{uf,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, during Heat partially restore remaining Heat time, {uf,1,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Al-Sayf",
+    "Description": "Stealth Step ({df,3+4}, etc.) {1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Al-Ghul Master",
+    "Description": "During Heat {d-hold} (hold input) {u,2}",
+    "Properties": "Tornado",
+    "Comment": "Also possible during Stealth Step, chip damage on block, partially uses remaining Heat time"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Rumh al-Dawla",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, shift to Stealth Step"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Rumh al-Muzaffar",
+    "Description": "During Heat and Stealth Step {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash"
+  },
+  {
+    "Id": 15,
+    "Type": "Rage Moves",
+    "Name": "Najm Alshamal",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Spica",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Spica Gut Punch",
+    "Description": "{1,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Spica Blinding Sands",
+    "Description": "{1,2,3}",
+    "Properties": "",
+    "Comment": "{1,2,3,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Spica Wheel Spin",
+    "Description": "{1,2,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Cut In",
+    "Description": "{2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Porrima Blidning Sands",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": "{2,3,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Blinding Sands",
+    "Description": "{3}",
+    "Properties": "",
+    "Comment": "{3,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Hallux Kick > Algenib",
+    "Description": "{4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Hallux Kick > High Slashing Kick",
+    "Description": "{4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Hallux Kick > Ra'd",
+    "Description": "{4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Silent Sting",
+    "Description": "{f,2,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Silent Flow",
+    "Description": "{f,2,4,4}",
+    "Properties": "",
+    "Comment": "{f,2,4,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Crescent Moon",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Piercing Talong",
+    "Description": "{f,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Skyline",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, shift to Stealth Step"
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Rising Falcon",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Whirlwind Kick",
+    "Description": "{df,3}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Al-Faras",
+    "Description": "{df,4,1,3}",
+    "Properties": "",
+    "Comment": "{df,4,1,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Al-Fard al-Shuja",
+    "Description": "{df,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Stealth Step",
+    "Description": "{df,3+4}",
+    "Properties": "",
+    "Comment": "{df,3+4,db} to shift to crouching state"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Gut Impact",
+    "Description": "{d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Silent Rigel",
+    "Description": "{d,3}",
+    "Properties": "",
+    "Comment": "{d,3,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Vicious Stomp",
+    "Description": "{d,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Rapid Strike",
+    "Description": "{db,2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "{db,2,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Snake's Bite > Rising Scimitar",
+    "Description": "{db,3,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Rising Scimitar",
+    "Description": "{db,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Shaula",
+    "Description": "{db,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Achernar",
+    "Description": "{b,1}",
+    "Properties": "Heat Engager",
+    "Comment": "{b,1,d-hold} to directly shift to crouching state"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Dust Storm",
+    "Description": "{b,2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Heel Strike",
+    "Description": "{b,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Broken Mirage",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Elnath",
+    "Description": "{b,3+4}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Vega",
+    "Description": "{uf,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, during Heat partially restore remaining Heat time, {uf,1,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Crescent Cleaver",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3} or {u,3}"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Altair",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Hunting Falcon Dive",
+    "Description": "{f,f-hold,3}",
+    "Properties": "Tornado",
+    "Comment": "Or {f,f,f-hold,3}, on front hit shift to throw"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Hornet",
+    "Description": "{f,b,2}",
+    "Properties": "Removes Recoverable, Tornado",
+    "Comment": "Throw on front hit, quick input properties during Heat"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Hornet",
+    "Description": "{f,b,2} (quick input)",
+    "Properties": "Removes Recoverable, Tornado",
+    "Comment": "Throw on front hit, chip damage on block, partially restores remaining Heat time"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Antares",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, during Heat partially restore remaining Heat time"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Al-Ghul",
+    "Description": "{d-hold} (hold input) {u,2}",
+    "Properties": "Tornado",
+    "Comment": "Also possible during Stealth Step, chip damage on block, power up during Heat"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{2,1,4,1,3,3,3,3+4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 59,
+    "Type": "Moves While Crouching",
+    "Name": "Albireo",
+    "Description": "While rising {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Moves While Crouching",
+    "Name": "Hawk Edge",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Moves While Crouching",
+    "Name": "Double Scorpion",
+    "Description": "While rising {3,3}",
+    "Properties": "Tornado",
+    "Comment": "While rising {3,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 62,
+    "Type": "Moves While Crouching",
+    "Name": "Jaw Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 63,
+    "Type": "Moves While Crouching",
+    "Name": "Janbiya",
+    "Description": "While crouching {df,2}",
+    "Properties": "",
+    "Comment": "During Heat partially restore remaining Heat time"
+  },
+  {
+    "Id": 64,
+    "Type": "Moves While Crouching",
+    "Name": "Serpens",
+    "Description": "While crouching {df,4,1}",
+    "Properties": "",
+    "Comment": "While crouching {df,4,df-hold} to shift to Stealth Step"
+  },
+  {
+    "Id": 65,
+    "Type": "Moves While Crouching",
+    "Name": "Slide Step",
+    "Description": "While crouching {df,d,df-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 66,
+    "Type": "Moves While Crouching",
+    "Name": "Sand Storm",
+    "Description": "While crouching {df,d,df-hold,3}",
+    "Properties": "",
+    "Comment": "Shift to Stealth Step on hit"
+  },
+  {
+    "Id": 67,
+    "Type": "Moves during Sidestep",
+    "Name": "Nisf Kamar",
+    "Description": "During sidestep {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 68,
+    "Type": "Moves While Facing Backward",
+    "Name": "Reverse Edge",
+    "Description": "Back facing opponent {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Moves during Stealth Step",
+    "Name": "Stealth Step",
+    "Description": "{df,3+4}, etc.",
+    "Properties": "",
+    "Comment": "{df,3+4,db} to shift to crouching state"
+  },
+  {
+    "Id": 70,
+    "Type": "Moves during Stealth Step",
+    "Name": "Blinding Snake",
+    "Description": "During Stealth Step {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Moves during Stealth Step",
+    "Name": "Crimson Tempest",
+    "Description": "During Stealth Step {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Moves during Stealth Step",
+    "Name": "Hunting Falcon Dive",
+    "Description": "During Stealth Step {3}",
+    "Properties": "Tornado",
+    "Comment": "Throw when hit from the front"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves during Stealth Step",
+    "Name": "Sliding Shave",
+    "Description": "During Stealth Step {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Moves during Stealth Step",
+    "Name": "Al-Sayf",
+    "Description": "During Stealth Step 1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 75,
+    "Type": "Moves during Stealth Step",
+    "Name": "Flash Hornet",
+    "Description": "During Stealth Step {df,1,2}",
+    "Properties": "Removes Recoverable, Tornado",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 76,
+    "Type": "Moves during Stealth Step",
+    "Name": "Flash Deneb",
+    "Description": "During Stealth Step {df,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 77,
+    "Type": "Throws",
+    "Name": "Desert Fang",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 78,
+    "Type": "Throws",
+    "Name": "Aldebaran",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 79,
+    "Type": "Throws",
+    "Name": "Chasm Drop",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 80,
+    "Type": "Throws",
+    "Name": "Axel Spinner",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 81,
+    "Type": "Throws",
+    "Name": "Silent Death",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "Removes Recoverable",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 82,
+    "Type": "Throws",
+    "Name": "Wezen",
+    "Description": "{uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 83,
+    "Type": "Attack Reversal",
+    "Name": "Silent Death Trap",
+    "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
+    "Properties": "Removes Recoverable",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

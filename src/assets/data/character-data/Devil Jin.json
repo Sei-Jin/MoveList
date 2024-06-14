@@ -1,0 +1,898 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Annhilation Beam can be used",
+    "Properties": "",
+    "Comment": "{LB,4,3,RB} {1+2}, {b,f,2,1,4,1+2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of Electric Wind God Fist without Just Input",
+    "Properties": "",
+    "Comment": "{f,n,d,df,2}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Rahshasa's Fury",
+    "Description": "{b,2,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Wicked Jambu Spear",
+    "Description": "{b,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Wraith Kick",
+    "Description": "{uf,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Demon's Paw",
+    "Description": "{f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Dark Arachnid Twister",
+    "Description": "During Mourning Crow ({f,3}, etc.) {2,2}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Wheel of Pain > Annihilation Beam",
+    "Description": "During Heat {LB,4,3,RB,1+2}",
+    "Properties": "Tornado",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Hisou > Annihilation Beam",
+    "Description": "During Heat {uf,3+4} on hit or block {1+2}",
+    "Properties": "",
+    "Comment": "Throw on front hit, partially uses remaining Heat time"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Laser Crush > Annihilation Beam",
+    "Description": "During Heat {b,f,2,1,4,1+2}",
+    "Properties": "Tornado",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 15,
+    "Type": "Heat Moves",
+    "Name": "Spiral of Madness > Annihilation Beam",
+    "Description": "During Heat {f,n,d,df,1+2,1+2}",
+    "Properties": "Tornado, Homing Attack",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 16,
+    "Type": "Heat Moves",
+    "Name": "Vindictive Helix",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, to throw on hit, shift to Mourning Crow on block"
+  },
+  {
+    "Id": 17,
+    "Type": "Heat Moves",
+    "Name": "Inner Purgatory",
+    "Description": "During Heat and Mourning Crow {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 18,
+    "Type": "Rage Moves",
+    "Name": "Devil Dimension: Tainted Chains",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Flash Claw Combo",
+    "Description": "{1,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "One Two Strike",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Back Fist Combo",
+    "Description": "{1,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Shoot the Works",
+    "Description": "{1,2,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "One Two Knee",
+    "Description": "{1,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Demon Backhand Spin",
+    "Description": "{2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Hell Cyclone",
+    "Description": "{3,1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Hell Spiral",
+    "Description": "{3,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Demon March",
+    "Description": "{3,1,f,f-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Last Rites",
+    "Description": "{4}",
+    "Properties": "Homing Attack",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Wheel of Pain",
+    "Description": "{LB,4,3,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Tsujikaze",
+    "Description": "{1+2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Fly",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "Shift to Fly"
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Three Ring Alaya",
+    "Description": "{1+4,2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "893P > Knee Kick",
+    "Description": "{f,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Mourning Crow",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": "Shift to Mourning Crow"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Twisted Samsara",
+    "Description": "{f,4,3}",
+    "Properties": "Tornado",
+    "Comment": "On hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Dark Twin Lancer",
+    "Description": "{df,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Bloody Glaive",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": "On hit {f-hold} to shift to Mourning Crow"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Rengoku",
+    "Description": "{df,3,2,4}",
+    "Properties": "Tornado",
+    "Comment": "On hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Tsunami Kick",
+    "Description": "{df,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Corpse Thrust",
+    "Description": "{d,1}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Broken Palte",
+    "Description": "{d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Double Lift Kicks",
+    "Description": "{d,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Malicious Mace",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Demon's Spear",
+    "Description": "{db,1+2}",
+    "Properties": "",
+    "Comment": "{db,1+2,f-hold} to shift to Mourning Crow"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Demons Lance",
+    "Description": "{db,1+2} hold",
+    "Properties": "",
+    "Comment": "Chip damage on block, {db,1+2} hold, then {f-hold} to shift to Mourning Crow"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Brimstone Strike",
+    "Description": "{b,1,2}",
+    "Properties": "",
+    "Comment": "{b-hold} to cancel"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Rakshasa's Rampage",
+    "Description": "{b,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Rakshasa's Fury",
+    "Description": "{b,2,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Wicked Jambu Spear",
+    "Description": "{b,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Demon Steel Pedal",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Aratama Strike",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Lightning Screw Uppercut",
+    "Description": "{b,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Hellfire Blast",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Samsara",
+    "Description": "{u,4}",
+    "Properties": "Tornado",
+    "Comment": "Or {ub,4}, on hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Hellfire Cannon",
+    "Description": "{u,1+2}",
+    "Properties": "",
+    "Comment": "Only hits airborne opponents"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Infernal Shackle",
+    "Description": "{uf,1}",
+    "Properties": "",
+    "Comment": "Shift to Mourning Crow on hit or block, chip damage on block"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Decapitating Sword",
+    "Description": "{uf,2}",
+    "Properties": "Homing Attack",
+    "Comment": "Or {ub,2} or {u,2}"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Reaper's Scythe",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Wraith Kick",
+    "Description": "{uf,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Hisou",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Demon's Paw",
+    "Description": "{f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Demon's Shaft",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Laser Cannon",
+    "Description": "{b,f,2,1,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Laser Scraper",
+    "Description": "{b,f,2,1,df,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Laser Crush",
+    "Description": "{b,f,2,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Laser Slice",
+    "Description": "{b,f,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Gates of Hades",
+    "Description": "{b,f,1+2,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Leaping Side Kick",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Or {f,n,d,df,uf-hold,3}, chip damage on block"
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{f,2,4,3,1+4,1,2,1,4,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Solo Piston > Infernal Shackle",
+    "Description": "While rising {1,1}",
+    "Properties": "",
+    "Comment": "Shift to Mourning Crow on hit or block, chip damage on block"
+  },
+  {
+    "Id": 72,
+    "Type": "Moves While Crouching",
+    "Name": "Solo Piston > Bloody Glaive",
+    "Description": "While rising {1,2}",
+    "Properties": "",
+    "Comment": "On hit {f-hold} to shift to Mourning Crow"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves While Crouching",
+    "Name": "Alaya",
+    "Description": "While rising {2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 74,
+    "Type": "Moves While Crouching",
+    "Name": "Organ Wrecker",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": "On hit {f-hold} to shift to Mourning Crow"
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Crouching",
+    "Name": "Wretched Heel",
+    "Description": "While rising {4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 76,
+    "Type": "Moves during Sidestep",
+    "Name": "Devil Twister",
+    "Description": "During sidestep {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 77,
+    "Type": "Moves during Sidestep",
+    "Name": "Hell's Gate",
+    "Description": "During sidestep {2} during hit {u-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Down",
+    "Name": "Yomigaeri",
+    "Description": "While down and facing up {u,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Fly"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves During Wind God Step",
+    "Name": "Wind God Step",
+    "Description": "{f,n,d,df}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Moves During Wind God Step",
+    "Name": "Thunder God Fist",
+    "Description": "{f,n,d,df,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Moves During Wind God Step",
+    "Name": "Heaven's Door",
+    "Description": "{f,n,d,df,1,uf-hold}",
+    "Properties": "",
+    "Comment": "Throw on hit"
+  },
+  {
+    "Id": 82,
+    "Type": "Moves During Wind God Step",
+    "Name": "Wind God Fist",
+    "Description": "{f,n,d,df,2}",
+    "Properties": "",
+    "Comment": "Becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 83,
+    "Type": "Moves During Wind God Step",
+    "Name": "Electric Wind God Fist",
+    "Description": "{f,n,d,df,2} ({df+2} press simultaneously)",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 84,
+    "Type": "Moves During Wind God Step",
+    "Name": "Demon's Hoof",
+    "Description": "{f,n,d,df,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves During Wind God Step",
+    "Name": "Demon's Tail",
+    "Description": "{f,n,d,df-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves During Wind God Step",
+    "Name": "Spinning Demon Scythe",
+    "Description": "{f,n,d,df-hold,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 87,
+    "Type": "Moves During Wind God Step",
+    "Name": "Spinning Demon Hellfire Beam",
+    "Description": "{f,n,d,df-hold,4} on hit {1+2}",
+    "Properties": "Tornado Move",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves During Wind God Step",
+    "Name": "Spiral of Madness",
+    "Description": "{f,n,d,df,1+2}",
+    "Properties": "Homing Attack",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Fly",
+    "Name": "Fly",
+    "Description": "{3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Fly"
+  },
+  {
+    "Id": 90,
+    "Type": "Moves during Fly",
+    "Name": "Near Death",
+    "Description": "During Fly {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Fly",
+    "Name": "Infernal Annihilation",
+    "Description": "During Fly {2}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves during Fly",
+    "Name": "Amara",
+    "Description": "During Fly {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "Moves during Fly",
+    "Name": "Devil Starstorm",
+    "Description": "During Fly {4} during hit {2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "Moves during Fly",
+    "Name": "Infernal Destruction",
+    "Description": "During Fly {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 95,
+    "Type": "Moves during Fly",
+    "Name": "Cross Infernal Destruction",
+    "Description": "During Fly {f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 96,
+    "Type": "Moves during Mourning Crow",
+    "Name": "Mourning Crow",
+    "Description": "{f,3}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Mourning Crow"
+  },
+  {
+    "Id": 97,
+    "Type": "Moves during Mourning Crow",
+    "Name": "Tiger Thrush",
+    "Description": "During Mourning Crow {1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 98,
+    "Type": "Moves during Mourning Crow",
+    "Name": "Dark Arachnid Twister",
+    "Description": "During Mourning Crow {2,2}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Mourning Crow",
+    "Name": "Venomous Torment",
+    "Description": "During Mourning Crow {3}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Mourning Crow",
+    "Name": "Devil Starstorm",
+    "Description": "During Mourning Crow {4} on hit {2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 101,
+    "Type": "Throws",
+    "Name": "Double High Sweep",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 102,
+    "Type": "Throws",
+    "Name": "Judgment",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 103,
+    "Type": "Throws",
+    "Name": "Shoulder Flip",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 104,
+    "Type": "Throws",
+    "Name": "Over the Limit",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 105,
+    "Type": "Throws",
+    "Name": "Pivoting Hip Throw",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 106,
+    "Type": "Throws",
+    "Name": "White Mountain",
+    "Description": "Approach opponent {df,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 107,
+    "Type": "Throws",
+    "Name": "Stonehead",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}"
+  },
+  {
+    "Id": 108,
+    "Type": "Throws",
+    "Name": "Complicated Wire",
+    "Description": "Approach opponent {d,db,b,1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 109,
+    "Type": "Throws",
+    "Name": "Obliteration",
+    "Description": "Approach opponent {f,b,db,d,df,f,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 110,
+    "Type": "Attack Reversal",
+    "Name": "Imperial Wrath",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
+    "Properties": "Power Crush",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 111,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Hellfire Incinerator",
+    "Description": "While opponent is down {d,1+2}",
+    "Properties": "",
+    "Comment": ""
+  }
+]

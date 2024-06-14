@@ -1,0 +1,1546 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Powered up versions of sword mvoes can only be performed during Moutou no Kiwami can be used from the normal stance",
+    "Properties": "",
+    "Comment": "{ub,1+2}, {f,1+2}, {1+4}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Some sword moves during Manji Dragonfly are powered up",
+    "Properties": "",
+    "Comment": "During Manji Dragonfly {1}, during Manji Dragonfly {f,1+2}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, 2+3,b,b to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Enma's Flame",
+    "Description": "{3,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, shift to Manji Dragonfly (does not shift when using Heat Dash), power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Kuzuryu",
+    "Description": "{f,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Mutou no Kiwami or Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Oma Kugiuchi",
+    "Description": "{b,2,2}",
+    "Properties": "Heat Engager",
+    "Comment": "{b,2,n,1+2} to shift to Kincho"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Ganto",
+    "Description": "During Kincho {(1+2}, etc.) {f,2}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Dragonfly Twister",
+    "Description": "During Manji Dragonfly ({u,1+2}, etc.) {4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Divine Sword Kagekiyo",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, throw on hit, recover health on hit, on block {2+3,u-hold} to shift to Manji Dragonfly"
+  },
+  {
+    "Id": 13,
+    "Type": "Rage Moves",
+    "Name": "Trailokya Pilgrimage",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Naguri Kabuto Wari",
+    "Description": "{1,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Seiken Douharai",
+    "Description": "{2,1}",
+    "Properties": "",
+    "Comment": "Becomes Karakuri Uzumaki during Mutou no Kiwami, {2,1,b-hold} to cancel"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Mushibami",
+    "Description": "{2,2}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Mutou no Kiwami on hit or block, {2,2,1+2} to shift to Kincho"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "PK Combo",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "PDK Combo",
+    "Description": "{2,d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Enma's Flame",
+    "Description": "{3,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, shift to Manji Dragonfly (does not shift when using Heat Dash), power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Enma's Cleansing Sword",
+    "Description": "{3,2,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Tobi Ushiwaka",
+    "Description": "{LB,3,4,RB}",
+    "Properties": "",
+    "Comment": "{LB,3,4,RB,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Kangaroo Kick",
+    "Description": "{LB,4,3,RB}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Wheel of Arrows > Sword Stab",
+    "Description": "{4,4,2,2,1}",
+    "Properties": "",
+    "Comment": "{4,4,2,2,LB,1,1,RB} to shift to Sword Poke Windmill"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Triple Roundhouse Combo",
+    "Description": "{4,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Kincho",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": "Or while crouching {1+2}, to shift to Kincho, {1+2,f-hold} to move forward, {1+2,d-hold} to shift to crouching state, has strong attack reversal effect"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Meditation",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "Or {b,3+4} or back facing opponent {3+4}, shift to Meditation, regain recoverable health, {1+3} or {2+4} to shift to back throw, {3+4} to face backward"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Soul Stealer",
+    "Description": "{1+4}",
+    "Properties": "",
+    "Comment": "Or while crouching {1+4}, power up during Mutou no Kiwami or during Heat (increased chip damage on block, recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Spririt Shield",
+    "Description": "{1+2+3}",
+    "Properties": "",
+    "Comment": "Power up during Mutou no Kiwami"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Manji Backfist Shredder",
+    "Description": "{f,2,1}",
+    "Properties": "Tornado",
+    "Comment": "Or back facing opponent {2,1}"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Backfist > Stone Fist",
+    "Description": "{f,2,db,2,2,2,2,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Oni Kick",
+    "Description": "{f,3}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Zig Zag",
+    "Description": "{f,3,4}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Toita Daoshi",
+    "Description": "{f,4}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Kuzuryu",
+    "Description": "{f,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Mutou no Kiwami or Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Kamikaze",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": "{f,3+4,b-hold} to cancel and face backward, to shift to Running Flea on hit (cannot shift during Mutou no Kiwami)"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Tsuka Atemi Shredder",
+    "Description": "{df,1,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Tsuka Atemi > Slap U Crazy",
+    "Description": "{df,1,2,db,2,2,2,2,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Autumn Leaves",
+    "Description": "{df,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Basic Uppercut",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Wood Cutter",
+    "Description": "{df,3,1}",
+    "Properties": "",
+    "Comment": "Chip damage, hold at last step to Death Slash, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Gehosen",
+    "Description": "{df,1+4}",
+    "Properties": "",
+    "Comment": "{df,1+4,1+2} to shift to Kincho, {f,d,df,1} to power up"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Flashing Steel",
+    "Description": "{df,2+3}",
+    "Properties": "",
+    "Comment": "{f,d,df,2} to power up"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Quick Slash",
+    "Description": "{d,1}",
+    "Properties": "",
+    "Comment": "Chip damage, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Death Slash",
+    "Description": "{d,1} hold, then {n}",
+    "Properties": "",
+    "Comment": "{d,1} hold, then {b-hold} to cancel"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Heshikirigari",
+    "Description": "{d,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Heshikiribarai",
+    "Description": "{d,2,2,1}",
+    "Properties": "",
+    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Heshikiriseibatsu",
+    "Description": "{d,2,2,2}",
+    "Properties": "Tornado",
+    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Heshikirinagi",
+    "Description": "{d,2,2,d,1}",
+    "Properties": "",
+    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Flea",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Flea, shift to Indian Stance during Mutou no Kiwami"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Indian Stance",
+    "Description": "{d,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Indian Stance"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Harakiri",
+    "Description": "{d,1+4}",
+    "Properties": "",
+    "Comment": "Deals self-damage"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Harakiri > Manji Blood Dance",
+    "Description": "{d,1+4,b-hold,1,1,1,1,1}",
+    "Properties": "",
+    "Comment": "Deals self-damage"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Nebular Burst",
+    "Description": "{db,1,2}",
+    "Properties": "",
+    "Comment": "Cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Stone Fists",
+    "Description": "{db,2,2,2,2,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Manji Spin Low Kicks",
+    "Description": "{db,3,3,3,3,3,3}",
+    "Properties": "",
+    "Comment": "During second to fifth hit {d,3+4} to shift to Indian Stance"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Manji Spin Low Kicks Front Kick",
+    "Description": "During second to fifth hit of Manji Spin Low Kicks {4}",
+    "Properties": "",
+    "Comment": "{4,1+2} to shift to Kincho, {4,b-hold} to shift to Mutou no Kiwami"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Nozuchi Fumi",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Bad Stomach",
+    "Description": "{db-hold,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Poison Breath",
+    "Description": "During Bad Stomach {1}",
+    "Properties": "",
+    "Comment": "Or during Bad Stomach {2}"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Backflip Kick",
+    "Description": "During Bad Stomach {3}",
+    "Properties": "",
+    "Comment": "Or during Bad Stomach {4}"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Slap U Silly",
+    "Description": "{b,1,1,1,1,1,1}",
+    "Properties": "",
+    "Comment": "During first to third {db,3} to shift to Manji Spin Low Kicks"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Oma Gehosen",
+    "Description": "{b,2,1}",
+    "Properties": "",
+    "Comment": "{b,2,b,1+2} to shift to Kincho, {b,2,1,1+2} to shift to Kincho"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Oma Kugiuchi",
+    "Description": "{b,2,2}",
+    "Properties": "Heat Engager",
+    "Comment": "{b,2,n,1+2} to shift to Kincho"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Spinning Evade",
+    "Description": "{b-hold,3,3,3,3,3,3} (or {b-hold,4,4,4,4,4,4})",
+    "Properties": "",
+    "Comment": "Or during Slap U Silly, {b,3} (or {b,4}) or while rising {1,1,b,3} (or {b,4}), deals self-damage"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Mutou no Kiwami",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Cleaning Sword Yoshimitsu",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Sword Stab",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Face Splitter",
+    "Description": "{ub,1+3,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Sword Poke Windmill",
+    "Description": "{ub,1+3,n,1}",
+    "Properties": "",
+    "Comment": "{ub,1+3,n,1,b-hold} to shorten"
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Manji Dragonfly",
+    "Description": "{u,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Manji Dragonfly, becomes Ishiusu Tsubushi during Mutou no Kiwami"
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "Guillotine Crow Kick",
+    "Description": "{u,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "Helmet Strike",
+    "Description": "{uf,1}",
+    "Properties": "",
+    "Comment": "Or {ub,1} or {u,1}"
+  },
+  {
+    "Id": 73,
+    "Type": "Normal Moves",
+    "Name": "Kurama Itto",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "{uf,2,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 74,
+    "Type": "Normal Moves",
+    "Name": "Rising Knee",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Normal Moves",
+    "Name": "Avoiding the Puddle",
+    "Description": "{uf,4}",
+    "Properties": "Homing",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 76,
+    "Type": "Normal Moves",
+    "Name": "Poison Wind",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": "{uf,3+4,1+2} to cancel and shift to Manji Dragonfly, {uf,3+4,d,1+2} to shift to Flea, {uf,3+4,d,3+4} to shift to Indian Stance"
+  },
+  {
+    "Id": 77,
+    "Type": "Normal Moves",
+    "Name": "Poison Wind Gold Strike",
+    "Description": "{uf,3+4,1,4,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time), hold at last step to shift to Death Slash"
+  },
+  {
+    "Id": 78,
+    "Type": "Normal Moves",
+    "Name": "Poison Wind Steel Smash",
+    "Description": "{uf,3+4,1,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "Normal Moves",
+    "Name": "Poison Wind Eclipse Kick",
+    "Description": "{uf,3+4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Normal Moves",
+    "Name": "Poison Wind > Kangaroo Kick",
+    "Description": "{uf,3+4,3+4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Normal Moves",
+    "Name": "Death Copter",
+    "Description": "{uf,1+3}",
+    "Properties": "",
+    "Comment": "{uf,1+3,1+2} to cancel and shift to Manji Dragonfly, becomes Safe Heron Jump during Mutou no Kiwami"
+  },
+  {
+    "Id": 82,
+    "Type": "Normal Moves",
+    "Name": "Death Copter Slice",
+    "Description": "{uf,1+3,d}",
+    "Properties": "",
+    "Comment": "Chip damage on block, becomes Safe Heron Jump during Mutou no Kiwami"
+  },
+  {
+    "Id": 83,
+    "Type": "Normal Moves",
+    "Name": "Death Copter Trick",
+    "Description": "{uf,1+3,b}",
+    "Properties": "",
+    "Comment": "{uf,1+3,b,1+2} to cancel and shift to Manji Dragonfly, becomes Safe Heron Jump during Mutou no Kiwami"
+  },
+  {
+    "Id": 84,
+    "Type": "Normal Moves",
+    "Name": "Sword Smash",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Normal Moves",
+    "Name": "Yomi Kakenuke",
+    "Description": "{f,f-hold,2} during hit from front {2}",
+    "Properties": "",
+    "Comment": "{f,f-hold,2} during hit from the front {2,d,3+4} to shift to Indian Stance"
+  },
+  {
+    "Id": 86,
+    "Type": "Normal Moves",
+    "Name": "Iwatsubute",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": "{f,f-hold,3,1+2} to shift to Kincho"
+  },
+  {
+    "Id": 87,
+    "Type": "Normal Moves",
+    "Name": "Fubuki",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Normal Moves",
+    "Name": "Solar Kick",
+    "Description": "{f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "Normal Moves",
+    "Name": "Reverse Cartwheel",
+    "Description": "{f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Normal Moves",
+    "Name": "Solar Kick Shark Attack",
+    "Description": "{f,f-hold,3+4,1+2,3+4}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Indian Stance when hit into a wall (deals self-damage)"
+  },
+  {
+    "Id": 91,
+    "Type": "Normal Moves",
+    "Name": "Suicide",
+    "Description": "{f,f-hold,1+4}",
+    "Properties": "",
+    "Comment": "Deals self-damage, cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 92,
+    "Type": "Normal Moves",
+    "Name": "Confusion",
+    "Description": "{f,f-hold,1+4,n}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "Normal Moves",
+    "Name": "Double Suicide",
+    "Description": "{f,f-hold,1+4,f-hold}",
+    "Properties": "",
+    "Comment": "Deals self-damage, cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 94,
+    "Type": "Normal Moves",
+    "Name": "Thunder Blade",
+    "Description": "{b,b-hold,1+4}",
+    "Properties": "",
+    "Comment": "{b,b-hold,1+4,b-hold} to shift to Soul Stealer"
+  },
+  {
+    "Id": 95,
+    "Type": "Normal Moves",
+    "Name": "Moonsault Slayer",
+    "Description": "{d,df,f,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 96,
+    "Type": "Normal Moves",
+    "Name": "Manji Kick",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block, {f,f,f-hold,3,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)"
+  },
+  {
+    "Id": 97,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{1,2,1,4,4,4,1,1,1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 98,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{1,2,1,4,2,2,2,4,1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 99,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 100,
+    "Type": "Moves While Crouching",
+    "Name": "Door Knocker",
+    "Description": "While rising {1,1,1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 101,
+    "Type": "Moves While Crouching",
+    "Name": "Door Knocker Shredder",
+    "Description": "While rising {1,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 102,
+    "Type": "Moves While Crouching",
+    "Name": "Door Knocker > Back Knuckle Slap U Crazy",
+    "Description": "While rising {1,2,db,2,2,2,2,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 103,
+    "Type": "Moves While Crouching",
+    "Name": "Scowling Moon God",
+    "Description": "While rising {2,1}",
+    "Properties": "",
+    "Comment": "Shift to Manji Dragonfly, becomes Scowling Aratama during Mutou no Kiwami"
+  },
+  {
+    "Id": 104,
+    "Type": "Moves While Crouching",
+    "Name": "Kimon Matagi",
+    "Description": "While rising {3,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 105,
+    "Type": "Moves While Crouching",
+    "Name": "Toe Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": "While rising {4,1+2} to shift to Kincho, while rising {4,b-hold} to shift to Mutou no Kiwami"
+  },
+  {
+    "Id": 106,
+    "Type": "Moves While Crouching",
+    "Name": "Knee Cap",
+    "Description": "While crouching {df,4}",
+    "Properties": "Homing",
+    "Comment": "While crouching {df,4,d-hold,1+2} to shift to Indian Stance"
+  },
+  {
+    "Id": 107,
+    "Type": "Moves While Crouching",
+    "Name": "Samurai Cutter",
+    "Description": "While crouching {df-hold,1}",
+    "Properties": "",
+    "Comment": "Or while crouching {db,b,2}"
+  },
+  {
+    "Id": 108,
+    "Type": "Moves during Sidestep",
+    "Name": "Inner Palm",
+    "Description": "During sidestep {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 109,
+    "Type": "Moves during Sidestep",
+    "Name": "Shrine",
+    "Description": "During sidestep {2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 110,
+    "Type": "Moves While Down",
+    "Name": "Indian Stance Healing",
+    "Description": "While down and facing up {d,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Indian Stance"
+  },
+  {
+    "Id": 111,
+    "Type": "Moves While Facing Backwards",
+    "Name": "Aratama",
+    "Description": "Back facing opponent {1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Moves While Facing Backwards",
+    "Name": "Magatama",
+    "Description": "Back facing opponent {1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 113,
+    "Type": "Moves While Facing Backwards",
+    "Name": "Perilous Spirit",
+    "Description": "Back facing opponent {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 114,
+    "Type": "Moves While Facing Backwards",
+    "Name": "SHisetsu Genman",
+    "Description": "Back facing opponent {d,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 115,
+    "Type": "Moves While Facing Backwards",
+    "Name": "Mutou no Kiwami",
+    "Description": "Back facing opponent {b,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami"
+  },
+  {
+    "Id": 116,
+    "Type": "Moves during Kincho",
+    "Name": "Kincho",
+    "Description": "{1+2}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Kincho. {f-hold} to move forward, {d-hold} to shift to crouching state, has strong attack reversal effect"
+  },
+  {
+    "Id": 117,
+    "Type": "Moves during Kincho",
+    "Name": "Doushi Kiri",
+    "Description": "During Kincho {1,1}",
+    "Properties": "",
+    "Comment": "Power up during Mutou no Kiwami or during Heat (add chip damage on block, recover health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 118,
+    "Type": "Moves during Kincho",
+    "Name": "Tenshu Kuzushi",
+    "Description": "During Kincho {2,1+2}",
+    "Properties": "",
+    "Comment": "Can hold, chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 119,
+    "Type": "Moves during Kincho",
+    "Name": "Shibakari",
+    "Description": "During Kincho {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 120,
+    "Type": "Moves during Kincho",
+    "Name": "Whirlwind",
+    "Description": "During Kincho {4}",
+    "Properties": "Homing",
+    "Comment": "Or during sidestep {4}, during Kincho {4,1+2} to shift to Kincho, during Kincho {4,3+4} to shift to Meditation"
+  },
+  {
+    "Id": 121,
+    "Type": "Moves during Kincho",
+    "Name": "Ashura Blade",
+    "Description": "During Kincho {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 122,
+    "Type": "Moves during Kincho",
+    "Name": "Soul Stealer",
+    "Description": "During Kincho {1+4}",
+    "Properties": "",
+    "Comment": "Power up during Mutou no Kiwami or during Heat (add chip damage on block, recover health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 123,
+    "Type": "Moves during Kincho",
+    "Name": "Ishigaki Kuzushi",
+    "Description": "During Kincho {d,1}",
+    "Properties": "",
+    "Comment": "During Kincho, {d,1,db-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 124,
+    "Type": "Moves during Kincho",
+    "Name": "Submission Chakram",
+    "Description": "During Kincho {f,1}",
+    "Properties": "",
+    "Comment": "Can hold, chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 125,
+    "Type": "Moves during Kincho",
+    "Name": "Ganto",
+    "Description": "During Kincho {f,2}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 126,
+    "Type": "Moves during Kincho",
+    "Name": "Ikaruga",
+    "Description": "During Kincho {b,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 127,
+    "Type": "Moves during Kincho",
+    "Name": "Mumyo Juji Ken",
+    "Description": "During Kincho {b,1+2}",
+    "Properties": "",
+    "Comment": "Cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 128,
+    "Type": "Moves during Kincho",
+    "Name": "Kincho Manji Dragonfly",
+    "Description": "During Kincho {u,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 129,
+    "Type": "Moves during Meditation",
+    "Name": "Meditation",
+    "Description": "{3+4}, etc.",
+    "Properties": "",
+    "Comment": "Or {b,3+4} or back facing opponent {3+4}, shift to Meditation, regain recoverable health, {1+3} or {2+4} to shift to back throw, {3+4} to face backward"
+  },
+  {
+    "Id": 130,
+    "Type": "Moves during Meditation",
+    "Name": "Back Handspring",
+    "Description": "During Meditation {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 131,
+    "Type": "Moves during Meditation",
+    "Name": "Meditation Healing",
+    "Description": "During Meditation {1+2}",
+    "Properties": "",
+    "Comment": "Recover health"
+  },
+  {
+    "Id": 132,
+    "Type": "Moves during Flea",
+    "Name": "Flea",
+    "Description": "{d,1+2}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Flea, {db} to cancel, cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 133,
+    "Type": "Moves during Flea",
+    "Name": "Flea Roll",
+    "Description": "During Flea {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 134,
+    "Type": "Moves during Flea",
+    "Name": "Flea > Sliding Headbutt",
+    "Description": "During Flea {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 135,
+    "Type": "Moves during Flea",
+    "Name": "Flea Dance",
+    "Description": "During Flea {3} (or {4})",
+    "Properties": "",
+    "Comment": "Shift to Flea"
+  },
+  {
+    "Id": 136,
+    "Type": "Moves during Flea",
+    "Name": "Skull Splitter",
+    "Description": "During Flea {1+2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 137,
+    "Type": "Moves during Flea",
+    "Name": "Flea > Kangaroo Kick",
+    "Description": "During Flea {3+4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 138,
+    "Type": "Moves during Flea",
+    "Name": "Running Flea",
+    "Description": "During Flea {f,f}",
+    "Properties": "",
+    "Comment": "Shift to Flea, shift to Indian Stance when hit into a wall (deals self-damage)"
+  },
+  {
+    "Id": 139,
+    "Type": "Moves during Flea",
+    "Name": "Flea Digger",
+    "Description": "During Flea {d}",
+    "Properties": "",
+    "Comment": "Shift to Flea"
+  },
+  {
+    "Id": 140,
+    "Type": "Moves during Flea",
+    "Name": "Flea > Indian Stance",
+    "Description": "During Flea {d,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Indian Stance"
+  },
+  {
+    "Id": 141,
+    "Type": "Moves during Flea",
+    "Name": "Flea > Manji Dragonfly",
+    "Description": "During Flea {u,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Manji Dragonfly"
+  },
+  {
+    "Id": 142,
+    "Type": "Moves during Flea",
+    "Name": "Flea > Dragonfly Feint",
+    "Description": "During Flea {u,3+4}",
+    "Properties": "",
+    "Comment": "Side ukemi can be used"
+  },
+  {
+    "Id": 143,
+    "Type": "Moves during Flea",
+    "Name": "Jumping Flea",
+    "Description": "During Flea {df}",
+    "Properties": "",
+    "Comment": "Or during Flea {ub} or during Flea {u}"
+  },
+  {
+    "Id": 144,
+    "Type": "Moves during Flea",
+    "Name": "Flea Step",
+    "Description": "During Flea {f} (or {b})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 145,
+    "Type": "Moves during Flea",
+    "Name": "Sakanobori",
+    "Description": "During Flea Step {3}",
+    "Properties": "",
+    "Comment": "Has clean hit effect, throw during front hit on ground"
+  },
+  {
+    "Id": 146,
+    "Type": "Moves during Flea",
+    "Name": "Tsurubebi",
+    "Description": "During Flea Step {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 147,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance",
+    "Description": "{d,3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Indian Stance"
+  },
+  {
+    "Id": 148,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Healing",
+    "Description": "{d,3+4,n}",
+    "Properties": "",
+    "Comment": "Regain recoverable health"
+  },
+  {
+    "Id": 149,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Storm",
+    "Description": "During Indian Stance Healing {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 150,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Stone Fists",
+    "Description": "During Indian Stance Healing {2,2,2,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 151,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Cannon",
+    "Description": "During Indian Stance Healing {3,3+4}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Indian Stance when hit into a wall (deals self-damage)"
+  },
+  {
+    "Id": 152,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Knee Cap",
+    "Description": "During Indian Stance Healing {4}",
+    "Properties": "Homing",
+    "Comment": "During Indian Stance Healing {4,d-hold,3+4} to shift to Indian Stance"
+  },
+  {
+    "Id": 153,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Flea",
+    "Description": "During Indian Stance Healing {1+2}",
+    "Properties": "",
+    "Comment": "Shift to Flea, cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 154,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Tobi Ushiwaka",
+    "Description": "During Indian Stance Healing {3+4}",
+    "Properties": "Homing",
+    "Comment": "During Indian Stance Healing {3+4,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)"
+  },
+  {
+    "Id": 155,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Vacuum Dance",
+    "Description": "During Indian Stance Healing {b} (or {f})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 156,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Levitation",
+    "Description": "During Indian Stance Healing {d-hold,3+4} hold",
+    "Properties": "",
+    "Comment": "Can move while {3+4} holding {f-hold} (or {b-hold} or {d-hold} or {u-hold})"
+  },
+  {
+    "Id": 157,
+    "Type": "Moves during Indian Stance",
+    "Name": "Indian Stance Manji Dragonfly",
+    "Description": "During Indian Stance Healing {u,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 158,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Mutou no Kiwami",
+    "Description": "{b,1+2}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami"
+  },
+  {
+    "Id": 159,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Karakuri Uzumaki",
+    "Description": "During Mou no Kiwami {2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 160,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Enma's Soul Blade",
+    "Description": "During Mou no Kiwami {3,2,1+2}",
+    "Properties": "",
+    "Comment": "Or during Heat {3,2,1+2}, chip damage on block, has clean hit effect, recovers health on hit"
+  },
+  {
+    "Id": 161,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Soul Stealer",
+    "Description": "During Mou no Kiwami {1+4}",
+    "Properties": "",
+    "Comment": "Or while crouching during Mutou no Kiwami {1+4}, increased chip damage on block, recovers health on hit"
+  },
+  {
+    "Id": 162,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Indiance Stance",
+    "Description": "During Mou no Kiwami {d,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Indian Stance"
+  },
+  {
+    "Id": 163,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Unfinished Business",
+    "Description": "During Mou no Kiwami {d,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 164,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Manji Shagapan",
+    "Description": "During Mou no Kiwami {db,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 165,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Battou Kakugo",
+    "Description": "During Mou no Kiwami {b,1+2}",
+    "Properties": "",
+    "Comment": "Remove Mutou no Kiwami"
+  },
+  {
+    "Id": 166,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Soul Blade Yoshimitsu",
+    "Description": "During Mou no Kiwami {ub,1+2}",
+    "Properties": "",
+    "Comment": "Or during Heat {ub,1+2}, chip damage, has clean hit effect, recover health on hit"
+  },
+  {
+    "Id": 167,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Ishiusu Tsubushi",
+    "Description": "During Mou no Kiwami {u,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Indian Stance"
+  },
+  {
+    "Id": 168,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Safe Heron Jump",
+    "Description": "During Mou no Kiwami {uf,1+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 169,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Scowling Aratama",
+    "Description": "During Mou no Kiwami while rising {2,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 170,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Scowling Spirit",
+    "Description": "During Mou no Kiwami while rising {2,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 171,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Agonbaku",
+    "Description": "During Mou no Kiwami while crouching {df-hold,1,2}",
+    "Properties": "",
+    "Comment": "Or during Mutou no Kiwami while crouching {db,b,1,2}"
+  },
+  {
+    "Id": 172,
+    "Type": "Moves during Motou no Kiwami",
+    "Name": "Spinning Cleave",
+    "Description": "During Mou no Kiwami while crouching {df,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 173,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Manji Dragonfly",
+    "Description": "{u,1+2}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami"
+  },
+  {
+    "Id": 174,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Dragonfly Blade",
+    "Description": "During Manji Dragonfly {1}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 175,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Ubume",
+    "Description": "During Manji Dragonfly {2,4}",
+    "Properties": "Tornado",
+    "Comment": "During Manji Dragonfly {2} to shift to Manji Dragonfly, {2,4,b-hold} to shift to Mutou no Kiwami"
+  },
+  {
+    "Id": 176,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Dragonfly Sweep",
+    "Description": "During Manji Dragonfly {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 177,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Dragonfly Twister",
+    "Description": "During Manji Dragonfly {4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 178,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Manji Dragonfly > Flea",
+    "Description": "During Manji Dragonfly {1+2}",
+    "Properties": "",
+    "Comment": "Shift to Flea"
+  },
+  {
+    "Id": 179,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Spirited Away",
+    "Description": "During Manji Dragonfly {3+4}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front"
+  },
+  {
+    "Id": 180,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Dragonfly Slash",
+    "Description": "During Manji Dragonfly {f,2}",
+    "Properties": "Homing",
+    "Comment": "Or during Flea {f,2}, to shift to Manji Dragonfly"
+  },
+  {
+    "Id": 181,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Red Spider Lily",
+    "Description": "During Manji Dragonfly {f,1+2}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block, power up during Heat (recovers health on hit, partially uses remaining Heat time)"
+  },
+  {
+    "Id": 182,
+    "Type": "Moves during Manji Dragonfly",
+    "Name": "Manji Dragonfly > Indian Stance",
+    "Description": "During Manji Dragonfly {d,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Indian Stance"
+  },
+  {
+    "Id": 183,
+    "Type": "Throws",
+    "Name": "Oni Killer",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 184,
+    "Type": "Throws",
+    "Name": "Sword Face Smash",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 185,
+    "Type": "Throws",
+    "Name": "Wheels of Hell",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 186,
+    "Type": "Throws",
+    "Name": "Neck Breaker",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 187,
+    "Type": "Throws",
+    "Name": "Tornado Drop",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 188,
+    "Type": "Throws",
+    "Name": "Rainbow Drop",
+    "Description": "{uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 189,
+    "Type": "Throws",
+    "Name": "Soul Siphon",
+    "Description": "{d,df,f,2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, absorbs opponent's health (on successful throw escape, gives opponent health)"
+  },
+  {
+    "Id": 190,
+    "Type": "Throws",
+    "Name": "Soul Possession",
+    "Description": "{d,db,b,f,2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 191,
+    "Type": "Attack Reversal",
+    "Name": "Guillotine Crow Trap",
+    "Description": "Time with opponent attack {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 192,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 193,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Kaishaku",
+    "Description": "While opponent is down {u,1}",
+    "Properties": "",
+    "Comment": "Cannot use during Mutou no Kiwami"
+  }
+]

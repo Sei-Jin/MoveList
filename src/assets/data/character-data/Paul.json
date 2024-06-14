@@ -1,0 +1,874 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of the powered up version of Phoenix Smasher",
+    "Properties": "",
+    "Comment": "{1+2}, {d,df,f,2}, {d,1,2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Powered up versions of hold moves can be used",
+    "Properties": "",
+    "Comment": "{b,2,1} hold, {d,1,2} hold, etc."
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Phoenix Hook, Tiger Claw",
+    "Description": "{f,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Stone Lion",
+    "Description": "{f,4}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Moonfall",
+    "Description": "{uf,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Or {u,2}, chip damage on block"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Phoenix Smasher",
+    "Description": "During Cormorant Step ({d,df,f}) {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Has clean hit effect, power up while Heat is activated (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Rubber Band Attack",
+    "Description": "During Sway ({d,db,b}) {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Demolition Ball",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 13,
+    "Type": "Rage Moves",
+    "Name": "Big Bang Phoenix Smasher",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Left Right Combo",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Reverse PDK Combo",
+    "Description": "{1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "PK Combo",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "PDK Combo",
+    "Description": "{2,d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Piston Fire",
+    "Description": "{3,2}",
+    "Properties": "",
+    "Comment": "{3,2,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Half-Step Phoenix Smasher",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Half-Step Phoenix Smasher",
+    "Description": "{1+2} hold",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Burning Fist",
+    "Description": "{1+2} hold (max)",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time), {1+2} hold, then {f-hold} to cancel and shift to Cormorant Step, {1+2} hold, then {b-hold} to cancel and shift to Sway"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Phoenix Hook, Tiger Claw",
+    "Description": "{f,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Lion's Tempest",
+    "Description": "{f,3,1}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Stone Lion",
+    "Description": "{f,4}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Hammer of the Gods",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Hammer of the Gods",
+    "Description": "{f,1+2} hold",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Shoulder Tackle",
+    "Description": "{f,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Lion's Roar",
+    "Description": "{df,1,1,2}",
+    "Properties": "",
+    "Comment": "{df,1,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Kurenai",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Phoenix Wings",
+    "Description": "{df,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Tiger Claw",
+    "Description": "{df,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Hammer Punch",
+    "Description": "{d,1}",
+    "Properties": "",
+    "Comment": "{d,1,d-hold} to directly shift to crouching state"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Hammer Punch > Phoenix Smasher",
+    "Description": "{d,1,2}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Hammer Punch > Phoenix Smasher",
+    "Description": "{d,1,2} hold",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Hang Over",
+    "Description": "{d,1,4,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Bone Breaker",
+    "Description": "{d,4,2}",
+    "Properties": "",
+    "Comment": "Or {d,df,f,d,4,2}, has clean hit effect"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Demolition Man",
+    "Description": "{d,4,2,1+2}",
+    "Properties": "",
+    "Comment": "Or {d,df,f,d,4,2,1+2}, power up with perfect frame input"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Shoulder Smash",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Shoot the Moon",
+    "Description": "{db,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Chain Breaker",
+    "Description": "{db,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Double Wing",
+    "Description": "{b,1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Crushing Wind",
+    "Description": "{b,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Crushing Wind",
+    "Description": "{b,2,1} hold",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Lights Out",
+    "Description": "{b,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Leg Sweep",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Hassou Strike",
+    "Description": "{b,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Wrecking Ball",
+    "Description": "{ub,2]",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Moonfall",
+    "Description": "{uf,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Or {u,2}, chip damage on block"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Shredder",
+    "Description": "{uf,3,4}",
+    "Properties": "",
+    "Comment": "Or {ub,3,4} or {u,3,4}"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Rising Toe Kick",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Juggernaut",
+    "Description": "{f,f-hold,2,1}",
+    "Properties": "",
+    "Comment": "Or while crouching {df,2,1}, {f,f-hold,2,1,b-hold} to cancel"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Phoenix Bone Breaker",
+    "Description": "{f,f-hold,2,1} (Perfect Input)",
+    "Properties": "",
+    "Comment": "Or while crouching {df,2,1} (Perfect), with chip damage on block"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Bulldozer",
+    "Description": "{f,f-hold,2,2}",
+    "Properties": "",
+    "Comment": "Or while crouching {df,2,2}, {f,f-hold,2,2,b-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Double Hop Kick High",
+    "Description": "{f,f-hold,3,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Triple Kick Combo",
+    "Description": "{f,f-hold,3,4,f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Double Hop Kick Low",
+    "Description": "{f,f-hold,3,4,d,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Neutron Bomb",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Tiger Thruster",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Turbulent Hammer",
+    "Description": "Approach airborne opponent {f,f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Burning Spear",
+    "Description": "{b,d,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{1,2,3,2,1,2,1,4,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{1,2,3,1,4,2,1,4,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 3",
+    "Description": "{1,2,3,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 65,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 66,
+    "Type": "Moves While Crouching",
+    "Name": "Enfolding Dragon",
+    "Description": "While rising",
+    "Properties": "",
+    "Comment": "While rising {1,2,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 67,
+    "Type": "Moves While Crouching",
+    "Name": "Thunder Palm",
+    "Description": "While rising",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 68,
+    "Type": "Moves While Crouching",
+    "Name": "Shioh",
+    "Description": "While rising",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Moves While Crouching",
+    "Name": "Toe Smash",
+    "Description": "While rising",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Moves While Crouching",
+    "Name": "Somersault Kick Warm-Up Moves",
+    "Description": "While crouching {d*} hold",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Incomplete Somersault",
+    "Description": "During Somersault Kick Warm-Up Moves {u,4}",
+    "Properties": "",
+    "Comment": "Deals self-damage (recoverable)"
+  },
+  {
+    "Id": 72,
+    "Type": "Moves During Sidestep",
+    "Name": "Turn Thruster",
+    "Description": "During sidestep {1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves During Sidestep",
+    "Name": "Pump in Pedal",
+    "Description": "During sidestep {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Cormorant Step",
+    "Description": "{d,df,f}",
+    "Properties": "",
+    "Comment": "{d,df-hold} to shift to crouching state"
+  },
+  {
+    "Id": 75,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Thruster",
+    "Description": "{d,df,f,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 76,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Phoenix Smasher",
+    "Description": "{d,df,f,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Has clean hit effect, power up while Heat is activated (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Gengetsu",
+    "Description": "{d,df,f,3}",
+    "Properties": "",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Gunba",
+    "Description": "{d,df,f,1+2}",
+    "Properties": "",
+    "Comment": "{d,df-hold,1+2,b-hold} to shift to crouching state"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Mountain Raze",
+    "Description": "{d,df,f,3+4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Deep Dive",
+    "Description": "During Cormorant Step {df}",
+    "Properties": "",
+    "Comment": "Or during Sway {df}"
+  },
+  {
+    "Id": 81,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Quick Petal Strike",
+    "Description": "During Deep Dive {df-hold,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Quick Lightning Breaker",
+    "Description": "During Deep Dive {df-hold,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Bigetsu",
+    "Description": "During Deep Dive {df-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves during Cormorant Step",
+    "Name": "Incomplete Somersault",
+    "Description": "During Deep Dive {df-hold,3+4}",
+    "Properties": "",
+    "Comment": "Deals self-damage (recoverable)"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves during Sway",
+    "Name": "Sway",
+    "Description": "{d,db,b}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Sway",
+    "Name": "God Hammer Punch",
+    "Description": "{d,db,b,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 87,
+    "Type": "Moves during Sway",
+    "Name": "Rubber Band Attack",
+    "Description": "{d,db,b,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 88,
+    "Type": "Moves during Sway",
+    "Name": "Rapid Fire > Petal Strike",
+    "Description": "{d,db,b,3,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Sway",
+    "Name": "Rapid Fire > Lightning Breaker",
+    "Description": "{d,db,b,3,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Moves during Sway",
+    "Name": "Kawaragoma",
+    "Description": "{d,db,b,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Sway",
+    "Name": "Unseen Gust",
+    "Description": "{d,db,b,1+2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 92,
+    "Type": "Throws",
+    "Name": "Over The Shoulder",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 93,
+    "Type": "Throws",
+    "Name": "Shoulder Pop",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 94,
+    "Type": "Throws",
+    "Name": "Dragon Screw",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 95,
+    "Type": "Throws",
+    "Name": "Fall Away",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 96,
+    "Type": "Throws",
+    "Name": "Reverse Neck Throw",
+    "Description": "Approach opponent from behind {1+3}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 97,
+    "Type": "Throws",
+    "Name": "Piggyback Throw",
+    "Description": "Approach opponent from behind {2+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 98,
+    "Type": "Throws",
+    "Name": "Chest Crusher",
+    "Description": "Approach opponent {2+4,b-hold}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 99,
+    "Type": "Throws",
+    "Name": "Kongo Blast > Phoenix Smasher",
+    "Description": "Approach opponent {df,1+3,d,df,f,2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, power up with perfect frame input or during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 100,
+    "Type": "Throws",
+    "Name": "Foot Launch",
+    "Description": "Approach opponent {b,1+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 101,
+    "Type": "Throws",
+    "Name": "Twist and Shout",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 102,
+    "Type": "Throws",
+    "Name": "Push Away",
+    "Description": "Approach opponent {f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 103,
+    "Type": "Throws",
+    "Name": "Ultimate Tackle",
+    "Description": "While crouching {1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, shift to takedown on hit"
+  },
+  {
+    "Id": 104,
+    "Type": "Throws",
+    "Name": "Ultimate Punch",
+    "Description": "During takedown {2,1,2,1}",
+    "Properties": "",
+    "Comment": "Or during takedown {1,2,1,2}, throw escape {1} (or {2})"
+  },
+  {
+    "Id": 105,
+    "Type": "Throws",
+    "Name": "Ultimate Punishment",
+    "Description": "During takedown {2,d,1,1,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 106,
+    "Type": "Throws",
+    "Name": "Armbar",
+    "Description": "During takedown {1+2}",
+    "Properties": "",
+    "Comment": "Shift is also possible after the third hit of Ultiamte Punch, throw escape {1+2}"
+  },
+  {
+    "Id": 107,
+    "Type": "Attack Reversal",
+    "Name": "Attack Reversal",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 108,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 109,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Down Strike",
+    "Description": "While opponent is down {d,2}",
+    "Properties": "",
+    "Comment": ""
+  }
+]

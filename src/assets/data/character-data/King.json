@@ -1,0 +1,1578 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of a powered up version of Jaguar Sprint",
+    "Properties": "",
+    "Comment": "{f,3+4}, etc., during Jaguar Sprint {1}, during Jaguar Sprint {2}"
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Partially restores remaining Heat time with certain throws",
+    "Properties": "",
+    "Comment": "{f,f,f-hold,2+4}, {d,db,b,1+2}, {f,b,db,d,df,f,1}, etc."
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Elbow Impact",
+    "Description": "{f,2,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Shoulder Tackle",
+    "Description": "{f,2+3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Muscle Armor > Emerald Elbow",
+    "Description": "{db,1+2,1}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Throw during front hit on ground (does not shift when using Heat Dash), Heat activates when the throw completes, absorb an attack to power up and add chip damage"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Rapid King Onslaught",
+    "Description": "During Jaguar Sprint ({f,3+4}, etc.) {1+3} (or {2+4})",
+    "Properties": "Heat Engager",
+    "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Freedom Face Buster",
+    "Description": "Approach crouching opponent {d,1+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Or {db,1+4}, cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Ultimo Jaguar",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, throw on hit, shift to Jaguar Sprint on block"
+  },
+  {
+    "Id": 13,
+    "Type": "Rage Moves",
+    "Name": "Anger Of The Beast",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Palm Strike",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Palm Strike > Head Jammer",
+    "Description": "{1,2,2+4}",
+    "Properties": "Tornado Move",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Palm Strike > V Driver",
+    "Description": "{1,2,d,2+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Palm Strike Uppercut",
+    "Description": "{1,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Palm Strike Uppercut > Suplex",
+    "Description": "{1,2,1,2+4}",
+    "Properties": "Tornado Move",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Palm Strike Uppercut > V Driver",
+    "Description": "{1,2,1,d,2+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Right Jab > Uppercut",
+    "Description": "{2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Head Spinner",
+    "Description": "{1+2,1}",
+    "Properties": "",
+    "Comment": "{1+2,1,b-hold} shift to cancel"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Brutal Sting",
+    "Description": "{1+2,3}",
+    "Properties": "Tornado Move",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Jaguar Step",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "Shift to Jaguar Step, hold {3+4} to continue spinning (strikes from this are powered up)"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Elbow Impact",
+    "Description": "{f,2,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Jaguar Smash Combo",
+    "Description": "{f,2,d,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Front Kick",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Front Kick > DDT",
+    "Description": "{f,3} during front hit on ground {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Rolling Sobat",
+    "Description": "{f,4}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Shadow Lariat",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Jaguar Sprint",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel, Power Crush during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Body Check",
+    "Description": "{f,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Shoulder Tackle",
+    "Description": "{f,2+3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Elbow Sting",
+    "Description": "{df,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Double Hook Disaster",
+    "Description": "{df,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Lasso Kick",
+    "Description": "{df,3} on hit or block {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Mincer",
+    "Description": "{df,4,3,4}",
+    "Properties": "",
+    "Comment": "{df,4,3,4,b-hold} to face backward"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Mincer Low",
+    "Description": "{df,4,3,d,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Frankensteiner",
+    "Description": "{df,3+4}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Jab > Uppercut",
+    "Description": "{d,1,2}",
+    "Properties": "",
+    "Comment": "Or while crouching {1,2}"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Stomp",
+    "Description": "{d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Atlas' Hammer",
+    "Description": "{d,1+2}",
+    "Properties": "Tornado Move",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Stagger Kicks",
+    "Description": "{d,3+4,4,4}",
+    "Properties": "",
+    "Comment": "Or while crouching {df,4,4,4} or while running (two steps or more) {f-hold,4,4,4}"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Stagger Kicks Flurry",
+    "Description": "{d,3+4,4,4,4} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Or while crouching {df,4,4,4,4} (Counter Hit)"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Stagger Kick Spinning Uppercut",
+    "Description": "During Stagger Kicks {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Corporate Elbow",
+    "Description": "{d,2+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Brain Chop",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Crouching Low Kick",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Low Drop Kick",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": "Or back facing opponent {db,4} or back facing opponent {d,4} or back facing opponent {df,4}"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Muscle Armor > Emerald Elbow",
+    "Description": "{db,1+2,2}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Throw during fornt hit on ground (does not shift when using Heat Dash), Heat activates when the throw completes, absorb an attack to power up and add chip damage"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Muscle Armor > Jaguar Sprint",
+    "Description": "{db,1+2,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Quick Hook > Uppercut",
+    "Description": "{b,1,2}",
+    "Properties": "Tornado Move",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Quick Hook > Heel Kick",
+    "Description": "{b,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Chupacabra > Spinning Back Elbow",
+    "Description": "{b,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Chupacabra > Olympia Slam",
+    "Description": "{b,2,4}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Chupacabra > Head Butt",
+    "Description": "{b,2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Toll Kick",
+    "Description": "{b,3}",
+    "Properties": "Tornado Move, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Guillotine Drop",
+    "Description": "{b,3} during front hit on ground {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Disgraceful Kick",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Reverse Jaguar Step",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Jaguar Step"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Capital Punishment",
+    "Description": "{u,1+2}",
+    "Properties": "",
+    "Comment": "Or {ub,1+2}"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Burning Knuckle",
+    "Description": "{u,1+2} hold",
+    "Properties": "",
+    "Comment": "Or {ub,1+2} hold"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Water Parting Chop",
+    "Description": "{uf,1}",
+    "Properties": "Homing Attack",
+    "Comment": "Or {ub,1} or {u,1}"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "High Elbow Drop",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Or {ub,2} or {u,2}"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Falling Heel Kick",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3} or {u,3}"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Jumping Knee Lift",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Sole Crusher",
+    "Description": "{uf,3+4}",
+    "Properties": "Tornado Move, Power Crush",
+    "Comment": "Shift to Jaguar Sprint on hit, {uf,3+4,b-hold} to stand up, absorb an attack to power up and add chip damage"
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Stomach Smash",
+    "Description": "{f,f,n,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Jaguar Hammer",
+    "Description": "{f,f,n,2} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Lay Off",
+    "Description": "{f,f,n,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "Jaguar Hook",
+    "Description": "{f,f-hold,1}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "Beast Elbow",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 73,
+    "Type": "Normal Moves",
+    "Name": "Konvict Kick",
+    "Description": "{f,f-hold,4}",
+    "Properties": "Tornado Move",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Normal Moves",
+    "Name": "Konvict Kick > DDT",
+    "Description": "{f,f-hold,4} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 75,
+    "Type": "Normal Moves",
+    "Name": "Exploder",
+    "Description": "{f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 76,
+    "Type": "Normal Moves",
+    "Name": "Diving Body Press",
+    "Description": "{f,f-hold,2+3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range"
+  },
+  {
+    "Id": 77,
+    "Type": "Normal Moves",
+    "Name": "Strong Knee",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 78,
+    "Type": "Normal Moves",
+    "Name": "Running Exploder",
+    "Description": "{f,f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{1,2,1,1,2,4,4,4,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{1,2,1,1,3,3,4,3,2,1+2}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 81,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 82,
+    "Type": "During Beast Step",
+    "Name": "Beast Step",
+    "Description": "{f,n,d,df}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "During Beast Step",
+    "Name": "Knee Lift",
+    "Description": "{f,n,d,df-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "During Beast Step",
+    "Name": "Black Bomb",
+    "Description": "{f,n,d,df-hold,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Moves While Crouching",
+    "Name": "Round Trip Chop",
+    "Description": "While rising {2,2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves While Crouching",
+    "Name": "Toe Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 87,
+    "Type": "Moves While Crouching",
+    "Name": "Snap Uppercut",
+    "Description": "While rising {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves While Crouching",
+    "Name": "Leg Breaker",
+    "Description": "While crouching {df,1}",
+    "Properties": "",
+    "Comment": "Or {f,n,d,df-hold,1}"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves While Crouching",
+    "Name": "Body Blow",
+    "Description": "While crouching {df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Moves during Sidestep",
+    "Name": "Victory Palm",
+    "Description": "During sidestep {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Sidestep",
+    "Name": "Deadly Boomerang",
+    "Description": "During sidestep {3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves While Down",
+    "Name": "Whilring Spring Kick",
+    "Description": "(By opponent's feet) while down and facing up {b,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "Moves While Facing Backward",
+    "Name": "Blind Kick",
+    "Description": "Back facing opponent {3}",
+    "Properties": "Tornado Move",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "Moves While Facing Backward",
+    "Name": "Blind Kick > Neck Breaker",
+    "Description": "Back facing opponent {3}, during close range hit on ground {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 95,
+    "Type": "Moves While Facing Backward",
+    "Name": "Atomic Blaster",
+    "Description": "Back facing opponent {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 96,
+    "Type": "Moves While Facing Backward",
+    "Name": "Moonsault Body Press",
+    "Description": "Back facing opponent {1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "Moves during Jaguar Step",
+    "Name": "Jaguar Step",
+    "Description": "{3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Jaguar Step, hold {3+4} to continue spinning (strikes from this are powered up)"
+  },
+  {
+    "Id": 98,
+    "Type": "Moves during Jaguar Step",
+    "Name": "Jaguar Step > Hook",
+    "Description": "During Jaguar Step {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Jaguar Step",
+    "Name": "Jaguar Step > Hammer",
+    "Description": "During Jaguar Step {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Jaguar Step",
+    "Name": "Jaguar Step > Sobat",
+    "Description": "During Jaguar Step {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 101,
+    "Type": "Moves during Jaguar Step",
+    "Name": "Jaguar Step > Sobat & Press",
+    "Description": "During Jaguar Step {3,2+3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range"
+  },
+  {
+    "Id": 102,
+    "Type": "Moves during Jaguar Step",
+    "Name": "Jaguar Step > High Kick",
+    "Description": "During Jaguar Step {4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 103,
+    "Type": "Moves during Jaguar Step",
+    "Name": "Jaguar Step > Mid Kick",
+    "Description": "During Jaguar Step {df,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 104,
+    "Type": "Moves during Jaguar Sprint",
+    "Name": "Jaguar Sprint",
+    "Description": "{f,3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel, Power Crush during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 105,
+    "Type": "Moves during Jaguar Sprint",
+    "Name": "Running Elbow Smash",
+    "Description": "During Jaguar Sprint {1}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 106,
+    "Type": "Moves during Jaguar Sprint",
+    "Name": "Jaguar Axe",
+    "Description": "During Jaguar Sprint {2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 107,
+    "Type": "Moves during Jaguar Sprint",
+    "Name": "Sprint K.",
+    "Description": "During Jaguar Sprint {3}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 108,
+    "Type": "Moves during Jaguar Sprint",
+    "Name": "Dashing Low Drop Kick",
+    "Description": "During Jaguar Sprint {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 109,
+    "Type": "Moves during Jaguar Sprint",
+    "Name": "Rapid King Onslaught",
+    "Description": "During Jaguar Sprint {1+3} (or {2+4})",
+    "Properties": "Heat Engager",
+    "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
+  },
+  {
+    "Id": 110,
+    "Type": "Moves during Jaguar Sprint",
+    "Name": "Diving Body Press",
+    "Description": "During Jaguar Sprint {2+3}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front in close range"
+  },
+  {
+    "Id": 111,
+    "Type": "Throws",
+    "Name": "Winding Nut",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 112,
+    "Type": "Throws",
+    "Name": "Winding Nut",
+    "Description": "Approach opponent {f,1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 113,
+    "Type": "Throws",
+    "Name": "Suplex",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 114,
+    "Type": "Throws",
+    "Name": "Suplex",
+    "Description": "Approach opponent {f,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 115,
+    "Type": "Throws",
+    "Name": "Argentina Backbreaker",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 116,
+    "Type": "Throws",
+    "Name": "Knee Crusher",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 117,
+    "Type": "Throws",
+    "Name": "Half Boston Crab",
+    "Description": "Approach opponent from behind {1+3} (or {f,1+3})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 118,
+    "Type": "Throws",
+    "Name": "Cobra Twist",
+    "Description": "Approach opponent from behind {2+4}, (or {f,2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 119,
+    "Type": "Throws",
+    "Name": "Stretch Buster",
+    "Description": "Approach opponent from behind {b,f,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 120,
+    "Type": "Throws",
+    "Name": "Knee Bash",
+    "Description": "Approach opponent {df,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 121,
+    "Type": "Throws",
+    "Name": "Figure Four Leg Lock",
+    "Description": "Approach opponent {db,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, when opponent inputs {3+4} (Just Input) shift to Reverse Figure Four Leg Lock"
+  },
+  {
+    "Id": 122,
+    "Type": "Throws",
+    "Name": "Throw Away",
+    "Description": "Approach opponent {b,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, shift to Jaguar Sprint, approach opponent {b,1+2,f,f-hold} to shift to standing state"
+  },
+  {
+    "Id": 123,
+    "Type": "Throws",
+    "Name": "Throw Away > Back Swing",
+    "Description": "Approach opponent {b,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape, shift to Jaguar Sprint, approach opponent {b,1+2,1+2,f,f-hold} to shift to standing state"
+  },
+  {
+    "Id": 124,
+    "Type": "Throws",
+    "Name": "Executioner Drop",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, approach opponent {uf,1+2,b-hold} to throw in reverse direction"
+  },
+  {
+    "Id": 125,
+    "Type": "Throws",
+    "Name": "Tombstone Pile Driver",
+    "Description": "Approach opponent {db,n,f,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 126,
+    "Type": "Throws",
+    "Name": "Tomahawk",
+    "Description": "Approach opponent {f,f,f-hold,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, power up with quick input, partially restores remaining Heat time"
+  },
+  {
+    "Id": 127,
+    "Type": "Throws",
+    "Name": "Pile Driver",
+    "Description": "Approach opponent {d,df,f,1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 128,
+    "Type": "Throws",
+    "Name": "Double Arm Face Buster",
+    "Description": "During Pile Driver {1+2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 129,
+    "Type": "Throws",
+    "Name": "Boston Crab",
+    "Description": "During Pile Driver {1+2,3,4,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 130,
+    "Type": "Throws",
+    "Name": "Muscle Buster",
+    "Description": "Approach opponent {d,db,b,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, during Heat partially restore remaining Heat time"
+  },
+  {
+    "Id": 131,
+    "Type": "Throws",
+    "Name": "Giant Swing",
+    "Description": "Approach opponent {f,b,db,d,df,f,1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}, opponent can reduce damage with side ukemi, power up with quick input, partially restores remaining Heat time"
+  },
+  {
+    "Id": 132,
+    "Type": "Throws",
+    "Name": "Tijuana Twister",
+    "Description": "Approach opponent {f,b,db,d,df,f,2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, power up with quick input, partially restores remaining Heat time"
+  },
+  {
+    "Id": 133,
+    "Type": "Throws",
+    "Name": "Clothesline Press",
+    "Description": "Whlie crouching {db,d,db,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 134,
+    "Type": "Throws",
+    "Name": "Ultimate Tackle",
+    "Description": "Whlie crouching {1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, shift to takedown on hit"
+  },
+  {
+    "Id": 135,
+    "Type": "Throws",
+    "Name": "Ultimate Punch",
+    "Description": "During takedown {2,1,2,1}",
+    "Properties": "",
+    "Comment": "Or during takedown {1,2,1,2}, throw escape {1} (or {2})"
+  },
+  {
+    "Id": 136,
+    "Type": "Throws",
+    "Name": "Armbar",
+    "Description": "During takedown {1+2}",
+    "Properties": "",
+    "Comment": "Shift is also possible after the third hit of Ultimate Punch, throw escape {1+2}"
+  },
+  {
+    "Id": 137,
+    "Type": "Throws",
+    "Name": "Arm Twist",
+    "Description": "During Armbar {1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 138,
+    "Type": "Throws",
+    "Name": "Leg Cross Hold",
+    "Description": "During takedown {3+4}",
+    "Properties": "",
+    "Comment": "Shift is also possible after the third hit of Ultimate Punch, throw escape {3+4}"
+  },
+  {
+    "Id": 139,
+    "Type": "Throws",
+    "Name": "Stretch Combo",
+    "Description": "During Leg Cross Hold {1+2} (Perfect)",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 140,
+    "Type": "Throws",
+    "Name": "Iron Lariat",
+    "Description": "Approach crouching opponent {d,1+3}",
+    "Properties": "",
+    "Comment": "Or {db,1+3}, cannot throw escape"
+  },
+  {
+    "Id": 141,
+    "Type": "Throws",
+    "Name": "V Driver",
+    "Description": "Approach crouching opponent {d,2+4}",
+    "Properties": "",
+    "Comment": "Or {db,2+4}, cannot throw escape"
+  },
+  {
+    "Id": 142,
+    "Type": "Throws",
+    "Name": "Freedom Face Buster",
+    "Description": "Approach crouching opponent {d,1+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Or {db,1+4}, cannot throw escape, partially restores remaining Heat time, unable to shift to Heat Dash"
+  },
+  {
+    "Id": 143,
+    "Type": "Throws",
+    "Name": "Swing Away",
+    "Description": "(Opponent down and facing up) by opponent's feet {db,1+3} (or {db,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 144,
+    "Type": "Throws",
+    "Name": "Head Bomber",
+    "Description": "(Opponent down and facing up) by opponent's feet {db-hold,1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 145,
+    "Type": "Throws",
+    "Name": "Figure Four Leg Lock",
+    "Description": "(Opponent down and facing up) by opponent's feet {db-hold,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 146,
+    "Type": "Throws",
+    "Name": "Shoulder Cracker",
+    "Description": "(Opponent down and facing up) by opponent's head {db,1+3} (or {db,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 147,
+    "Type": "Throws",
+    "Name": "Turn Over",
+    "Description": "(Opponent down and facing up) by opponent's side {db,1+3} (or {db,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 148,
+    "Type": "Throws",
+    "Name": "Half Boston Crab",
+    "Description": "(Opponent down and facing up) by opponent's feet {db,1+3} (or {db,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 149,
+    "Type": "Throws",
+    "Name": "Wing Tearer",
+    "Description": "(Opponent down and facing up) by opponent's head {db,1+3} (or {db,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 150,
+    "Type": "Throws",
+    "Name": "Camel Clutch",
+    "Description": "(Opponent down and facing down) from the left {db,1+3} (or {db,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 151,
+    "Type": "Throws",
+    "Name": "Bow & Arrow Stretch Hold",
+    "Description": "(Opponent down and facing down) from the right {db,1+3} (or {db,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 152,
+    "Type": "Throws",
+    "Name": "Mid-Air Leg Cross Hold",
+    "Description": "Approach airborne opponent {1+3} (or {f,1+3})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 153,
+    "Type": "Throws",
+    "Name": "Spine Cracker",
+    "Description": "Approach airborne opponent {2+4} (or {f,2+4})",
+    "Properties": "Tornado Move",
+    "Comment": "Or (during opponent wall stun) {3+4,1+4} (or {3+4,2+3}), cannot throw escape"
+  },
+  {
+    "Id": 154,
+    "Type": "Throws",
+    "Name": "Double Heel Hold",
+    "Description": "Approach airborne opponent {d,1+3} (or {d,2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 155,
+    "Type": "Throws",
+    "Name": "Flapjack",
+    "Description": "Approach airborne opponent during Double Heel Hold {1+2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 156,
+    "Type": "Throws",
+    "Name": "Giant Swing",
+    "Description": "Approach airborne opponent during Double Heel Hold {2,1,3,4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 157,
+    "Type": "Throws",
+    "Name": "Running Jaguar Bomb",
+    "Description": "Approach airborne opponent {f,f,f-hold,2+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape, power up with quick input, partially restores remaining Heat time"
+  },
+  {
+    "Id": 158,
+    "Type": "Throws",
+    "Name": "Aerial Jaguar Bomb",
+    "Description": "Approach airborne opponent {f,b,db,d,df,f,1}",
+    "Properties": "",
+    "Comment": "Or approach airborne opponent {f,b,db,d,df,f,2} (or during Jaguar Sprint {1+3}), cannot throw escape, power up with quick input, partially restores remaining Heat time"
+  },
+  {
+    "Id": 159,
+    "Type": "Throws",
+    "Name": "Shining Torpedo",
+    "Description": "During opponent wall stun {f,b,db,d,df,f,1}",
+    "Properties": "",
+    "Comment": "Or (during opponent wall stun) {f,f,f-hold,2+4}, cannot throw escape, power up with quick input, partially restores remaining Heat time"
+  },
+  {
+    "Id": 160,
+    "Type": "Attack Reversal",
+    "Name": "Arm Whip",
+    "Description": "Time with opponent right punch {b,1+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 161,
+    "Type": "Attack Reversal",
+    "Name": "Spinning Heel Hold",
+    "Description": "Time with opponent left kick {b,2+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 162,
+    "Type": "Attack Reversal",
+    "Name": "Leg Screw",
+    "Description": "Time with opponent right kick {b,2+4}",
+    "Properties": "",
+    "Comment": "After sucess, {3+4} to shift to Figure Four Leg Lock"
+  },
+  {
+    "Id": 163,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado Move",
+    "Comment": ""
+  },
+  {
+    "Id": 164,
+    "Type": "Reverse Arm Slam Combo",
+    "Name": "Reverse Arm Slam",
+    "Description": "Approach opponent {df,1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 165,
+    "Type": "Reverse Arm Slam Combo",
+    "Name": "Backdrop",
+    "Description": "During Reverse Arm Slam {1} (or {2})",
+    "Properties": "",
+    "Comment": "Cannot throw escape, during Reverse Arm Slam {2,1,1+2} to power up"
+  },
+  {
+    "Id": 166,
+    "Type": "Reverse Arm Slam Combo",
+    "Name": "German Suplex",
+    "Description": "During Backdrop {1} (or {2})",
+    "Properties": "",
+    "Comment": "Throw escape {1} (or {2}), during Backdrop {3+4,1} (or {3+4,2}) to power up"
+  },
+  {
+    "Id": 167,
+    "Type": "Reverse Arm Slam Combo",
+    "Name": "Power Bomb",
+    "Description": "During German Suplex {1} (or {2})",
+    "Properties": "",
+    "Comment": "Cannot throw escape, during German Suplex {1,2,3+4} to power up"
+  },
+  {
+    "Id": 168,
+    "Type": "Reverse Arm Slam Combo",
+    "Name": "Giant Swing",
+    "Description": "During Power Bomb {1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}, during Power Bomb {2,1,3,4} to power up"
+  },
+  {
+    "Id": 169,
+    "Type": "Reverse Arm Slam Combo",
+    "Name": "Muscle Buster",
+    "Description": "During Power Bomb {2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, during Power Bomb {2,1,3,3+4,1+2} to power up"
+  },
+  {
+    "Id": 170,
+    "Type": "Reverse Special Stretch Bomb Combo",
+    "Name": "Reverse Special Stretch Bomb",
+    "Description": "Approach opponent {df,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 171,
+    "Type": "Reverse Special Stretch Bomb Combo",
+    "Name": "Reverse Special Stretch Bomb",
+    "Description": "During sidestep {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, during sidestep {2+4,b-hold} (or {db-hold}) to cancel into crouch; changes to Cannonball Buster when grabbed from the side or back"
+  },
+  {
+    "Id": 172,
+    "Type": "Reverse Special Stretch Bomb Combo",
+    "Name": "Cannonball Buster",
+    "Description": "During Reverse Special Stretch Bomb {1} (or {2})",
+    "Properties": "",
+    "Comment": "Cannot throw escape, during Reverse Speical Stretch Bomb {2,2,1+2} to power up"
+  },
+  {
+    "Id": 173,
+    "Type": "Reverse Special Stretch Bomb Combo",
+    "Name": "Manhattan Drop",
+    "Description": "During Cannonball Buster {1} (or {2})",
+    "Properties": "",
+    "Comment": "Throw escape {1} (or {2}), during Cannonball Buster {3+4,1} (or {3+4,2}) to power up"
+  },
+  {
+    "Id": 174,
+    "Type": "Reverse Special Stretch Bomb Combo",
+    "Name": "Victory Bomb",
+    "Description": "During Manhattan Drop {1} (or {2})",
+    "Properties": "",
+    "Comment": "Cannot throw escape, during Manhattan Drop {1,2,3+4,1+2} to power up"
+  },
+  {
+    "Id": 175,
+    "Type": "Reverse Special Stretch Bomb Combo",
+    "Name": "Giant Swing",
+    "Description": "During Victory Bomb {1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}, during Victory Bomb {2,1,3,4} to power up"
+  },
+  {
+    "Id": 176,
+    "Type": "Reverse Special Stretch Bomb Combo",
+    "Name": "Muscle Buster",
+    "Description": "During Victory Bomb {2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, during Victory Bomb {3,1,2,3+4,1+2} to power up"
+  },
+  {
+    "Id": 177,
+    "Type": "Standing Heel Hold Combo",
+    "Name": "Standing Heel Hold",
+    "Description": "Approach opponent {f,n,d,df-hold,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 178,
+    "Type": "Standing Heel Hold Combo",
+    "Name": "S.T.F.",
+    "Description": "During Standing Heel Hold {1,2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 179,
+    "Type": "Standing Heel Hold Combo",
+    "Name": "Scorpion Death Lock",
+    "Description": "During Standing Heel Hold {2,1,1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 180,
+    "Type": "Standing Heel Hold Combo",
+    "Name": "Indian Death Lock",
+    "Description": "During Standing Heel Hold {1+2,1,3}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 181,
+    "Type": "Standing Heel Hold Combo",
+    "Name": "King's Bridge",
+    "Description": "During Standing Heel Hold {3,4,1+2,3+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 182,
+    "Type": "Arm Breaker Combo",
+    "Name": "Arm Breaker",
+    "Description": "Approach opponent {f,n,d,df-hold,1+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 183,
+    "Type": "Arm Breaker Combo",
+    "Name": "Triple Arm Breaker",
+    "Description": "During Arm Breaker {1,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 184,
+    "Type": "Arm Breaker Combo",
+    "Name": "Head Jammer",
+    "Description": "During Arm Breaker {2,4,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 185,
+    "Type": "Arm Breaker Combo",
+    "Name": "Struggle Combination",
+    "Description": "During Head Jammer {3,4,3+4,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 186,
+    "Type": "Arm Breaker Combo",
+    "Name": "Chicken Wing Face Lock",
+    "Description": "During Arm Breaker {2,1,1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 187,
+    "Type": "Arm Breaker Combo",
+    "Name": "Dragon Sleeper Finish",
+    "Description": "During Chicken Wing Face Lock {2,1,3,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 188,
+    "Type": "Arm Breaker Combo",
+    "Name": "Rolling Death Cradle",
+    "Description": "During Chicken Wing Face Lock {1,3,4,2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 189,
+    "Type": "Mexican Magma Drive",
+    "Name": "Cobra Clutch",
+    "Description": "Approach opponent during Jaguar Step {1+4} (or {2+3})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 190,
+    "Type": "Mexican Magma Drive",
+    "Name": "Cobra Twist",
+    "Description": "During Cobra Clutch {1,4,2,3}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 191,
+    "Type": "Mexican Magma Drive",
+    "Name": "Reverse DDT",
+    "Description": "During Cobra Twist {1,1+3} (or {2,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 192,
+    "Type": "Mexican Magma Drive",
+    "Name": "Reverse Special Stretch Bomb",
+    "Description": "During Reverse DDT {1+2,1,1+3} (or {1+2,2,3+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 193,
+    "Type": "Mexican Magma Drive",
+    "Name": "Samurai Rock",
+    "Description": "During Reverse DDT {2,3,1,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 194,
+    "Type": "Mexican Magma Drive",
+    "Name": "Backdrop",
+    "Description": "During Reverse Special Stretch Bomb {3+4,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 195,
+    "Type": "Mexican Magma Drive",
+    "Name": "Sol Naciente",
+    "Description": "During Backdrop {1+2,4,2,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 196,
+    "Type": "Mexican Magma Drive",
+    "Name": "Burning Hammer",
+    "Description": "During Backdrop {1+2,3,1+3} (or {1+2,4,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 197,
+    "Type": "Mexican Magma Drive",
+    "Name": "Screwdriver",
+    "Description": "During Burning Hammer {2,4,3,1,1+3} (or {2,4,3,1,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  }
+]

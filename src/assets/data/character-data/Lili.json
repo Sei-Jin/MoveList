@@ -1,0 +1,898 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can use power up Feisty Rabbit",
+    "Properties": "",
+    "Comment": "{b,3} > during Feisty Rabbit {3}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of the powered up version of Piercing Thorn",
+    "Properties": "",
+    "Comment": "{1,2,4}, {f,f-hold,3+4}, etc."
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Peakcock Waltz",
+    "Description": "{3,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Black Swan",
+    "Description": "{3+4}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Nocturne",
+    "Description": "{u}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Scorpio's Sting",
+    "Description": "Back facing opponent ({b,3+4}, etc.) {1,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Rabbit Song",
+    "Description": "During Fiesty Rabbit ({b,3}, etc.) {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "White Swan Mezzo Forte",
+    "Description": "During Heat {2+3}",
+    "Properties": "Homing Attack",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Rosa Giganteia Mezzo Forte",
+    "Description": "During Heat (back facing opponent) {2+3}",
+    "Properties": "Homing Attack",
+    "Comment": "Heat Smash"
+  },
+  {
+    "Id": 14,
+    "Type": "Rage Moves",
+    "Name": "La Vie en Rose fortississimo",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Tricolore",
+    "Description": "{1,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Left Right Thrust",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Left Right Back Strike",
+    "Description": "{1,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Left Right Piercing Thorn",
+    "Description": "{1,2,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Sunrise Sunset",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Bed Time",
+    "Description": "{2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Peacock Waltz",
+    "Description": "{3,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Peacock Jive",
+    "Description": "{3,2,3}",
+    "Properties": "",
+    "Comment": "{3,2,f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Broken Heart",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Black Swan",
+    "Description": "{3+4}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Mars Sword",
+    "Description": "{f,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Circle Knee",
+    "Description": "{f,3}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Bélier Attaque",
+    "Description": "{f,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Kitty Claws",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Sundial",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Garland Kick Combo",
+    "Description": "{f,3+4,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Orleans Sword",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": "{df,2,b-hold} to face backward"
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Submissive Heel",
+    "Description": "{df,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Dominating Heel",
+    "Description": "{df,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Backflip",
+    "Description": "{df,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Backflip Spinning edge",
+    "Description": "{df,3+4,3+4}",
+    "Properties": "",
+    "Comment": "{df,3+4} to face backward"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Heavy Languish",
+    "Description": "{d,1,2,4}",
+    "Properties": "",
+    "Comment": "{d,1,d-hold} to directly shift to crouching state, {d,1,2,b-hold} to face backward"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Bloody Masquerade Piton",
+    "Description": "{d,2,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Bloody Masquerade Lance",
+    "Description": "{d,2,2,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Thorn Whip",
+    "Description": "{d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Barcarolle",
+    "Description": "{d,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Matterhorn Ascension",
+    "Description": "{d,3+4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Twist of Fate",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Edelweiss",
+    "Description": "{db,4}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Freesia Thrust",
+    "Description": "{db,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Élysée Le Bras Allongé Caracole",
+    "Description": "{b,1,4}",
+    "Properties": "Tornado",
+    "Comment": "{b,1,f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Heliotrope Corsage",
+    "Description": "{b,2,1,1+2}",
+    "Properties": "",
+    "Comment": "{b,2,1,b-hold} to face backward, {b,2,1,f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Feisty Rabbit",
+    "Description": "{b,3}",
+    "Properties": "",
+    "Comment": "Or {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Dendrobium",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Mirror Image",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Back towards opponent"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Piercing Thorn Fortissimo",
+    "Description": "{b,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Shattered Crown",
+    "Description": "{ub,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Moonsault Alstroemeria",
+    "Description": "{u,3,3} on hit or block {3+4}",
+    "Properties": "",
+    "Comment": "Or {ub,3,3,3+4}, {u,3,f-hold} (or {u,3,3,f-hold}) to shift to Dew Glide"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Divine Step",
+    "Description": "{u,3+4}",
+    "Properties": "",
+    "Comment": "Throw when hit from close range on the ground"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Stinging Nettle",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Or {ub,2} or {u,2}"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Capricorn Kick",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Sunflower Lance",
+    "Description": "{uf,4,3}",
+    "Properties": "Tornado",
+    "Comment": "{uf,4,b-hold} to face backward"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Angel Knee > Front Kick",
+    "Description": "{uf,3+4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Angel Knee Ascension",
+    "Description": "{uf,3+4,3+4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Allonger Le Bras",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Alstromeria",
+    "Description": "{f,f-hold,3} on hit or block {3+4}",
+    "Properties": "",
+    "Comment": "{f,f-hold,3,f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Root of Evil",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": "{f,f-hold,4,b-hold} to face backward"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Lashing Iris",
+    "Description": "{f,f-hold,1+2}",
+    "Properties": "Homing Attack",
+    "Comment": "Hold to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Lashing Iris Forte",
+    "Description": "{f,f-hold,1+2} hold",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Piercing Thorn",
+    "Description": "{f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Sabre Slash",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{4,1,3,4,4,3,4,4,3+4}",
+    "Properties": "",
+    "Comment": "Throw when hit from close range on the ground"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{4,1,3,3+4,3,4,3,1,3+4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 3",
+    "Description": "{4,1,3,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Sullen Daisy",
+    "Description": "While rising {1,2,4}",
+    "Properties": "",
+    "Comment": "While rising {1,2,f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 72,
+    "Type": "Moves While Crouching",
+    "Name": "Delicate Uprising",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": "While rising {2,b-hold} to face backward"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves While Crouching",
+    "Name": "Honeysuckle",
+    "Description": "While rising {3,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Moves While Crouching",
+    "Name": "Cane Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Crouching",
+    "Name": "Slashing Vine",
+    "Description": "While rising {df,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 76,
+    "Type": "Moves While Crouching",
+    "Name": "Horizon Slide",
+    "Description": "While rising {df,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 77,
+    "Type": "Moves during Sidestep",
+    "Name": "Stunning Toe Kick",
+    "Description": "During sidestep {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 78,
+    "Type": "Moves during Sidestep",
+    "Name": "Demilune",
+    "Description": "During sidestep {4}",
+    "Properties": "",
+    "Comment": "During sidestep {4,b,3} (or {b,4}) to shift to Feisty Rabbit"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves during Sidestep",
+    "Name": "Minuet",
+    "Description": "During sidestep {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Facing Backward",
+    "Name": "Fierbois Sword",
+    "Description": "Back facing opponent {1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Facing Backward",
+    "Name": "Scorpio's Sting",
+    "Description": "Back facing opponent {1,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Facing Backward",
+    "Name": "Rompez Fleuret",
+    "Description": "Back facing opponent {2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Facing Backward",
+    "Name": "Arc-en-Ciel",
+    "Description": "Back facing opponent {3,4}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Facing Backward",
+    "Name": "Shears > Spinning Edge",
+    "Description": "Back facing opponent {4,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Moves While Facing Backward",
+    "Name": "Tempest",
+    "Description": "Back facing opponent {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves While Facing Backward",
+    "Name": "Twist Backflip",
+    "Description": "Back facing opponent {3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 87,
+    "Type": "Moves While Facing Backward",
+    "Name": "Petal Sweep",
+    "Description": "Back facing opponent {d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves While Facing Backward",
+    "Name": "Autumn Wind",
+    "Description": "Back facing opponent {d,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "Moves While Facing Backward",
+    "Name": "Graceful Low Kick",
+    "Description": "Back facing opponent {d,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Moves While Facing Backward",
+    "Name": "Orchid RIng",
+    "Description": "Back facing opponent {d,3+4}",
+    "Properties": "",
+    "Comment": "{d,3+4,f-hold} to face forward"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves While Facing Backward",
+    "Name": "Feisty Rabbit",
+    "Description": "Back facing opponent {b,3}",
+    "Properties": "",
+    "Comment": "Or back toward enemy {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 92,
+    "Type": "During Dew Glide",
+    "Name": "Dew Glide",
+    "Description": "{d,df,f}",
+    "Properties": "",
+    "Comment": "{d,df-hold} to cancel and directly shift to crouching state, {b,3} (or {b,4}) to shift to Feisty Rabbit"
+  },
+  {
+    "Id": 93,
+    "Type": "During Dew Glide",
+    "Name": "Rose Pique",
+    "Description": "{d,df,f,1,2}",
+    "Properties": "",
+    "Comment": "{d,df,f,1,2,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 94,
+    "Type": "During Dew Glide",
+    "Name": "Rose Piercing Thorn",
+    "Description": "{d,df,f,1,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 95,
+    "Type": "During Dew Glide",
+    "Name": "Nocturne",
+    "Description": "{d,df,f,2,1}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 96,
+    "Type": "During Dew Glide",
+    "Name": "Platinum Grace",
+    "Description": "{d,df,f,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "During Dew Glide",
+    "Name": "Angel Heart",
+    "Description": "{d,df,f,1+2}",
+    "Properties": "Tornado, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 98,
+    "Type": "During Dew Glide",
+    "Name": "Cloisonne",
+    "Description": "{d,df,f,3+4}",
+    "Properties": "",
+    "Comment": "{d,df,f,3+4,b,3} (or {b,4}) to shift to Feisty Rabbit"
+  },
+  {
+    "Id": 99,
+    "Type": "During Fiesty Rabbit",
+    "Name": "Feisty Rabbit",
+    "Description": "{b,3}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Feisty Rabbit, {f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 100,
+    "Type": "During Fiesty Rabbit",
+    "Name": "Rabbit Song",
+    "Description": "During Feisty Rabbit {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 101,
+    "Type": "During Fiesty Rabbit",
+    "Name": "Rabbit Dance",
+    "Description": "During Feisty Rabbit {3}",
+    "Properties": "Homing Attack",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 102,
+    "Type": "During Fiesty Rabbit",
+    "Name": "Rabbit Piercing Thorn",
+    "Description": "During Feisty Rabbit {4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 103,
+    "Type": "During Fiesty Rabbit",
+    "Name": "Feisty Rabbit Deuxième",
+    "Description": "{b-hold,3} hold",
+    "Properties": "",
+    "Comment": "Or {b-hold,4} hold, shift to Feisty Rabbit Deuxième, can shift to into moves from Feisty Rabbit, partially restores remaining Heat time, {f-hold} to shift to Dew Glide"
+  },
+  {
+    "Id": 104,
+    "Type": "Throws",
+    "Name": "Kiss of Devotion",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 105,
+    "Type": "Throws",
+    "Name": "Femme Fatale",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 106,
+    "Type": "Throws",
+    "Name": "Soleil",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 107,
+    "Type": "Throws",
+    "Name": "Monaco Mixer",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 108,
+    "Type": "Throws",
+    "Name": "Ravaging Beauty",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 109,
+    "Type": "Throws",
+    "Name": "Rafflesia",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 110,
+    "Type": "Throws",
+    "Name": "Larkspur",
+    "Description": "During opponent wall stun {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape"
+  },
+  {
+    "Id": 111,
+    "Type": "Attack Reversal",
+    "Name": "Attack Reversal",
+    "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

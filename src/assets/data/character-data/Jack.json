@@ -1,0 +1,1090 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of moves while Gamma Charge is activated",
+    "Properties": "",
+    "Comment": "During Gamma Howl {2}, during Gamma Howl {1}"
+  },
+  {
+    "Id": 5,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Piston Gun Assault",
+    "Description": "{b,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Hold to power up (chip damage on block)"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Tyulpan Blast",
+    "Description": "{b,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Full Metal Deathblow",
+    "Description": "During Gamma Howl ({3+4}, etc.) {4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Particle Barrier",
+    "Description": "During Gamma Howl ({3+4}, etc.) {3+4}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Iron Gunman",
+    "Description": "Approach crouching opponent {d,3+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Meteor Raid",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 12,
+    "Type": "Rage Moves",
+    "Name": "Terraforming Cannon",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 13,
+    "Type": "Normal Moves",
+    "Name": "Jab > Jackhammer",
+    "Description": "{1,1}",
+    "Properties": "",
+    "Comment": "{1,1,d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Jab > Stunning Hook",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Jab Elbow Smash",
+    "Description": "{2,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Piston Gun Fusillade",
+    "Description": "{2,1,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Mimesis Savage Knee",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Tornado Punch",
+    "Description": "{1+2}",
+    "Properties": "Tornado, Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Gamma Howl",
+    "Description": "{3+4}",
+    "Properties": "Power Crush",
+    "Comment": "Or while rising {3+4}, shift to Gamma howl, abosrb an attack to activate Gamma Charge"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Gigaton Punch",
+    "Description": "{1+4,1}",
+    "Properties": "",
+    "Comment": "{b,db,d,df,f,1} to power up, chip damage on block"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Gigaton Punch",
+    "Description": "{1+4} hold, then {1}",
+    "Properties": "",
+    "Comment": "{1+4} hold or {b,db,d,df,f-hold} to increase rotation"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Windup Uppercut",
+    "Description": "{1+4,df,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Prime Windup Uppercut",
+    "Description": "{1+4,df,1} (quick input)",
+    "Properties": "Tornado",
+    "Comment": "{b,db,d,df,f,df,1} (quick input) to power up"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Impact Driver",
+    "Description": "{f,1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Drilling Engine",
+    "Description": "{f,1,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Piston Gun Blaster",
+    "Description": "{f,1,2,2}",
+    "Properties": "",
+    "Comment": "Hold at last step to power up (chip damage on block)"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Pinpoint Assault",
+    "Description": "{f,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Two-Step Die",
+    "Description": "{f,3,2}",
+    "Properties": "",
+    "Comment": "Or while rising {3,2}, {f,3,d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Machine Press",
+    "Description": "{f,3,1+2}",
+    "Properties": "",
+    "Comment": "Or while rising {3,1+2}, {f,3,d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Dark Greeting",
+    "Description": "{f,LB,4,1,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Sudden Elbow",
+    "Description": "{f,LB,4,1,RB,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Rolling Death Crusher",
+    "Description": "{f,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Merkabah Headbutt",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": "{f,3+4,d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Overheat",
+    "Description": "{df,1,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Overdrive",
+    "Description": "{df,1,2,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Programmed Uppercut",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Cosmic Sweeper",
+    "Description": "{df,2,1}",
+    "Properties": "",
+    "Comment": "Hold at last step to power up, {df,2,1,d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Cosmic Sweeper",
+    "Description": "{df,2,1} hold",
+    "Properties": "Tornado",
+    "Comment": "{df,2,1} hold, then {d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Combine Harvester",
+    "Description": "{df,3,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Mimesis Wrench Kick",
+    "Description": "{df,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Dump truck",
+    "Description": "{df,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Body Press",
+    "Description": "{df,1+3}",
+    "Properties": "",
+    "Comment": "Throw when hit form the front in close range"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Heel Driller",
+    "Description": "{df,1+3} during hit {1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Debugger",
+    "Description": "{df,1+4}",
+    "Properties": "Homing Attack",
+    "Comment": "{b,db,d,df,1} to power up"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Megaton Blast",
+    "Description": "{df,2+3}",
+    "Properties": "",
+    "Comment": "{b,db,d,df,1} to power up"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Double Axe",
+    "Description": "{df,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Sit Down",
+    "Description": "{d,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Sit Down"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Machinegun Blast",
+    "Description": "{db,1,1,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Power Shovel",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": "Hold to power up (chip damage on block)"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Cossack Kicks",
+    "Description": "{db,3,4,3,4,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Cossack Smash",
+    "Description": "During Cossack Kicks {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Cossack Compactor",
+    "Description": "During Cossack Kicks approach (crouching opponent) {d,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Big Boot",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Megaton Earthquake",
+    "Description": "{db,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Double Biceps",
+    "Description": "{b,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Piston Gun Assault",
+    "Description": "{b,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Hold to power up (chip damage on block)"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Mad Dozer",
+    "Description": "{b,3,2,2}",
+    "Properties": "",
+    "Comment": "{b,3,2,d-hold} to shift to Gamma Howl, hold at last step to power up (chip damage on block)"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Sherman Stomp",
+    "Description": "{b,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Tyulpan Blast",
+    "Description": "{b,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Barrel Jacket Hammer",
+    "Description": "{ub,1+2}",
+    "Properties": "Power Crush, Homing Attack",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Patriot Fist",
+    "Description": "{u,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Giant Foot Stomp",
+    "Description": "{u,3+4}",
+    "Properties": "",
+    "Comment": "Or {ub,3+4}, {u,3+4,3+4,3+4,3+4,3+4} to power up"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Sky Sweeper",
+    "Description": "{uf,1}",
+    "Properties": "Tornado",
+    "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1,d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Sky Sweeper",
+    "Description": "{uf,1} hold",
+    "Properties": "Tornado",
+    "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1} hold {d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Reactor Elbow",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Or {ub,2} or {u,2}"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Terrapulser",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3} or {u,3}, on hit shift to Gamma Howl"
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Pancake Press",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Sit Down"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Jackhammer",
+    "Description": "{f,f-hold,1}",
+    "Properties": "",
+    "Comment": "{f,f-hold,1,d-hold} to shift to Gamma Howl"
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Rocket Uppercut",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Hold to power up (chip damage on block)"
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Granite Stomping",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": "{f,f-hold,3,d-hold} to directly shift to crouching state"
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "Rocket Kick",
+    "Description": "{f,f-hold,4}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "Cross Cut Blast",
+    "Description": "{f,f-hold,1+2,2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 73,
+    "Type": "Normal Moves",
+    "Name": "High and Low Cross Cut",
+    "Description": "{f,f-hold,1+2,1+2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Normal Moves",
+    "Name": "Sliding Attack",
+    "Description": "{f,f-hold,1+4}",
+    "Properties": "",
+    "Comment": "Low attack on landing"
+  },
+  {
+    "Id": 75,
+    "Type": "Normal Moves",
+    "Name": "Cemaho Chop",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 76,
+    "Type": "Normal Moves",
+    "Name": "Mimesis Charging Tackle",
+    "Description": "{f,f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 77,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{d,2,1,1,1,2,1,2,1,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Or while crouching {2,1,1,1,2,1,2,1,1+2,1+2}"
+  },
+  {
+    "Id": 78,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{d,2,1,1,1,2,1,2,1,d,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Or while crouching {2,1,1,1,2,1,2,1,d,1+2,1+2}"
+  },
+  {
+    "Id": 79,
+    "Type": "Special Move",
+    "Name": "Taunt",
+    "Description": "{1+2+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Crouching",
+    "Name": "Killing Uppercut",
+    "Description": "While rising {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Crouching",
+    "Name": "V-Twin",
+    "Description": "While rising {2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Crouching",
+    "Name": "V-Deathblow",
+    "Description": "While rising {2,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Crouching",
+    "Name": "Toe Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Moves While Crouching",
+    "Name": "Double Hammer Thrash",
+    "Description": "While rising {1+2,1+2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves While Crouching",
+    "Name": "Double Low Hammer",
+    "Description": "While crouching {1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 87,
+    "Type": "Moves While Crouching",
+    "Name": "Megaton Strike",
+    "Description": "While crouching {1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves While Crouching",
+    "Name": "Low Cross Combo",
+    "Description": "While crouching {1+2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "Moves While Crouching",
+    "Name": "Windmill Punches",
+    "Description": "While crouching {df,1,2,1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Moves While Crouching",
+    "Name": "Swing R Knuckle",
+    "Description": "While crouching {df,2,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 91,
+    "Type": "Moves While Crouching",
+    "Name": "Swing R Knuckle High",
+    "Description": "While crouching {df,2,f,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 92,
+    "Type": "Moves While Crouching",
+    "Name": "Swing R Knuckle Low",
+    "Description": "While crouching {df,2,d,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "Moves While Crouching",
+    "Name": "Mimesis Spike Press",
+    "Description": "While crouching {df,4,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "Moves While Crouching",
+    "Name": "Atomic Shoulder Tackle",
+    "Description": "While crouching {df,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 95,
+    "Type": "Moves While Crouching",
+    "Name": "Pulverizer",
+    "Description": "While crouching {db,1,1,1}",
+    "Properties": "",
+    "Comment": "Hold at last step to power up (chip damage on block)"
+  },
+  {
+    "Id": 96,
+    "Type": "Moves during Sidestep",
+    "Name": "Discharger",
+    "Description": "During sidestep {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "Moves during Sidestep",
+    "Name": "Piston Gun Snipe",
+    "Description": "During sidestep {2}",
+    "Properties": "",
+    "Comment": "During sidestep {2,d-hold} to shift to Gamma Howl, chip damage on block"
+  },
+  {
+    "Id": 98,
+    "Type": "Moves While Down",
+    "Name": "Get Up Punch",
+    "Description": "While down and facing up {d,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Sit Down"
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Sit Down",
+    "Name": "Sit Down",
+    "Description": "{d,3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Sit Down"
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Sit Down",
+    "Name": "Sit Punches",
+    "Description": "During Sit Down {1,2,1,2}",
+    "Properties": "",
+    "Comment": "Or during Sit Down {2,1,2,1}"
+  },
+  {
+    "Id": 101,
+    "Type": "Moves during Sit Down",
+    "Name": "Ground Assault",
+    "Description": "During Sit Down {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 102,
+    "Type": "Moves during Sit Down",
+    "Name": "Extra Pancake Press",
+    "Description": "During Sit Down {3+4}",
+    "Properties": "",
+    "Comment": "Shift to Sit Down (can shift to moves other than Extra Pancake Press)"
+  },
+  {
+    "Id": 103,
+    "Type": "Moves during Sit Down",
+    "Name": "Forward Roll",
+    "Description": "During Sit Down {f}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 104,
+    "Type": "Moves during Sit Down",
+    "Name": "Backward Roll",
+    "Description": "During Sit Down {b}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 105,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Gamma Howl",
+    "Description": "{3+4}, etc.",
+    "Properties": "Power Crush",
+    "Comment": "To Gamma Howl, partially restore remaining Heat time"
+  },
+  {
+    "Id": 106,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Juggernaut Hook",
+    "Description": "During Gama Howl {1}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 107,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Exaton Blast",
+    "Description": "During Gama Howl {2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 108,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Granite Stomping",
+    "Description": "During Gama Howl {3}",
+    "Properties": "",
+    "Comment": "During Gamma Howl {3,d-hold} to directly shift to crouching state"
+  },
+  {
+    "Id": 109,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Full Metal Deathblow",
+    "Description": "During Gama Howl {4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 110,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Particle Barrier",
+    "Description": "During Gama Howl {3+4}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 111,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Prime Windup uppercut",
+    "Description": "During Gama Howl {f,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Megalodriller",
+    "Description": "During Gama Howl {f,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 113,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Breakout Fortress",
+    "Description": "During Gama Howl {ub}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 114,
+    "Type": "Moves during Gamma Howl",
+    "Name": "Flying Fortress",
+    "Description": "During Gama Howl {uf}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 115,
+    "Type": "Moves during Gamma Charge",
+    "Name": "Gamma Charge",
+    "Description": "Time with opponent attack {3+4}",
+    "Properties": "",
+    "Comment": "Always active during Heat, absorb attack to regain recoverable health and partially restore remaining Heat time"
+  },
+  {
+    "Id": 116,
+    "Type": "Moves during Gamma Charge",
+    "Name": "Jaguar Hook - Gamma",
+    "Description": "During Gamma Charge and Gamma Howl {1}",
+    "Properties": "Homing Attack",
+    "Comment": "Chip damage on block, during Heat partially uses remaining Heat time"
+  },
+  {
+    "Id": 117,
+    "Type": "Moves during Gamma Charge",
+    "Name": "Exaton Blast - Gamma",
+    "Description": "During Gamma Charge and Gamma Howl {2}",
+    "Properties": "Tornado, Power Crush",
+    "Comment": "Chip damage on block, during Heat partially uses remaining Heat time"
+  },
+  {
+    "Id": 118,
+    "Type": "Throws",
+    "Name": "Rotary Catapult",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing Attack",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 119,
+    "Type": "Throws",
+    "Name": "Piston Gun Back Breaker",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing Attack",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 120,
+    "Type": "Throws",
+    "Name": "Side Left Bomb",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 121,
+    "Type": "Throws",
+    "Name": "Father's Love",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 122,
+    "Type": "Throws",
+    "Name": "Spinal Crush",
+    "Description": "Approach opponent from behind {1+3}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 123,
+    "Type": "Throws",
+    "Name": "Throw Away",
+    "Description": "Approach opponent from behind {2+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 124,
+    "Type": "Throws",
+    "Name": "Volcano",
+    "Description": "Approach opponent {df,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 125,
+    "Type": "Throws",
+    "Name": "Volcano Blaster",
+    "Description": "Approach opponent {df,df-hold,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 126,
+    "Type": "Throws",
+    "Name": "Body Smash",
+    "Description": "Approach opponent {db,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 127,
+    "Type": "Throws",
+    "Name": "Ground Zero",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 128,
+    "Type": "Throws",
+    "Name": "Lift Up Megaton Hit",
+    "Description": "Approach opponent {uf,1+2,d,df,2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 129,
+    "Type": "Throws",
+    "Name": "Pile Driver",
+    "Description": "Approach opponent {db,n,f,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 130,
+    "Type": "Throws",
+    "Name": "Pyramid Driver",
+    "Description": "Approach opponent {d,df,f,1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 131,
+    "Type": "Throws",
+    "Name": "Back Breaker",
+    "Description": "Approach opponent {d,db,b,2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 132,
+    "Type": "Throws",
+    "Name": "Mimesis Overkill",
+    "Description": "During Gamma Howl {1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 133,
+    "Type": "Throws",
+    "Name": "Gun Bomb",
+    "Description": "Approach crouching opponent {1+3}",
+    "Properties": "",
+    "Comment": "Or during Gamma Howl {1+3}, cannot throw escape"
+  },
+  {
+    "Id": 134,
+    "Type": "Throws",
+    "Name": "Iron Gunman",
+    "Description": "Approach crouching opponent {2+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash"
+  },
+  {
+    "Id": 135,
+    "Type": "Throws",
+    "Name": "Twin Drivers",
+    "Description": "During opponent wall stun {1+3} (or {2+4})",
+    "Properties": "Homing Attack",
+    "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape"
+  },
+  {
+    "Id": 136,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of mvoes during Lightning Glare",
+    "Properties": "",
+    "Comment": "During Lightning Glare {db,4,1,1+2}, {b,3,1,2}, {f,2,4,3}"
+  },
+  {
+    "Id": 5,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, gain Lightning Glare {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Bei Zhan Juan Long Jiao",
+    "Description": "{db,2,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Er Lang Dan Shan",
+    "Description": "{b,2,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Rising Bei Zhe Kao",
+    "Description": "While rising {4,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Bai She Tui CHuang",
+    "Description": "During Jin Ji Du Li ({f,4}, etc.) {1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Lao Pao Ba",
+    "Description": "During Fo Bu ({d,1+2}, etc.) {1+2}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Ultimate Feng Huo Lun Kick",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, throw on hit, on block {df-hold} to shift Jin Bu"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Ultimate Huo Jian Qiang Fist",
+    "Description": "During Heat and Jin JI Du Li {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash"
+  },
+  {
+    "Id": 13,
+    "Type": "Rage Moves",
+    "Name": "Transcendent Blow",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "He Zi Shou",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": "{1,2,b-hold} to shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Liang Yi Zhou",
+    "Description": "{1,2,1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Wai Bai Tui",
+    "Description": "{1,2,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Ye Chui",
+    "Description": "{1,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Lian Tan Jin Ji Du Li",
+    "Description": "{1,4}",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Xiang Long Shi Chong Tian Zhang",
+    "Description": "{2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Xiang Long Shi Ling Zhou",
+    "Description": "{2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Wu Dang Xuan Feng Jiao",
+    "Description": "{3,2,3}",
+    "Properties": "Tornado",
+    "Comment": "{3,2,3,b-hold} to cancel, {3,2,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Wu Dang Jin Ji Du Li",
+    "Description": "{3,2,4}",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li, {3,2,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Dual Thunder Fists",
+    "Description": "{1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Heng Da Er Lang Dan Shan",
+    "Description": "{f,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Heng Da Bai Tui",
+    "Description": "{f,2,4}",
+    "Properties": "",
+    "Comment": "{f,2,4,df-hold} to shift to Jin Bu"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Bai Tui",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": "{f,3,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Jin Ji Du Li",
+    "Description": "{f,4}",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Bei Zhe Kao",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Yellow Crane",
+    "Description": "{f,3+4}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Xiang Chui",
+    "Description": "{f,2+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Shuang Huan Da",
+    "Description": "{df,1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Sheng Pao",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Chuan Pao",
+    "Description": "{df,3}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Gui Xi",
+    "Description": "{df,2+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Fu Hu",
+    "Description": "{d,1}",
+    "Properties": "",
+    "Comment": "{d,1,d-hold} to directly shift to crouching state"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Pi Zhong",
+    "Description": "{d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Sao Tang Ti > Shang Bu Zhuang Zhang > Lightning Glare",
+    "Description": "{d,4,2} on hit {1+2}",
+    "Properties": "",
+    "Comment": "Gain Lightning Glare"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Fo Bu",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": "Or while crouching {d} (or {db}) {1+2}"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Bei Zhan Juan Long Jiao",
+    "Description": "{db,2,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Lie Huo Fan Jiao",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Qian Sao Lei Wang Quan",
+    "Description": "{db,4,1}",
+    "Properties": "",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Ba Wang Zhe Jiang",
+    "Description": "{db,1+2,1}",
+    "Properties": "",
+    "Comment": "{db,1+2,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Ding Zhou Jin Ji Du Li",
+    "Description": "{b,1,4}",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Ding Zhou Meng Po Kao",
+    "Description": "{b,1,1+2}",
+    "Properties": "",
+    "Comment": "{b,1,1+2,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Wu Hu Chu Dong",
+    "Description": "{b,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Er Lang Dan Shan",
+    "Description": "{b,2,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Ying Mian Tui",
+    "Description": "{b,3,1}",
+    "Properties": "",
+    "Comment": "{b,3,1,d-hold} to shift to Fo Bu, {b,3,1,b-hold} to shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Dragon's Impact",
+    "Description": "{b,4,1}",
+    "Properties": "",
+    "Comment": "{b,4,1,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Dragon's Impact > Jin Ji Du Li",
+    "Description": "{b,4,LB,1,4,RB}",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Jin Gang Hua Shan Tuo Tian Zhang",
+    "Description": "{b,1+2,1+2,2}",
+    "Properties": "",
+    "Comment": "{b,1+2,1+2,d,df,f,2} to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Tui Bu Jin Ji Du Li",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Cuo Zhang",
+    "Description": "{b,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Ye Kua",
+    "Description": "{b,2+3}",
+    "Properties": "",
+    "Comment": "Punch parry effect"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Sky Vibration",
+    "Description": "{ub,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Xiao Jia Er Lu Liang Yi Zhou",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Xiang Quan",
+    "Description": "{u,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Li Xiang Quan",
+    "Description": "{uf,1,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Chuan Chong Quan > Lightning Glare",
+    "Description": "{uf,1,2} on hit {1+2}",
+    "Properties": "",
+    "Comment": "Gain Lightning Glare"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Yue Bu Si Quan",
+    "Description": "{uf,2,1}",
+    "Properties": "",
+    "Comment": "{uf,2,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Yi Qi Jiao",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {u,3}"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Yue Bu San Jing Ti",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Shang Bu Zhuang Quan > Lightning Glare",
+    "Description": "{f,f-hold,2} on hit {1+2}",
+    "Properties": "",
+    "Comment": "Gain Lightning Glare"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Tiao Shan Fu Ren",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": "{f,f-hold,3,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Tiao Shan Pu Bu",
+    "Description": "{f,f-hold,4,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Tiao Shan Jiang Jiao",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{2,1,3,4,1,2,3,1,2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{2,1,3,2,1,3,2,4,2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "During Lightning Glare",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit / Gain Lightning Glare"
+  },
+  {
+    "Id": 70,
+    "Type": "During Lightning Glare",
+    "Name": "Jue Zhao Heng Da Bai Tui",
+    "Description": "During Lightning Glare {f,2,4,3}",
+    "Properties": "",
+    "Comment": "Or during Heat {f,2,4,3} (partially uses remaining Heat time), chip damage on block, {f,2,4,3,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 71,
+    "Type": "During Lightning Glare",
+    "Name": "Jue Zhao Qian Sao Lei Wang Quan",
+    "Description": "During Lightning Glare {db,4,1,1+2}",
+    "Properties": "",
+    "Comment": "Or during Heat {db,4,1,1+2} (partially uses remaining Heat time), chip damage on block"
+  },
+  {
+    "Id": 72,
+    "Type": "During Lightning Glare",
+    "Name": "Jue Zhao Ying Mian Tui",
+    "Description": "During Lightning Glare {b,3,1,2}",
+    "Properties": "",
+    "Comment": "Or during Heat {b,3,1,2} (partially uses remaining Heat time), chip damage on block"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves While Crouching",
+    "Name": "Huo Da Ding Zhou",
+    "Description": "While rising {1,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Moves While Crouching",
+    "Name": "Shang Bu Gua Shan",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Crouching",
+    "Name": "Liang Yi Er Tui Ya Zhou",
+    "Description": "While rising {3,1,2}",
+    "Properties": "",
+    "Comment": "While rising {3,1,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 76,
+    "Type": "Moves While Crouching",
+    "Name": "Rising Bei Zhe Kao",
+    "Description": "While rising {4,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves While Crouching",
+    "Name": "Le Kua Kao > Lightning Glare",
+    "Description": "While rising {1+2} on hit {1+2}",
+    "Properties": "",
+    "Comment": "Gain Lightning Glare"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Crouching",
+    "Name": "Hou Sao Xuan",
+    "Description": "While crouching {df,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "Moves During Sidestep",
+    "Name": "Da Kai",
+    "Description": "During sidestep {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Facing Backward",
+    "Name": "Tui Bu Dan Yi",
+    "Description": "Back facing opponent {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Moves during Jin Bu",
+    "Name": "Jin Bu",
+    "Description": "{d,df,f}",
+    "Properties": "",
+    "Comment": "{d,df-hold} to shift to crouching state"
+  },
+  {
+    "Id": 82,
+    "Type": "Moves during Jin Bu",
+    "Name": "Lei Zhang",
+    "Description": "{d,df,f,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves during Jin Bu",
+    "Name": "Lightning Spear",
+    "Description": "{d,df,f,2,1}",
+    "Properties": "",
+    "Comment": "{d,df,f,2,b-hold} to shift Jin Ji Du Li"
+  },
+  {
+    "Id": 84,
+    "Type": "Moves during Jin Bu",
+    "Name": "Lightning Skypiercer",
+    "Description": "{d,df,f,2,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, {d,df,f,2,b-hold} to shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves during Jin Bu",
+    "Name": "Swallow Step",
+    "Description": "{d,df,f,3+4}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Jin Ji Du Li",
+    "Description": "{f,4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 87,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Bai She Tui Chuang",
+    "Description": "During Jin Ji Du Li {1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu"
+  },
+  {
+    "Id": 88,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Heng Quan",
+    "Description": "During Jin Ji Du Li {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Er Qi Jiao",
+    "Description": "During Jin Ji Du Li {3,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Cuo Ti Fu Ren",
+    "Description": "During Jin Ji Du Li {4}",
+    "Properties": "",
+    "Comment": "During JIn Ji Du Li {4,df-hold} to shift to Jin Bu"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Upper Rising Fist",
+    "Description": "During Jin Ji Du Li {1+2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Tree Feller",
+    "Description": "During Jin Ji Du Li {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "Moves during Jin Ji Du Li",
+    "Name": "Jin Bu",
+    "Description": "During Jin Ji Du Li {df-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "Moves during Fo Bu",
+    "Name": "Fo Bu",
+    "Description": "{d,1+2}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Fo Bu"
+  },
+  {
+    "Id": 95,
+    "Type": "Moves during Fo Bu",
+    "Name": "Ya Sui Ying Quan",
+    "Description": "During Fo Bu {1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 96,
+    "Type": "Moves during Fo Bu",
+    "Name": "Fan Lan Chui",
+    "Description": "During Fo Bu {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "Moves during Fo Bu",
+    "Name": "Startled Crane",
+    "Description": "During Fo Bu {3}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 98,
+    "Type": "Moves during Fo Bu",
+    "Name": "Jin Ji Du Li",
+    "Description": "During Fo Bu {4}",
+    "Properties": "",
+    "Comment": "Shift to Jin Ji Du Li"
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Fo Bu",
+    "Name": "Lao Pao Ba",
+    "Description": "During Fo Bu {1+2}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 100,
+    "Type": "Throws",
+    "Name": "Bao Hu Gui Shan",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 101,
+    "Type": "Throws",
+    "Name": "Dan Yang Da",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 102,
+    "Type": "Throws",
+    "Name": "Da Zhe Jiang",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 103,
+    "Type": "Throws",
+    "Name": "Chou Bie Zi",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 104,
+    "Type": "Throws",
+    "Name": "Yang Di Tou",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 105,
+    "Type": "Throws",
+    "Name": "Shuang Pai Shou",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 106,
+    "Type": "Attack Reversal",
+    "Name": "Bao Zhou",
+    "Description": "Time with opponent kick {ub,1}",
+    "Properties": "",
+    "Comment": "When parrying an attack, {4} for follow-up attack"
+  },
+  {
+    "Id": 107,
+    "Type": "Attack Reversal",
+    "Name": "bao Zhou Ji Tui",
+    "Description": "After Bao Zhou succeeds {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 108,
+    "Type": "Attack Reversal",
+    "Name": "Shi Zi Xiao Zhang Kou",
+    "Description": "Time with opponent attack {b,1+3}",
+    "Properties": "",
+    "Comment": "When parrying an attack, {2} for follow-up attack"
+  },
+  {
+    "Id": 109,
+    "Type": "Attack Reversal",
+    "Name": "Shi Zi Xiao Zhang Kou > Shang Bu Zhuang Quan",
+    "Description": "After Shi Zi Xiao Zhang Kou succeeds {2}",
+    "Properties": "",
+    "Comment": "Gain Lightning Glare on hit"
+  },
+  {
+    "Id": 110,
+    "Type": "Attack Reversal",
+    "Name": "Shi Zi Zhou",
+    "Description": "Time with opponent attack {b,2+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 111,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Zhen Jiao",
+    "Description": "While opponent is down {d,3+4}",
+    "Properties": "",
+    "Comment": ""
+  }
+]

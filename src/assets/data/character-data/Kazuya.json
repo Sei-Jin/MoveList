@@ -1,0 +1,770 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of new moves using the devil's power",
+    "Properties": "",
+    "Comment": "{1,1,2,f-hold}, {1+4}, {f,n,d,df,4,1,1}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of Electric Wind God Fist without Just Input",
+    "Properties": "",
+    "Comment": "{f,n,d,df,2}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Slaughter Hook",
+    "Description": "{df,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Goutsuiken",
+    "Description": "{db,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Flash Tornado",
+    "Description": "{b,4}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Kumo Kiri",
+    "Description": "{b,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Devil Fist",
+    "Description": "{f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Omega Crash",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 13,
+    "Type": "Rage Moves",
+    "Name": "Demonic Catastrophe",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Flash Punch Combo",
+    "Description": "{1,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Back Fist Combo",
+    "Description": "{1,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Twin Fang Shattered Spine",
+    "Description": "{1,2,LB,2,3,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Twin Fang Double Kick",
+    "Description": "{1,2,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Double Back Fist",
+    "Description": "{2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Agony Spear",
+    "Description": "{3,1,4}",
+    "Properties": "",
+    "Comment": "{3,1,df-hold} to shift to Wind God Step"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Roundhouse",
+    "Description": "{4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Demon Scissors",
+    "Description": "{LB,4,3,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Acute Pain",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Soul Thrust",
+    "Description": "{f,2}",
+    "Properties": "Tornado, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Oni Front Kick",
+    "Description": "{f,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Right Splits Kick",
+    "Description": "{f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Glorious Demon God Fist",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": "Punch parry effect"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Slaughter Hook",
+    "Description": "{df,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Slaughter High Kick",
+    "Description": "{df,1,df-hold,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Abolishing Fist",
+    "Description": "{df,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Impaling Knee Twin Thrust",
+    "Description": "{df,2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Impaling Knee Twin Skewer",
+    "Description": "{df,3,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Tsunami Kick",
+    "Description": "{df,3,2,1} hold",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Kyogeki",
+    "Description": "{df,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Kyogeki goutsuiken",
+    "Description": "{df,3+4,1,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Nejiri Uraken",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": "{d,1+2,b-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Goutsuiken",
+    "Description": "{db,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Lion Slayer",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Sliding Low Kick",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Stature Smash",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Sokushitsu Goda",
+    "Description": "{b,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Danzui Raizanba",
+    "Description": "{b,2,2,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Rampaging Demon",
+    "Description": "{b,2,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Demon's Wrath",
+    "Description": "{b,3,1,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Reign of Terror",
+    "Description": "{b,3,1,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Flash of Tornado",
+    "Description": "{b,4}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Kumo Kiri",
+    "Description": "{b,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Lightning Screw Uppercut",
+    "Description": "{b,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Inferno",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Searing Edge",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {u,3}"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Roundhouse > Triple Spin Kick",
+    "Description": "{uf,4,4,4,4}",
+    "Properties": "",
+    "Comment": "Or {u,4,4,4,4}"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Mist Step",
+    "Description": "{f,n}",
+    "Properties": "",
+    "Comment": "{f,n,df-hold} to shift to Wind God Step"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Devil Fist",
+    "Description": "{f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Left Splits Kick",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Devil's Steel Petal",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Leaping Side Kick",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{f,f,n,2,1,2,2,3,4,4,3,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{f,f,n,2,1,4,4,2,4,3,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 60,
+    "Type": "Moves during Wind God Step",
+    "Name": "Wind God Step",
+    "Description": "{f,n,d,df}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Moves during Wind God Step",
+    "Name": "Thunder God Fist",
+    "Description": "{f,n,d,df,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Moves during Wind God Step",
+    "Name": "Wind God Fist",
+    "Description": "{f,n,d,df,2}",
+    "Properties": "",
+    "Comment": "Becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)]"
+  },
+  {
+    "Id": 63,
+    "Type": "Moves during Wind God Step",
+    "Name": "Electric Wind God Fist",
+    "Description": "{f,n,d,df,2} ({df+2} press simultaneously)",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 64,
+    "Type": "Moves during Wind God Step",
+    "Name": "Hell Lancer",
+    "Description": "{f,n,d,df,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 65,
+    "Type": "Moves during Wind God Step",
+    "Name": "Spinning Demon > Left Hook",
+    "Description": "{f,n,d,df,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 66,
+    "Type": "Moves during Wind God Step",
+    "Name": "Illusive Demon",
+    "Description": "{f,n,d,df,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Moves during Wind God Step",
+    "Name": "Parricide Fist",
+    "Description": "{f,n,d,df,1+2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 68,
+    "Type": "Moves While Crouching",
+    "Name": "Twin Pistons",
+    "Description": "While rising {1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Moves While Crouching",
+    "Name": "Demon God Fist",
+    "Description": "While rising {2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Moves While Crouching",
+    "Name": "Engetsusen",
+    "Description": "While rising {3}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Tsunami Kick",
+    "Description": "While rising {4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Moves While Crouching",
+    "Name": "Fujin Uraken",
+    "Description": "While rising {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 73,
+    "Type": "Moves While Crouching",
+    "Name": "Tombstone Crusher",
+    "Description": "While crouching {df,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Moves during Sidestep",
+    "Name": "Shattered Spine",
+    "Description": "{3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Moves during Sidestep",
+    "Name": "Elkeid",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 76,
+    "Type": "Moves during Devil Form",
+    "Name": "Devil Break",
+    "Description": "During Devil Form {1,1,2,f-hold}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, on hit to standing or crouching opponent shift to throw"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves during Devil Form",
+    "Name": "Devil Blaster",
+    "Description": "During Devil Form {3+4}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves during Devil Form",
+    "Name": "Roar of the Devil",
+    "Description": "During Devil Form {1+4}",
+    "Properties": "Tornado, Power Crush",
+    "Comment": "Partially uses remaining Heat time, absorb an attack to power up"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves during Devil Form",
+    "Name": "Devil Impact",
+    "Description": "During Devil Form {db,3+4}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, {db,3+4,df-hold} to shift to Wind God Step"
+  },
+  {
+    "Id": 80,
+    "Type": "Moves during Devil Form",
+    "Name": "Inferno",
+    "Description": "During Devil Form {ub,1+2}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 81,
+    "Type": "Moves during Devil Form",
+    "Name": "Air Inferno",
+    "Description": "During Devil Form {u,1+2}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 82,
+    "Type": "Moves during Devil Form",
+    "Name": "Chaos Inferno",
+    "Description": "During Devil Form {f,f-hold,2}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, throw on front hit (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 83,
+    "Type": "Moves during Devil Form",
+    "Name": "Damnation",
+    "Description": "During Devil Form {f,n,d,df,1}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,1,b-hold})"
+  },
+  {
+    "Id": 84,
+    "Type": "Moves during Devil Form",
+    "Name": "Tempest Blaster",
+    "Description": "During Devil Form {f,n,d,df,3}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, on front hit shift to throw"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves during Devil Form",
+    "Name": "Abyss Damnation",
+    "Description": "During Devil Form {f,n,d,df,4,1,1}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,4,1,1,b-hold})"
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Devil Form",
+    "Name": "Devil Twister",
+    "Description": "During Devil Form and sidestep {2}",
+    "Properties": "Tornado",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 87,
+    "Type": "Throws",
+    "Name": "Double High Sweep",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 88,
+    "Type": "Throws",
+    "Name": "Lightning Crash",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 89,
+    "Type": "Throws",
+    "Name": "Steel Pedal Drop",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 90,
+    "Type": "Throws",
+    "Name": "Skull Smash",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 91,
+    "Type": "Throws",
+    "Name": "Reverse Neck Throw",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 92,
+    "Type": "Throws",
+    "Name": "Stonehead",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}"
+  },
+  {
+    "Id": 93,
+    "Type": "Throws",
+    "Name": "Gates of Hell",
+    "Description": "While crouching {db,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 94,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 95,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Oni Stomp",
+    "Description": "While opponent is down {d,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 96,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Grand Inferno",
+    "Description": "While opponent is down during Devil Form {db,1+2}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time"
+  }
+]

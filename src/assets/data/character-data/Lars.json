@@ -1,0 +1,810 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "A powered up Limited Entry can be used",
+    "Properties": "",
+    "Comment": "Limited Entry {1}, during Limited Entry {2}"
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "A new Silent Entry shift move can be used",
+    "Properties": "",
+    "Comment": "{f,3+4}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Delta Slicer",
+    "Description": "{1,1,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Electric Jolt",
+    "Description": "{3+4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Double Barrel",
+    "Description": "During Dynamic Entry ({f,3}, etc.) {1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "During Dynamic Entry {1,f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Bow Shock",
+    "Description": "During Dynamic Entry ({f,3}, etc.) {3}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Shift to Silent Entry (does not shift when using Heat Dash), chip damage on lock"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Lightning Thrust",
+    "Description": "During Silent Entry (during Dynamic Entry {n,f-hold{, etc.) {1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Rebellion",
+    "Description": "During Heat {f,3+4}",
+    "Properties": "Power Crush",
+    "Comment": "Shift to Silent Entry, partially uses remaining Heat time"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Blue Jet",
+    "Description": "During Heat and Limited Entry (during Silent Entry {d-hold}, etc.) {1}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Thunderbird Descent",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, throw on hit, shift to Dynamic Entry on block (no shift with {2+3,b-hold})"
+  },
+  {
+    "Id": 15,
+    "Type": "Rage Moves",
+    "Name": "Zeus Unlimited",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Delta Slicer",
+    "Description": "{1,1,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Left Right Combo",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Legionnaire's Spin",
+    "Description": "{1,4}",
+    "Properties": "",
+    "Comment": "{1,4,d-hold} to shift to Limited Entry"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Ring Current",
+    "Description": "{2,1}",
+    "Properties": "",
+    "Comment": "Shift to Limited Entry"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Kick Start",
+    "Description": "{3}",
+    "Properties": "",
+    "Comment": "{3,d-hold} to shift to Limited Entry"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Spinning Cutter",
+    "Description": "{4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "X-Ray",
+    "Description": "{1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Electric Jolt",
+    "Description": "{3+4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Flash Claw",
+    "Description": "{f,1,2}",
+    "Properties": "",
+    "Comment": "Shift to Silent Entry, {f,1,2,b-hold} to shift to standing state"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Flash Bang",
+    "Description": "{f,1,2,3}",
+    "Properties": "",
+    "Comment": "Shift to Dynamic Entry, {f,1,2,3,b-hold} to shift to standing state"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Charge Factor",
+    "Description": "{f,2,1}",
+    "Properties": "",
+    "Comment": "Shift to Silent Entry, {f,2,1,b-hold} to shift to standing state"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Death Mask",
+    "Description": "{f,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Dynamic Entry",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": "Shift to Dynamic Entry"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Volcanic Lightning",
+    "Description": "{f,4,1,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Ark Blast",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Power Slug",
+    "Description": "{f,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Flash Bullet",
+    "Description": "{df,1}",
+    "Properties": "",
+    "Comment": "Shift to Silent Entry, {df,2,b-hold} to shift to standing state"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Outpost Blitz",
+    "Description": "{df,3,3}",
+    "Properties": "",
+    "Comment": "{df,3,d-hold} to shift to Dynamic Entry"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Tactical Sword",
+    "Description": "{d,2}",
+    "Properties": "",
+    "Comment": "{d,2,d-hold} to directly shift to crouching state"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Tesla Gravity",
+    "Description": "{d,3,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Earth Battery",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Arc Combination",
+    "Description": "{db,1,3}",
+    "Properties": "",
+    "Comment": "{db,1,3,d-hold} to shift to Limited Entry"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Double Tap",
+    "Description": "{db,2,1}",
+    "Properties": "",
+    "Comment": "{db,2,f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "HE Combination",
+    "Description": "{db,2,3}",
+    "Properties": "Tornado",
+    "Comment": "Hold at last step to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Shadow Cutter",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Inductance",
+    "Description": "{db,1+2}",
+    "Properties": "",
+    "Comment": "{db,1+2,d-hold} to shift to Dynamic Entry"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Chevron Slash",
+    "Description": "{b,1}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Gilbert Smash",
+    "Description": "{b,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Gilbert Cannon",
+    "Description": "{b,2,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Impulse Plus",
+    "Description": "{b,3,4}",
+    "Properties": "",
+    "Comment": "{b,3,f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Magnetic Knee",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Magnetic Knee Blast",
+    "Description": "{b,4} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Wind Liger",
+    "Description": "{b,1+2}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Zeus",
+    "Description": "{b,2+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Lightning Screw",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3} or {u,3}"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Storm Axle",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Avalanche Flip",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": "Or {ub,3+4} or {u,3+4}"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Avalanche Flip Break Down",
+    "Description": "{uf,3+4,4}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Avalanche Drop",
+    "Description": "{uf,3+4,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Surge Blast",
+    "Description": "{f,f-hold,2}",
+    "Properties": "Tornado",
+    "Comment": "{f,f-hold,2} on hit {f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Cross Transistor",
+    "Description": "{f,f-hold,4,2}",
+    "Properties": "",
+    "Comment": "Shift to Dynamic Entry"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Double Pulse",
+    "Description": "{f,f-hold,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Elbow Corona",
+    "Description": "{f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Double Action",
+    "Description": "{f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Blue Bolt",
+    "Description": "{f,n,b,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Red Sprite",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{uf,1,2,1,1,2,2,3,3,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 64,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 65,
+    "Type": "Moves While Crouching",
+    "Name": "Streamer",
+    "Description": "While rising {1}",
+    "Properties": "Tornado",
+    "Comment": "While rising {1} on hit {f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 66,
+    "Type": "Moves While Crouching",
+    "Name": "Multiplied Force",
+    "Description": "While rising {2,1}",
+    "Properties": "",
+    "Comment": "While rising {2,d-hold} to shift to Dynamic Entry, while rising {2,f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 67,
+    "Type": "Moves While Crouching",
+    "Name": "Glass Breaker",
+    "Description": "While rising {2,3}",
+    "Properties": "",
+    "Comment": "While rising {2,3,d-hold} to shift to Limited Entry"
+  },
+  {
+    "Id": 68,
+    "Type": "Moves While Crouching",
+    "Name": "Tower Cannon",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": "While rising {3,d-hold} to shift to Limited Entry"
+  },
+  {
+    "Id": 69,
+    "Type": "Moves While Crouching",
+    "Name": "Shell Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Moves While Crouching",
+    "Name": "Double Smack",
+    "Description": "While crouching {1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Power Spike",
+    "Description": "While crouching {df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Moves during Sidestep",
+    "Name": "Shockwave",
+    "Description": "During sidestep {2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Dynamic Entry",
+    "Description": "{f,3}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Dynamic Entry, during Dynamic Entry {n,f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 74,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Double Barrel",
+    "Description": "During Dynamic Entry {1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "During Dynamic Entry, {1,f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 75,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Rimfire",
+    "Description": "During Dynamic Entry {2}",
+    "Properties": "",
+    "Comment": "During Dynamic Entry, {2} on hit {uf-hold} to shift to Avalanche Flip"
+  },
+  {
+    "Id": 76,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Bow Shock",
+    "Description": "During Dynamic Entry {3}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Shift to Silent Entry (does not shift when using Heat Dash), chip damage on block"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Legionnaire's Shot",
+    "Description": "During Dynamic Entry {4}",
+    "Properties": "",
+    "Comment": "During Dynamic Entry, {4,d-hold} to shift to Limited Entry"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Into the Storm",
+    "Description": "During Dynamic Entry {1+2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Stack Up",
+    "Description": "During Dynamic Entry {3+4}",
+    "Properties": "",
+    "Comment": "During Dynamic Entry, {3+4,f-hold} to shift to Silent Entry"
+  },
+  {
+    "Id": 80,
+    "Type": "Moves during Dynamic Entry",
+    "Name": "Dynamic Entry",
+    "Description": "During Dynamic Entry {b-hold}",
+    "Properties": "",
+    "Comment": "Shift to Dynamic Entry"
+  },
+  {
+    "Id": 81,
+    "Type": "Moves during Silent Entry",
+    "Name": "Silent Entry",
+    "Description": "During Dynamic Entry {n,f-hold}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Silent Entry, during Silent Entry {d-hold} to shift to Limited Entry"
+  },
+  {
+    "Id": 82,
+    "Type": "Moves during Silent Entry",
+    "Name": "Lightning Thrust",
+    "Description": "During Silent Entry {1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves during Silent Entry",
+    "Name": "Turbine Hook",
+    "Description": "During Silent Entry {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves during Silent Entry",
+    "Name": "Rising Storm",
+    "Description": "During Silent Entry {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Moves during Silent Entry",
+    "Name": "Electric Volley",
+    "Description": "During Silent Entry {4}",
+    "Properties": "Power Crush, Homing",
+    "Comment": "Absorb an attack to power up and deal more chip damgae on block"
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Silent Entry",
+    "Name": "Entangling Ejector",
+    "Description": "During Silent Entry {1+2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 87,
+    "Type": "Moves during Silent Entry",
+    "Name": "Lightning Axle",
+    "Description": "During Silent Entry {3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 88,
+    "Type": "Moves during Silent Entry",
+    "Name": "Dynamic Entry",
+    "Description": "During Silent Entry {b-hold}",
+    "Properties": "",
+    "Comment": "Shift to Dynamic Entry"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Limited Entry",
+    "Name": "Limited Entry",
+    "Description": "During Silent Entry {d-hold}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Limited Entry"
+  },
+  {
+    "Id": 90,
+    "Type": "Moves during Limited Entry",
+    "Name": "Blasting Smack",
+    "Description": "During Limited Entry {1}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Limited Entry",
+    "Name": "Blue Jet",
+    "Description": "During Heat and Limited Entry {1}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves during Limited Entry",
+    "Name": "Rising Force",
+    "Description": "During Limited Entry {2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 93,
+    "Type": "Throws",
+    "Name": "Hostile Takedown",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 94,
+    "Type": "Throws",
+    "Name": "Raging Thunder",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 95,
+    "Type": "Throws",
+    "Name": "Tactical Knee",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 96,
+    "Type": "Throws",
+    "Name": "Lethal Force",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 97,
+    "Type": "Throws",
+    "Name": "Swift Silence",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 98,
+    "Type": "Throws",
+    "Name": "Apocalypse",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 99,
+    "Type": "Throws",
+    "Name": "SHB",
+    "Description": "Approach opponent {f,f,f-hold,2+4}",
+    "Properties": "",
+    "Comment": "Or during Dynamic Entry {2+3}, throw escape {1+2}"
+  },
+  {
+    "Id": 100,
+    "Type": "Throws",
+    "Name": "Rejection",
+    "Description": "Approach airborne opponent {f,f,f-hold,2+4}",
+    "Properties": "",
+    "Comment": "Or approach airborne opponent during Dynamic Entry {2+3}, cannot throw escape"
+  },
+  {
+    "Id": 101,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

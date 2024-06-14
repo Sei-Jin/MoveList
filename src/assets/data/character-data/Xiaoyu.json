@@ -1,0 +1,1122 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of the powered up version of Hypnotist",
+    "Properties": "",
+    "Comment": "During Hypnotist {3}, during Hypnotist {2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Bai Yang Yan Di Po and Bai Lian Yan Di Po are available.",
+    "Properties": "",
+    "Comment": "{f,2,1,2}, {f,f-hold,1,2}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Storming Flower",
+    "Description": "{db,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Moonhare Palm",
+    "Description": "{b,4,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Battering Storm",
+    "Description": "Back facing opponent ({b,3+4}, etc.) {1+2,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Spin Sticker",
+    "Description": "During Hypnotist ({db,1+2}, etc.) {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Phoenix Double Palm",
+    "Description": "During Phoenix ({d,1+2}, etc.) {2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "During Phoenix {2,1,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Bai Yang Yan Di Po",
+    "Description": "During Heat {f,2,1,2}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, {f,2,1,2,f-hold} to face forward"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Bai Lian Yan Di Po",
+    "Description": "During Heat {f,f-hold,1,2}",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time, {f,f-hold,1,2,f-hold} to face forward"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Divine Shooting Star",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, throw on hit, on block {2+3,f-hold} to face forward"
+  },
+  {
+    "Id": 15,
+    "Type": "Heat Moves",
+    "Name": "Innumerable Moons",
+    "Description": "During Heat (back facing opponent) {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, shift to Hypnotist (no shift with {2+3,f-hold}), can shift into moves from second step of Hypnotist"
+  },
+  {
+    "Id": 16,
+    "Type": "Rage Moves",
+    "Name": "Wang's Celestial Epic",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Or during Rage and Phoenix {df,1+2}, Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Bayonet",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Bayonet Thruster",
+    "Description": "{1,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Fan Dance",
+    "Description": "{1,d,2}",
+    "Properties": "",
+    "Comment": "{1,d-hold,2} to face forward, {1,d,2,b-hold} to shift to Hypnotist"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Fan Dance > Birds Flock",
+    "Description": "{1,d,2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "April Showers",
+    "Description": "{2,1}",
+    "Properties": "",
+    "Comment": "{2,df-hold,1} to face forward"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Cloud Kick",
+    "Description": "{3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Birds Flock",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Crescent Moon Kick",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "{3+4,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Bai Yang Zhuan Wu",
+    "Description": "{f,2,1,4}",
+    "Properties": "",
+    "Comment": "{f,2,1,b-hold} to shift to Hypnotist"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Talons of Fury",
+    "Description": "{f,3,1,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Wings of Fury",
+    "Description": "{f,3,1,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Swivel Kick",
+    "Description": "{f,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Clouded Peak",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Forward Roll > Phoenix Talon",
+    "Description": "{f,3+4,3+4}",
+    "Properties": "",
+    "Comment": "{f,3+4,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Belly Chop",
+    "Description": "{df,1}",
+    "Properties": "",
+    "Comment": "{df-hold,1} to face forward"
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Moon Swallow",
+    "Description": "{df,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Phoenix Tail",
+    "Description": "{df,3}",
+    "Properties": "Homing",
+    "Comment": "{df,3,b-hold} to cancel and face backward, {df,3,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Sunset Fan",
+    "Description": "{d,1}",
+    "Properties": "",
+    "Comment": "{d-hold,1} to shift to Phoenix"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Giant Slayer",
+    "Description": "{d,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Phoenix",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": "Or back facing opponent {d,1+2}"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Spinner",
+    "Description": "{d,3+4}",
+    "Properties": "",
+    "Comment": "Or {u,3+4}"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Storming Flower",
+    "Description": "{db,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Feathered Fan",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Knee Cracker",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Nutcracker",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Hypnotist",
+    "Description": "{db,1+2}",
+    "Properties": "",
+    "Comment": "Or {ub,1+2}, punch parry effect"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Great Wall Left",
+    "Description": "{b,1}",
+    "Properties": "",
+    "Comment": "Rain Dance on hit, {b-hold,1} to face forward on hit"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Seven Star Fist",
+    "Description": "{b,2,2}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Peacock Kick",
+    "Description": "{b,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Moonhare Palm",
+    "Description": "{b,4,1}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Cross Lifting Palms",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Rain Dance",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Or back facing opponent {b,3+4} or during Phoenix {b,3+4}"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "From the Ashes",
+    "Description": "{ub,3}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Phoenix"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Born of Fire",
+    "Description": "{ub,4}",
+    "Properties": "Tornado, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Fortune Cookie",
+    "Description": "{u,1+2,2,1}",
+    "Properties": "",
+    "Comment": "{u,1+2,2,1,b-hold} to cancel and face backward"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Silver Needle",
+    "Description": "{uf,1}",
+    "Properties": "",
+    "Comment": "Or {u,1} to shift to Phoenix, {uf,1,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Phoenix Flight",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "{uf,2,f-hold} to face forward, chip damage on block"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Bolting Rabbit",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {u,3}"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Flare Kick",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {u,4}, {uf,4,d-hold} to directly shift to crouching state, {uf,4,d,1+2} to shift to Phoenix"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Shooting Star",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Rain Dance on block"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Poison Flower",
+    "Description": "{f,f-hold,1,3}",
+    "Properties": "",
+    "Comment": "{f,f-hold,1,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Eclipsing Moon",
+    "Description": "{f,f-hold,1,4}",
+    "Properties": "",
+    "Comment": "{f,f-hold,1,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Fortune",
+    "Description": "{f,f-hold,2,1}",
+    "Properties": "",
+    "Comment": "{f,f-hold,2,1,b-hold} to cancel into Rain Dance"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Raccoon Swing",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Soaring Blaze",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, shift to Hypnotist on hit or block"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "X Marks the Spot",
+    "Description": "{f,f-hold,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Or while rising {1+2,1+2}"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Front Layout",
+    "Description": "{f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Diving Falcon",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Shift to Phoenix, chip damage on block"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{u,4,1,2,1+2,1,3,4,4,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{u,4,1,2,4,4,2,1+2,1,4,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 68,
+    "Type": "Special Move",
+    "Name": "False Salute",
+    "Description": "{1+3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Special Move",
+    "Name": "Greetings",
+    "Description": "{2+3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Whirlwind Cross Kick",
+    "Description": "While rising {1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Moves While Crouching",
+    "Name": "Sunflower",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": "While rising {2,f-hold} to face forward"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves While Crouching",
+    "Name": "Jasmine Blossom",
+    "Description": "While rising {2} hold",
+    "Properties": "",
+    "Comment": "While rising {2} hold, then {f-hold} to face forward"
+  },
+  {
+    "Id": 74,
+    "Type": "Moves While Crouching",
+    "Name": "Rising Axe Kick",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Crouching",
+    "Name": "Skyscraper Kick",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 76,
+    "Type": "Moves While Crouching",
+    "Name": "Fire Dancer",
+    "Description": "While crouching {3,2,1,4}",
+    "Properties": "",
+    "Comment": "While crouching {3,2,1,b-hold} to shift to Hypnotist"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves While Crouching",
+    "Name": "Lotus Twist",
+    "Description": "While crouching {df,2,1}",
+    "Properties": "",
+    "Comment": "While crouching {df-hold,2} to shift to Rain Dance, while crouching {df,2,1,df-hold} to shift to Rain Dance"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Crouching",
+    "Name": "Flower Garden",
+    "Description": "While crouching {df,4,4}",
+    "Properties": "",
+    "Comment": "While crouching {df,4} to shift to Phoenix"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Crouching",
+    "Name": "Low Back Turn",
+    "Description": "While crouching {db,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Moves during Sidestep",
+    "Name": "Street Sweeper",
+    "Description": "During sidestep {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Facing Backward",
+    "Name": "Rain Dance",
+    "Description": "{b,3+4}, etc.",
+    "Properties": "",
+    "Comment": "Can move while face backward, {db-hold} or {b-hold} to face forward"
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Facing Backward",
+    "Name": "Waking Prominence",
+    "Description": "Back facing opponent {1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Facing Backward",
+    "Name": "Dark & Stormy",
+    "Description": "Back facing opponent {2,1,4}",
+    "Properties": "",
+    "Comment": "Back facing opponent {2,1,b-hold} to shift to Hypnotist"
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Facing Backward",
+    "Name": "Turn of Fortune",
+    "Description": "Back facing opponent {2,2,1}",
+    "Properties": "",
+    "Comment": "Back facing opponent {2,2,1,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves While Facing Backward",
+    "Name": "Peg Leg",
+    "Description": "Back facing opponent {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves While Facing Backward",
+    "Name": "Mistrust",
+    "Description": "Back facing opponent {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 87,
+    "Type": "Moves While Facing Backward",
+    "Name": "Battering Storm",
+    "Description": "Back facing opponent {1+2,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 88,
+    "Type": "Moves While Facing Backward",
+    "Name": "Battering Winds",
+    "Description": "Back facing opponent {1+2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "Moves While Facing Backward",
+    "Name": "Monkey Kick",
+    "Description": "Back facing opponent {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "Moves While Facing Backward",
+    "Name": "Spinning Push Hands",
+    "Description": "Back facing opponent {f,1+2}",
+    "Properties": "",
+    "Comment": "Punch parry effect"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves While Facing Backward",
+    "Name": "Cyclone Left",
+    "Description": "Back facing opponent {f,3+4,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 92,
+    "Type": "Moves While Facing Backward",
+    "Name": "Spinning Crane",
+    "Description": "Back facing opponent {d,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "Moves While Facing Backward",
+    "Name": "Hou Sao Tui",
+    "Description": "Back facing opponent {d,4}",
+    "Properties": "",
+    "Comment": "Has clean hit effect"
+  },
+  {
+    "Id": 94,
+    "Type": "Moves While Facing Backward",
+    "Name": "Spin Tornado Up (Down)",
+    "Description": "Back facing opponent {d,3+4}",
+    "Properties": "",
+    "Comment": "Or back facing opponent {u,3+4}"
+  },
+  {
+    "Id": 95,
+    "Type": "Moves While Facing Backward",
+    "Name": "Reverse Knee Cracker",
+    "Description": "Back facing opponent {db,4}",
+    "Properties": "",
+    "Comment": "Or back facing opponent {df,4}"
+  },
+  {
+    "Id": 96,
+    "Type": "Moves While Facing Backward",
+    "Name": "Silver Needle",
+    "Description": "Back facing opponent {uf,1}",
+    "Properties": "",
+    "Comment": "Or back facing opponent {u,1}, shift to Phoenix, {uf,1,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 97,
+    "Type": "Moves While Facing Backward",
+    "Name": "Back Layout",
+    "Description": "Back facing opponent {f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": "Close range hit or throw while blocking, with chip damage on block"
+  },
+  {
+    "Id": 98,
+    "Type": "Moves during Hypnotist",
+    "Name": "Hypnotist",
+    "Description": "{db,1+2}, etc.",
+    "Properties": "",
+    "Comment": "During Heat, take three steps or more to partially restore remaining Heat time"
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Hypnotist",
+    "Name": "Spin Sticker",
+    "Description": "During Hypnotist {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Hypnotist",
+    "Name": "Blue Luan Sweep",
+    "Description": "During Hypnotist {3}",
+    "Properties": "Homing",
+    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 101,
+    "Type": "Moves during Hypnotist",
+    "Name": "Falling Tiger Kick",
+    "Description": "During Hypnotist {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 102,
+    "Type": "Moves during Hypnotist",
+    "Name": "Hypnotist",
+    "Description": "During Hypnotist {1+2}",
+    "Properties": "",
+    "Comment": "Has punch parry effect"
+  },
+  {
+    "Id": 103,
+    "Type": "Moves during Hypnotist",
+    "Name": "Deadly Orchid",
+    "Description": "During Hypnotist {3+4}",
+    "Properties": "",
+    "Comment": "With chip damage on block, during Hypnotist {3+4,b-hold} to cancel into Rain Dance"
+  },
+  {
+    "Id": 104,
+    "Type": "Moves during Hypnotist",
+    "Name": "Thunder Strike",
+    "Description": "During Hypnotist {2+3}",
+    "Properties": "",
+    "Comment": "During Hypnotist, {2+3,b,b} to cancel into Rain Dance / Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 105,
+    "Type": "Moves during Phoenix",
+    "Name": "Phoenix",
+    "Description": "{d,1+2}, etc.",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 106,
+    "Type": "Moves during Phoenix",
+    "Name": "Double Serving",
+    "Description": "During Phoenix {1,2}",
+    "Properties": "",
+    "Comment": "During Phoenix {1,b-hold} to shift to Hypnotist"
+  },
+  {
+    "Id": 107,
+    "Type": "Moves during Phoenix",
+    "Name": "Twin Mandarin Blows",
+    "Description": "During Phoenix {1,4}",
+    "Properties": "Tornado",
+    "Comment": "During Phoenix {1,b-hold} to shift to Hypnotist"
+  },
+  {
+    "Id": 108,
+    "Type": "Moves during Phoenix",
+    "Name": "Phoenix Double Palm",
+    "Description": "During Phoenix {2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "During Phoenix {2,1,b-hold} to cancel into Rain Dance"
+  },
+  {
+    "Id": 109,
+    "Type": "Moves during Phoenix",
+    "Name": "Piercing Spear Kick",
+    "Description": "During Phoenix {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 110,
+    "Type": "Moves during Phoenix",
+    "Name": "Rising Front Kick",
+    "Description": "During Phoenix {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 111,
+    "Type": "Moves during Phoenix",
+    "Name": "Phoenix Cannon",
+    "Description": "During Phoenix {1+2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Moves during Phoenix",
+    "Name": "Siding Firecracker",
+    "Description": "During Phoenix {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 113,
+    "Type": "Moves during Phoenix",
+    "Name": "Flower Garden",
+    "Description": "During Phoenix {f,4,4}",
+    "Properties": "",
+    "Comment": "During Phoenix {f,4} to shift to Phoenix"
+  },
+  {
+    "Id": 114,
+    "Type": "Moves during Phoenix",
+    "Name": "Roll Ball",
+    "Description": "During Phoenix {f,3+4}",
+    "Properties": "",
+    "Comment": "During Phoenix {f,3+4,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 115,
+    "Type": "Moves during Phoenix",
+    "Name": "Butterfly",
+    "Description": "During Phoenix {d}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 116,
+    "Type": "Moves during Phoenix",
+    "Name": "Phoenix Swipe",
+    "Description": "During Phoenix {d,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 117,
+    "Type": "Moves during Phoenix",
+    "Name": "Return to the Nest",
+    "Description": "During Phoenix {d,1} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 118,
+    "Type": "Moves during Phoenix",
+    "Name": "Wave Crest",
+    "Description": "During Phoenix {d,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 119,
+    "Type": "Moves during Phoenix",
+    "Name": "Alley-Oop",
+    "Description": "During Phoenix {uf,3,1}",
+    "Properties": "",
+    "Comment": "Or {ub,3,1} or {u,3,1}"
+  },
+  {
+    "Id": 120,
+    "Type": "Moves during Phoenix",
+    "Name": "Double Scissor Kick",
+    "Description": "During Phoenix {uf,3,4}",
+    "Properties": "",
+    "Comment": "Or {ub,3,4} or {u,3,4}"
+  },
+  {
+    "Id": 121,
+    "Type": "Moves during Phoenix",
+    "Name": "Flower Power",
+    "Description": "During Phoenix {uf,4,4}",
+    "Properties": "",
+    "Comment": "Or {u,4,4}, {ub,4,d-hold} to shift to Phoenix, {uf,4,b-hold} to shift to Rain Dance"
+  },
+  {
+    "Id": 122,
+    "Type": "Moves during Phoenix",
+    "Name": "Jumping Pirouette",
+    "Description": "During Phoenix {uf} while in air {3}",
+    "Properties": "",
+    "Comment": "Or {ub} while in air {3} or {u} while in air {3}, {uf} while in air {3,d-hold} to shift to Phoenix"
+  },
+  {
+    "Id": 123,
+    "Type": "Moves during Phoenix",
+    "Name": "Crane Kick",
+    "Description": "During Phoenix {uf} while in air {4}",
+    "Properties": "",
+    "Comment": "Or {ub} while in air {4} or {u} while in air {4}"
+  },
+  {
+    "Id": 124,
+    "Type": "Moves during Phoenix",
+    "Name": "Sky Kick",
+    "Description": "During Phoenix {uf} while landing {3}",
+    "Properties": "",
+    "Comment": "Or {ub} while landing {3} or {u} while landing {3}"
+  },
+  {
+    "Id": 125,
+    "Type": "Throws",
+    "Name": "Jade",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 126,
+    "Type": "Throws",
+    "Name": "Ruby",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 127,
+    "Type": "Throws",
+    "Name": "Arm Flip",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 128,
+    "Type": "Throws",
+    "Name": "Dump the Bucket",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 129,
+    "Type": "Throws",
+    "Name": "Crank Up",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 130,
+    "Type": "Throws",
+    "Name": "Wang's Waning Moon",
+    "Description": "Approach opponent {f,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 131,
+    "Type": "Throws",
+    "Name": "Dragon Fall",
+    "Description": "Approach opponent {df,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 132,
+    "Type": "Throws",
+    "Name": "Dislocator",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 133,
+    "Type": "Throws",
+    "Name": "Bei Shen Zhuan Wu",
+    "Description": "Back facing opponent {f,1+3} (or {f,2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} (or {2}), {f,1+3} (or {f,2+4}) {d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 134,
+    "Type": "Throws",
+    "Name": "Wang's Waning Moon",
+    "Description": "Back facing opponent {f,2+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, {f,2+3,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 135,
+    "Type": "Throws",
+    "Name": "Feng Huang Zhuan Wu",
+    "Description": "During Phoenix {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1} (or {2}), {1+3} (or {2+4}) {d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 136,
+    "Type": "Attack Reversal",
+    "Name": "Hypnotist > Spin Behind",
+    "Description": "Time with opponent punch {db,1+2}",
+    "Properties": "",
+    "Comment": "Or time with opponent punch {ub,1+2}, can shift into moves from second step of Hypnotist, partially restores remaining Heat time"
+  },
+  {
+    "Id": 137,
+    "Type": "Attack Reversal",
+    "Name": "High Mid Parry",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": "Also possible during Hypnotist or facing backward"
+  },
+  {
+    "Id": 138,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 139,
+    "Type": "Attack Reversal",
+    "Name": "So Shoe Me",
+    "Description": "Back facing opponent and time with opponent punch {f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 140,
+    "Type": "Attack Reversal",
+    "Name": "Reverse Low Parry",
+    "Description": "Back facing opponent and time with opponent low attack {d,1+3} (or {d,2+4})",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

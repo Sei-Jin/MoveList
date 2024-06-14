@@ -1,0 +1,1250 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can use kicks during powered up Right Flamingo",
+    "Properties": "",
+    "Comment": "During Right Flamingo {d,4,3,4}, during Right Flamingo {f,4,4}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Ignition Barrage",
+    "Description": "{df,3+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, also possible during Right Stance"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Peacekeeper",
+    "Description": "{f,f-hold,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Also possible during Right Stance, shift to Right Stance (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Black Kite",
+    "Description": "During Right Stance ({3+4}, etc.) {df,3}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": "Chip damage on block, shift to Right Stance (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Flamingo Rocket",
+    "Description": "During Left Flamingo ({f,3}, etc.) {f,3}",
+    "Properties": "Heat Engager",
+    "Comment": "Shift to Left Flamingo (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Left Heel Lance",
+    "Description": "During Right Flamingo ({f,n,4}, etc.) {b,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Trinity Claymore",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance and Left Flamingo, shift to Right Flamingo, Heat Smash"
+  },
+  {
+    "Id": 12,
+    "Type": "Rage Moves",
+    "Name": "Sky Burial",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Also possible during Right Stance and Left Flamingo, Rage art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 13,
+    "Type": "Normal Moves",
+    "Name": "Home Surgery",
+    "Description": "{1,1,3,3}",
+    "Properties": "",
+    "Comment": "{1,2,3} to shift to Left Flamingo, {1,2,4} to shift to Right Flamingo"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Left Right Combo",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Rejector",
+    "Description": "{1,2,f,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Rejection",
+    "Description": "{1,2,f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Right Jab",
+    "Description": "{2}",
+    "Properties": "",
+    "Comment": "{2,3} to shift to Left Flamingo, {2,4} to shift to Right Flamingo"
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Right Jab Side Kick",
+    "Description": "{2,f,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Right Jab > Spinning Back Kick",
+    "Description": "{2,f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Siege Mortar combo",
+    "Description": "{3,3,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Left Kicks",
+    "Description": "{3,3,3}",
+    "Properties": "",
+    "Comment": "{3,3,f-hold} to shift to Left Flamingo"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Left Kicks > Right Hook Kick",
+    "Description": "{3,3,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Left Kicks > Backlash",
+    "Description": "{3,3,f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Flying Eagle",
+    "Description": "{LB,3,4,RB}",
+    "Properties": "",
+    "Comment": "Power up with quick input"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Right Left Kick Combo",
+    "Description": "{4,3}",
+    "Properties": "",
+    "Comment": "{4,3,f-hold} to cancel and shift to Left Flamingo"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Right Kicks > Chainsaw Heel",
+    "Description": "{4,4,3}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance, {4,4} to shift to Right Flamingo"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Right Kicks > Raptor Combo",
+    "Description": "{4,4,4,4}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block, {4,4} to shift to Right Flamingo, {4,4,4} to shift to Right Stance, {4,4,4,f-hold} to cancel and shift to Right Flamingo"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Disrespect",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": "Facing Backward"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Motion Switch",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Rust Knife",
+    "Description": "{f,2}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Left Flamingo Feint",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": "Shift to Left Flamingo"
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Cheap Shot Snap Kick",
+    "Description": "{f,LB,3,n,3,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Right Hook Kick",
+    "Description": "{f,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Right Flamingo Feint",
+    "Description": "{f,n,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Push Hands",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Left Uppercut & Middle Kick",
+    "Description": "{df,1,3}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, shift to Left Flamingo"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Right Uppercut",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Double Claymore",
+    "Description": "{df,3,4}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, {df,3,f-hold} (or {u-hold} or {d-hold}) to cancel and shift to Left Flamingo"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Middle Claymore",
+    "Description": "{df,4}",
+    "Properties": "Homing Attack",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Ignition Barrage",
+    "Description": "{df,3+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, also possible during Right Stance"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Smash Low Right",
+    "Description": "{d,3,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Firecracker",
+    "Description": "{d,4,4}",
+    "Properties": "Tornado",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Sweep Kick",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Ankle Biter > Crescent Kick",
+    "Description": "{db,4,4}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, {db,4,f-hold} to shift to Right Flamingo"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Dynamite Heel",
+    "Description": "{db,3+4}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, {db,3+4,b,b} to cancel and shift to Left Flamingo"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Stealth needle",
+    "Description": "{b,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Left Plasma Balde",
+    "Description": "{b,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Nose Bleeder",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Knife Hand Strike",
+    "Description": "{ub,2}",
+    "Properties": "Homing Attack",
+    "Comment": "or {b,2}. Also possible during Right Stance"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Fade-Away Kick",
+    "Description": "{ub,4}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Jump Kick",
+    "Description": "{u,3}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, shift to Left Flamingo"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Scorpion Side Kick",
+    "Description": "{u,4}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, shift to Right Flamingo"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Bloody Guillotine",
+    "Description": "{u,3+4}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Bone Stinger",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Hunting Hawk",
+    "Description": "{uf,3} on hit or block {4,3}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, {uf,3} on hit or block {4} to shift to Right Flamingo"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Air Raid",
+    "Description": "{uf,4,4,4}",
+    "Properties": "",
+    "Comment": "Also possible duirng Right Stance, shift to Right Flamingo, {uf,4} to shift to Right Flamingo, {uf,4,4} to shift to Right Flamingo"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Flashing Trident",
+    "Description": "{uf,3+4,4}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, shift to Right Stance, {uf,3+4,f-hold} to shift to Left Flamingo"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Spinning Axe Kick",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Peacekeeper",
+    "Description": "{f,f-hold,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Also possible during Right Stance, shift to Right Stance (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Flying Nerichagi",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block, also possible during Right Stance"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Torpedo Kick",
+    "Description": "{f,f,fold,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, also possible during Right Stance"
+  },
+  {
+    "Id": 63,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 64,
+    "Type": "During Shark Step",
+    "Name": "Shark Step",
+    "Description": "{f,n,d,df}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 65,
+    "Type": "During Shark Step",
+    "Name": "Phalanx",
+    "Description": "{f,n,d,df,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block, also possible during Right Stance, shift to Left Flamingo"
+  },
+  {
+    "Id": 66,
+    "Type": "During Shark Step",
+    "Name": "Sky Rocket",
+    "Description": "{f,n,d,df,4}",
+    "Properties": "Tornado",
+    "Comment": "Also possible during Right Stance"
+  },
+  {
+    "Id": 67,
+    "Type": "During Shark Step",
+    "Name": "Lethal Sky Rocket",
+    "Description": "{f,n,df,4} ({df+4} press simultaneously)",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block, also possible during Right Stance"
+  },
+  {
+    "Id": 68,
+    "Type": "Moves While Crouching",
+    "Name": "Chonsan Spin",
+    "Description": "While rising {2,3}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Left Flamingo"
+  },
+  {
+    "Id": 69,
+    "Type": "Moves While Crouching",
+    "Name": "Iron Heel",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Moves While Crouching",
+    "Name": "Tsunami Kick",
+    "Description": "While rising {4,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Spinning Scythe > Axe Heel",
+    "Description": "While rising {3+4,3}",
+    "Properties": "",
+    "Comment": "Or {f,n,d,df,3+4,3}, while rising {3+4} to face backward"
+  },
+  {
+    "Id": 72,
+    "Type": "Moves during Sidestep",
+    "Name": "Eruption",
+    "Description": "During sidestep {3,3}",
+    "Properties": "",
+    "Comment": "Shift to Left Flamingo"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves during Sidestep",
+    "Name": "Spinning Trip Kick",
+    "Description": "During sidestep {4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 74,
+    "Type": "Moves While Facing Backward",
+    "Name": "Left Plasma Blade",
+    "Description": "Back facing opponent {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Facing Backward",
+    "Name": "Plasma Blade",
+    "Description": "Back facing opponent {4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 76,
+    "Type": "Moves While Facing Backward",
+    "Name": "Spinning Low Kick",
+    "Description": "Back facing opponent {d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 77,
+    "Type": "During Right Stance",
+    "Name": "Right Stance",
+    "Description": "{3+4}, etc.",
+    "Properties": "",
+    "Comment": "{b,b} or {f,f} possible while maintaining stance"
+  },
+  {
+    "Id": 78,
+    "Type": "During Right Stance",
+    "Name": "Migraine",
+    "Description": "During Right Stance {1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "During Right Stance",
+    "Name": "Big Fists",
+    "Description": "During Right Stance {2,1,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "During Right Stance",
+    "Name": "Hawk Strike",
+    "Description": "During Right Stance {2,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "During Right Stance",
+    "Name": "Chainsaw Kick Combo",
+    "Description": "During Right Stance {2,4,3}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance, {2,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+  },
+  {
+    "Id": 82,
+    "Type": "During Right Stance",
+    "Name": "Right Reverse Kick Combo",
+    "Description": "During Right Stance {2,4,4}",
+    "Properties": "",
+    "Comment": "{2,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+  },
+  {
+    "Id": 83,
+    "Type": "During Right Stance",
+    "Name": "Volcannon",
+    "Description": "During Right Stance {3,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo, {3,4,f-hold} to cancel and shift to Right Flamingo"
+  },
+  {
+    "Id": 84,
+    "Type": "During Right Stance",
+    "Name": "Backlash",
+    "Description": "During Right Stance {LB,3,4,RB}",
+    "Properties": "Power Crush, Homing Attack",
+    "Comment": "Has clean hit effect, chip damage on block, absorb attacks to power up"
+  },
+  {
+    "Id": 85,
+    "Type": "During Right Stance",
+    "Name": "Chainsaw Kick",
+    "Description": "During Right Stance {4,3}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance, {4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+  },
+  {
+    "Id": 86,
+    "Type": "During Right Stance",
+    "Name": "Right Reverse Kick",
+    "Description": "During Right Stance {4,4}",
+    "Properties": "",
+    "Comment": "{4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+  },
+  {
+    "Id": 87,
+    "Type": "During Right Stance",
+    "Name": "Disrespect",
+    "Description": "During Right Stance {1+2}",
+    "Properties": "",
+    "Comment": "Facing Backward"
+  },
+  {
+    "Id": 88,
+    "Type": "During Right Stance",
+    "Name": "Motion Switch",
+    "Description": "During Right Stance {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "During Right Stance",
+    "Name": "Left Right Combo",
+    "Description": "During Right Stance {f,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 90,
+    "Type": "During Right Stance",
+    "Name": "Cheap Shot",
+    "Description": "During Right Stance {f,3}",
+    "Properties": "",
+    "Comment": "Shift to Left Flamingo, {f,3,b-hold} to face backward"
+  },
+  {
+    "Id": 91,
+    "Type": "During Right Stance",
+    "Name": "Right Flamingo Feint",
+    "Description": "During Right Stance {f,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 92,
+    "Type": "During Right Stance",
+    "Name": "Plasma Blade",
+    "Description": "During Right Stance {f,LB,4,4,RB}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 93,
+    "Type": "During Right Stance",
+    "Name": "Black Kite",
+    "Description": "During Right Stance {df,3}",
+    "Properties": "Heat Engager, Homing Attack",
+    "Comment": "Chip damage on block, shift to Right Stance (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 94,
+    "Type": "During Right Stance",
+    "Name": "Right Sidekick",
+    "Description": "During Right Stance {df,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance, {df,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+  },
+  {
+    "Id": 95,
+    "Type": "During Right Stance",
+    "Name": "Double Claymore",
+    "Description": "During Right Stance {df,2+3,4}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, {df,2+3,f-hold} (or {u-hold} or {d-hold}) to cancel and shift to Left Flamingo"
+  },
+  {
+    "Id": 96,
+    "Type": "During Right Stance",
+    "Name": "Triumph Low Right",
+    "Description": "During Right Stance {d,3,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo, {d,3} to face backward"
+  },
+  {
+    "Id": 97,
+    "Type": "During Right Stance",
+    "Name": "Heel Screw",
+    "Description": "During Right Stance {d,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 98,
+    "Type": "During Right Stance",
+    "Name": "Blast Fist",
+    "Description": "During Right Stance {b,2}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 99,
+    "Type": "During Right Stance",
+    "Name": "Nose Bleeder",
+    "Description": "During Right Stance {b,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 100,
+    "Type": "During Right Stance",
+    "Name": "Spin Kick",
+    "Description": "During Right Stance {b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 101,
+    "Type": "During Right Stance",
+    "Name": "Hunting Heel",
+    "Description": "During Right Stance {f,f-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 102,
+    "Type": "During Left Flamingo",
+    "Name": "Left Flamingo",
+    "Description": "{f,3}, etc.",
+    "Properties": "",
+    "Comment": "Can move while maintaining stance {f-hold} (or {b-hold} or {d-hold} or {u-hold})"
+  },
+  {
+    "Id": 103,
+    "Type": "During Left Flamingo",
+    "Name": "Left Flamingo > Back Hand",
+    "Description": "During Left Flamingo {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 104,
+    "Type": "During Left Flamingo",
+    "Name": "Right Backhand",
+    "Description": "During Left Flamingo {2}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 105,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Siege Combo",
+    "Description": "During Left Flamingo {3,2}",
+    "Properties": "",
+    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo"
+  },
+  {
+    "Id": 106,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Kick Combo Middle",
+    "Description": "During Left Flamingo {3,3}",
+    "Properties": "",
+    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo"
+  },
+  {
+    "Id": 107,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Side Kick > Right Hook Kick",
+    "Description": "During Left Flamingo {3,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo, during Left Flamingo {3,f-hold} to shift to Left Flamingo"
+  },
+  {
+    "Id": 108,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Side Kick > Backlash",
+    "Description": "During Left Flamingo {3,f,4}",
+    "Properties": "",
+    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo"
+  },
+  {
+    "Id": 109,
+    "Type": "During Left Flamingo",
+    "Name": "Right Step Kick",
+    "Description": "During Left Flamingo {4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 110,
+    "Type": "During Left Flamingo",
+    "Name": "Lightning Halberd",
+    "Description": "During Left Flamingo {LB,4,3,RB}",
+    "Properties": "",
+    "Comment": "Power up with quick input"
+  },
+  {
+    "Id": 111,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Switch > Right Flamingo",
+    "Description": "During Left Flamingo {3+4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 112,
+    "Type": "During Left Flamingo",
+    "Name": "Power Blast",
+    "Description": "During Left Flamingo {1+4}",
+    "Properties": "",
+    "Comment": "During Left Flamingo {2+3,b,b} to cancel"
+  },
+  {
+    "Id": 113,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Rocket",
+    "Description": "During Left Flamingo {f,3}",
+    "Properties": "Heat Engager",
+    "Comment": "Shift to Left Flamingo (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 114,
+    "Type": "During Left Flamingo",
+    "Name": "Spinning Hook Kick",
+    "Description": "During Left Flamingo {f,4}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 115,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Double Claymore",
+    "Description": "During Left Flamingo {df,3,4}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, during Left Flamingo {df,3,f-hold} (or {d} or {u}) to cancel and shift to Left Flamingo"
+  },
+  {
+    "Id": 116,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Low Right",
+    "Description": "During Left Flamingo {d,3,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Flamingo"
+  },
+  {
+    "Id": 117,
+    "Type": "During Left Flamingo",
+    "Name": "Combat Low",
+    "Description": "During Left Flamingo {d,4}",
+    "Properties": "",
+    "Comment": "Or during Left Flamingo {db,4}, shift to Right Stance"
+  },
+  {
+    "Id": 118,
+    "Type": "During Left Flamingo",
+    "Name": "Stealth Needle",
+    "Description": "During Left Flamingo {b,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 119,
+    "Type": "During Left Flamingo",
+    "Name": "Left Thunderbolt",
+    "Description": "During Left Flamingo {b,3}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, shift to Right Stance"
+  },
+  {
+    "Id": 120,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Screw Kick",
+    "Description": "During Left Flamingo {b,4,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block, shift to Right Stance"
+  },
+  {
+    "Id": 121,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Hunting Hawk",
+    "Description": "During Left Flamingo {uf,3} on hit or block {4,3}",
+    "Properties": "",
+    "Comment": "During Left Flamingo, {uf,3} on hit or block {4} to shift to Right Flamingo"
+  },
+  {
+    "Id": 122,
+    "Type": "During Left Flamingo",
+    "Name": "Switch Plasma Blade",
+    "Description": "During Left Flamingo {uf,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 123,
+    "Type": "During Left Flamingo",
+    "Name": "Flamingo Flashing Trident",
+    "Description": "During Left Flamingo {uf,3+4,4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance, during Left Flamingo {uf,3+4,f-hold} to shift to Left Flamingo"
+  },
+  {
+    "Id": 124,
+    "Type": "During Left Flamingo",
+    "Name": "10 Hit Combo 1",
+    "Description": "During Left Flamingo {2,2,3,4,3,4,4,4,4,3}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 125,
+    "Type": "During Right Flamingo",
+    "Name": "Right Flamingo",
+    "Description": "{f,n,4}, etc.",
+    "Properties": "",
+    "Comment": "Can move while maintaining stance {f-hold} (or {b-hold} or {d-hold} or {u-hold})"
+  },
+  {
+    "Id": 126,
+    "Type": "During Right Flamingo",
+    "Name": "Left Punch",
+    "Description": "During Right Flamingo {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 127,
+    "Type": "During Right Flamingo",
+    "Name": "Right Flamingo > Back Hand",
+    "Description": "During Right Flamingo {2}",
+    "Properties": "",
+    "Comment": "Link to attack from during Right Stance {2}"
+  },
+  {
+    "Id": 128,
+    "Type": "During Right Flamingo",
+    "Name": "Left Step Kick",
+    "Description": "During Right Flamingo {3}",
+    "Properties": "",
+    "Comment": "Shift to Left Flamingo, power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 129,
+    "Type": "During Right Flamingo",
+    "Name": "Right Kick",
+    "Description": "During Right Flamingo {4}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance, power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 130,
+    "Type": "During Right Flamingo",
+    "Name": "Flamingo Switch > Left Flamingo",
+    "Description": "During Right Flamingo {3+4}",
+    "Properties": "",
+    "Comment": "Shift to Left Flamingo"
+  },
+  {
+    "Id": 131,
+    "Type": "During Right Flamingo",
+    "Name": "Screw Kick",
+    "Description": "During Right Flamingo {f,3}",
+    "Properties": "Homing Attack",
+    "Comment": "Power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 132,
+    "Type": "During Right Flamingo",
+    "Name": "Right Viper Combo > Right Sword",
+    "Description": "During Right Flamingo {f,4,4}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Right Stance, power up during Heat (partially uses remaining Heat time, increased chip damage on block"
+  },
+  {
+    "Id": 133,
+    "Type": "During Right Flamingo",
+    "Name": "Snap Kick",
+    "Description": "During Right Flamingo {df,4}",
+    "Properties": "",
+    "Comment": "Power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 134,
+    "Type": "During Right Flamingo",
+    "Name": "Teaser",
+    "Description": "During Right Flamingo {d,3,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 135,
+    "Type": "During Right Flamingo",
+    "Name": "Predator Bardiche",
+    "Description": "During Right Flamingo {d,4,3,4}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time, increased chip damage on block), during Right Flamingo {d,4} to shift to Right Stance"
+  },
+  {
+    "Id": 136,
+    "Type": "During Right Flamingo",
+    "Name": "Left Heel Lance",
+    "Description": "During Right Flamingo {b,3}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 137,
+    "Type": "During Right Flamingo",
+    "Name": "Right Thunderbolt",
+    "Description": "During Right Flamingo {b,4}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block; power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 138,
+    "Type": "During Right Flamingo",
+    "Name": "Raptor Claw",
+    "Description": "During Right Flamingo {u,4}",
+    "Properties": "Homing Attack",
+    "Comment": "Link to attack from {4,4,4}, power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 139,
+    "Type": "During Right Flamingo",
+    "Name": "Flamingo Hunting Heel",
+    "Description": "During Right Flamingo {uf,3}",
+    "Properties": "",
+    "Comment": "Power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 140,
+    "Type": "During Right Flamingo",
+    "Name": "Air Blade",
+    "Description": "During Right Flamingo {uf,4}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Right Stance, power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 141,
+    "Type": "During Right Flamingo",
+    "Name": "Flying Eagle",
+    "Description": "During Right Flamingo {LB,3,4,RB}",
+    "Properties": "",
+    "Comment": "Power up with quick input, power up during Heat (increased chip damage on block)"
+  },
+  {
+    "Id": 142,
+    "Type": "During Right Flamingo",
+    "Name": "10 Hit Combo 2",
+    "Description": "During Right Flamingo {1,2,3,4,3,4,4,4,4,3}",
+    "Properties": "",
+    "Comment": "Shift to Right Stance"
+  },
+  {
+    "Id": 143,
+    "Type": "Throws",
+    "Name": "Pickpocket",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 144,
+    "Type": "Throws",
+    "Name": "Falcon Dice Kick",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 145,
+    "Type": "Throws",
+    "Name": "Bring It On",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, throw escape {1}"
+  },
+  {
+    "Id": 146,
+    "Type": "Throws",
+    "Name": "Dead-End",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, throw escape {2}"
+  },
+  {
+    "Id": 147,
+    "Type": "Throws",
+    "Name": "Slaughterhouse",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, cannot throw escape"
+  },
+  {
+    "Id": 148,
+    "Type": "Throws",
+    "Name": "Roll and Choke",
+    "Description": "Approach opponent {2+4,b-hold}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 149,
+    "Type": "Throws",
+    "Name": "Human Cannonball",
+    "Description": "Approach opponent {f,2+3}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, Left Flamingo, and Right Flamingo; throw escape {1+2}"
+  },
+  {
+    "Id": 150,
+    "Type": "Throws",
+    "Name": "Leg Hook Throw",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Also possuble during Right Stance, throw escape {1+2}"
+  },
+  {
+    "Id": 151,
+    "Type": "Throws",
+    "Name": "Door Mat",
+    "Description": "Approach opponent {d,db,b,3}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 152,
+    "Type": "Throws",
+    "Name": "Overhead Kick",
+    "Description": "Approach airborne opponent {ub,3}",
+    "Properties": "",
+    "Comment": "Also possible during Right Stance, cannot throw escape"
+  },
+  {
+    "Id": 153,
+    "Type": "Throws",
+    "Name": "Jackknife",
+    "Description": "During Right Stance approach opponent {1+3} (or {3+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 154,
+    "Type": "Attack Reversal",
+    "Name": "Parry",
+    "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": "When parrying a punch, {4} for a follow-up attack"
+  },
+  {
+    "Id": 155,
+    "Type": "Attack Reversal",
+    "Name": "Shotgun Shuffle",
+    "Description": "After successful parry {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 156,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

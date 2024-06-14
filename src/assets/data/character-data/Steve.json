@@ -1,0 +1,1194 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "A new Ducking In shift move can be used",
+    "Properties": "",
+    "Comment": "{df,3+4}"
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can use Two-Faced",
+    "Properties": "",
+    "Comment": "During Ducking In {1+3} (or {2+4}), etc."
+  },
+  {
+    "Id": 6,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can parry mid attacks during Lion Heart",
+    "Properties": "",
+    "Comment": "During Lion Heat, take mid attack from opponent"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Sonic Fang",
+    "Description": "{1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Rocket Launcher",
+    "Description": "{d,df,f,1}",
+    "Properties": "Heat Engager",
+    "Comment": "{d,df,f,1,b-hold} shift to Flicker Stance (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Eraser",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Cyclone Punch",
+    "Description": "During Quick Spin ({3+4}, etc.) {2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Vigilant Blow",
+    "Description": "During Lion Heart ({ub,3}, etc.) {1}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Two-Faced",
+    "Description": "With Heat activated during Lion Heart, take mid attack from opponent",
+    "Properties": "",
+    "Comment": "Shift to Two-Faced"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Ducking In Direct",
+    "Description": "During Heat {df,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Ducking In, partially uses remaining Heat time, hold {3} (or {4}) {b-hold} to shift to Swaying, {u} (or {d}) to shift to Ducking Left / Right, {db-hold} to cancel"
+  },
+  {
+    "Id": 15,
+    "Type": "Heat Moves",
+    "Name": "Two-Faced",
+    "Description": "During Heat and Ducking In {1+3} (or {2+4})",
+    "Properties": "Homing",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 16,
+    "Type": "Heat Moves",
+    "Name": "Dominion Rush",
+    "Description": "During Two-Faced {1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}, partially uses remaining Heat time"
+  },
+  {
+    "Id": 17,
+    "Type": "Heat Moves",
+    "Name": "Debutante Ball",
+    "Description": "During Two-Faced {2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, partially uses remaining Heat time"
+  },
+  {
+    "Id": 18,
+    "Type": "Heat Moves",
+    "Name": "Bretwalda",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw, on block shift to Lion Heat (does not shift with {b-hold})"
+  },
+  {
+    "Id": 19,
+    "Type": "Heat Moves",
+    "Name": "Bretwalda",
+    "Description": "During Heat and Peakaboo {2+3}",
+    "Properties": "",
+    "Comment": "Or during Heat and Flicker Stance {2+3}, Heat Smash, on hit shift to throw, on block shift to Lion Heat (does not shift with {b-hold})"
+  },
+  {
+    "Id": 20,
+    "Type": "Rage Moves",
+    "Name": "Dear Land of Hope",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Double Jab",
+    "Description": "{1,1}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Jab > Body Blow",
+    "Description": "{1,d,1}",
+    "Properties": "",
+    "Comment": "{1,d,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Lightning Combo",
+    "Description": "{1,1,2}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Double Jab > Body Blow",
+    "Description": "{1,1,d,1}",
+    "Properties": "",
+    "Comment": "{1,1,d,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Left Right",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "British Edge Combo",
+    "Description": "{1,2,1,2}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying from second to fourth hits, {1,2,1,f-hold} to shift to Peakaboo {1,2,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "British Edge Combo 2",
+    "Description": "{1,2,1,d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Vanguard Rush",
+    "Description": "{2,1,2}",
+    "Properties": "",
+    "Comment": "{2,1,f-hold} to shift to Peakaboo, {2,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Cromwell Combination",
+    "Description": "{2,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Ducking Left",
+    "Description": "{3}",
+    "Properties": "",
+    "Comment": "Shift to Ducking Left, hold {3} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Right"
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Ducking Right",
+    "Description": "{4}",
+    "Properties": "",
+    "Comment": "Shift to Ducking Right, hold {4} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Left"
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Sonic Fang",
+    "Description": "{1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Or while rising {1+2}"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Quick Spin",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "Shift to Quick Spin"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Ducking Body Blow > Left Hook",
+    "Description": "{f,2,1}",
+    "Properties": "",
+    "Comment": "{f,2,1,f-hold} to shift to Peakaboo, {f,2,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Ducking Psyche-out Body",
+    "Description": "{f,2,LB,1,2,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Conqueror Combination",
+    "Description": "{f,2,2,1+2}",
+    "Properties": "",
+    "Comment": "{f,2,2} to shift to Lion Heat (does not shift with {b-hold})"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Ducking",
+    "Description": "{f,3} (or {f,4})",
+    "Properties": "",
+    "Comment": "Shift to Ducking, hold {3} (or {4}) {b-hold} to shift to Swaying, {u} (or {d}) to shift to Ducking Left / Right, {db-hold} to cancel"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Shotgun Combination",
+    "Description": "{f,1+2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Peakaboo",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Peakaboo, can shift to Ducking, Ducking Left / Right, or Swaying, {3+4} to shift to Quick Spin"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Left-Uppercut",
+    "Description": "{df,1}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Uppercut Cross Combo",
+    "Description": "{df,1,2}",
+    "Properties": "",
+    "Comment": "Can cancel second hit and shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Uppercut Psyche-out Hook",
+    "Description": "{df,1,LB,2,1,RB}",
+    "Properties": "",
+    "Comment": "{df,1,LB,2,1,RB,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Uppercut Psyche-out Body",
+    "Description": "{df,1,LB,2,2,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Uppercut Psyche-out Left Right Combo",
+    "Description": "{df,1,LB,2,f,1+2,RB}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Crescent Hook",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Knee Blaster",
+    "Description": "{d,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Wildman Combo",
+    "Description": "{d,2,1,2}",
+    "Properties": "",
+    "Comment": "Can cancel second hit and shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Knee Clipper",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": "Or while crouching {db,2}"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Foot Stomp Right Hook",
+    "Description": "{db,3,2}",
+    "Properties": "",
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Stun Gun",
+    "Description": "{db,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Quick Hook",
+    "Description": "{b,1}",
+    "Properties": "",
+    "Comment": "{b,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Quick Draw",
+    "Description": "{b,1,2}",
+    "Properties": "Homing",
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Swindler",
+    "Description": "{b,1,LB,2,1,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Frigate Combo",
+    "Description": "{b,1,d,2,1}",
+    "Properties": "Tornado",
+    "Comment": "{b,1,d,2,f-hold} to shift to Peakaboo"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Body Bomb",
+    "Description": "{b,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Swaying",
+    "Description": "{b,3} (or {b,4})",
+    "Properties": "",
+    "Comment": "Shift to Swaying, hold {3} (or {4}) {f-hold} to shift to Ducking, {u} (or {d}) to shift to Ducking Left / Right"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Flicker Stance",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Shift Flicker Stance, can shift Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Bounty Hunter",
+    "Description": "{ub,2}",
+    "Properties": "Homing",
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Swindler",
+    "Description": "{ub,LB,2,1,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Swindler Outfox",
+    "Description": "{ub,3}",
+    "Properties": "",
+    "Comment": "Shift to Lion Heart"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Hellfire",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Over the Top",
+    "Description": "{uf,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Burst Hammer",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Or {u,2}"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Jump-in Foot Stomp Right Hook",
+    "Description": "{uf,3,2}",
+    "Properties": "",
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Jumping Duck Kick",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {u,4}"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Beat Down",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Rocket Launcher",
+    "Description": "{d,df,f,1}",
+    "Properties": "Heat Engager",
+    "Comment": "{d,df,f,1,b-hold} shift to Flicker Stance (does not shift when using Heat Dash)"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Low Cross Blaster",
+    "Description": "{d,df,f,2}",
+    "Properties": "",
+    "Comment": "{d,df,f,2,f-hold} to shift to Peakaboo"
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Eraser",
+    "Description": "{f,f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Sliding Low Punch",
+    "Description": "While running (two steps or more) {f-hold,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{df,1,LB,2,f,1+2,RB,1,1,2,1,1,2,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{df,1,LB,2,f,1+2,RB,1,1,2,1,1,2,1,b,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 73,
+    "Type": "Special Move",
+    "Name": "Taunt",
+    "Description": "{1+2+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Crouching",
+    "Name": "Eagle Jab",
+    "Description": "While rising {1,1}",
+    "Properties": "",
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 76,
+    "Type": "Moves While Crouching",
+    "Name": "Wildman",
+    "Description": "While rising {1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 77,
+    "Type": "Moves While Crouching",
+    "Name": "Nighthawk Combination",
+    "Description": "While rising {2,2}",
+    "Properties": "",
+    "Comment": "Shift to Lion Heat (does not shift with {b-hold}), from first hit can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Crouching",
+    "Name": "Finishing Blow",
+    "Description": "While crouching {df,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "During Ducking Left",
+    "Name": "Ducking Left",
+    "Description": "{3}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Ducking Left, hold {3,b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Right"
+  },
+  {
+    "Id": 80,
+    "Type": "During Ducking Left",
+    "Name": "Double Stinger",
+    "Description": "During Ducking Left {1,1}",
+    "Properties": "",
+    "Comment": "During Ducking Left {1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 81,
+    "Type": "During Ducking Left",
+    "Name": "Bee Sting Combo",
+    "Description": "During Ducking Left {1,2}",
+    "Properties": "Homing",
+    "Comment": "Shift to Lion Heart ({b-hold} to stay in place)"
+  },
+  {
+    "Id": 82,
+    "Type": "During Ducking Left",
+    "Name": "Swindler",
+    "Description": "During Ducking Left {1,LB,2,1,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "During Ducking Left",
+    "Name": "Centurion Rush",
+    "Description": "During Ducking Left {1,f,1,1}",
+    "Properties": "",
+    "Comment": "During Ducking Left {1,f,1,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 84,
+    "Type": "During Ducking Left",
+    "Name": "Right Shoulder Rush > Billy Climb",
+    "Description": "During Ducking Left {2,1}",
+    "Properties": "",
+    "Comment": "During Ducking Left {2,f-hold} to shift to Peakaboo"
+  },
+  {
+    "Id": 85,
+    "Type": "During Ducking Right",
+    "Name": "Ducking Right",
+    "Description": "{4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Ducking Right, hold {4} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} to shift to Ducking Left"
+  },
+  {
+    "Id": 86,
+    "Type": "During Ducking Right",
+    "Name": "Hawk Swoop Combo",
+    "Description": "During Ducking Right {1,2}",
+    "Properties": "Homing",
+    "Comment": "Shift to Lion Heat (does not shift with {b-hold}), during Ducking Right {1,f-hold} to shift to Peakaboo"
+  },
+  {
+    "Id": 87,
+    "Type": "During Ducking Right",
+    "Name": "Swindler",
+    "Description": "During Ducking Right {1,LB,2,1,RB}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "During Ducking Right",
+    "Name": "Gut Drill",
+    "Description": "During Ducking Right {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 89,
+    "Type": "During Quick Spin",
+    "Name": "Quick Spin",
+    "Description": "{3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Quick Spin"
+  },
+  {
+    "Id": 90,
+    "Type": "During Quick Spin",
+    "Name": "Cyclone Punch",
+    "Description": "During Quick Spin {2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 91,
+    "Type": "During Quick Spin",
+    "Name": "Cyclone Knee Clip",
+    "Description": "During Quick Spin {d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 92,
+    "Type": "During Quick Spin",
+    "Name": "Spin > Peakaboo",
+    "Description": "During Quick Spin {f-hold}",
+    "Properties": "",
+    "Comment": "Shift to Peakaboo"
+  },
+  {
+    "Id": 93,
+    "Type": "During Quick Spin",
+    "Name": "Cyclone Left (Right)",
+    "Description": "During Quick Spin {u-hold} (or {d-hold})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "During Quick Spin",
+    "Name": "Double Cyclone Punch",
+    "Description": "During Quick Spin {u-hold} (or {d-hold}) {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 95,
+    "Type": "During Quick Spin",
+    "Name": "Double Cyclone Knee Punch",
+    "Description": "During Quick Spin {u-hold} (or {d-hold}) {d,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 96,
+    "Type": "During Quick Spin",
+    "Name": "Spin > Peakaboo",
+    "Description": "During Quick Spin {u-hold} (or {d-hold}) {f-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "During Ducking",
+    "Name": "Ducking",
+    "Description": "{f,3} (or {f,4}), etc.",
+    "Properties": "",
+    "Comment": "Shift to Ducking, hold {3} (or {4}) {b} to shift to Swaying, {u-hold} (or {d-hold}) to shift to Ducking Left / Right, {db-hold} to cancel"
+  },
+  {
+    "Id": 98,
+    "Type": "During Ducking",
+    "Name": "Fox Hunt",
+    "Description": "During Ducking {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 99,
+    "Type": "During Ducking",
+    "Name": "Skyscraper",
+    "Description": "During Ducking {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 100,
+    "Type": "During Ducking",
+    "Name": "Punisher",
+    "Description": "During Ducking {f,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, hold {3} (or {4}) {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right"
+  },
+  {
+    "Id": 101,
+    "Type": "During Ducking",
+    "Name": "Gatling Gun",
+    "Description": "During Ducking {1+2,1+2,1+2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 102,
+    "Type": "During Ducking In",
+    "Name": "Ducking In",
+    "Description": "{f,3} hold {f-hold} (or {f,4} hold {f-hold})",
+    "Properties": "",
+    "Comment": "Hold {3} (or {4}) {b-hold} to shift to Swaying, {u-hold} (or {d-hold}) to shift to Ducking Left / Right, {db-hold} to cancel"
+  },
+  {
+    "Id": 103,
+    "Type": "During Ducking In",
+    "Name": "Power Fox Hunt",
+    "Description": "During Ducking In {1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 104,
+    "Type": "During Ducking In",
+    "Name": "Power Skyscraper",
+    "Description": "During Ducking In {2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 105,
+    "Type": "During Ducking In",
+    "Name": "Power Punisher",
+    "Description": "During Ducking In {f,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, hold {3} (or {4}) {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right"
+  },
+  {
+    "Id": 106,
+    "Type": "During Peakaboo",
+    "Name": "Peakaboo",
+    "Description": "{f,3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Peakaboo, can shift to Ducking, Ducking Left / Right, or Swaying, {3+4} to shift to Quick Spin"
+  },
+  {
+    "Id": 107,
+    "Type": "During Peakaboo",
+    "Name": "Albion Combination",
+    "Description": "During Peakaboo {1,2,1}",
+    "Properties": "",
+    "Comment": "Shift to Peakaboo"
+  },
+  {
+    "Id": 108,
+    "Type": "During Peakaboo",
+    "Name": "Spite Hook",
+    "Description": "During Peakaboo {2}",
+    "Properties": "Homing",
+    "Comment": "Shift to Peakaboo, has punch parry effect"
+  },
+  {
+    "Id": 109,
+    "Type": "During Peakaboo",
+    "Name": "Ten Count",
+    "Description": "During Peakaboo {1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 110,
+    "Type": "During Peakaboo",
+    "Name": "Straight Punch Combination",
+    "Description": "During Peakaboo {f,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 111,
+    "Type": "During Peakaboo",
+    "Name": "Nimrod Combination",
+    "Description": "During Peakaboo {f,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "During Peakaboo",
+    "Name": "Argos Rush",
+    "Description": "During Peakaboo {df,1,1,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 113,
+    "Type": "During Peakaboo",
+    "Name": "Cross Cut",
+    "Description": "During Peakaboo {df,1,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 114,
+    "Type": "During Peakaboo",
+    "Name": "Cutting Elbow",
+    "Description": "During Peakaboo {df,2}",
+    "Properties": "",
+    "Comment": "Shift to Peakaboo"
+  },
+  {
+    "Id": 115,
+    "Type": "During Peakaboo",
+    "Name": "Patella Smash",
+    "Description": "During Peakaboo {d,1}",
+    "Properties": "",
+    "Comment": "Or while crouching {df,1}, shift to Peakaboo"
+  },
+  {
+    "Id": 116,
+    "Type": "During Peakaboo",
+    "Name": "Knuckle Plow",
+    "Description": "During Peakaboo {d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 117,
+    "Type": "During Peakaboo",
+    "Name": "Lancaster Combination",
+    "Description": "During Peakaboo {b,1,1,2,1}",
+    "Properties": "",
+    "Comment": "During Peakaboo {b,1,1,2,1,b-hold} to shift to Flicker Stance"
+  },
+  {
+    "Id": 118,
+    "Type": "During Peakaboo",
+    "Name": "Swaying Hook",
+    "Description": "During Peakaboo {b,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 119,
+    "Type": "During Peakaboo",
+    "Name": "Dreadnought Uppercut",
+    "Description": "During Peakaboo {uf,2}",
+    "Properties": "Tornado",
+    "Comment": "Or during Peakaboo {u,2}"
+  },
+  {
+    "Id": 120,
+    "Type": "During Swaying",
+    "Name": "Swaying",
+    "Description": "{b,3} (or {b,4}), etc.",
+    "Properties": "",
+    "Comment": "Shift to Swaying, hold {3} (or {4}) {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right"
+  },
+  {
+    "Id": 121,
+    "Type": "During Swaying",
+    "Name": "Billy Club",
+    "Description": "During Swaying {1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 122,
+    "Type": "During Swaying",
+    "Name": "Snake Charmer",
+    "Description": "During Swaying {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 123,
+    "Type": "During Swaying",
+    "Name": "Position Change",
+    "Description": "During Swaying {1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, during Swaying {1+2,b-hold} (or {1+2,u-hold}) or {1+2,d-hold}) to throw in different direction"
+  },
+  {
+    "Id": 124,
+    "Type": "During Flicker Stance",
+    "Name": "Flicker Stance",
+    "Description": "{b,3+4}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Flicker Stance, can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 125,
+    "Type": "During Flicker Stance",
+    "Name": "Spiteful Combination",
+    "Description": "During Flicker Stance {1,1,1,2}",
+    "Properties": "Tornado",
+    "Comment": "From first or second hit, {2} to shift into move, {1,b-hold} (or {1,1,b-hold} or {1,1,1,b-hold}) to shift to Flicker Stance, {1,3+4} (or {1,1,3+4} or {1,1,1,3+4}) to shift to Quick Spin"
+  },
+  {
+    "Id": 126,
+    "Type": "During Flicker Stance",
+    "Name": "Tempest Combo",
+    "Description": "During Flicker Stance {1,f,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 127,
+    "Type": "During Flicker Stance",
+    "Name": "Powerful Hook Combo",
+    "Description": "During Flicker Stance {1,d,1}",
+    "Properties": "",
+    "Comment": "Or during Flicker Stance {1,u,1}"
+  },
+  {
+    "Id": 128,
+    "Type": "During Flicker Stance",
+    "Name": "Fly Swatter",
+    "Description": "During Flicker Stance {2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 129,
+    "Type": "During Flicker Stance",
+    "Name": "Griffin Throw",
+    "Description": "During Flicker Stance {1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 130,
+    "Type": "During Flicker Stance",
+    "Name": "British Lancer",
+    "Description": "During Flicker Stance {b,2}",
+    "Properties": "Tornado, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 131,
+    "Type": "During Lion Heart",
+    "Name": "Lion Heart",
+    "Description": "{ub,3}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Lion Heart, can shift to Ducking, Ducking Left / Right, or Swaying"
+  },
+  {
+    "Id": 132,
+    "Type": "During Lion Heart",
+    "Name": "Vigilant Blow",
+    "Description": "During Lion Heart {1}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 133,
+    "Type": "During Lion Heart",
+    "Name": "Bloodhound",
+    "Description": "During Lion Heart {2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 134,
+    "Type": "During Lion Heart",
+    "Name": "Swingfire Advance",
+    "Description": "During Lion Heart {1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, has reversal break effect"
+  },
+  {
+    "Id": 135,
+    "Type": "Throws",
+    "Name": "Gut Wrencher",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 136,
+    "Type": "Throws",
+    "Name": "Brain Pulverizer",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 137,
+    "Type": "Throws",
+    "Name": "Choke Slam",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 138,
+    "Type": "Throws",
+    "Name": "Throw Down",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 139,
+    "Type": "Throws",
+    "Name": "Schoolyard Bully",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 140,
+    "Type": "Throws",
+    "Name": "Armlock Throw",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 141,
+    "Type": "Throws",
+    "Name": "Spinning Elbow Drop",
+    "Description": "Approach opponent {d,db,b,2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 142,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Cheapshot",
+    "Description": "While opponent is down {d,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 143,
+    "Type": "Attack Reversal",
+    "Name": "Parry",
+    "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": "Or during Flicker Stance {b,1+3} (or {b,2+4}), when parrying an attack, {1} for follow-up attack"
+  },
+  {
+    "Id": 144,
+    "Type": "Attack Reversal",
+    "Name": "Revenge Blow",
+    "Description": "After successful parry {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 145,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 146,
+    "Type": "Attack Reversal",
+    "Name": "Two-Faced",
+    "Description": "With Heat activated during Lion Heart, take mid attack from opponent",
+    "Properties": "",
+    "Comment": "Shift to Two-Faced"
+  },
+  {
+    "Id": 147,
+    "Type": "During Two-Faced",
+    "Name": "Two-Faced",
+    "Description": "During Heat and Ducking In {1+3} (or {2+4})",
+    "Properties": "Homing",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 148,
+    "Type": "During Two-Faced",
+    "Name": "Dominion Rush",
+    "Description": "During Two-Faced {1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}, partially uses remaining Heat time"
+  },
+  {
+    "Id": 149,
+    "Type": "During Two-Faced",
+    "Name": "Debutante Ball",
+    "Description": "During Two-Faced {2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, partially uses remaining Heat time"
+  }
+]

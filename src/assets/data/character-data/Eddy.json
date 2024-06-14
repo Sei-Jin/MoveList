@@ -1,0 +1,946 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (After activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can use Guerreiro Explosivo",
+    "Properties": "",
+    "Comment": "{3+4}"
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can use Rabo de Arraia Liberado",
+    "Properties": "",
+    "Comment": "{d,df,f,4}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Lufada",
+    "Description": "{4,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Xangô",
+    "Description": "{f,3+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Lunging Brush Fire",
+    "Description": "{b,3+4}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Chibata Ardente",
+    "Description": "During Negativa ({d,3+4}, etc.) {4,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Vingativa Zanga",
+    "Description": "Approach (crouching enemy) {d,1+3}",
+    "Properties": "Heat Engager",
+    "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Guerreiro Explosivo",
+    "Description": "During Heat {3+4}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Bananeira, partially uses remaining Heat time"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Rabo de Arraia Liberado",
+    "Description": "During Heat {d,df,f,4}",
+    "Properties": "",
+    "Comment": "Shift to Negativa, partially uses remaining Heat time"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Caveirinha Zangada",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Also possible during Bananeira and Negativa, Heat Smash, throw on hit, on block shift to Negativa"
+  },
+  {
+    "Id": 15,
+    "Type": "Rage Moves",
+    "Name": "Enchente de Axé",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Aso possible during Negativa, Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "One Two Galopantes",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": "{1,2,f-hold} to shift to Bananeira"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "One Two Galopantes > Chute Baixo",
+    "Description": "{1,2,LB,4,3,RB}",
+    "Properties": "",
+    "Comment": "Shift to Negativa, {1,2,4} to shift to crouching state"
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "One Two Galopantes > Chute Alto",
+    "Description": "{1,2,LB,4,4,RB}",
+    "Properties": "",
+    "Comment": "Side ukemi can be used, {1,2,4} to shift to crouching state"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Céu Gafanhoto",
+    "Description": "{1,3}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Combo Furacão",
+    "Description": "{2,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Batida de Campasso",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": "Shift to Bananeira"
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Sincelo",
+    "Description": "{3,3}",
+    "Properties": "",
+    "Comment": "Shift to Bananeira"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Lufada",
+    "Description": "{4,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Faisão",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Ventania",
+    "Description": "{f,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Combo do Funâmbulo",
+    "Description": "{f,3,4}",
+    "Properties": "Homing Attack",
+    "Comment": "{f,3,4,f-hold} to can cancel third hit and shift to Bananeira"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Aú do Sol",
+    "Description": "{f,4,3,3+4}",
+    "Properties": "",
+    "Comment": "{f,4} to shift to Bananeira"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Aú da Lua",
+    "Description": "{f,4,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Negativa {f,4} to shift to Bananeira"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Bananeira",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": "Or while rising {1+2}, shift to Bananeira"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Xangô",
+    "Description": "{f,3+4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Géiser",
+    "Description": "{df,1,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Elbow Uppercut",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Mirage",
+    "Description": "{df,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Kneecap Crusher",
+    "Description": "{df,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Aú Reversão",
+    "Description": "{df,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Palmares Giro",
+    "Description": "{d,2,3}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Sismo",
+    "Description": "{d,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Aú de Bico",
+    "Description": "{d,4,3}",
+    "Properties": "",
+    "Comment": "{d,4} to shift to crouching state"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Negativa",
+    "Description": "{d,3+4}",
+    "Properties": "",
+    "Comment": "Or while crouching {3+4}, shift to Negativa"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Twister Mirage",
+    "Description": "{db,2,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Rasteira Forte",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Rabo de Arraia",
+    "Description": "{db,4,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, Mandinga level increases by 1 on hit"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Double Arm Stinger",
+    "Description": "{db,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Meia-Lua de Compasso",
+    "Description": "{db,3+4,4,3}",
+    "Properties": "",
+    "Comment": "{db,3+4} to shift to crouching state"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Gato > Aú do Sol",
+    "Description": "{b,1,4,3,3+4}",
+    "Properties": "",
+    "Comment": "{b,1} to shift to crouching state, {b,1,4} to shift to Bananeira"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Gato > Aú da Lua",
+    "Description": "{b,1,4,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Negativa {b,1} to shift to crouching state, {b,1,4} to shift to Bananeira"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Godeme > Combo Martelo",
+    "Description": "{b,2,3,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Godeme > Calcanheira",
+    "Description": "{b,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Knee Thruster > Relâmpago",
+    "Description": "{b,3,3}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Leg Whip Mars Attack Flip",
+    "Description": "{b,4,4,3}",
+    "Properties": "",
+    "Comment": "{b,4,4,f-hold} to can cancel second hit and shift to Bananeira, chip damage on block"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Back Bananeira",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": "Shift to Bananeira"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Lunging Brush Fire",
+    "Description": "{b,3+4}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Perna da Lua",
+    "Description": "{ub,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Satellite Moon",
+    "Description": "{ub,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Acrobacia",
+    "Description": "{u,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Back Summy > Chute Baixo",
+    "Description": "{u,LB,4,3,RB}",
+    "Properties": "",
+    "Comment": "Shift to Negativa {u,4} to shift to crouching state"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Back Summy > Chute Alto",
+    "Description": "{u,LB,4,4,RB}",
+    "Properties": "",
+    "Comment": "Side ukemi can be used, {u,4} to shift to crouching state"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Vassoura",
+    "Description": "{u,1+2}",
+    "Properties": "",
+    "Comment": "Or {ub,1+2}"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Asfixiante",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Or {ub,2} or {u,2}"
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Jumping Jacks Mirage",
+    "Description": "{uf,3,3}",
+    "Properties": "Tornado",
+    "Comment": "{uf,3,f-hold} to shift to Bananeira"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Armada Pulada > Baixo",
+    "Description": "{uf,3,4}",
+    "Properties": "",
+    "Comment": "{uf,3,f-hold} to shift to Bananeira"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Chapa Giratória",
+    "Description": "{uf,4}",
+    "Properties": "Homing Attack",
+    "Comment": "Shift to Negative on hit"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Meia-Lua Pulando",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": "Or {ub,3+4} or {u,3+4}"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Terremoto",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Shift to Negativa on hit"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Folha Ataque",
+    "Description": "{f,f-hold,4}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Bananeira"
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Roda Gigante",
+    "Description": "{f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": "{f,f-hold,3+4,n,f} to cancel and shift to Bananeira, chip damage on block"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Fruit Picker",
+    "Description": "{b,b-hold,2+3}",
+    "Properties": "",
+    "Comment": "{b,b-hold,2+3,b,b} to cancel"
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Trovão",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Or {ub,b,3}, shift to Bananeira on block, chip damage on block"
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{ub,4,4,2,4,4,3+4,3+4,3+4,3+4,3+4,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Special Move",
+    "Name": "Flic Flac",
+    "Description": "{ub,b}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 72,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 73,
+    "Type": "Moves While Crouching",
+    "Name": "Fuzilação",
+    "Description": "While rising {1,3}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 74,
+    "Type": "Moves While Crouching",
+    "Name": "Chapeu de Couro",
+    "Description": "While rising {1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Moves While Crouching",
+    "Name": "Machado",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 76,
+    "Type": "Moves While Crouching",
+    "Name": "Martelo",
+    "Description": "While rising {3}",
+    "Properties": "Tornado",
+    "Comment": "Or {d,df,f,3}"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves While Crouching",
+    "Name": "Tempestade",
+    "Description": "While rising {4,4,4,3}",
+    "Properties": "",
+    "Comment": "While rising {4,4,4,f-hold} to can cancel third hit and shift ot Bananeira, chip damage on block"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Crouching",
+    "Name": "Front Stinger",
+    "Description": "While rising {3+4}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Crouching",
+    "Name": "Gafanhoto",
+    "Description": "While crouching {df,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block, shift to Negativa"
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Crouching",
+    "Name": "Tornada",
+    "Description": "While crouching {df,4}",
+    "Properties": "",
+    "Comment": "Shift to Bananeira"
+  },
+  {
+    "Id": 81,
+    "Type": "Moves during Sidestep",
+    "Name": "Hot Plate Special",
+    "Description": "During sidestep {3}",
+    "Properties": "",
+    "Comment": "Shift to Negativa, during sidestep {3,d-hold} to cancel and shift to Negativa"
+  },
+  {
+    "Id": 82,
+    "Type": "Moves during Sidestep",
+    "Name": "Troca Baixa",
+    "Description": "During sidestep {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves during Sidestep",
+    "Name": "Faísca",
+    "Description": "During sidestep {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Down",
+    "Name": "Whirling Spring Kick",
+    "Description": "(By opponent's feet) while down and facing up {b,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Moves during Bananeira",
+    "Name": "Bananeira",
+    "Description": "{f,1+2}, etc.",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Bananeira",
+    "Name": "Godeme Trovoada",
+    "Description": "During Bananeira {1}",
+    "Properties": "",
+    "Comment": "Chip damage on block, shift to Negativa"
+  },
+  {
+    "Id": 87,
+    "Type": "Moves during Bananeira",
+    "Name": "Combo Escorão",
+    "Description": "During Bananeira {2,3}",
+    "Properties": "",
+    "Comment": "Mandinga level increases by 1 on hit, during Bananeira {2,3,f-hold} to cancel second hit and shift to Bananeira"
+  },
+  {
+    "Id": 88,
+    "Type": "Moves during Bananeira",
+    "Name": "Enxurrada",
+    "Description": "During Bananeira {3,3,3}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Bananeira",
+    "Name": "Lança de Braço",
+    "Description": "During Bananeira {4,2}",
+    "Properties": "Tornado",
+    "Comment": "During Bananeira {4} to shift to Bananeira"
+  },
+  {
+    "Id": 90,
+    "Type": "Moves during Bananeira",
+    "Name": "Salto Yotori",
+    "Description": "During Bananeira {4,LB,2,3,RB}",
+    "Properties": "",
+    "Comment": "During Bananeira {4} to shift to Bananeira, chip damage on block"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Bananeira",
+    "Name": "Cabeçada Direta",
+    "Description": "During Bananeira {1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves during Bananeira",
+    "Name": "Chapa Esquivando",
+    "Description": "During Bananeira {b,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "Moves during Bananeira",
+    "Name": "Bananeira > Move Forward",
+    "Description": "During Bananeira {n,f}",
+    "Properties": "",
+    "Comment": "Shift to Bananeira"
+  },
+  {
+    "Id": 94,
+    "Type": "Moves during Bananeira",
+    "Name": "Bananeira > Negativa",
+    "Description": "During Bananeira {n,d} (or {n,u}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 95,
+    "Type": "Moves during Negative",
+    "Name": "Negativa",
+    "Description": "{d,3+4}, etc.",
+    "Properties": "",
+    "Comment": "During Negativa {db-hold} or {b-hold} to block"
+  },
+  {
+    "Id": 96,
+    "Type": "Moves during Negative",
+    "Name": "Terra Gafanhoto",
+    "Description": "During Negativa {1,3}",
+    "Properties": "",
+    "Comment": "During Negativa {1,d-hold} to shift to crouching state"
+  },
+  {
+    "Id": 97,
+    "Type": "Moves during Negative",
+    "Name": "Maré Cheia",
+    "Description": "During Negativa {2,4,4}",
+    "Properties": "",
+    "Comment": "During Negativa {2,4,d-hold} to shift to Negativa"
+  },
+  {
+    "Id": 98,
+    "Type": "Moves during Negative",
+    "Name": "Iemanjá",
+    "Description": "During Negativa {3,3}",
+    "Properties": "",
+    "Comment": "Has clean hit effect, Mandinga level increases by 1 on hit, during Negativa {3} to shift to crouching state"
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Negative",
+    "Name": "Chibata Ardente",
+    "Description": "During Negativa {4,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Negative",
+    "Name": "Cabeçada Fixa",
+    "Description": "During Negativa {1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 101,
+    "Type": "Moves during Negative",
+    "Name": "Troca e Ataque",
+    "Description": "During Negativa {3+4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 102,
+    "Type": "Moves during Negative",
+    "Name": "Negativa > Move Forward",
+    "Description": "During Negativa {n,f}",
+    "Properties": "",
+    "Comment": "Shift to Negativa"
+  },
+  {
+    "Id": 103,
+    "Type": "Moves during Negative",
+    "Name": "Negativa > Bananeira",
+    "Description": "During Negativa {n,d} (or {n,u}",
+    "Properties": "",
+    "Comment": "Shift to Bananeira"
+  },
+  {
+    "Id": 104,
+    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Name": "Yansan Mandinga",
+    "Description": "While at Mandiga Level 1, during Bananeira {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 105,
+    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Name": "Yansan Mandinga",
+    "Description": "While at Mandiga Level 2, during Bananeira {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 106,
+    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Name": "Ogum Mandinga",
+    "Description": "While at Mandiga Level 1, during Bananeira {b,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa"
+  },
+  {
+    "Id": 107,
+    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Name": "Ogum Mandinga",
+    "Description": "While at Mandiga Level 2, during Bananeira {b,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa"
+  },
+  {
+    "Id": 108,
+    "Type": "Throws",
+    "Name": "Rio Deal",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 109,
+    "Type": "Throws",
+    "Name": "Rio Special",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 110,
+    "Type": "Throws",
+    "Name": "Missile Launcher",
+    "Description": "Approach opponent {1+3} (or {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 111,
+    "Type": "Throws",
+    "Name": "Shadow Dancer",
+    "Description": "Approach opponent {1+3} (or {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 112,
+    "Type": "Throws",
+    "Name": "Back Rodeo Spin",
+    "Description": "Approach opponent {1+3} (or {2+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 113,
+    "Type": "Throws",
+    "Name": "Cabra Macaco Throw",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 114,
+    "Type": "Throws",
+    "Name": "Batucada",
+    "Description": "During Bananeira approach opponent {1+3} (or {2+4}",
+    "Properties": "",
+    "Comment": "Cannot throw escape, shift to Negativa on hit"
+  },
+  {
+    "Id": 115,
+    "Type": "Throws",
+    "Name": "Rodeo Spin",
+    "Description": "During Negativa approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 116,
+    "Type": "Throws",
+    "Name": "Vingativa Zanga",
+    "Description": "Approach (crouching enemy) {d,1+3}",
+    "Properties": "Heat Engager",
+    "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash"
+  },
+  {
+    "Id": 117,
+    "Type": "Throws",
+    "Name": "Vingativa Funeral",
+    "Description": "Approach (crouching enemy) {d,2+4}",
+    "Properties": "",
+    "Comment": "Or during Negativa {2+4}, cannot throw escape"
+  },
+  {
+    "Id": 118,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

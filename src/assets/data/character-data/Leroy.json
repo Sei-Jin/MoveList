@@ -1,0 +1,802 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Increased chip damage on block for fast multi-hit attacks such as Chain Punch",
+    "Properties": "",
+    "Comment": "{1,1,1+2}, {1+2,1+2}, {f,3,1+2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Partially restores remaining Heat time with a successful parry or attack reversal unique to Leroy",
+    "Properties": "",
+    "Comment": "{db,1+2}, {b,2}, {ub,2}, etc."
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Chain Punch: Stem",
+    "Description": "{1+2,1+2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Lao Wng Xuan Feng Jiao",
+    "Description": "{f,4,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Chanhui Zhang",
+    "Description": "{d,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Tan Sau Shui Yue Tu",
+    "Description": "{db,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Chain Punch: Root",
+    "Description": "During Hermit ({3+4}, etc.) {1+2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Twin Dragon Thunderclap",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Also possible during Hermit or after Twin Dragon Gate is successful, Heat Smash, on hit shift to throw on block shift to Hermit"
+  },
+  {
+    "Id": 13,
+    "Type": "Rage Moves",
+    "Name": "Dark Dragon Commandment",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "Chain Punch: Sheath",
+    "Description": "{1,1,1+2,1}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Front Palm",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Front Palm Pulsing Fist",
+    "Description": "{1,2,1}",
+    "Properties": "",
+    "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Front Palm Xuan Feng Jiao",
+    "Description": "{1,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Front Palm Snap Kick",
+    "Description": "{1,2,4}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Needle Elbow",
+    "Description": "{2,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Claws of Fury",
+    "Description": "{2,1,2,1}",
+    "Properties": "Tornado",
+    "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Hissing Snake",
+    "Description": "{3,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Falling Bamboo",
+    "Description": "{4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Chain Punch: Stem",
+    "Description": "{1+2,1+2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Hermit",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when successful), during Hermit {3+4} to stand up"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Lone Dragon Storm",
+    "Description": "{f,2,3,4}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Strike of the Five Precepts",
+    "Description": "{f,3,1+2,4}",
+    "Properties": "Tornado",
+    "Comment": "Or while rising {3,1+2,4}, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Lao Weng Xuan Feng Jiao",
+    "Description": "{f,4,4}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Dragon Elbow Crash",
+    "Description": "{f,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up (chip damage on block)"
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Chopping Snap Kick",
+    "Description": "{df,1,4}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Admonishment Whirl",
+    "Description": "{df,1,1+2,2}",
+    "Properties": "",
+    "Comment": "Fifth hit has a punch parry effect (partially restores remaining Heat time when successful during Heat), power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Rising Dragons",
+    "Description": "{df,2,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Poison Strike",
+    "Description": "{df,3,1,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Snap Kick Knee",
+    "Description": "{df,4,3}",
+    "Properties": "",
+    "Comment": "{df,4} to shift to Hermit"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Jawbreaker Bow Kick",
+    "Description": "{df,3+4}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Ru Huan Snap Kick",
+    "Description": "{d,1,2,4}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Falling Fist Sweep",
+    "Description": "{d,2,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Twin Snake Strike",
+    "Description": "{d,3,2}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Razor Kick",
+    "Description": "{d,4,4}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Chanhui Zhang",
+    "Description": "{d,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Shadow Ram Punch",
+    "Description": "{db,1,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Shadow Raccoon Swing",
+    "Description": "{db,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Shadow Double Fist Punch",
+    "Description": "{db,1,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Amputation Kick",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Fan Sweep",
+    "Description": "{db,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Tan Sau Shui Yue Tu",
+    "Description": "{db,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Hermit's Fist",
+    "Description": "{b,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Knee Snap",
+    "Description": "{b,1} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Beheading Back Kick",
+    "Description": "{b,3}",
+    "Properties": "Homing",
+    "Comment": "Shift to Hermit, {b,3,3+4} to cancel into Hermit, chip damage on block"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Zhuan Shen Jiao",
+    "Description": "{b,4}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Outcast Arrow",
+    "Description": "{b,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Earth Sunder Chain",
+    "Description": "{b,3+4}",
+    "Properties": "",
+    "Comment": "Throw when hit from the front"
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Enter the Dragon",
+    "Description": "{ub,2}",
+    "Properties": "",
+    "Comment": "Has punch parry effect (partially restores remaining Heat time when successful during Heat)"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Pulsing Fist",
+    "Description": "{uf,1}",
+    "Properties": "",
+    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Zhuan Shen Long Fang Quan",
+    "Description": "{uf,2}",
+    "Properties": "",
+    "Comment": "Or {u,2}, chip damage on block"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Floating Kick",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3} or {u,3}"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Floating Axe Drop",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Biting Dragons",
+    "Description": "{uf,3+4,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Cleansing Arrow",
+    "Description": "{f,f-hold,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Viper Bow Kick",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Sacrum Severance",
+    "Description": "{f,f-hold,4,2}",
+    "Properties": "Tornado",
+    "Comment": "{f,f-hold,4} to shift to Hermit"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Chakra Elbow",
+    "Description": "{d,df,f,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Piercing Charge",
+    "Description": "{d,df,f,3+4,f-hold}",
+    "Properties": "",
+    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Dragon's Heel",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{df,3,1,4,1+2,2,1+2,1+2}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 66,
+    "Type": "Special Move",
+    "Name": "Go Sugar",
+    "Description": "{1+4}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 67,
+    "Type": "Special Move",
+    "Name": "Taunt",
+    "Description": "{1+3+4}",
+    "Properties": "",
+    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+  },
+  {
+    "Id": 68,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 69,
+    "Type": "Moves While Crouching",
+    "Name": "Elbow Slash Snap Kick",
+    "Description": "While rising {1,4}",
+    "Properties": "",
+    "Comment": "Shift to Hermit"
+  },
+  {
+    "Id": 70,
+    "Type": "Moves While Crouching",
+    "Name": "Arrow Shower",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Moves While Crouching",
+    "Name": "Toe Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Moves While Crouching",
+    "Name": "Reverse Cross Kick",
+    "Description": "While crouching {df,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 73,
+    "Type": "Moves During Sidestep",
+    "Name": "Lone Dragon Slice",
+    "Description": "During sidestep {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Moves during Sidestep",
+    "Name": "Chain Punch: Seed",
+    "Description": "During sidestep {1+2}",
+    "Properties": "",
+    "Comment": "Or during Nimble Shift {1+2}, chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 75,
+    "Type": "During Hermit",
+    "Name": "Hermit",
+    "Description": "{3+4}, etc.",
+    "Properties": "",
+    "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when sucessful), during Hermit {3+4} to stand up"
+  },
+  {
+    "Id": 76,
+    "Type": "During Hermit",
+    "Name": "Tan Zhang",
+    "Description": "During Hermit {1}",
+    "Properties": "",
+    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat)"
+  },
+  {
+    "Id": 77,
+    "Type": "During Hermit",
+    "Name": "Double Jawbreaker",
+    "Description": "During Hermit {2,3}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 78,
+    "Type": "During Hermit",
+    "Name": "Stampeding Dragon",
+    "Description": "During Hermit {3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 79,
+    "Type": "During Hermit",
+    "Name": "Cautious Dragon",
+    "Description": "During Hermit {4,1+2}",
+    "Properties": "Tornado",
+    "Comment": "During Hermit {4} to shift to Hermit"
+  },
+  {
+    "Id": 80,
+    "Type": "During Hermit",
+    "Name": "Chain Punch: Root",
+    "Description": "During Hermit {1+2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 81,
+    "Type": "During Hermit",
+    "Name": "Villain Slayer",
+    "Description": "During Hermit {f,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "During Hermit",
+    "Name": "Duan Tou Xuan Feng Jiao",
+    "Description": "During Hermit {f,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 83,
+    "Type": "During Hermit",
+    "Name": "Prayer Fist",
+    "Description": "During Hermit {b,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 84,
+    "Type": "During Hermit",
+    "Name": "Twin Dragon Acceptance",
+    "Description": "During Hermit {b,3,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "During Hermit",
+    "Name": "Razor Sweep",
+    "Description": "During Hermit {b,4}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "During Hermit",
+    "Name": "Nimble Shift",
+    "Description": "During Hermit {d} (or {u})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 87,
+    "Type": "Cane Techniques (only once per match)",
+    "Name": "Master's Lesson",
+    "Description": "(Only once per match) {f,2+3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 88,
+    "Type": "Cane Techniques (only once per match)",
+    "Name": "Master's Sermon",
+    "Description": "(Only once per match) {db,2+3}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 89,
+    "Type": "Throws",
+    "Name": "Devastating Chain Punch",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 90,
+    "Type": "Throws",
+    "Name": "Corkscrew Strike",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 91,
+    "Type": "Throws",
+    "Name": "Devastating Chain Punch",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 92,
+    "Type": "Throws",
+    "Name": "Corkscrew Strike",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 93,
+    "Type": "Throws",
+    "Name": "Lone Dragon's Rage",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 94,
+    "Type": "Throws",
+    "Name": "Lian Jin Xuan Feng Jiao",
+    "Description": "{uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 95,
+    "Type": "Attack Reversal",
+    "Name": "Twin Dragon Gate",
+    "Description": "Time with opponent attack {b,2}",
+    "Properties": "",
+    "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect"
+  },
+  {
+    "Id": 96,
+    "Type": "Attack Reversal",
+    "Name": "Chain Punch: Branch",
+    "Description": "After Twin Dragon Gate succeeds {1} (or {2})",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 97,
+    "Type": "Attack Reversal",
+    "Name": "Superior Twin Dragon Gate",
+    "Description": "Time with opponent attack {b,2} (Perfect)",
+    "Properties": "",
+    "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect"
+  },
+  {
+    "Id": 98,
+    "Type": "Attack Reversal",
+    "Name": "Superior Chain Punch: Branch",
+    "Description": "After Superior Twin Dragon Gate succeeds {1} (or {2})",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 99,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 100,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Tremor Punch",
+    "Description": "While opponent is down {db,2,1+2}",
+    "Properties": "",
+    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+  }
+]

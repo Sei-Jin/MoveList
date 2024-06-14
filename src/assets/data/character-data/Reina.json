@@ -1,0 +1,1074 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Lethal Fury can be used from some attack sequences",
+    "Properties": "",
+    "Comment": "{3,4,4}, {3+4,4,4}, {f,3+4,4}"
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Allows the use of Electric Wind God Fist and Electric War God Kick without Just Input",
+    "Properties": "",
+    "Comment": "{f,n,d,df,2}, {f,n,d,df,3}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can parry high or mid attacks during Heaven's Wrath",
+    "Properties": "",
+    "Comment": "{d,1+2}, etc."
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Muso Basara",
+    "Description": "{df,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "{df,1,f-hold} to shift to Sentai"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Trailokya Splits Kick",
+    "Description": "{f,f-hold,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Sen Kaijo-geri",
+    "Description": "During Sentai ({f,3}, etc.) {3}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Unpu Tobi-manji",
+    "Description": "During Unsoku ({d,3}, etc.) {4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, during Unsoku {4,d-hold} to cancel and shift to crouching"
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Iron Hand",
+    "Description": "During Heaven's Wrath ({d,1+2}, etc.) {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Senjomanji Lethal Fury",
+    "Description": "During Heat {3,4,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block, partially uses remaining Heat time"
+  },
+  {
+    "Id": 14,
+    "Type": "Heat Moves",
+    "Name": "Aerial Manji Lethal Fury",
+    "Description": "During Heat {3+4,4,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, partially uses remaining Heat time"
+  },
+  {
+    "Id": 15,
+    "Type": "Heat Moves",
+    "Name": "Ouhen Manji Lethal Fury",
+    "Description": "During Heat {f,3+4,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, partially uses remaining Heat time"
+  },
+  {
+    "Id": 16,
+    "Type": "Heat Moves",
+    "Name": "Charging Hard",
+    "Description": "During Heat activated during Heaven's Wrath, take high or mid attack from opponent",
+    "Properties": "",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 17,
+    "Type": "Heat Moves",
+    "Name": "Divine Dominance of Annihilation",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, to throw on hit, shift to Heaven's Wrath on block"
+  },
+  {
+    "Id": 18,
+    "Type": "Heat Moves",
+    "Name": "Divine Wrath of Annihilation",
+    "Description": "During Heat and Heaven's Wrath {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, on hit shift to throw"
+  },
+  {
+    "Id": 19,
+    "Type": "Rage Moves",
+    "Name": "Sacred Dismantle Spark",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Flash Punch Combo",
+    "Description": "{1,1,2}",
+    "Properties": "",
+    "Comment": "Shift to Sentai on hit (does not shift with {1,1,2,b-hold}"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "One Two Strike",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Back Fist Combo",
+    "Description": "{1,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Sting the Works",
+    "Description": "{1,2,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Ganzan Basara",
+    "Description": "{2,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Bishamon Massacre",
+    "Description": "{2,2,2,1}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Raging Bishamon",
+    "Description": "{2,2,2,2}",
+    "Properties": "",
+    "Comment": "{2,2,2,d,df,f,2} to power up"
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Ondeko",
+    "Description": "{LB,2,1,RB}",
+    "Properties": "",
+    "Comment": "Power up with quick input"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Senjo-zuki",
+    "Description": "{3,2}",
+    "Properties": "Tornado, Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Senjo-manji",
+    "Description": "{3,4}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Nobility Hunter",
+    "Description": "{4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Demon Breath",
+    "Description": "{1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Aerial Manji-geri",
+    "Description": "{3+4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Sousoku REngeki",
+    "Description": "{f,2,3}",
+    "Properties": "",
+    "Comment": "{f,2,3,f-hold} to shift to Sentai, {f,2,d} or {u} to shift to Unsoku Kou"
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Sentai",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": "Shift to Sentai"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Kamadhatu Splits Kick",
+    "Description": "{f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Senshin-zuki",
+    "Description": "{f,1+2}",
+    "Properties": "",
+    "Comment": "Or during Unsoku {1+2}"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Senshin Karami-ate",
+    "Description": "{f,1+2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Nen Ashigarami",
+    "Description": "{f,1+2,3} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Throw when hit from the front on the ground"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Senshin Hiei",
+    "Description": "{f,1+2,uf-hold}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Senshin Chuten-geri",
+    "Description": "{f,1+2,uf-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Senshin Tobi Kaijo-geri",
+    "Description": "{f,1+2,uf-hold,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block, {f,1+2,uf-hold,4,d-hold} to shift to Heaven's Wrath"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Ouhen Manji-geri",
+    "Description": "{f,3+4}",
+    "Properties": "",
+    "Comment": "Or during Unsoku {3+4}, {f,3+4,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Ouhen Fubi Manji-geri",
+    "Description": "{f,3+4} hold",
+    "Properties": "",
+    "Comment": "{f,3+4,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Muso Tensho",
+    "Description": "{df,1,1}",
+    "Properties": "",
+    "Comment": "{df,1,f-hold} to shift to Sentai"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Muso Basara",
+    "Description": "{df,1,2}",
+    "Properties": "Heat Engager",
+    "Comment": "{df,1,f-hold} to shift to Sentai"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Queen Bee Stinger",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Wind God Step",
+    "Description": "{df,3}",
+    "Properties": "",
+    "Comment": "Or {f,n,d,df}, to shift to Wind God Step"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Gekirosatsu",
+    "Description": "{df,4,2,3}",
+    "Properties": "Tornado",
+    "Comment": "{df,4,2,d-hold} to shift to Heaven's Wrath"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Kasho Maki-manji",
+    "Description": "{df,3+4,4}",
+    "Properties": "",
+    "Comment": "Or {u,3+4,4}"
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Nen Dougarami",
+    "Description": "{df,3+4} (Counter Hit)",
+    "Properties": "",
+    "Comment": "Or {d,3+4} (Counter Hit), throw on front hit"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Tecchuu-ate",
+    "Description": "{d,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Unsoku Kou",
+    "Description": "{d,3}",
+    "Properties": "",
+    "Comment": "Or {db,3}, to shift to Unsoku, punch parry effect, during Unsoku Kou {b,3} to shift to Unsoku Gen"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Heaven's Wrath",
+    "Description": "{d,1+2}",
+    "Properties": "",
+    "Comment": "Or {db,1+2}, shift to Heaven's Wrath"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Eisaimon",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Un Oshi-kuzushi",
+    "Description": "{db,4,1+2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Hen-in 4 Hit Combo",
+    "Description": "{b,1,1,3,3}",
+    "Properties": "",
+    "Comment": "{b,1,1,3,f-hold} to shift to Sentai"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Sin Smiter",
+    "Description": "{b,2}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Unsoku Gen",
+    "Description": "{b,3}",
+    "Properties": "",
+    "Comment": "Shift to Unsoku, during Unsoku Gen {d,3} (or {u,3}) to shift to Unsoku Kou"
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Ebi-geri",
+    "Description": "{b,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Kugai Dachi",
+    "Description": "{b,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Clairvoyant Fatal Violet",
+    "Description": "{b,1+4}",
+    "Properties": "",
+    "Comment": "{b,1+4,b,b} to cancel"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Unsoku Kou",
+    "Description": "{u,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3}, shift to Unsoku, punch parry effect, during Unsoku Kou {b,3} to shift to Unsoku Gen"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Seigan Ugachi",
+    "Description": "{uf,1}",
+    "Properties": "",
+    "Comment": "Or {ub,1} or {u,1}, shift to Heaven's Wrath on hit"
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Tobisenzuki",
+    "Description": "{uf,3,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Silver Gleam",
+    "Description": "{uf,4}",
+    "Properties": "Tornado",
+    "Comment": "Or {ub,4} or {u,4}"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Un Hiensatsu",
+    "Description": "{uf,3+4,1+2}",
+    "Properties": "",
+    "Comment": "Or {ub,3+4,1+2} or {u,3+4,1+2}"
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Raiden",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": "{f,f-hold,2,f-hold} to shift to Sentai"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Trailokya Splits Kick",
+    "Description": "{f,f-hold,3}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Un Hien-geri",
+    "Description": "{f,f-hold,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Ten Chuten-geri",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "Un Tobi Kaijo-geri",
+    "Description": "{f,f,f-hold,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block, {f,f,f-hold,4,d-hold} to shift to Heaven's Wrath"
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 1",
+    "Description": "{2,2,2,3,1,1,3,3,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 73,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo 2",
+    "Description": "{2,2,2,3,1,1,3,3,1,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 74,
+    "Type": "Special Move",
+    "Name": "Fukuteki",
+    "Description": "{1+4}",
+    "Properties": "",
+    "Comment": "Or while rising {1+4}, {1+4,df-hold} to shift to Wind God Step"
+  },
+  {
+    "Id": 75,
+    "Type": "Special Move",
+    "Name": "Fading Shadow",
+    "Description": "{ub,1+2}",
+    "Properties": "",
+    "Comment": "Or {ub,b} or during Unsoku {ub,1+2}, {ub,1+2,df-hold} to shift to Wind God Step"
+  },
+  {
+    "Id": 76,
+    "Type": "Special Move",
+    "Name": "Swift Shadow",
+    "Description": "{u,1+2}",
+    "Properties": "",
+    "Comment": "Or during Unsoku {u,1+2}, {u,1+2,df-hold} to shift to Wind God Step"
+  },
+  {
+    "Id": 77,
+    "Type": "Special Move",
+    "Name": "Taunt",
+    "Description": "{2+3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 78,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Crouching",
+    "Name": "Jewel Snatcher",
+    "Description": "While rising {1}",
+    "Properties": "",
+    "Comment": "Throw on front hit, shift to Sentai after throw"
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Crouching",
+    "Name": "Benten Thrust",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Crouching",
+    "Name": "Twin Stingers",
+    "Description": "While rising {3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Crouching",
+    "Name": "Seven Seas Splits Kick",
+    "Description": "While rising {4,4}",
+    "Properties": "",
+    "Comment": "While rising {4,4,d-hold} to shift to Heaven's Wrath"
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Crouching",
+    "Name": "Hen Gyakujo-geri",
+    "Description": "While rising {3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Crouching",
+    "Name": "Nen Hangetsu-ate",
+    "Description": "While crouching {df,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Moves While Crouching",
+    "Name": "Manji-geri",
+    "Description": "While crouching {df,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Sidestep",
+    "Name": "Jirin Sweep",
+    "Description": "During sidestep {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 87,
+    "Type": "Moves While Facing Backward",
+    "Name": "Rear Manji-geri",
+    "Description": "Back facing opponent {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves during Wind God Step",
+    "Name": "Wind God Step",
+    "Description": "{df,3}, etc.",
+    "Properties": "",
+    "Comment": "Or {f,n,d,df} to shift to Wind God Step"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Wind God Step",
+    "Name": "Lightning Splits Kick",
+    "Description": "During Wind God Step {1,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block, {f,n,d,df,1,3} to power up"
+  },
+  {
+    "Id": 90,
+    "Type": "Moves during Wind God Step",
+    "Name": "Lightning Wheel",
+    "Description": "During Wind God Step {1,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, {f,n,d,df,1,4} to power up"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Wind God Step",
+    "Name": "Wind God Fist",
+    "Description": "During Wind God Step {2}",
+    "Properties": "",
+    "Comment": "{f,n,d,df,2} to power up, becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves during Wind God Step",
+    "Name": "Electric Wind God Fist",
+    "Description": "{f,n,d,df,2} ({df+2} press simultaneously)",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 93,
+    "Type": "Moves during Wind God Step",
+    "Name": "War God Kick",
+    "Description": "During Wind God Step {df-hold,3}",
+    "Properties": "",
+    "Comment": "{f,n,d,df-hold,3} to power up, becomes Electric War God Kick during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 94,
+    "Type": "Moves during Wind God Step",
+    "Name": "Electric War God Kick",
+    "Description": "{f,n,d,df,3} ({df+3} press simultaneously)",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 95,
+    "Type": "Moves during Wind God Step",
+    "Name": "Ruthless Demon",
+    "Description": "During Wind God Step {df-hold,4,2}",
+    "Properties": "",
+    "Comment": "During Wind God Step {df-hold,4,2,d-hold} to shift to Heaven's Wrath, {f,n,d,df-hold,4,2} to power up"
+  },
+  {
+    "Id": 96,
+    "Type": "Moves during Wind God Step",
+    "Name": "Spinning Demon",
+    "Description": "During Wind God Step {df-hold,4,4}",
+    "Properties": "",
+    "Comment": "{f,n,d,df-hold,4,4} to power up"
+  },
+  {
+    "Id": 97,
+    "Type": "Moves during Wind God Step",
+    "Name": "Sentai",
+    "Description": "During Wind God Step {f,3}",
+    "Properties": "",
+    "Comment": "Shift to Sentai"
+  },
+  {
+    "Id": 98,
+    "Type": "Moves during Sentai",
+    "Name": "Sentai",
+    "Description": "{f,3},etc.",
+    "Properties": "",
+    "Comment": "Shift to Sentai"
+  },
+  {
+    "Id": 99,
+    "Type": "Moves during Sentai",
+    "Name": "Furin Kazan",
+    "Description": "During Sentai {1,2}",
+    "Properties": "Power Crush",
+    "Comment": "During Sentai, {1,d,df,f,2} to power up, absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 100,
+    "Type": "Moves during Sentai",
+    "Name": "Rashomon",
+    "Description": "During Sentai {2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 101,
+    "Type": "Moves during Sentai",
+    "Name": "Sen Kaijo-geri",
+    "Description": "During Sentai {3}",
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 102,
+    "Type": "Moves during Sentai",
+    "Name": "Kandachi-geri",
+    "Description": "During Sentai {4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 103,
+    "Type": "Moves during Sentai",
+    "Name": "Inverse Deva Laser",
+    "Description": "During Sentai {1+2}",
+    "Properties": "Tornado",
+    "Comment": "Shift to Heaven's Wrath"
+  },
+  {
+    "Id": 104,
+    "Type": "Moves during Sentai",
+    "Name": "Yaksha Sweep",
+    "Description": "During Sentai {3+4}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 105,
+    "Type": "Moves during Unsoku",
+    "Name": "Unsoku",
+    "Description": "{d,3}, etc.",
+    "Properties": "",
+    "Comment": "Partially restore remaining Heat time"
+  },
+  {
+    "Id": 106,
+    "Type": "Moves during Unsoku",
+    "Name": "Unpu Tobi-manji",
+    "Description": "During Unsoku {4}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, during Unsoku {4,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 107,
+    "Type": "Moves during Unsoku",
+    "Name": "Sentai",
+    "Description": "During Unsoku {f,3}",
+    "Properties": "",
+    "Comment": "Shift to Sentai"
+  },
+  {
+    "Id": 108,
+    "Type": "Moves during Unsoku",
+    "Name": "Wind God Step",
+    "Description": "During Unsoku {df-hold}",
+    "Properties": "",
+    "Comment": "Shift to Wind God Step"
+  },
+  {
+    "Id": 109,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Heaven's Wrath",
+    "Description": "{d,1+2}, etc.",
+    "Properties": "",
+    "Comment": "Shift to Heaven's Wrath"
+  },
+  {
+    "Id": 110,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Funkei Goma",
+    "Description": "During Heaven's Wrath {1,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block, during Heaven's Wrath {1,f-hold} to shift to Sentai"
+  },
+  {
+    "Id": 111,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Iron Hand",
+    "Description": "During Heaven's Wrath {2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 112,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Hell Axle",
+    "Description": "During Heaven's Wrath {3} on hit or block {4}",
+    "Properties": "",
+    "Comment": "Chip damage on block, during Heaven's Wrath {3} on hit or block {4,d-hold} to shift to Heaven's Wrath"
+  },
+  {
+    "Id": 113,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Kongo Gekimetsujin",
+    "Description": "During Heaven's Wrath {4,2,2,1+2}",
+    "Properties": "",
+    "Comment": "During Heaven's Wrath {4,2,2,d,df,f,1+2} to power up"
+  },
+  {
+    "Id": 114,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Demon Bolt",
+    "Description": "During Heaven's Wrath {1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 115,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Goma-sai",
+    "Description": "During Heaven's Wrath {3+4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 116,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Harai Kuzushi-manji",
+    "Description": "During Heaven's Wrath {d,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 117,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Sentai",
+    "Description": "During Heaven's Wrath {f,3}",
+    "Properties": "",
+    "Comment": "Shift to Sentai"
+  },
+  {
+    "Id": 118,
+    "Type": "Moves during Heaven's Wrath",
+    "Name": "Wind God Step",
+    "Description": "During Heaven's Wrath {df-hold}",
+    "Properties": "",
+    "Comment": "Shift to Wind God Step"
+  },
+  {
+    "Id": 119,
+    "Type": "Moves during Wind God Step",
+    "Name": "Wind God Step",
+    "Description": "{f,n}",
+    "Properties": "",
+    "Comment": "Punch parry effect"
+  },
+  {
+    "Id": 120,
+    "Type": "Moves during Wind God Step",
+    "Name": "Fusenkyaku",
+    "Description": "During Wind Step {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 121,
+    "Type": "Moves during Wind God Step",
+    "Name": "Wind God Step",
+    "Description": "During Wind Step {df-hold}",
+    "Properties": "",
+    "Comment": "Shift to Wind God Step"
+  },
+  {
+    "Id": 122,
+    "Type": "Throws",
+    "Name": "Gekka Hyojin",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 123,
+    "Type": "Throws",
+    "Name": "Saijin Ikkoku",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "Homing",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 124,
+    "Type": "Throws",
+    "Name": "Gekka Hyojin",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 125,
+    "Type": "Throws",
+    "Name": "Saijin Ikkoku",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 126,
+    "Type": "Throws",
+    "Name": "Trailokyavijaya",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 127,
+    "Type": "Throws",
+    "Name": "Stonehead",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}"
+  },
+  {
+    "Id": 128,
+    "Type": "Throws",
+    "Name": "Raidou Hitsumetsu",
+    "Description": "Approach opponent {d,db,b,f,2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 129,
+    "Type": "Throws",
+    "Name": "Haburi-kaze",
+    "Description": "During Sentai {1+3} (or {2+4})",
+    "Properties": "Homing",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 130,
+    "Type": "Throws",
+    "Name": "Heaven's Roar",
+    "Description": "During Heaven's Wrath {1+3} (or {2+4})",
+    "Properties": "Homing",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 131,
+    "Type": "Attack Reversal",
+    "Name": "Tatenashi",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": "Deals self-damage (recoverable) when successful, partially restores remaining Heat time, shift to Heaven's Wrath, has strong attack reversal effect"
+  },
+  {
+    "Id": 132,
+    "Type": "Attack Reversal",
+    "Name": "Fusatsujin",
+    "Description": "Time with punch {f,n}",
+    "Properties": "",
+    "Comment": "Shift to Wind God Step"
+  },
+  {
+    "Id": 133,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 134,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Totetsu Jyurin",
+    "Description": "(While opponent is down) {d,4,1}",
+    "Properties": "",
+    "Comment": "Just Input to power up"
+  }
+]

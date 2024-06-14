@@ -1,0 +1,906 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Can use Snake Eyes moves",
+    "Properties": "",
+    "Comment": "During Snake Eyes {f,f-hold,1+2}, {3+4,2}, {f,2,1,2,3,2}, {uf,2,2,2,2,2,3}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, gain Snake Eyes, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "One Two Neck Breaker",
+    "Description": "{1,2,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Crash Impact",
+    "Description": "{db,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Mach Breaker",
+    "Description": "{f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Snake Fang",
+    "Description": "During sidestep ({u,n} or {d,n}) {2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation"
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Requiem",
+    "Description": "During Slither Step ({d,df,f}) {1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Notorious Monster",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Or during Heat, {2+3} during {1+3+4}, Heat Smash, throw on hit"
+  },
+  {
+    "Id": 12,
+    "Type": "Rage Moves",
+    "Name": "Total Vandalization",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 13,
+    "Type": "Normal Moves",
+    "Name": "Left Right Combo",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 14,
+    "Type": "Normal Moves",
+    "Name": "One Two Body Blow",
+    "Description": "{1,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "One Two Low Kick",
+    "Description": "{1,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "One Two Neck Breaker",
+    "Description": "{1,2,4}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Lair's Dance",
+    "Description": "{1,4,2,1,2}",
+    "Properties": "",
+    "Comment": "{1,4,2,f,1} to cancel the third hit, {1,4,2,1,d} (or {u}) to cancel and sidestep, {1,4,2,1,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Whipping Fury",
+    "Description": "{1,4,2,4}",
+    "Properties": "",
+    "Comment": "{1,4,2,f,4} to cancel the third hit"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "Cremation",
+    "Description": "{1,4,2,1,4}",
+    "Properties": "Tornado",
+    "Comment": "{1,4,2,f,1} to cancel the third hit, {1,4,2,1,d} (or {u}) to cancel and sidestep, {1,4,2,1,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Jab > Double Spin Kick",
+    "Description": "{1,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Running Blind",
+    "Description": "{1,4,3,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "PK Combination",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Mid Kick > Rush",
+    "Description": "{3,2,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Gatling Combination",
+    "Description": "{3,2,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Anaconda Bite",
+    "Description": "{3,3,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "Anaconda Rage",
+    "Description": "{3,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "Double Spin Tomahawk",
+    "Description": "{4,3,4}",
+    "Properties": "",
+    "Comment": "Hold to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Triple Spin Kick",
+    "Description": "{4,3,f,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Snake Bite",
+    "Description": "{1+2,1}",
+    "Properties": "Homing",
+    "Comment": "{1+2,1,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Snake Pit",
+    "Description": "{1+2,2}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Middle Side Kick",
+    "Description": "{3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Right Left > Spin Kick > Snake Eye",
+    "Description": "{f,2,1,4} on hit {1+2}",
+    "Properties": "",
+    "Comment": "Gain Snake Eyes"
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Knee Strike",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Boa Crusher",
+    "Description": "{f,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Sidestep Elbow",
+    "Description": "{f,1+2}",
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Double Body Blow",
+    "Description": "{df,1,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Vulcan Cannon",
+    "Description": "{df-hold,1,1,1,1}",
+    "Properties": "",
+    "Comment": "{2} can shift to Double Body Blow"
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Blackout Combo",
+    "Description": "{df,2,1}",
+    "Properties": "",
+    "Comment": "{df,2,1,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Blackout Trap",
+    "Description": "{df,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Snake Edge",
+    "Description": "{df,3}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Wolf's Tail",
+    "Description": "{df,4}",
+    "Properties": "Homing",
+    "Comment": ""
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Python Crush",
+    "Description": "{d,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Quick Low Screw Punch > Snake Eyes",
+    "Description": "{d,3,2} on hit {1+2}",
+    "Properties": "",
+    "Comment": "Gain Snake Eyes"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Low Kick",
+    "Description": "{d,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Hammer Driver Hatchet",
+    "Description": "{d,1+2,3}",
+    "Properties": "",
+    "Comment": "{d,1+2,f-hold} to shift to Slither Step, {d,1+2,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Snake Bomb",
+    "Description": "{d,LB,1+2,2,RB}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Side Low Knuckle Whip",
+    "Description": "{d,3+4,2}",
+    "Properties": "Tornado",
+    "Comment": "{d,3+4,2,db-hold} to cancel"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Stomach Blow",
+    "Description": "{db,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Sweeper Kick",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Crash Impact",
+    "Description": "{db,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation"
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Chopping Elbow",
+    "Description": "{b,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Hands of Doom",
+    "Description": "{b,2,1,2}",
+    "Properties": "",
+    "Comment": "{b,2,f,1} to cancel the first hit, {b,2,1,d} (or {u}) to cancel and sidestep, {b,2,1,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Wolf Call",
+    "Description": "{b,2,4}",
+    "Properties": "",
+    "Comment": "{b,2,f,4} to cancel the first hit"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Kickass Combo",
+    "Description": "{b,2,1,4}",
+    "Properties": "Tornado",
+    "Comment": "{b,2,f,1} to cancel the first hit, {b,2,1,d} (or {u}) to cancel and sidestep, {b,2,1,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Front Kick > Rush",
+    "Description": "{b,3,2,1,2}",
+    "Properties": "",
+    "Comment": "{b,3,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Run for Cover",
+    "Description": "{b,3,2,1,4}",
+    "Properties": "",
+    "Comment": "{b,3,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Front Kick > Double Hammer",
+    "Description": "{b,3,1+2}",
+    "Properties": "",
+    "Comment": "{b,3,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Knee Break",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Gravity Blow",
+    "Description": "{b,1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Meteor Smash",
+    "Description": "{b,1+4} hold",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Gatling Rush",
+    "Description": "{ub,1+2,1,2,1,2,1,2,1,2,1,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Rolling Driver",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {u,3}"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Bloody War",
+    "Description": "{uf,2,2,2,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Orbital Heel Kick",
+    "Description": "{uf,4}",
+    "Properties": "",
+    "Comment": "Or {u,4}"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Bullet Knee > Snake Eyes",
+    "Description": "{uf,3+4}",
+    "Properties": "Tornado",
+    "Comment": "Gain Snake Eyes on hit"
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Delayed Rising Toe Kick",
+    "Description": "{uf,n,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Mach Breaker",
+    "Description": "{f,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Slash Kick > Snake Eyes",
+    "Description": "{f,f-hold,3} on hit {1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, can hold"
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Mach Kick",
+    "Description": "{f,f-hold,4}",
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Jet Uppercut",
+    "Description": "{f,n,b,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "Wedge Driver",
+    "Description": "{b,df,4}",
+    "Properties": "",
+    "Comment": "{b,df,4,b-hold} to cancel"
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "Flying Knee Kick",
+    "Description": "{b,b-hold,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 73,
+    "Type": "Normal Moves",
+    "Name": "Snake Slash",
+    "Description": "{f,f,f-hold,3}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 74,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{b,3,4,1,2,1,4,2,1,4,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Special Move",
+    "Name": "Taunt",
+    "Description": "{1+3+4}",
+    "Properties": "",
+    "Comment": "Gain Snake Eyes"
+  },
+  {
+    "Id": 76,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 77,
+    "Type": "Moves While Crouching",
+    "Name": "Left Upper",
+    "Description": "While rising {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Crouching",
+    "Name": "Fisherman's Slam",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": "Throw on hit, while rising {2} on hit {f,2} (or {b,2}) (Perfect Input) to power up"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Crouching",
+    "Name": "High Knee Kick",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Crouching",
+    "Name": "Double High Knee Kick",
+    "Description": "While rising {3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Crouching",
+    "Name": "Toe Smash",
+    "Description": "While rising {4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Crouching",
+    "Name": "Snake Rampage",
+    "Description": "While crouching {df,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Crouching",
+    "Name": "Northern Cross",
+    "Description": "While crouching {df,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 84,
+    "Type": "Moves during Sidestep",
+    "Name": "Hellraiser",
+    "Description": "During sidestep {1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 85,
+    "Type": "Moves during Sidestep",
+    "Name": "Snake Fang",
+    "Description": "During sidestep {2,1}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation"
+  },
+  {
+    "Id": 86,
+    "Type": "During Snake Eyes",
+    "Name": "Neo Soul Eraser",
+    "Description": "During Snake Eyes {3+4,2}",
+    "Properties": "",
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+  },
+  {
+    "Id": 87,
+    "Type": "During Snake Eyes",
+    "Name": "Neo Soul Eraser Exceed",
+    "Description": "During Snake Eyes {3+4,2} hold",
+    "Properties": "Tornado",
+    "Comment": "Consumes Snake Eyes (during Heat, remaining Heat is consumed), chip damage on block, cannot absorb with Power Crush"
+  },
+  {
+    "Id": 88,
+    "Type": "During Snake Eyes",
+    "Name": "Neo Incinerator",
+    "Description": "During Snake Eyes {f,2,1,2,3,2}",
+    "Properties": "",
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+  },
+  {
+    "Id": 89,
+    "Type": "During Snake Eyes",
+    "Name": "Neo Bloody War",
+    "Description": "During Snake Eyes {uf,2,2,2,2,3}",
+    "Properties": "",
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+  },
+  {
+    "Id": 90,
+    "Type": "During Snake Eyes",
+    "Name": "Neo Mach Breaker",
+    "Description": "During Snake Eyes {f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+  },
+  {
+    "Id": 91,
+    "Type": "During Slither Step",
+    "Name": "Slither Step",
+    "Description": "{d,df,f }",
+    "Properties": "",
+    "Comment": "{d,df-hold} to shift to crouching state"
+  },
+  {
+    "Id": 92,
+    "Type": "During Slither Step",
+    "Name": "Cross Bazooka",
+    "Description": "{d,df,f,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 93,
+    "Type": "During Slither Step",
+    "Name": "Cross Grenade",
+    "Description": "{d,df,f,2,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "During Slither Step",
+    "Name": "Cross Bullet > Snake Eyes",
+    "Description": "{d,df,f,2,4}",
+    "Properties": "Tornado",
+    "Comment": "Gain Snake Eyes on hit"
+  },
+  {
+    "Id": 95,
+    "Type": "During Slither Step",
+    "Name": "Snake Spin Mach Breaker",
+    "Description": "{d,df,f,4,1,2}",
+    "Properties": "",
+    "Comment": "{d,df,f,4,1,d} (or {u}) to cancel and shift to sidestep"
+  },
+  {
+    "Id": 96,
+    "Type": "During Slither Step",
+    "Name": "Snake Spin Kickass",
+    "Description": "{d,df,f,4,1,4}",
+    "Properties": "Tornado",
+    "Comment": "{d,df,f,4,1,d} (or {u}) to cancel and shift to sidestep"
+  },
+  {
+    "Id": 97,
+    "Type": "During Slither Step",
+    "Name": "Requiem",
+    "Description": "{d,df,f,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+  },
+  {
+    "Id": 98,
+    "Type": "During Sway",
+    "Name": "Sway",
+    "Description": "{d,db,b}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 99,
+    "Type": "During Sway",
+    "Name": "Cannonball Straight",
+    "Description": "{d,db,b,1}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 100,
+    "Type": "During Sway",
+    "Name": "Smash and Mach Kick",
+    "Description": "{d,db,b,2,4}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 101,
+    "Type": "During Sway",
+    "Name": "Hatchet Kick",
+    "Description": "{d,db,b,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 102,
+    "Type": "During Sway",
+    "Name": "Kickoff",
+    "Description": "{d,db,b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 103,
+    "Type": "Throws",
+    "Name": "Gravity Brain Buster",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 104,
+    "Type": "Throws",
+    "Name": "Guillotine",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 105,
+    "Type": "Throws",
+    "Name": "Gravity Throw",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 106,
+    "Type": "Throws",
+    "Name": "Knee Blast",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 107,
+    "Type": "Throws",
+    "Name": "Neck Throw",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 108,
+    "Type": "Throws",
+    "Name": "Anaconda Assassin",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 109,
+    "Type": "Throws",
+    "Name": "Chains of Misery",
+    "Description": "While crouching {db,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}"
+  },
+  {
+    "Id": 110,
+    "Type": "Attack Reversal",
+    "Name": "Parry",
+    "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": "When parrying an attack, {2} for follow-up attack"
+  },
+  {
+    "Id": 111,
+    "Type": "Attack Reversal",
+    "Name": "Parry > Mach Breaker > Snake Eyes",
+    "Description": "After successful parry {2}",
+    "Properties": "",
+    "Comment": "Gain Snake Eyes on hit, chip damage on block"
+  },
+  {
+    "Id": 112,
+    "Type": "Attack Reversal",
+    "Name": "Immortal Payback",
+    "Description": "During Snake Eyes, time with opponent attack {f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+  },
+  {
+    "Id": 113,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  }
+]

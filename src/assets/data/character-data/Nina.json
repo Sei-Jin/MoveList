@@ -1,0 +1,1058 @@
+[
+  {
+    "Id": 1,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "All moves will deal chip damage on block",
+    "Properties": "",
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+  },
+  {
+    "Id": 2,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+  },
+  {
+    "Id": 3,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (general)",
+    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Properties": "",
+    "Comment": "During Heat {HBHS} (or {2+3})"
+  },
+  {
+    "Id": 4,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Power up versions of handgun moves can be used",
+    "Properties": "",
+    "Comment": "While rising {1,1+2}, {b,3+4,1+2}, etc."
+  },
+  {
+    "Id": 5,
+    "Type": "Heat System",
+    "Name": "What can be done during Heat (unique)",
+    "Description": "Kiss Shot Penetrator available",
+    "Properties": "",
+    "Comment": "{b,1+2}"
+  },
+  {
+    "Id": 6,
+    "Type": "Heat Moves",
+    "Name": "Heat Burst",
+    "Description": "When Heat activation available {2+3}",
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+  },
+  {
+    "Id": 7,
+    "Type": "Heat Moves",
+    "Name": "Aconite",
+    "Description": "{f,4,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, {f,4,d-hold} (or {u-hold}) to shift to sidestep"
+  },
+  {
+    "Id": 8,
+    "Type": "Heat Moves",
+    "Name": "Blonde Bomb",
+    "Description": "{f,1+2}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Or while rising {1+2}, absorb an attack to power up and deal more chip damge on block"
+  },
+  {
+    "Id": 9,
+    "Type": "Heat Moves",
+    "Name": "Reverberation Palm Bomb",
+    "Description": "{db,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 10,
+    "Type": "Heat Moves",
+    "Name": "Spiral Bombshell Blast",
+    "Description": "{f,f,f-hold,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 11,
+    "Type": "Heat Moves",
+    "Name": "Shut Up",
+    "Description": "During Ducking Step ({d,df,f}) {f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 12,
+    "Type": "Heat Moves",
+    "Name": "Kiss Shot Penetrator",
+    "Description": "During Heat {b,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Partially uses remaining Heat time"
+  },
+  {
+    "Id": 13,
+    "Type": "Heat Moves",
+    "Name": "Bullet Assassination",
+    "Description": "During Heat {2+3}",
+    "Properties": "",
+    "Comment": "Heat Smash, throw on hit, on block {f-hold} to shift to Ducking Step"
+  },
+  {
+    "Id": 14,
+    "Type": "Rage Moves",
+    "Name": "Death By Degrees",
+    "Description": "During Rage {df,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+  },
+  {
+    "Id": 15,
+    "Type": "Normal Moves",
+    "Name": "Left Right Combo",
+    "Description": "{1,2}",
+    "Properties": "",
+    "Comment": "{1,2,d-hold} (or {u-hold}) to shift to sidestep"
+  },
+  {
+    "Id": 16,
+    "Type": "Normal Moves",
+    "Name": "Biting Kiss Shot",
+    "Description": "{1,2,1,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, {1,2,d-hold} (or {u-hold}) to shift to sidestep"
+  },
+  {
+    "Id": 17,
+    "Type": "Normal Moves",
+    "Name": "Bermuda Triangle",
+    "Description": "{1,2,4}",
+    "Properties": "",
+    "Comment": "{1,2,d-hold} (or {u-hold}) to shift to sidestep"
+  },
+  {
+    "Id": 18,
+    "Type": "Normal Moves",
+    "Name": "Double Explosion",
+    "Description": "{1,2,1+2}",
+    "Properties": "",
+    "Comment": "{1,2,d-hold} (or {u-hold}) to shift to sidestep"
+  },
+  {
+    "Id": 19,
+    "Type": "Normal Moves",
+    "Name": "PK Combo > Assassin's Blade",
+    "Description": "{1,4,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 20,
+    "Type": "Normal Moves",
+    "Name": "Right Jab > Spider Knee",
+    "Description": "{2,3}",
+    "Properties": "",
+    "Comment": "Shift to Stomach Lock when front hit on ground"
+  },
+  {
+    "Id": 21,
+    "Type": "Normal Moves",
+    "Name": "Flash Kicks",
+    "Description": "{3,3,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 22,
+    "Type": "Normal Moves",
+    "Name": "Left High Kick > Spiral Explosion",
+    "Description": "{3,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, {3,2,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 23,
+    "Type": "Normal Moves",
+    "Name": "Head Ringer",
+    "Description": "{3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 24,
+    "Type": "Normal Moves",
+    "Name": "Right High Kick > Spiral Explosion",
+    "Description": "{4,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, {4,2,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 25,
+    "Type": "Normal Moves",
+    "Name": "Easy Prey Kick Combo",
+    "Description": "{4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 26,
+    "Type": "Normal Moves",
+    "Name": "High Kick > Deadly Hunter",
+    "Description": "{4,4,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 27,
+    "Type": "Normal Moves",
+    "Name": "High Kick > Deadly Assault",
+    "Description": "{4,4,3+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 28,
+    "Type": "Normal Moves",
+    "Name": "Ray Hands",
+    "Description": "{1+2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 29,
+    "Type": "Normal Moves",
+    "Name": "Fatal Blow",
+    "Description": "{3+4}",
+    "Properties": "Homing Attack",
+    "Comment": "{3+4,f-hold} to shift to Ducking Step"
+  },
+  {
+    "Id": 30,
+    "Type": "Normal Moves",
+    "Name": "Ivory Cutter",
+    "Description": "{1+4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 31,
+    "Type": "Normal Moves",
+    "Name": "Swallowtail",
+    "Description": "{f,2,1,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 32,
+    "Type": "Normal Moves",
+    "Name": "Mimosa Combo",
+    "Description": "{f,2,1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 33,
+    "Type": "Normal Moves",
+    "Name": "Siren's Kiss",
+    "Description": "{f,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 34,
+    "Type": "Normal Moves",
+    "Name": "Aconite",
+    "Description": "{f,4,2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, {f,4,d-hold} (or {u-hold}) to shift to sidestep"
+  },
+  {
+    "Id": 35,
+    "Type": "Normal Moves",
+    "Name": "Blond Bomb",
+    "Description": "{f,1+2}",
+    "Properties": "Heat Engager, Power Crush",
+    "Comment": "Or while rising {1+2}, absorb an attack to power up and deal more chip damage on block"
+  },
+  {
+    "Id": 36,
+    "Type": "Normal Moves",
+    "Name": "Uppercut > Jab",
+    "Description": "{df,1+2}",
+    "Properties": "",
+    "Comment": "Link to attack from {1,2}, {df,1,2,d-hold} (or {u-hold}) to shift to sidestep, {df,1,2,f-hold} to shift to Ducking Step"
+  },
+  {
+    "Id": 37,
+    "Type": "Normal Moves",
+    "Name": "Silent Uppercut",
+    "Description": "{df,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 38,
+    "Type": "Normal Moves",
+    "Name": "Dead Drop Combo",
+    "Description": "{df,3,1,2}",
+    "Properties": "",
+    "Comment": "{df,3,1,d-hold} (or {u-hold}) to cancel and shift to sidestep"
+  },
+  {
+    "Id": 39,
+    "Type": "Normal Moves",
+    "Name": "Creeping Snake",
+    "Description": "{df,3,2,1,4}",
+    "Properties": "",
+    "Comment": "{df,3,2,d-hold} (or {u-hold}) to shift to sidestep, {df,3,2,f-hold} to shift to Ducking Step, {df,3,2,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 40,
+    "Type": "Normal Moves",
+    "Name": "Creeping Snake > Geyser Cannon",
+    "Description": "{df,3,2,3}",
+    "Properties": "Tornado",
+    "Comment": "{df,3,2,d-hold} (or {u-hold}) to shift to sidestep, {df,3,2,f-hold} to shift to Ducking Step, {df,3,2,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 41,
+    "Type": "Normal Moves",
+    "Name": "Creeping Snake > Right High Kick",
+    "Description": "{df,3,2,4}",
+    "Properties": "",
+    "Comment": "{df,3,2,d-hold} (or {u-hold}) to shift to sidestep, {df,3,2,f-hold} to shift to Ducking Step, {df,3,2,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 42,
+    "Type": "Normal Moves",
+    "Name": "Bisection Combo",
+    "Description": "{df,3,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 43,
+    "Type": "Normal Moves",
+    "Name": "Wipe the Floor",
+    "Description": "{df,3+4}",
+    "Properties": "",
+    "Comment": "Or {d,df-hold,4}, or while crouching {df,4}"
+  },
+  {
+    "Id": 44,
+    "Type": "Normal Moves",
+    "Name": "Low Jab > Mid Kick",
+    "Description": "{d,1+4}",
+    "Properties": "",
+    "Comment": "Or while crouching {1,4}"
+  },
+  {
+    "Id": 45,
+    "Type": "Normal Moves",
+    "Name": "Vertical Slitter",
+    "Description": "{d,2,2}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 46,
+    "Type": "Normal Moves",
+    "Name": "Left Spin Low Kick > Right Upper",
+    "Description": "{d,3+2}",
+    "Properties": "",
+    "Comment": "Or while crouching {3,2} or {uf,n,d-hold,3,2}"
+  },
+  {
+    "Id": 47,
+    "Type": "Normal Moves",
+    "Name": "Easy Prey",
+    "Description": "{d,3,4,3}",
+    "Properties": "",
+    "Comment": "Or while crouching {3,4,3} or {uf,n,d-hold,3,4,3}"
+  },
+  {
+    "Id": 48,
+    "Type": "Normal Moves",
+    "Name": "Right Low Kick > Back Spin Chop",
+    "Description": "{d,4,1}",
+    "Properties": "",
+    "Comment": "Or while crouching {4,1}, {d,4,1,d-hold} (or {u-hold}) to cancel and shift to sidestep"
+  },
+  {
+    "Id": 49,
+    "Type": "Normal Moves",
+    "Name": "Right Backhand Body Blow",
+    "Description": "{db,2}",
+    "Properties": "Homing Attack",
+    "Comment": ""
+  },
+  {
+    "Id": 50,
+    "Type": "Normal Moves",
+    "Name": "Stiletto Heel",
+    "Description": "{db,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 51,
+    "Type": "Normal Moves",
+    "Name": "Geyser Cannon Combo",
+    "Description": "{db,4,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 52,
+    "Type": "Normal Moves",
+    "Name": "Reverberation Palm Bomb",
+    "Description": "{db,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 53,
+    "Type": "Normal Moves",
+    "Name": "Geyser Cannon",
+    "Description": "{db,3+4}",
+    "Properties": "Tornado",
+    "Comment": "Or while rising {3+4}"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Throat Slasher > Glass Jaw",
+    "Description": "{b,1,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 55,
+    "Type": "Normal Moves",
+    "Name": "Backhand Combo",
+    "Description": "{b,2,2,2}",
+    "Properties": "Homing Attack",
+    "Comment": "{b,2,2,2,d-hold} (or {u-hold}) to cancel and shift to sidestep"
+  },
+  {
+    "Id": 56,
+    "Type": "Normal Moves",
+    "Name": "Stinger Heel Kick Combo",
+    "Description": "{b,3,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 57,
+    "Type": "Normal Moves",
+    "Name": "Spear Kick",
+    "Description": "{b,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 58,
+    "Type": "Normal Moves",
+    "Name": "Shockwave Palm",
+    "Description": "{b,1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": ""
+  },
+  {
+    "Id": 59,
+    "Type": "Normal Moves",
+    "Name": "Out of Sight > Assassin Somersault Kick",
+    "Description": "{b,3+4,3}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 60,
+    "Type": "Normal Moves",
+    "Name": "Out of Sight > Kiss Shot",
+    "Description": "{b,3+4,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 61,
+    "Type": "Normal Moves",
+    "Name": "Reverse Ivory Cutter",
+    "Description": "{b,1+4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 62,
+    "Type": "Normal Moves",
+    "Name": "Power Charge",
+    "Description": "{b,2+3}",
+    "Properties": "",
+    "Comment": "{b,2+3,b,b} to cancel"
+  },
+  {
+    "Id": 63,
+    "Type": "Normal Moves",
+    "Name": "Left Backhand Body Blow",
+    "Description": "{ub,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 64,
+    "Type": "Normal Moves",
+    "Name": "Leaping Axe Kick",
+    "Description": "{u,4}",
+    "Properties": "",
+    "Comment": "Or {ub,4}"
+  },
+  {
+    "Id": 65,
+    "Type": "Normal Moves",
+    "Name": "Skull Splitter",
+    "Description": "{uf,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 66,
+    "Type": "Normal Moves",
+    "Name": "Binding Whip",
+    "Description": "{uf,2,1}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 67,
+    "Type": "Normal Moves",
+    "Name": "Catapult Kick",
+    "Description": "{uf,3}",
+    "Properties": "",
+    "Comment": "Or {ub,3} or {u,3}"
+  },
+  {
+    "Id": 68,
+    "Type": "Normal Moves",
+    "Name": "Can Opener",
+    "Description": "{uf,4,3,4}",
+    "Properties": "",
+    "Comment": "{uf,4,3,4,d-hold} (or {u-hold}) to cancel and shift to sidestep"
+  },
+  {
+    "Id": 69,
+    "Type": "Normal Moves",
+    "Name": "Running Jump Kick",
+    "Description": "{uf,3+4}",
+    "Properties": "",
+    "Comment": "On close range front hit, shift to Heel Hold"
+  },
+  {
+    "Id": 70,
+    "Type": "Normal Moves",
+    "Name": "Sunset Strike",
+    "Description": "{f,f-hold,2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 71,
+    "Type": "Normal Moves",
+    "Name": "Bad Habit",
+    "Description": "{f,f-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 72,
+    "Type": "Normal Moves",
+    "Name": "Kneel Kick",
+    "Description": "{f,f-hold,4}",
+    "Properties": "",
+    "Comment": "Has clean hit effect, missed attack deals self-damage (recoverable), can side ukemi"
+  },
+  {
+    "Id": 73,
+    "Type": "Normal Moves",
+    "Name": "Bombshell Blast",
+    "Description": "{f,f-hold,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, hold to power up"
+  },
+  {
+    "Id": 74,
+    "Type": "Normal Moves",
+    "Name": "Electric Ray",
+    "Description": "{f,f,f-hold,3,3]",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 75,
+    "Type": "Normal Moves",
+    "Name": "Stingray",
+    "Description": "{f,f,f-hold,3,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 76,
+    "Type": "Normal Moves",
+    "Name": "Spiral Bombshell Blast",
+    "Description": "{f,f,f-hold,1+2}",
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 77,
+    "Type": "Normal Moves",
+    "Name": "10 Hit Combo",
+    "Description": "{df,3,2,1,2,4,3,4,2,4,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 78,
+    "Type": "Special Move",
+    "Name": "Ki Charge",
+    "Description": "{1+2+3+4}",
+    "Properties": "",
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Crouching",
+    "Name": "Diving Hornet",
+    "Description": "While rising {1,4}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 80,
+    "Type": "Moves While Crouching",
+    "Name": "Fluttering Kiss Shot",
+    "Description": "While rising {1,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 81,
+    "Type": "Moves While Crouching",
+    "Name": "Palm Uppercut",
+    "Description": "While rising {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 82,
+    "Type": "Moves While Crouching",
+    "Name": "Spider Knee",
+    "Description": "While rising {3}",
+    "Properties": "",
+    "Comment": "Shift to Stomach Lock when hit from the front on ground"
+  },
+  {
+    "Id": 83,
+    "Type": "Moves While Crouching",
+    "Name": "Toe Smash > Spiral Explosion",
+    "Description": "While rising {4,2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, while rising {4,2,d-hold} to cancel and shift to crouching state"
+  },
+  {
+    "Id": 84,
+    "Type": "Moves While Crouching",
+    "Name": "Haematopus Kiss Shot",
+    "Description": "While rising {4,3,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 85,
+    "Type": "Moves during Sidestep",
+    "Name": "Snakeshot",
+    "Description": "During sidestep {1}",
+    "Properties": "",
+    "Comment": "During sidestep {1,f-hold} to shift to Ducking Step, during sidestep {1,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 86,
+    "Type": "Moves during Sidestep",
+    "Name": "Double Shot",
+    "Description": "During sidestep {1,2}",
+    "Properties": "",
+    "Comment": "During sidestep {1,f-hold} to shift to Ducking Step, during sidestep {1,b-hold} to shift to Sway"
+  },
+  {
+    "Id": 87,
+    "Type": "Moves during Sidestep",
+    "Name": "Lift Shot",
+    "Description": "During sidestep {2}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 88,
+    "Type": "Moves during Sidestep",
+    "Name": "Tranquilizer",
+    "Description": "During sidestep {4,2}",
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 89,
+    "Type": "Moves during Sidestep",
+    "Name": "Spiral Explosion",
+    "Description": "During sidestep {1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 90,
+    "Type": "Moves While Facing Backward",
+    "Name": "Twist Jab",
+    "Description": "Back facing opponent {1}",
+    "Properties": "",
+    "Comment": "While facing foward link to attack from {1}"
+  },
+  {
+    "Id": 91,
+    "Type": "Moves during Ducking Step",
+    "Name": "Ducking Step",
+    "Description": "{d,df,f}",
+    "Properties": "",
+    "Comment": "{d,df-hold} to shift to crouching state"
+  },
+  {
+    "Id": 92,
+    "Type": "Moves during Ducking Step",
+    "Name": "Hellbringer",
+    "Description": "{d,df,f-hold,1}",
+    "Properties": "",
+    "Comment": "Chip damage on block"
+  },
+  {
+    "Id": 93,
+    "Type": "Moves during Ducking Step",
+    "Name": "Shut Up",
+    "Description": "{d,df,f-hold,2}",
+    "Properties": "Heat Engager",
+    "Comment": ""
+  },
+  {
+    "Id": 94,
+    "Type": "Moves during Ducking Step",
+    "Name": "Sideslip",
+    "Description": "{d,df,f-hold,3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 95,
+    "Type": "Moves during Ducking Step",
+    "Name": "Lapwing Kiss Shot",
+    "Description": "{d,df,f-hold,4,3,1+2}",
+    "Properties": "",
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+  },
+  {
+    "Id": 96,
+    "Type": "Moves during Ducking Step",
+    "Name": "Evil Mist",
+    "Description": "{d,df,f-hold,2+3}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 97,
+    "Type": "Moves During Sway",
+    "Name": "Sway",
+    "Description": "{d,db,b}",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 98,
+    "Type": "Moves During Sway",
+    "Name": "Ice Pick",
+    "Description": "{d,db,b-hold,4}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 99,
+    "Type": "Throws",
+    "Name": "Arm Grab Flip",
+    "Description": "Approach opponent {1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 100,
+    "Type": "Throws",
+    "Name": "Over the Back Toss",
+    "Description": "Approach opponent {2+4}",
+    "Properties": "",
+    "Comment": "Throw escape {1} or {2}"
+  },
+  {
+    "Id": 101,
+    "Type": "Throws",
+    "Name": "Shoulder Through Buster",
+    "Description": "During Over the Back Toss {2}",
+    "Properties": "",
+    "Comment": "Cannot throw escape, during Over the Back Toss {1,2,1} to power up"
+  },
+  {
+    "Id": 102,
+    "Type": "Throws",
+    "Name": "Shoulder Through Arm Breaker",
+    "Description": "During Shoulder Through Buster {2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Cannot throw escape, during Shoulder Through Buster {2,1,3} to power up"
+  },
+  {
+    "Id": 103,
+    "Type": "Throws",
+    "Name": "Kneebar",
+    "Description": "Approach opponent from left side {1+3} (or {2+4})",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 104,
+    "Type": "Throws",
+    "Name": "Hammer Throw",
+    "Description": "Approach opponent from right side {1+3} (or {2+4})",
+    "Properties": "",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 105,
+    "Type": "Throws",
+    "Name": "Leaping Triangle Hold",
+    "Description": "Approach opponent from behind {1+3} (or {2+4})",
+    "Properties": "Removes Recoverable",
+    "Comment": "Cannot throw escape"
+  },
+  {
+    "Id": 106,
+    "Type": "Throws",
+    "Name": "Elbow > Arm Grab Flip",
+    "Description": "Approach opponent {df,1+3}",
+    "Properties": "",
+    "Comment": "Throw escape {1}"
+  },
+  {
+    "Id": 107,
+    "Type": "Throws",
+    "Name": "Reverse Neck Breaker",
+    "Description": "Approach opponent {df,2+4}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {2}"
+  },
+  {
+    "Id": 108,
+    "Type": "Throws",
+    "Name": "Jumping Flip",
+    "Description": "Approach opponent {uf,1+2}",
+    "Properties": "",
+    "Comment": "Throw escape {1+2}, opponent can reduce damage with side ukemi"
+  },
+  {
+    "Id": 109,
+    "Type": "Throws",
+    "Name": "Elbow Smash",
+    "Description": "Approach opponent {df,df-hold,1}",
+    "Properties": "",
+    "Comment": "Throw {1+2}"
+  },
+  {
+    "Id": 110,
+    "Type": "Attack Reversal",
+    "Name": "Attack Reversal",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
+    "Properties": "",
+    "Comment": ""
+  },
+  {
+    "Id": 111,
+    "Type": "Attack Reversal",
+    "Name": "Low Parry",
+    "Description": "Time with opponent low attack {df-hold}",
+    "Properties": "Tornado",
+    "Comment": ""
+  },
+  {
+    "Id": 112,
+    "Type": "Backhand Slap Combo",
+    "Name": "Backhand Slap",
+    "Description": "Approach opponent {f,2+4}",
+    "Properties": "",
+    "Comment": "Or {d,df,f,2+4}, throw escape {2}"
+  },
+  {
+    "Id": 113,
+    "Type": "Backhand Slap Combo",
+    "Name": "Arm Break",
+    "Description": "During Backhand Slap {1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}, during Backhand Slap {1,3,1} to power up"
+  },
+  {
+    "Id": 114,
+    "Type": "Backhand Slap Combo",
+    "Name": "Double Arm Break",
+    "Description": "During Arm Break {1}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}, during Arm Break {3,1,1+2} to power up"
+  },
+  {
+    "Id": 115,
+    "Type": "Backhand Slap Combo",
+    "Name": "Falling Arm Break",
+    "Description": "During Arm Break {2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {2}, during Arm Break {2,1,3,4,1+2} to power up"
+  },
+  {
+    "Id": 116,
+    "Type": "Backhand Slap Combo",
+    "Name": "Stomach Lock",
+    "Description": "During Backhand Slap {2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, during Backhand Slap {2,3,4,2} to power up"
+  },
+  {
+    "Id": 117,
+    "Type": "Backhand Slap Combo",
+    "Name": "Neck Crusher",
+    "Description": "During Stomach Lock {1}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}, during Stomach Lock {1,1,2,1+2} to power up"
+  },
+  {
+    "Id": 118,
+    "Type": "Backhand Slap Combo",
+    "Name": "Leg Stretch Arm Lock",
+    "Description": "During Stomach Lock {2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {2}, during Stomach Lock {1,2,4,3,1+3} to power up"
+  },
+  {
+    "Id": 119,
+    "Type": "Backhand Slap Combo",
+    "Name": "Seoi Gyaku Juji-gatame",
+    "Description": "During Backhand Slap {1+2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1+2}, during Backhand Slap {3,4,3,1+2} to power up"
+  },
+  {
+    "Id": 120,
+    "Type": "Crab Hold Combo",
+    "Name": "Crab Hold",
+    "Description": "Approach opponent {f,1+3}",
+    "Properties": "",
+    "Comment": "Or {d,df,f,1+3}, throw escape {1}"
+  },
+  {
+    "Id": 121,
+    "Type": "Crab Hold Combo",
+    "Name": "Commando Arm Lock",
+    "Description": "During Crab Hold {1}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}, during Crab Hold {3,4,1+2} to power up"
+  },
+  {
+    "Id": 122,
+    "Type": "Crab Hold Combo",
+    "Name": "Heel Hold",
+    "Description": "During Crab Hold {2}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, during Crab Hold {4,2,1+2} to power up"
+  },
+  {
+    "Id": 123,
+    "Type": "Crab Hold Combo",
+    "Name": "Kneebar",
+    "Description": "During Heel Hold {1}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}, during Heel Hold {3,4,2+4} to power up"
+  },
+  {
+    "Id": 124,
+    "Type": "Crab Hold Combo",
+    "Name": "Double Heel Hold",
+    "Description": "During Heel Hold {2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}, during Heel Hold {1,3,2+4,1+2} to power up"
+  },
+  {
+    "Id": 125,
+    "Type": "Betrayer Combo",
+    "Name": "Betrayer",
+    "Description": "Approach opponent {d,db,b-hold,1+3}",
+    "Properties": "",
+    "Comment": "Or {d,db,b-hold,2+4}, cannot throw escape"
+  },
+  {
+    "Id": 126,
+    "Type": "Betrayer Combo",
+    "Name": "Arm Break",
+    "Description": "During Betrayer {1}",
+    "Properties": "",
+    "Comment": "Throw escape {1}, during Betrayer {1,3,1} to power up"
+  },
+  {
+    "Id": 127,
+    "Type": "Betrayer Combo",
+    "Name": "Double Arm Break",
+    "Description": "During Arm Break {1}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}, during Arm Break {3,1,1+2} to power up"
+  },
+  {
+    "Id": 128,
+    "Type": "Betrayer Combo",
+    "Name": "Falling Arm Break",
+    "Description": "During Arm Break {2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {2}, during Arm Break {2,1,3,4,1+2} to power up"
+  },
+  {
+    "Id": 129,
+    "Type": "Betrayer Combo",
+    "Name": "Twisted Nightmare",
+    "Description": "During Betrayer {1}",
+    "Properties": "",
+    "Comment": "Throw escape {2}, during Betrayer {2,1,1+2} to power up"
+  },
+  {
+    "Id": 130,
+    "Type": "Betrayer Combo",
+    "Name": "Neck Crusher",
+    "Description": "During Twisted Nightmare {1}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {1}, during Twisted Nightmare {1,1,2,1+2} to power up"
+  },
+  {
+    "Id": 131,
+    "Type": "Betrayer Combo",
+    "Name": "Leg Stretch Arm Lock",
+    "Description": "During Twisted Nightmare {2}",
+    "Properties": "Removes Recoverable",
+    "Comment": "Throw escape {2}, during Twisted Nightmare {1,2,4,3,1+3} to power up"
+  },
+  {
+    "Id": 132,
+    "Type": "Moves While Opponent is Down",
+    "Name": "Twisted Mind",
+    "Description": "While opponent is down {d,3+4}",
+    "Properties": "",
+    "Comment": ""
+  }
+]

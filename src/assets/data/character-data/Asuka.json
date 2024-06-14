@@ -123,7 +123,7 @@
     "Id": 16,
     "Type": "Normal Moves",
     "Name": "Jab Low Kick",
-    "Description": "1,3}",
+    "Description": "{1,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -195,7 +195,7 @@
     "Id": 25,
     "Type": "Normal Moves",
     "Name": "White Heron Spinning Heel Drop",
-    "Description": "{1+4,3",
+    "Description": "{1+4,3}",
     "Properties": "",
     "Comment": "{1+4,3,b-hold} to cancel, with chip damage on block, hold at last step to power up"
   },
