@@ -2,6 +2,7 @@ import { Component, inject } from '@angular/core';
 
 import { MatListModule } from "@angular/material/list";
 import { MatIconModule } from "@angular/material/icon";
+import { ActivatedRoute, Router } from "@angular/router";
 
 import { MoveIconsService } from "../move-icons.service";
 import { MoveDataService } from "../move-data.service";
@@ -26,14 +27,31 @@ import { ParsedDescription } from "../parsed-description";
 
 export class MoveListComponent {
 
-  moves: MoveData[];
+  moves: MoveData[] = [];
+  character: string = "";
 
   constructor(
-    moveIconsService: MoveIconsService,
-    moveDataService: MoveDataService,
-  ) {
-    this.moves = moveDataService.getMoves();
+    private moveIconsService: MoveIconsService,
+    private moveDataService: MoveDataService,
+    private router: Router,
+    private activatedRoute: ActivatedRoute
+  ) {}
+
+  ngOnInit(): void {
+    this.getCurrentRoute()
+    this.loadCharacterData();
   }
+
+  getCurrentRoute(): void {
+    this.character = this.activatedRoute.snapshot.url[0].path;
+  }
+
+  private loadCharacterData(): void {
+    this.moveDataService.getCharacterData(this.character).subscribe(data => {
+      this.moves = data;
+    });
+  }
+
 
 
   previousType: string = "";

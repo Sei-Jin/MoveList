@@ -1,6 +1,8 @@
 @for (character of characterList; track character.id)
 {
-  <button mat-button>
-    {{ character.name }}
-  </button>
+  <a routerLink={{character.name}}>
+    <button mat-button>
+      {{ character.name }}
+    </button>
+  </a>
 }

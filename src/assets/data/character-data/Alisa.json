@@ -13,7 +13,7 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent f* (or HB/HS), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
   {
     "Id": 3,
@@ -21,7 +21,7 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat HB/HS (or 2+3)"
+    "Comment": "During Heat {HBHS} (or {2+3})"
   },
   {
     "Id": 4,
@@ -29,7 +29,7 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Increased chip damage when chainsaw attack blocked",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{3,2}, during Destructive Form {f,1}, etc."
   },
   {
     "Id": 5,
@@ -37,7 +37,7 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "A new Dual Boot shift move can be used",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{f,1+4}"
   },
   {
     "Id": 6,
@@ -45,55 +45,55 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "A power-up Destructive Form Shift move can be used",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{d,1+2}"
   },
   {
     "Id": 7,
     "Type": "Heat Moves",
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Power Crush",
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
   },
   {
     "Id": 8,
     "Type": "Heat Moves",
     "Name": "Quick trim",
     "Description": "{3,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Chip damage on block, shift to Destructive Form (does not shift when using Heat Dash)"
   },
   {
     "Id": 9,
     "Type": "Heat Moves",
     "Name": "Uninstall",
     "Description": "{1+2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 10,
     "Type": "Heat Moves",
     "Name": "Dual Session",
     "Description": "{f,2,1}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, shift to Destructive Form (does not shift when using Heat Dash) {f,2,1+2} to shift to Destructive Form"
   },
   {
     "Id": 11,
     "Type": "Heat Moves",
     "Name": "Image Cutter",
     "Description": "{uf,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Or {u,2}, chip damage on block, shift to Destructive Form (does not shift when using Heat Dash}"
   },
   {
     "Id": 12,
     "Type": "Heat Moves",
     "Name": "Gigahertz Storm",
     "Description": "During Destructive Form ({d,1+2}, etc.) {f,2,1,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 13,
@@ -101,15 +101,15 @@
     "Name": "Emergency Dual Boot",
     "Description": "During Heat {f,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Dual Boot, partially uses remaining Heat time"
   },
   {
     "Id": 14,
     "Type": "Heat Moves",
     "Name": "Emergency Destructive Form",
     "Description": "During Heat {d,1+2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Power Crush",
+    "Comment": "Shift to Destructive Form, partially uses remaining Heat time"
   },
   {
     "Id": 15,
@@ -117,15 +117,15 @@
     "Name": "Quick-fix Protocol",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or during Heat and Destructive Form {2+3}, Heat Smash, on hit shift to throw, {2+3,3} (or {2+3,4}) to shift to Boot, {2+3,f,3} (or {2+3,f,4} to shift to Dual Boot"
   },
   {
     "Id": 16,
     "Type": "Rage Moves",
     "Name": "Radiant Pegasus Bomb",
     "Description": "During Rage {df,1+2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Removes Recoverable",
+    "Comment": "Or during Rage and Destructive Form {df,1+2}, Rage Art, erases opponent's recoverable health on hit"
   },
   {
     "Id": 17,
@@ -133,7 +133,7 @@
     "Name": "Stop Bit",
     "Description": "{1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{1,1,1+2} to shift to Destructive Form"
   },
   {
     "Id": 18,
@@ -148,8 +148,8 @@
     "Type": "Normal Moves",
     "Name": "Liftoff Combo",
     "Description": "{1,2,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 20,
@@ -157,7 +157,7 @@
     "Name": "Coil Punch Combo",
     "Description": "{1,2,d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Can hold at last step"
   },
   {
     "Id": 21,
@@ -188,8 +188,8 @@
     "Type": "Normal Moves",
     "Name": "Quick Trim",
     "Description": "{3,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Chip damage on block, shift to Destructive Form (does not shift when using Heat Dash)"
   },
   {
     "Id": 25,
@@ -197,14 +197,14 @@
     "Name": "Quick Access",
     "Description": "{3,f,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 26,
     "Type": "Normal Moves",
     "Name": "Accelerator",
     "Description": "{4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -212,16 +212,16 @@
     "Type": "Normal Moves",
     "Name": "Uninstall",
     "Description": "{1+2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 28,
     "Type": "Normal Moves",
     "Name": "Dual Session",
     "Description": "{f,2,1}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block, shift to Destructive Form (does not shift when using Heat Dash) {f,2,1+2} to shift to Destructive Form"
   },
   {
     "Id": 29,
@@ -229,7 +229,7 @@
     "Name": "Triple Session",
     "Description": "{f,2,3,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{f,2,3,1+2} to shift to Destructive Form"
   },
   {
     "Id": 30,
@@ -237,7 +237,7 @@
     "Name": "Lost Access",
     "Description": "{f,3,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 31,
@@ -245,15 +245,15 @@
     "Name": "Automatic Transmission",
     "Description": "{f,3,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 32,
     "Type": "Normal Moves",
     "Name": "Logic Bomb",
     "Description": "{f,4,1,4}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Homing",
+    "Comment": "{f,4,1+2} to shift to Destructive Form"
   },
   {
     "Id": 33,
@@ -261,7 +261,7 @@
     "Name": "Overflow",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{f,1+2,3} (or {f,1+2,4} to shift to Boot, {f,1+2,f,3} (or {f,1+2,f,4}) to shift to Dual Boot"
   },
   {
     "Id": 34,
@@ -269,7 +269,7 @@
     "Name": "Boot",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Boot"
   },
   {
     "Id": 35,
@@ -277,7 +277,7 @@
     "Name": "Cyclone Mixer",
     "Description": "{df,1,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 36,
@@ -309,7 +309,7 @@
     "Name": "Deadlock",
     "Description": "{d,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{d,2,4,1+2} to shift to Destructive Form"
   },
   {
     "Id": 40,
@@ -317,7 +317,7 @@
     "Name": "Quick Slider",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Backup"
   },
   {
     "Id": 41,
@@ -333,15 +333,15 @@
     "Name": "Destructive Form",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, {d,1+2} or {db-hold} to shift to standing state"
   },
   {
     "Id": 43,
     "Type": "Normal Moves",
     "Name": "Harpoon Sweep",
     "Description": "{d,3+4}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Homing",
+    "Comment": "{d,3+4,1+2} to shift to Destructive Form"
   },
   {
     "Id": 44,
@@ -349,7 +349,7 @@
     "Name": "Backup",
     "Description": "{db,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Backup"
   },
   {
     "Id": 45,
@@ -357,7 +357,7 @@
     "Name": "Daisy Chain",
     "Description": "{db,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{db,2,2,1+2} to shift to Destructive Form"
   },
   {
     "Id": 46,
@@ -380,7 +380,7 @@
     "Type": "Normal Moves",
     "Name": "Gadget Found",
     "Description": "{b,1,1+2}",
-    "Properties": "",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -396,7 +396,7 @@
     "Type": "Normal Moves",
     "Name": "Trance Generator",
     "Description": "{b,2,3}",
-    "Properties": "",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -412,7 +412,7 @@
     "Type": "Normal Moves",
     "Name": "Spinning Top",
     "Description": "{b,3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -421,30 +421,30 @@
     "Name": "Double Threading",
     "Description": "{b,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{b,4,3,1+2} to shift to Destructive Form"
   },
   {
     "Id": 54,
     "Type": "Normal Moves",
     "Name": "Double Override",
     "Description": "{b,4,4}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Tornado",
+    "Comment": "{b,4,4,3} (or {b,4,4,4}) to shift to Boot, {b,4,4,f,3} (or {b,4,4,f,4}) to shift to Dual Boot"
   },
   {
     "Id": 55,
     "Type": "Normal Moves",
     "Name": "Transmission",
     "Description": "{b,1+2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Power Crush",
+    "Comment": "Or During Destructive Form {b,1+2}, chip damage on block, shift to Destructive Form, absorb an attack to power up and increase chip damage on block"
   },
   {
     "Id": 56,
     "Type": "Normal Moves",
     "Name": "Dynamic Range",
     "Description": "{b,3+4,3+4}",
-    "Properties": "",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -460,8 +460,8 @@
     "Type": "Normal Moves",
     "Name": "Overload",
     "Description": "{ub,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Power Crush",
+    "Comment": "Absorb an attack to power up and deal more chip damage on block"
   },
   {
     "Id": 59,
@@ -469,7 +469,7 @@
     "Name": "Docking Bay",
     "Description": "{ub,3+4,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or back facing opponent {3+4,1+2}"
   },
   {
     "Id": 60,
@@ -477,23 +477,23 @@
     "Name": "Gigabyte Hammer",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or {ub,1+2}"
   },
   {
     "Id": 61,
     "Type": "Normal Moves",
     "Name": "Brute Force Attack",
     "Description": "{uf,1}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Tornado",
+    "Comment": "Or {ub,1} or {u,1}, {uf,1} on hit {3} (or {4}) shift to Boot, {uf,1} on hit {f,3} (or {f,4}) shift to Dual Boot"
   },
   {
     "Id": 62,
     "Type": "Normal Moves",
     "Name": "Image Cutter",
     "Description": "{uf,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager, Homing",
+    "Comment": "Or {u,2}, chip damage on block, shift to Destructive Form (does not shift when using Heat Dash)"
   },
   {
     "Id": 63,
@@ -501,7 +501,7 @@
     "Name": "Cradle Star",
     "Description": "{uf,3} on hit or block {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or {ub,3,2} or {u,3,2}, {uf,3,3} (or {uf,3,4}) to shift to Boot, {uf,3,f,3} (or {uf,3,f,4}) to shift to Dual Boot"
   },
   {
     "Id": 64,
@@ -509,7 +509,7 @@
     "Name": "Inbound Kick",
     "Description": "{uf,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or {u,4,4}"
   },
   {
     "Id": 65,
@@ -517,7 +517,7 @@
     "Name": "Downstream",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or {u,3+4}"
   },
   {
     "Id": 66,
@@ -533,7 +533,7 @@
     "Name": "Cutover",
     "Description": "{f,f-hold,3,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{f,f-hold,3,4,1+2} or {f,f-hold,3,4,4,1+2} to shift to Destructive Form"
   },
   {
     "Id": 68,
@@ -541,7 +541,7 @@
     "Name": "Sandbox",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Throw on front hit, on hit {1} (Just Input) to power up"
   },
   {
     "Id": 69,
@@ -573,7 +573,7 @@
     "Name": "Linear Punch",
     "Description": "{f,f,f-hold,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Chip damage on block, {f,f,f-hold,2,1+2} to shift to Destructive Form"
   },
   {
     "Id": 73,
@@ -597,7 +597,7 @@
     "Name": "10 Hit Combo",
     "Description": "{ub,4,1,1,2,1,1,3+4,3,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 76,
@@ -621,7 +621,7 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{1+2+3+4,1+2} shift to Destructive Form, cannot block when it is still in effect / Automatic counter hit"
   },
   {
     "Id": 79,
@@ -629,15 +629,15 @@
     "Name": "Spear Fishing",
     "Description": "While rising {1,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "While rising {1,2,1+2} or while rising {1,2,3,1+2} to shift to Destructive Form"
   },
   {
     "Id": 80,
     "Type": "Moves While Crouching",
     "Name": "Digital Lift",
     "Description": "While rising {2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Tornado",
+    "Comment": "While rising {2,3} (or {2,4}) to shift to Boot, while rising {2,f,3} (or {2,f,4} to shift to Dual Boot"
   },
   {
     "Id": 81,
@@ -645,7 +645,7 @@
     "Name": "Clockwork",
     "Description": "While rising {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "While rising {3,b-hold} to cancel"
   },
   {
     "Id": 82,
@@ -653,7 +653,7 @@
     "Name": "Clockwork Spring Middle",
     "Description": "During Clockwork {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Power up after 2 or more rotations"
   },
   {
     "Id": 83,
@@ -676,8 +676,8 @@
     "Type": "Moves While Crouching",
     "Name": "Cute But Deadly",
     "Description": "While rising {1+2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Homing",
+    "Comment": "Hold to power up"
   },
   {
     "Id": 86,
@@ -685,11 +685,11 @@
     "Name": "Sad Hound",
     "Description": "While crouching {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "While crouching {1+2,n,1+2} to shift to Destructive Form"
   },
   {
     "Id": 87,
-    "Type": "Moves during Sidestep (u,n or d,n)",
+    "Type": "Moves during Sidestep",
     "Name": "Happy Propeller",
     "Description": "During sidestep {4,1+2}",
     "Properties": "",
@@ -725,7 +725,7 @@
     "Name": "Destructive Form",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, {d,1+2} or {db-hold} to shift to standing state"
   },
   {
     "Id": 92,
@@ -733,7 +733,7 @@
     "Name": "Shredder",
     "Description": "During Destructive Form {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 93,
@@ -741,14 +741,14 @@
     "Name": "Shredding Uppercut",
     "Description": "During Destructive Form {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 94,
     "Type": "During Destructive Form",
     "Name": "Shredding Sky Punch",
     "Description": "During Destructive Form {2} on hit {1}",
-    "Properties": "",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -756,8 +756,8 @@
     "Type": "During Destructive Form",
     "Name": "Death Marionette",
     "Description": "During Destructive Form {1+2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Homing",
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 96,
@@ -765,15 +765,15 @@
     "Name": "Hertz Blade",
     "Description": "During Destructive Form {f,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 97,
     "Type": "During Destructive Form",
     "Name": "Gigahertz Storm",
     "Description": "During Destructive Form {f,2,1,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Heat Engager",
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 98,
@@ -781,7 +781,7 @@
     "Name": "Hertz Blade - Diablo",
     "Description": "During Destructive Form {f,1+2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 99,
@@ -789,15 +789,15 @@
     "Name": "Hertz Blade - Scud",
     "Description": "During Destructive Form {d,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 100,
     "Type": "During Destructive Form",
     "Name": "Clock Boosting",
     "Description": "During Destructive Form {d,2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Homing",
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 101,
@@ -805,7 +805,7 @@
     "Name": "Hertz Blade - Tomahawk",
     "Description": "During Destructive Form {b,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 102,
@@ -813,7 +813,7 @@
     "Name": "Hertz Blade - Aegis",
     "Description": "During Destructive Form {uf,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, only hits airborne opponents"
   },
   {
     "Id": 103,
@@ -821,7 +821,7 @@
     "Name": "Spindle Slash",
     "Description": "During Destructive Form {uf,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block, during Destructive Form {uf,1+2,1+2} to shift to standing state"
   },
   {
     "Id": 104,
@@ -829,7 +829,7 @@
     "Name": "Hertz Blade - Flare",
     "Description": "During Destructive Form with back facing opponent {1} (or {2})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 105,
@@ -837,7 +837,7 @@
     "Name": "Idling",
     "Description": "During Destructive Form {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or during Destructive Form {4}, shift to Destructive Form"
   },
   {
     "Id": 106,
@@ -845,7 +845,7 @@
     "Name": "Dual Boot",
     "Description": "During Destructive Form {f,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or during Destructive Form {f,4}, {b-hold} to cancel, {u-hold} (or {d-hold} to shift to Evasive Action"
   },
   {
     "Id": 107,
@@ -853,7 +853,7 @@
     "Name": "Evasive Action",
     "Description": "During Destructive Form {d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or during Destructive Form {d,4} or {u,3} or {u,4}, to shift to Destructive Form"
   },
   {
     "Id": 108,
@@ -861,7 +861,7 @@
     "Name": "Evasive Slash",
     "Description": "During Destructive Form {d,3,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or during Destructive Form {d,4,1} or {u,3,1} or {u,4,1}, shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 109,
@@ -869,7 +869,7 @@
     "Name": "Retro Rockets",
     "Description": "During Destructive Form {b,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Or during Destructive Form {b,4} or during Destructive Form {ub,b}, shift to Destructive Form"
   },
   {
     "Id": 110,
@@ -877,7 +877,7 @@
     "Name": "Move Forward",
     "Description": "During Destructive Form {f,f}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form"
   },
   {
     "Id": 111,
@@ -885,7 +885,7 @@
     "Name": "Move Back",
     "Description": "During Destructive Form {b,b}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form"
   },
   {
     "Id": 112,
@@ -893,7 +893,7 @@
     "Name": "Boot",
     "Description": "{f,3+4}, etc.",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Boot"
   },
   {
     "Id": 113,
@@ -901,7 +901,7 @@
     "Name": "Abort",
     "Description": "During Boot {d-hold}, (or {b-hold})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Backup"
   },
   {
     "Id": 114,
@@ -909,7 +909,7 @@
     "Name": "Hard Reset",
     "Description": "During Boot {1,2,1,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "During Boot {1,2,1,3+4,1+2} to shift to Destructive Form"
   },
   {
     "Id": 115,
@@ -917,7 +917,7 @@
     "Name": "Linear Elbow",
     "Description": "During Boot {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "During Boot {2,1+2} to shift to Destructive Form"
   },
   {
     "Id": 116,
@@ -941,7 +941,7 @@
     "Name": "Wire Clipper",
     "Description": "During Boot {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form"
   },
   {
     "Id": 119,
@@ -949,7 +949,7 @@
     "Name": "Dual Boot",
     "Description": "During Destructive Form {f,3}, etc.",
     "Properties": "",
-    "Comment": ""
+    "Comment": "{b-hold} to cancel, {u-hold} (or {d-hold} to shift to Evasive Action"
   },
   {
     "Id": 120,
@@ -957,7 +957,7 @@
     "Name": "Thrust Left",
     "Description": "During Dual Boot {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 121,
@@ -965,7 +965,7 @@
     "Name": "Thruster Right - Burst",
     "Description": "During Dual Boot {2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 122,
@@ -989,7 +989,7 @@
     "Name": "Thruster Drill",
     "Description": "During Dual Boot {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Destructive Form, chip damage on block"
   },
   {
     "Id": 125,
@@ -997,7 +997,7 @@
     "Name": "Heartbeat Disabler",
     "Description": "During Dual Boot {f,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Chip damage on block, throw on front hit"
   },
   {
     "Id": 126,
@@ -1005,7 +1005,7 @@
     "Name": "Shut Down",
     "Description": "During Dual Boot {f,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 127,
@@ -1013,7 +1013,7 @@
     "Name": "Backup",
     "Description": "{db,1}, etc.",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Shift to Backup"
   },
   {
     "Id": 128,
@@ -1021,15 +1021,15 @@
     "Name": "Recovery Hook",
     "Description": "During Backup {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 129,
     "Type": "During Backup",
     "Name": "Rapid Rocket Punch",
     "Description": "During Backup {2}",
-    "Properties": "",
-    "Comment": ""
+    "Properties": "Tornado",
+    "Comment": "Chip damage on block"
   },
   {
     "Id": 130,
@@ -1044,7 +1044,7 @@
     "Type": "During Backup",
     "Name": "Uplink Knee",
     "Description": "During Backup {4}",
-    "Properties": "",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -1061,7 +1061,7 @@
     "Name": "Trigger Shuffle",
     "Description": "Approach opponent {1+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Throw escape {1} or {2}"
   },
   {
     "Id": 134,
@@ -1069,7 +1069,7 @@
     "Name": "Back Door",
     "Description": "Approach opponent {2+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Throw escape {1} (or {2}), {2+4,1+2} to shift to Destructive Form"
   },
   {
     "Id": 135,
@@ -1077,7 +1077,7 @@
     "Name": "Compression",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Throw escape {1}"
   },
   {
     "Id": 136,
@@ -1085,7 +1085,7 @@
     "Name": "Hat Trick",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Throw escape {2}"
   },
   {
     "Id": 137,
@@ -1093,7 +1093,7 @@
     "Name": "Random Typing",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Cannot throw escape"
   },
   {
     "Id": 138,
@@ -1101,7 +1101,7 @@
     "Name": "Spam Bomb",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Throw escape {1+2}"
   },
   {
     "Id": 139,
@@ -1109,7 +1109,7 @@
     "Name": "Double Bull Shoot",
     "Description": "While crouching {db,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "Throw escape {1+2}"
   },
   {
     "Id": 140,
@@ -1124,7 +1124,7 @@
     "Type": "Attack Reversal",
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
-    "Properties": "",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {

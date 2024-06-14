@@ -9,7 +9,7 @@ import { MatToolbarModule } from "@angular/material/toolbar";
 import { MoveListComponent } from "./moves/move-list/move-list.component";
 
 import { NavigationIconsService } from "./navigation/navigation-icons.service";
-import {SidenavButtonsComponent} from "./navigation/sidenav-buttons/sidenav-buttons.component";
+import { SidenavButtonsComponent } from "./navigation/sidenav-buttons/sidenav-buttons.component";
 
 
 @Component({
@@ -32,6 +32,4 @@ import {SidenavButtonsComponent} from "./navigation/sidenav-buttons/sidenav-butt
 export class AppComponent {
 
   constructor(navigationIconsService: NavigationIconsService) {}
-
-  title = 'MoveList';
 }

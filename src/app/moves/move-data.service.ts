@@ -1,17 +1,20 @@
 import { Injectable } from '@angular/core';
 import { MoveData } from "./move-data";
-import moveDataRaw from "../../assets/data/character-data/Alisa.json";
+import { HttpClient } from "@angular/common/http";
+import { Observable } from "rxjs";
+
 
 @Injectable({
   providedIn: 'root'
 })
+
+
 export class MoveDataService {
 
-  constructor() { }
+  constructor(private http: HttpClient) { }
 
-  moves: MoveData[] = moveDataRaw;
-
-  getMoves() {
-    return this.moves;
+  getCharacterData(character: string): Observable<MoveData[]> {
+    const characterDataPath = `../../assets/data/character-data/${character}.json`;
+    return this.http.get<MoveData[]>(characterDataPath);
   }
 }

@@ -1,4 +1,4 @@
-<mat-toolbar>
+<mat-toolbar class="header">
 
   <button mat-icon-button (click)="sidenav.toggle()" class="example-icon" aria-label="Example icon-button with menu icon">
     <mat-icon>menu</mat-icon>
@@ -19,13 +19,13 @@
 
 <mat-sidenav-container hasBackdrop="true">
 
-  <mat-sidenav class="sidenav-container" #sidenav mode="over">
+  <mat-sidenav #sidenav class="sidenav" mode="over" fixedInViewport="true">
     <app-sidenav-buttons></app-sidenav-buttons>
   </mat-sidenav>
 
   <mat-sidenav-content>
     <div class="page-body">
-      <app-move-list></app-move-list>
+      <router-outlet></router-outlet>
     </div>
   </mat-sidenav-content>
 

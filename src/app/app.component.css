@@ -1,16 +1,29 @@
-.move-list-text {
+.header
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 56px;
+
+  /* Make the header appear on top of any other components */
+  z-index: 100;
+}
+
+.move-list-text
+{
   margin: auto;
 }
 
-.sidenav-container
+.sidenav
 {
   width: 240px;
   height: auto;
+  margin-top: 56px;
 }
 
 .page-body
 {
-  padding-top: 40px;
+  padding-top: 80px;
   margin: auto;
   padding-bottom: 80px;
 }

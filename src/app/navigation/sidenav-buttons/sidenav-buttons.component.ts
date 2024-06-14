@@ -2,20 +2,17 @@ import { Component } from '@angular/core';
 
 import { MatButtonModule } from "@angular/material/button";
 
-import characterList from "../../../assets/data/CharacterList.json"
-
-
-interface CharacterList {
-  "id": number
-  "name": string
-}
+import { CharacterListService } from "../../data/character-list.service";
+import { CharacterList } from "../../data/character-list";
+import {RouterLink} from "@angular/router";
 
 
 @Component({
   selector: 'app-sidenav-buttons',
   standalone: true,
   imports: [
-    MatButtonModule
+    MatButtonModule,
+    RouterLink
   ],
   templateUrl: './sidenav-buttons.component.html',
   styleUrl: './sidenav-buttons.component.css'
@@ -24,6 +21,7 @@ interface CharacterList {
 
 export class SidenavButtonsComponent {
 
-  characterList: CharacterList[] = characterList;
+  constructor(private characterListService: CharacterListService) {}
 
+  characterList: CharacterList[] = this.characterListService.getCharacterList();
 }
