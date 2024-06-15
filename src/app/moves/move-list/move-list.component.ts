@@ -10,6 +10,7 @@ import { MoveInputParserService } from "../move-input-parser.service";
 
 import { MoveData } from "../move-data";
 import { ParsedDescription } from "../parsed-description";
+import { MovePropertiesParserService } from "../move-properties-parser.service";
 
 
 @Component({
@@ -74,5 +75,14 @@ export class MoveListComponent {
 
   parseMoveSequence(type: string) {
     this.moveSequence = this.moveInputParserService.getInputValues(type);
+  }
+
+
+  private movePropertiesParserService = inject(MovePropertiesParserService);
+
+  moveProperties: string[] = [];
+
+  parseMoveProperties(properties: string) {
+    this.moveProperties = this.moveInputParserService.getInputValues(properties);
   }
 }

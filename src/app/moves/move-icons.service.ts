@@ -23,13 +23,21 @@ export class MoveIconsService {
     "n", "LB", "RB"
   ]
 
+  moveProperties: string[] = [
+    "Heat Engager",
+    "Homing",
+    "Removes Recoverable",
+    "Power Crush",
+    "Tornado"
+  ]
+
   constructor(iconRegistry: MatIconRegistry, sanitizer: DomSanitizer)
   {
     for (let buttonInput of this.buttonInputs)
     {
       iconRegistry.addSvgIcon(
         buttonInput,
-        sanitizer.bypassSecurityTrustResourceUrl(`/assets/inputs/button/${buttonInput}.svg`)
+        sanitizer.bypassSecurityTrustResourceUrl(`/assets/move-list/button/${buttonInput}.svg`)
       );
     }
 
@@ -37,7 +45,15 @@ export class MoveIconsService {
     {
       iconRegistry.addSvgIcon(
         movementInput,
-        sanitizer.bypassSecurityTrustResourceUrl(`/assets/inputs/movement/${movementInput}.svg`)
+        sanitizer.bypassSecurityTrustResourceUrl(`/assets/move-list/movement/${movementInput}.svg`)
+      );
+    }
+
+    for (let property of this.moveProperties)
+    {
+      iconRegistry.addSvgIcon(
+        property,
+        sanitizer.bypassSecurityTrustResourceUrl(`/assets/move-list/properties/${property}.svg`)
       );
     }
   }

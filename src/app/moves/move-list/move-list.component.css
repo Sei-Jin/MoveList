@@ -9,7 +9,8 @@
 .move-icon {
   position: relative;
   top: 3px;
-  transform: scale(1.2);
+  transform: scale(1.3);
+  margin-left: 3px;
 }
 
 .mat-list-item-icon {
@@ -18,5 +19,12 @@
 
 .mat-list-item-line {
   padding-top: 10px;
+}
+
+.property-icon {
+  transform: scale(1.3);
+  position: relative;
+  margin-left: 8px;
+  margin-top: 16px;
 }
 
