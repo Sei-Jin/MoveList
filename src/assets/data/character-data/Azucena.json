@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -499,7 +499,7 @@
     "Id": 63,
     "Type": "Normal Moves",
     "Name": "Espresso Agresión",
-    "Description": "{f,f,f-hold,3,2}",
+    "Description": "{f,f,f-hold,3} on hit or block {2}",
     "Properties": "",
     "Comment": "Chip damage on block"
   },
@@ -571,7 +571,7 @@
     "Id": 72,
     "Type": "Special Move",
     "Name": "Volterador",
-    "Description": "{db,b}",
+    "Description": "{ub,b}",
     "Properties": "",
     "Comment": "{ub,b,f-hold} to shift to Libertador (power up during Heat)"
   },
@@ -610,13 +610,29 @@
   {
     "Id": 77,
     "Type": "Moves While Crouching",
+    "Name": "Libertador",
+    "Description": "While rising {f,3+4}",
+    "Properties": "",
+    "Comment": "Shift to Libertador, has high parry effect, has low parry effect, during Libertador {db} to stand up, power up during Heat"
+  },
+  {
+    "Id": 78,
+    "Type": "Moves While Crouching",
+    "Name": "Hopping Turn",
+    "Description": "While rising {b,3+4}",
+    "Properties": "",
+    "Comment": "Back towards opponent"
+  },
+  {
+    "Id": 79,
+    "Type": "Moves While Crouching",
     "Name": "Cosecha Látigo",
     "Description": "While crouching {df,3}",
     "Properties": "",
     "Comment": ""
   },
   {
-    "Id": 78,
+    "Id": 80,
     "Type": "Moves While Facing Backward",
     "Name": "Mocha Attaque Matari",
     "Description": "Back facing opponent {1,2}",
@@ -624,7 +640,7 @@
     "Comment": "Or back facing opponent {1,2,f-hold} to cancel and shift to Libertador"
   },
   {
-    "Id": 79,
+    "Id": 81,
     "Type": "Moves While Facing Backward",
     "Name": "Mocha Attaque Sidamo",
     "Description": "Back facing opponent {1,4}",
@@ -632,7 +648,7 @@
     "Comment": ""
   },
   {
-    "Id": 80,
+    "Id": 82,
     "Type": "Moves While Facing Backward",
     "Name": "Qhapaq Ñan",
     "Description": "Back facing opponent {2} on hit {2} (Just Input)",
@@ -640,7 +656,7 @@
     "Comment": ""
   },
   {
-    "Id": 81,
+    "Id": 83,
     "Type": "Moves While Facing Backward",
     "Name": "Calf Reaper",
     "Description": "Back facing opponent {3}",
@@ -648,7 +664,7 @@
     "Comment": "Shift to Libertador"
   },
   {
-    "Id": 82,
+    "Id": 84,
     "Type": "Moves While Facing Backward",
     "Name": "Upbeat Patadas",
     "Description": "Back facing opponent {4,3}",
@@ -656,7 +672,7 @@
     "Comment": ""
   },
   {
-    "Id": 83,
+    "Id": 85,
     "Type": "Moves While Facing Backward",
     "Name": "Golpe Affogato",
     "Description": "Back facing opponent {1+2}",
@@ -664,7 +680,7 @@
     "Comment": ""
   },
   {
-    "Id": 84,
+    "Id": 86,
     "Type": "Moves While Facing Backward",
     "Name": "Foo Fighter",
     "Description": "Back facing opponent {3+4}",
@@ -672,7 +688,7 @@
     "Comment": ""
   },
   {
-    "Id": 85,
+    "Id": 87,
     "Type": "Moves While Facing Backward",
     "Name": "Libertador (Regreso)",
     "Description": "Back facing opponent {f,3+4}",
@@ -680,7 +696,7 @@
     "Comment": "Shift to Libertador"
   },
   {
-    "Id": 86,
+    "Id": 88,
     "Type": "Moves While Facing Backward",
     "Name": "Shuffle Walk",
     "Description": "Back facing opponent {b,3}",
@@ -688,7 +704,7 @@
     "Comment": "Or back facing opponent {b,4}"
   },
   {
-    "Id": 87,
+    "Id": 89,
     "Type": "Moves While Facing Backward",
     "Name": "Runaway",
     "Description": "Back facing opponent {b,1+2}",
@@ -696,7 +712,7 @@
     "Comment": "Has mid parry effect"
   },
   {
-    "Id": 88,
+    "Id": 90,
     "Type": "Moves While Facing Backward",
     "Name": "Hide Turn",
     "Description": "Back facing opponent {b,3+4}",
@@ -704,7 +720,7 @@
     "Comment": ""
   },
   {
-    "Id": 89,
+    "Id": 91,
     "Type": "During Libertador",
     "Name": "Libertador",
     "Description": "{f,3+4}, etc.",
@@ -712,7 +728,7 @@
     "Comment": "Shift to Libertador, has high parry effect, has low parry effect, during Libertador {db} to stand up, power up during Heat"
   },
   {
-    "Id": 90,
+    "Id": 92,
     "Type": "During Libertador",
     "Name": "Blend Tempestad",
     "Description": "During Libertador {1,2}",
@@ -720,7 +736,7 @@
     "Comment": "Chip damage on block, during Libertador {1} to shift to Libertador, during Libertador {1,2,b-hold} to cancel and face backward"
   },
   {
-    "Id": 91,
+    "Id": 93,
     "Type": "During Libertador",
     "Name": "Golpe Cappuccino",
     "Description": "During Libertador {2}",
@@ -728,7 +744,7 @@
     "Comment": ""
   },
   {
-    "Id": 92,
+    "Id": 94,
     "Type": "During Libertador",
     "Name": "Acerbic Low Kick",
     "Description": "During Libertador {3}",
@@ -736,7 +752,7 @@
     "Comment": ""
   },
   {
-    "Id": 93,
+    "Id": 95,
     "Type": "During Libertador",
     "Name": "Blend Reganar",
     "Description": "During Libertador {3,1}",
@@ -744,7 +760,7 @@
     "Comment": ""
   },
   {
-    "Id": 94,
+    "Id": 96,
     "Type": "During Libertador",
     "Name": "Blend Asaltar",
     "Description": "During Libertador {4,1,2}",
@@ -752,7 +768,7 @@
     "Comment": "During Libertador {4} to shift to Libertador"
   },
   {
-    "Id": 95,
+    "Id": 97,
     "Type": "During Libertador",
     "Name": "Blend Martillo",
     "Description": "During Libertador {4,2}",
@@ -760,7 +776,7 @@
     "Comment": "During Libertador {4} to shift to Libertador"
   },
   {
-    "Id": 96,
+    "Id": 98,
     "Type": "During Libertador",
     "Name": "Rana Marista",
     "Description": "During Libertador {1+2}",
@@ -768,15 +784,15 @@
     "Comment": "During Libertador {1+2,b-hold} to cancel and face backward"
   },
   {
-    "Id": 97,
+    "Id": 99,
     "Type": "During Libertador",
     "Name": "El Niño High Kick",
     "Description": "During Libertador {3+4}",
-    "Properties": "Power Crush",
+    "Properties": "Power Crush, Homing",
     "Comment": "Chip damage on block, absorb an attack to power up"
   },
   {
-    "Id": 98,
+    "Id": 100,
     "Type": "During Libertador",
     "Name": "Blend Cortar",
     "Description": "During Libertador {d,4,4}",
@@ -784,7 +800,7 @@
     "Comment": ""
   },
   {
-    "Id": 99,
+    "Id": 101,
     "Type": "During Libertador",
     "Name": "Libertador (Varios)",
     "Description": "During Libertador {f,f-hold}",
@@ -792,7 +808,7 @@
     "Comment": "Shift to Libertador"
   },
   {
-    "Id": 100,
+    "Id": 102,
     "Type": "During Libertador",
     "Name": "Caer Back Funnel",
     "Description": "During Libertador {b,b-hold}",
@@ -800,7 +816,7 @@
     "Comment": "Shift to Libertador"
   },
   {
-    "Id": 101,
+    "Id": 103,
     "Type": "During Libertador",
     "Name": "Azucena Admission",
     "Description": "During Libertador {f-hold}",
@@ -808,7 +824,7 @@
     "Comment": "During Heat partially restore remaining Heat time"
   },
   {
-    "Id": 102,
+    "Id": 104,
     "Type": "During Libertador",
     "Name": "Milagros Show",
     "Description": "During Libertador {d-hold} (or {f-hold})",
@@ -816,7 +832,7 @@
     "Comment": "During Heat partially restore remaining Heat time"
   },
   {
-    "Id": 103,
+    "Id": 105,
     "Type": "During Libertador",
     "Name": "Salida Castillo",
     "Description": "During Libertador {b-hold}",
@@ -824,23 +840,23 @@
     "Comment": ""
   },
   {
-    "Id": 104,
+    "Id": 106,
     "Type": "Throws",
     "Name": "Amaru Head Squeeze",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
-    "Id": 105,
+    "Id": 107,
     "Type": "Throws",
     "Name": "El Dorado Neck Snap",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
-    "Id": 106,
+    "Id": 108,
     "Type": "Throws",
     "Name": "Urubamba Neck Lock",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
@@ -848,7 +864,7 @@
     "Comment": "Throw escape {1}"
   },
   {
-    "Id": 107,
+    "Id": 109,
     "Type": "Throws",
     "Name": "Giratorio Sleeper Throw",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
@@ -856,7 +872,7 @@
     "Comment": "Throw escape {2}"
   },
   {
-    "Id": 108,
+    "Id": 110,
     "Type": "Throws",
     "Name": "Caffeine Abduction",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
@@ -864,7 +880,7 @@
     "Comment": "Cannot throw escape"
   },
   {
-    "Id": 109,
+    "Id": 111,
     "Type": "Throws",
     "Name": "Inti Raymi Necklace",
     "Description": "Approach opponent {uf,1+2}",
@@ -872,7 +888,7 @@
     "Comment": "Or during Libertador, approach opponent {uf,1+2} throw escape {1+2}"
   },
   {
-    "Id": 110,
+    "Id": 112,
     "Type": "Throws",
     "Name": "UFO Roll",
     "Description": "Approach opponent {d,1+2}",
@@ -880,7 +896,7 @@
     "Comment": "Shift to Libertador, cannot throw escape, take damage when hitting crouching opponent"
   },
   {
-    "Id": 111,
+    "Id": 113,
     "Type": "Throws",
     "Name": "Ultimate Tackle",
     "Description": "While crouching {1+2}",
@@ -888,7 +904,7 @@
     "Comment": "Throw escape {1+2}, shift to takedown on hit"
   },
   {
-    "Id": 112,
+    "Id": 114,
     "Type": "Throws",
     "Name": "Ultimate Punch",
     "Description": "During takedown {2,1,2,1}",
@@ -896,7 +912,7 @@
     "Comment": "Or during takedown {1,2,1,2}, throw escape {1} (or {2})"
   },
   {
-    "Id": 113,
+    "Id": 115,
     "Type": "Throws",
     "Name": "Armbar",
     "Description": "During takedown {1+2}",
@@ -904,7 +920,7 @@
     "Comment": "Shift is also possible after the third hit of Ultimate Punch, throw escape {1+2}"
   },
   {
-    "Id": 114,
+    "Id": 116,
     "Type": "Throws",
     "Name": "Smell the Coffee",
     "Description": "Approach crouching opponent {d,1+3} (or {d,2+4})",
@@ -912,7 +928,7 @@
     "Comment": "Or approach crouching opponent during Libertador {d,1+3} (or {d,2+4}, cannot throw escape, unable to shift to Heat Dash"
   },
   {
-    "Id": 115,
+    "Id": 117,
     "Type": "Attack Reversal",
     "Name": "Close Encounter",
     "Description": "Time with opponent punch {uf,1}",
@@ -920,7 +936,7 @@
     "Comment": ""
   },
   {
-    "Id": 116,
+    "Id": 118,
     "Type": "Attack Reversal",
     "Name": "Crema Petalo",
     "Description": "During Libertador, take high attack from opponent",
@@ -928,7 +944,7 @@
     "Comment": "To Libertador, completely evade attacks, regain recoverable health"
   },
   {
-    "Id": 117,
+    "Id": 119,
     "Type": "Attack Reversal",
     "Name": "Flush Valve Gracia",
     "Description": "During Libertador, take low attack from opponent",
@@ -936,7 +952,7 @@
     "Comment": "To Libertador, completely evade attacks, regain recoverable health"
   },
   {
-    "Id": 118,
+    "Id": 120,
     "Type": "Attack Reversal",
     "Name": "Puño de Fuego Evitacion",
     "Description": "With Heat activated during Libertador, take high attack from opponent",
@@ -944,7 +960,7 @@
     "Comment": "Partially restore remaining Heat time, completely evade attacks, regain recoverable health"
   },
   {
-    "Id": 119,
+    "Id": 121,
     "Type": "Attack Reversal",
     "Name": "One Drip Cielo Evitacion",
     "Description": "With Heat activated during Libertador, take low attack from opponent",
@@ -952,7 +968,7 @@
     "Comment": "Partially restore remaining Heat time, completely evade attacks, regain recoverable health"
   },
   {
-    "Id": 120,
+    "Id": 122,
     "Type": "Attack Reversal",
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
