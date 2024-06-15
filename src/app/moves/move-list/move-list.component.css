@@ -1,5 +1,7 @@
 .mat-subheader {
   padding-top: 40px;
+  font-size: large;
+  color: blueviolet;
 }
 
 .move-icon {
@@ -19,7 +21,7 @@
 
 .mat-list-item-line {
   padding-top: 10px;
-  color: blueviolet;
+  color: mediumorchid;
   font-size: medium;
 }
 
