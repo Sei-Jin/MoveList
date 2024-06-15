@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -92,7 +92,7 @@
     "Type": "Rage Moves",
     "Name": "Naniwa Peacemaker Knuckle",
     "Description": "During Rage {df,1+2}",
-    "Properties": "",
+    "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit, can hold"
   },
   {
@@ -612,7 +612,7 @@
     "Type": "Normal Moves",
     "Name": "Aizen Swing",
     "Description": "{f,f,f-hold,1+2}",
-    "Properties": "Homing",
+    "Properties": "Tornado, Homing",
     "Comment": "Chip damage on block, power up during Naniwa Gusto"
   },
   {
@@ -627,7 +627,7 @@
     "Id": 79,
     "Type": "Special Move",
     "Name": "Naniwa Ultimate Tackle",
-    "Description": "During {1+2+3+4,1+2}",
+    "Description": "During {1+2+3+4},{1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}"
   },
@@ -660,7 +660,7 @@
     "Type": "During Naniwa Gusto",
     "Name": "Aizen Festival Swing",
     "Description": "During Naniwa Gusto {f,f,f-hold,1+2}",
-    "Properties": "Homing",
+    "Properties": "Tornado, Homing",
     "Comment": "Consumes Naniwa Gusto (during Heat, partially uses remaining Heat time), chip damage on block"
   },
   {
@@ -772,7 +772,7 @@
     "Type": "Throws",
     "Name": "Aki Nage",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -780,7 +780,7 @@
     "Type": "Throws",
     "Name": "Katanuki",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -859,7 +859,7 @@
     "Id": 108,
     "Type": "Attack Reversal",
     "Name": "Attack Reversal",
-    "Description": "Time with opponent attack {b,1+3} or ({b,2+4})",
+    "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
     "Properties": "",
     "Comment": "Can hold"
   },
