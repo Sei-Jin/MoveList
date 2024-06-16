@@ -16,8 +16,8 @@ mat-list-item {
   position: relative;
   top: 3px;
   transform: scale(1.4);
-  margin-left: 1px;
-  margin-right: 1px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
 
 .mat-list-item-icon {
