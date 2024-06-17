@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -418,18 +418,18 @@
   {
     "Id": 53,
     "Type": "Normal Moves",
-    "Name": "Wolf Call",
-    "Description": "{b,2,4}",
-    "Properties": "",
-    "Comment": "{b,2,f,4} to cancel the first hit"
-  },
-  {
-    "Id": 54,
-    "Type": "Normal Moves",
     "Name": "Kickass Combo",
     "Description": "{b,2,1,4}",
     "Properties": "Tornado",
     "Comment": "{b,2,f,1} to cancel the first hit, {b,2,1,d} (or {u}) to cancel and sidestep, {b,2,1,f-hold} to shift to Slither Step"
+  },
+  {
+    "Id": 54,
+    "Type": "Normal Moves",
+    "Name": "Wolf Call",
+    "Description": "{b,2,4}",
+    "Properties": "",
+    "Comment": "{b,2,f,4} to cancel the first hit"
   },
   {
     "Id": 55,
@@ -820,7 +820,7 @@
     "Type": "Throws",
     "Name": "Gravity Brain Buster",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -828,7 +828,7 @@
     "Type": "Throws",
     "Name": "Guillotine",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {

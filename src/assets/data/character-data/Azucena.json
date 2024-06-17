@@ -474,7 +474,7 @@
   {
     "Id": 60,
     "Type": "Normal Moves",
-    "Name": "Luna llena",
+    "Name": "Luna Llena",
     "Description": "{f,f-hold,3}",
     "Properties": "Tornado",
     "Comment": ""
@@ -778,7 +778,7 @@
   {
     "Id": 98,
     "Type": "During Libertador",
-    "Name": "Rana Marista",
+    "Name": "Rana Barista",
     "Description": "During Libertador {1+2}",
     "Properties": "Tornado",
     "Comment": "During Libertador {1+2,b-hold} to cancel and face backward"
