@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -59,7 +59,7 @@
     "Id": 8,
     "Type": "Heat Moves",
     "Name": "Ame-no-Habakiri",
-    "Description": "{f,2} (on hit or block) {1+2}",
+    "Description": "{f,2} on hit or block {1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
@@ -74,7 +74,7 @@
   {
     "Id": 10,
     "Type": "Heat Moves",
-    "Name": "Zuiun Renkyayaku",
+    "Name": "Zuiun Renkyaku",
     "Description": "During Izumo ({u,2}, etc.) {3}",
     "Properties": "Heat Engager",
     "Comment": ""
@@ -98,7 +98,7 @@
   {
     "Id": 13,
     "Type": "Heat Moves",
-    "Name": "Yomotsu Miharshira",
+    "Name": "Yomotsu Mihashira",
     "Description": "During Heat and Genjitsu {2+3}",
     "Properties": "",
     "Comment": "Heat Smash"
@@ -108,7 +108,7 @@
     "Type": "Rage Moves",
     "Name": "Amatsu Izanami",
     "Description": "During Rage {df,1+2}",
-    "Properties": "",
+    "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit"
   },
   {
@@ -132,7 +132,7 @@
     "Type": "Normal Moves",
     "Name": "Spear Step > Izumo Strike",
     "Description": "{1,2,2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Shift to Izumo"
   },
   {
@@ -260,7 +260,7 @@
     "Type": "Normal Moves",
     "Name": "Kanbashira > Izumo Strike",
     "Description": "{f,3,2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep, shift to Izumo"
   },
   {
@@ -268,7 +268,7 @@
     "Type": "Normal Moves",
     "Name": "Double Kanbashira",
     "Description": "{f,3,4}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep"
   },
   {
@@ -276,7 +276,7 @@
     "Type": "Normal Moves",
     "Name": "Gentsukankyaku",
     "Description": "{f,4}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -340,7 +340,7 @@
     "Type": "Normal Moves",
     "Name": "Kazakiri",
     "Description": "{df,3}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -348,7 +348,7 @@
     "Type": "Normal Moves",
     "Name": "Katabami",
     "Description": "{df,4}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -388,7 +388,7 @@
     "Type": "Normal Moves",
     "Name": "Kamudo-no-Tsurugi",
     "Description": "{d,1+2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -468,7 +468,7 @@
     "Type": "Normal Moves",
     "Name": "Ryuen Saika Renken",
     "Description": "{b,2,1,2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -500,7 +500,7 @@
     "Type": "Normal Moves",
     "Name": "Ryuusha Renken",
     "Description": "{b,3,2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -548,7 +548,7 @@
     "Type": "Normal Moves",
     "Name": "Izumo Strike",
     "Description": "{u,2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Or {ub,2}, shift to Izumo"
   },
   {
@@ -572,7 +572,7 @@
     "Type": "Normal Moves",
     "Name": "Totsuka-no-Tsurugi",
     "Description": "{uf,2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -588,7 +588,7 @@
     "Type": "Normal Moves",
     "Name": "Housenka - Misogi",
     "Description": "{uf,4,3}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "On hit shift to Miare, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -604,7 +604,7 @@
     "Type": "Normal Moves",
     "Name": "Suiei Ura Saika",
     "Description": "{f,f-hold,2,2}",
-    "Properties": "",
+    "Properties": "Tornado",
     "Comment": "{f,f-hold,2,f-hold} to shift to Genjitsu, {f,f-hold,f,2,b-hold} to shift to Maire"
   },
   {
@@ -620,7 +620,7 @@
     "Type": "Normal Moves",
     "Name": "Yukimiguruma",
     "Description": "{f,f-hold,3,3+4}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Chip damage on block"
   },
   {
@@ -660,7 +660,7 @@
     "Type": "Moves While Crouching",
     "Name": "Tenkan Saika Renken",
     "Description": "While rising {1,1,2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare, chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -722,9 +722,9 @@
   {
     "Id": 91,
     "Type": "Moves While Crouching",
-    "Name": "Flowering Moon Scent",
+    "Name": "Flowing Moon Scent",
     "Description": "While rising {3+4}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -772,7 +772,7 @@
     "Type": "Moves during Sidestep",
     "Name": "Kasanegasumi",
     "Description": "During sidestep {2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -788,7 +788,7 @@
     "Type": "Moves during Sidestep",
     "Name": "Sankouchou",
     "Description": "During sidestep {1+2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -804,7 +804,7 @@
     "Type": "Moves during Izumo",
     "Name": "Haraede Kannagi",
     "Description": "During Izumo {1,1}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -820,7 +820,7 @@
     "Type": "Moves during Izumo",
     "Name": "Setsurinbu - Misogi",
     "Description": "During Izumo {2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -852,7 +852,7 @@
     "Type": "Moves during Izumo",
     "Name": "Dianthus Garden",
     "Description": "During Izumo {f,1+2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -892,7 +892,7 @@
     "Type": "Moves during Genjitsu",
     "Name": "Nichiun",
     "Description": "During Genjitsu {4}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -908,7 +908,7 @@
     "Type": "Moves during Miare",
     "Name": "Ame-no-Sakahoko",
     "Description": "During Miare {1}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
   },
   {
@@ -924,7 +924,7 @@
     "Type": "Moves during Miare",
     "Name": "Izumo Strike",
     "Description": "During Miare {1+2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Shift to Izumo"
   },
   {
@@ -940,7 +940,7 @@
     "Type": "Throws",
     "Name": "Shiho Nage",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -948,7 +948,7 @@
     "Type": "Throws",
     "Name": "Katanuki",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -1028,7 +1028,7 @@
     "Type": "Attack Reversal",
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
