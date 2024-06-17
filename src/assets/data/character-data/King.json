@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -76,7 +76,7 @@
     "Type": "Heat Moves",
     "Name": "Rapid King Onslaught",
     "Description": "During Jaguar Sprint ({f,3+4}, etc.) {1+3} (or {2+4})",
-    "Properties": "Heat Engager",
+    "Properties": "Heat Engager, Homing",
     "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
   },
   {
@@ -100,7 +100,7 @@
     "Type": "Rage Moves",
     "Name": "Anger Of The Beast",
     "Description": "During Rage {df,1+2}",
-    "Properties": "",
+    "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit"
   },
   {
@@ -116,7 +116,7 @@
     "Type": "Normal Moves",
     "Name": "Palm Strike > Head Jammer",
     "Description": "{1,2,2+4}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Throw escape {2}"
   },
   {
@@ -140,7 +140,7 @@
     "Type": "Normal Moves",
     "Name": "Palm Strike Uppercut > Suplex",
     "Description": "{1,2,1,2+4}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": "Throw escape {2}"
   },
   {
@@ -172,7 +172,7 @@
     "Type": "Normal Moves",
     "Name": "Brutal Sting",
     "Description": "{1+2,3}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -220,7 +220,7 @@
     "Type": "Normal Moves",
     "Name": "Rolling Sobat",
     "Description": "{f,4}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -324,7 +324,7 @@
     "Type": "Normal Moves",
     "Name": "Atlas' Hammer",
     "Description": "{d,1+2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -404,7 +404,7 @@
     "Type": "Normal Moves",
     "Name": "Quick Hook > Uppercut",
     "Description": "{b,1,2}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -444,7 +444,7 @@
     "Type": "Normal Moves",
     "Name": "Toll Kick",
     "Description": "{b,3}",
-    "Properties": "Tornado Move, Power Crush",
+    "Properties": "Tornado, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block"
   },
   {
@@ -492,7 +492,7 @@
     "Type": "Normal Moves",
     "Name": "Water Parting Chop",
     "Description": "{uf,1}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Or {ub,1} or {u,1}"
   },
   {
@@ -524,7 +524,7 @@
     "Type": "Normal Moves",
     "Name": "Sole Crusher",
     "Description": "{uf,3+4}",
-    "Properties": "Tornado Move, Power Crush",
+    "Properties": "Tornado, Power Crush",
     "Comment": "Shift to Jaguar Sprint on hit, {uf,3+4,b-hold} to stand up, absorb an attack to power up and add chip damage"
   },
   {
@@ -564,7 +564,7 @@
     "Type": "Normal Moves",
     "Name": "Jaguar Hook",
     "Description": "{f,f-hold,1}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -580,7 +580,7 @@
     "Type": "Normal Moves",
     "Name": "Konvict Kick",
     "Description": "{f,f-hold,4}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -676,7 +676,7 @@
     "Type": "Moves While Crouching",
     "Name": "Round Trip Chop",
     "Description": "While rising {2,2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -740,14 +740,14 @@
     "Type": "Moves While Facing Backward",
     "Name": "Blind Kick",
     "Description": "Back facing opponent {3}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
     "Id": 94,
     "Type": "Moves While Facing Backward",
     "Name": "Blind Kick > Neck Breaker",
-    "Description": "Back facing opponent {3}, during close range hit on ground {1+2}",
+    "Description": "Back facing opponent {3} on front hit on ground {1+2}",
     "Properties": "",
     "Comment": ""
   },
@@ -852,7 +852,7 @@
     "Type": "Moves during Jaguar Sprint",
     "Name": "Sprint K.",
     "Description": "During Jaguar Sprint {3}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -868,7 +868,7 @@
     "Type": "Moves during Jaguar Sprint",
     "Name": "Rapid King Onslaught",
     "Description": "During Jaguar Sprint {1+3} (or {2+4})",
-    "Properties": "Heat Engager",
+    "Properties": "Heat Engager, Homing",
     "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
   },
   {
@@ -884,7 +884,7 @@
     "Type": "Throws",
     "Name": "Winding Nut",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -892,7 +892,7 @@
     "Type": "Throws",
     "Name": "Winding Nut",
     "Description": "Approach opponent {f,1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -900,7 +900,7 @@
     "Type": "Throws",
     "Name": "Suplex",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -908,7 +908,7 @@
     "Type": "Throws",
     "Name": "Suplex",
     "Description": "Approach opponent {f,2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -972,7 +972,7 @@
     "Type": "Throws",
     "Name": "Throw Away",
     "Description": "Approach opponent {b,1+2}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1+2}, shift to Jaguar Sprint, approach opponent {b,1+2,f,f-hold} to shift to standing state"
   },
   {
@@ -980,7 +980,7 @@
     "Type": "Throws",
     "Name": "Throw Away > Back Swing",
     "Description": "Approach opponent {b,1+2,1+2}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Cannot throw escape, shift to Jaguar Sprint, approach opponent {b,1+2,1+2,f,f-hold} to shift to standing state"
   },
   {
@@ -1179,7 +1179,7 @@
     "Id": 148,
     "Type": "Throws",
     "Name": "Half Boston Crab",
-    "Description": "(Opponent down and facing up) by opponent's feet {db,1+3} (or {db,2+4})",
+    "Description": "(Opponent down and facing down) by opponent's feet {db,1+3} (or {db,2+4})",
     "Properties": "",
     "Comment": "Throw escape {1} or {2}"
   },
@@ -1187,7 +1187,7 @@
     "Id": 149,
     "Type": "Throws",
     "Name": "Wing Tearer",
-    "Description": "(Opponent down and facing up) by opponent's head {db,1+3} (or {db,2+4})",
+    "Description": "(Opponent down and facing down) by opponent's head {db,1+3} (or {db,2+4})",
     "Properties": "",
     "Comment": "Throw escape {1} or {2}"
   },
@@ -1212,7 +1212,7 @@
     "Type": "Throws",
     "Name": "Mid-Air Leg Cross Hold",
     "Description": "Approach airborne opponent {1+3} (or {f,1+3})",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Cannot throw escape"
   },
   {
@@ -1220,7 +1220,7 @@
     "Type": "Throws",
     "Name": "Spine Cracker",
     "Description": "Approach airborne opponent {2+4} (or {f,2+4})",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado, Homing",
     "Comment": "Or (during opponent wall stun) {3+4,1+4} (or {3+4,2+3}), cannot throw escape"
   },
   {
@@ -1300,7 +1300,7 @@
     "Type": "Attack Reversal",
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
-    "Properties": "Tornado Move",
+    "Properties": "Tornado",
     "Comment": ""
   },
   {
@@ -1308,7 +1308,7 @@
     "Type": "Reverse Arm Slam Combo",
     "Name": "Reverse Arm Slam",
     "Description": "Approach opponent {df,1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1}"
   },
   {
@@ -1356,7 +1356,7 @@
     "Type": "Reverse Special Stretch Bomb Combo",
     "Name": "Reverse Special Stretch Bomb",
     "Description": "Approach opponent {df,2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {2}"
   },
   {
@@ -1364,7 +1364,7 @@
     "Type": "Reverse Special Stretch Bomb Combo",
     "Name": "Reverse Special Stretch Bomb",
     "Description": "During sidestep {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {2}, during sidestep {2+4,b-hold} (or {db-hold}) to cancel into crouch; changes to Cannonball Buster when grabbed from the side or back"
   },
   {
@@ -1443,7 +1443,7 @@
     "Id": 181,
     "Type": "Standing Heel Hold Combo",
     "Name": "King's Bridge",
-    "Description": "During Standing Heel Hold {3,4,1+2,3+4}",
+    "Description": "During Indian Death Lock {3,4,1+2,3+4}",
     "Properties": "",
     "Comment": "Cannot throw escape"
   },
@@ -1508,7 +1508,7 @@
     "Type": "Mexican Magma Drive",
     "Name": "Cobra Clutch",
     "Description": "Approach opponent during Jaguar Step {1+4} (or {2+3})",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -1531,7 +1531,7 @@
     "Id": 192,
     "Type": "Mexican Magma Drive",
     "Name": "Reverse Special Stretch Bomb",
-    "Description": "During Reverse DDT {1+2,1,1+3} (or {1+2,2,3+4})",
+    "Description": "During Reverse DDT {1+2,1,1+3} (or {1+2,2,2+4})",
     "Properties": "",
     "Comment": "Throw escape {1} or {2}"
   },
