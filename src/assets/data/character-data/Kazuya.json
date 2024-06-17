@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -68,7 +68,7 @@
     "Type": "Heat Moves",
     "Name": "Flash Tornado",
     "Description": "{b,4}",
-    "Properties": "Heat Engager, Homing Attack",
+    "Properties": "Heat Engager, Homing",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
   },
   {
@@ -187,7 +187,7 @@
     "Id": 24,
     "Type": "Normal Moves",
     "Name": "Oni Front Kick",
-    "Description": "{f,2}",
+    "Description": "{f,3}",
     "Properties": "",
     "Comment": ""
   },
@@ -218,7 +218,7 @@
   {
     "Id": 28,
     "Type": "Normal Moves",
-    "Name": "Slaughter High Kick",
+    "Name": "Slaughter Uppercut",
     "Description": "{df,1,df-hold,2}",
     "Properties": "Tornado",
     "Comment": ""
@@ -226,7 +226,7 @@
   {
     "Id": 29,
     "Type": "Normal Moves",
-    "Name": "Abolishing Fist",
+    "Name": "Slaughter High Kick",
     "Description": "{df,1,4}",
     "Properties": "",
     "Comment": ""
@@ -234,15 +234,15 @@
   {
     "Id": 30,
     "Type": "Normal Moves",
-    "Name": "Impaling Knee Twin Thrust",
+    "Name": "Abolishing Fist",
     "Description": "{df,2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
     "Id": 31,
     "Type": "Normal Moves",
-    "Name": "Impaling Knee Twin Skewer",
+    "Name": "Impaling Knee Twin Thrust",
     "Description": "{df,3,2,1}",
     "Properties": "Tornado",
     "Comment": ""
@@ -250,7 +250,7 @@
   {
     "Id": 32,
     "Type": "Normal Moves",
-    "Name": "Tsunami Kick",
+    "Name": "Impaling Knee Twin Skewer",
     "Description": "{df,3,2,1} hold",
     "Properties": "Tornado",
     "Comment": "Chip damage on block"
@@ -258,7 +258,7 @@
   {
     "Id": 33,
     "Type": "Normal Moves",
-    "Name": "Kyogeki",
+    "Name": "Tsunami Kick",
     "Description": "{df,4,4}",
     "Properties": "",
     "Comment": ""
@@ -266,7 +266,7 @@
   {
     "Id": 34,
     "Type": "Normal Moves",
-    "Name": "Kyogeki goutsuiken",
+    "Name": "Kyogeki Goutsuiken",
     "Description": "{df,3+4,1,2}",
     "Properties": "",
     "Comment": "Chip damage on block"
@@ -354,9 +354,9 @@
   {
     "Id": 45,
     "Type": "Normal Moves",
-    "Name": "Flash of Tornado",
+    "Name": "Flash Tornado",
     "Description": "{b,4}",
-    "Properties": "Heat Engager, Homing Attack",
+    "Properties": "Heat Engager, Homing",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
   },
   {
@@ -499,7 +499,7 @@
     "Id": 63,
     "Type": "Moves during Wind God Step",
     "Name": "Electric Wind God Fist",
-    "Description": "{f,n,d,df,2} ({df+2} press simultaneously)",
+    "Description": "{f,n,d,df,2} ({df}+{2} press simultaneously)",
     "Properties": "",
     "Comment": "Chip damage on block"
   },
@@ -548,7 +548,7 @@
     "Type": "Moves While Crouching",
     "Name": "Demon God Fist",
     "Description": "While rising {2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -556,7 +556,7 @@
     "Type": "Moves While Crouching",
     "Name": "Engetsusen",
     "Description": "While rising {3}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -692,7 +692,7 @@
     "Type": "Throws",
     "Name": "Double High Sweep",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -700,7 +700,7 @@
     "Type": "Throws",
     "Name": "Lightning Crash",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
