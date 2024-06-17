@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -316,7 +316,7 @@
     "Type": "Normal Moves",
     "Name": "Reaper Kick",
     "Description": "{df,3+4}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -402,7 +402,7 @@
   {
     "Id": 51,
     "Type": "Normal Moves",
-    "Name": "Pommel FLing",
+    "Name": "Pommel Fling",
     "Description": "{b,1,2}",
     "Properties": "Tornado",
     "Comment": ""
@@ -420,7 +420,7 @@
     "Type": "Normal Moves",
     "Name": "Serrated Edge",
     "Description": "{b,3}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -532,15 +532,15 @@
     "Type": "Normal Moves",
     "Name": "Feint & Catch",
     "Description": "{f,f-hold,2,1+2}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1+2} (cannot throw escape during Heat), {f,f-hold,2,1+2,b-hold} to cancel, partially uses remaining Heat time"
   },
   {
     "Id": 68,
     "Type": "Normal Moves",
-    "Name": "Stringer Kick",
+    "Name": "Stinger Kick",
     "Description": "{f,f-hold,3}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Chip damage on block"
   },
   {
@@ -804,7 +804,7 @@
     "Type": "Throws",
     "Name": "Volk Clutch",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -812,7 +812,7 @@
     "Type": "Throws",
     "Name": "Purge Slam",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
