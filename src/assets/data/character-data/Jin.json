@@ -11,7 +11,7 @@
     "Id": 2,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
+    "Description": "Heat Dash",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "Type": "Heat System",
     "Name": "What can be done during Heat (general)",
-    "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
+    "Description": "Heat Smash",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})"
   },
@@ -683,7 +683,7 @@
     "Id": 86,
     "Type": "Moves during Breaking Step",
     "Name": "Electric Thrusting Uppercut",
-    "Description": "{f,n,d,df,1} ({df+1} press simultaneously)",
+    "Description": "{f,n,d,df,1} ({df}+{1} press simultaneously)",
     "Properties": "Tornado",
     "Comment": "Chip damage on block"
   },
@@ -699,7 +699,7 @@
     "Id": 88,
     "Type": "Moves during Breaking Step",
     "Name": "Electric Wind Hook Fist",
-    "Description": "{f,n,d,df,2} ({df+2} press simultaneously)",
+    "Description": "{f,n,d,df,2} ({df}+{2} press simultaneously)",
     "Properties": "",
     "Comment": "Chip damage on block"
   },
@@ -762,7 +762,7 @@
   {
     "Id": 96,
     "Type": "Moves during Zanshin",
-    "Name": "Low > Karmic Epicenter",
+    "Name": "Low Chop > Karmic Epicenter",
     "Description": "During Zanshin {1+2}",
     "Properties": "",
     "Comment": "Or during Zenshin {1+2}, on front hit to standing or crouching opponent shift to throw"
