@@ -162,7 +162,7 @@
   {
     "Id": 21,
     "Type": "Normal Moves",
-    "Name": "Porrima Blidning Sands",
+    "Name": "Porrima Blinding Sands",
     "Description": "{2,3}",
     "Properties": "",
     "Comment": "{2,3,df-hold} to shift to Stealth Step"
@@ -226,7 +226,7 @@
   {
     "Id": 29,
     "Type": "Normal Moves",
-    "Name": "Piercing Talong",
+    "Name": "Piercing Talon",
     "Description": "{f,4}",
     "Properties": "Homing",
     "Comment": "Chip damage on block"
@@ -306,7 +306,7 @@
   {
     "Id": 39,
     "Type": "Normal Moves",
-    "Name": "Rapid Strike",
+    "Name": "Rapid Strikes",
     "Description": "{db,2,1}",
     "Properties": "Heat Engager",
     "Comment": "{db,2,df-hold} to shift to Stealth Step"
@@ -587,7 +587,7 @@
     "Id": 74,
     "Type": "Moves during Stealth Step",
     "Name": "Al-Sayf",
-    "Description": "During Stealth Step 1+2}",
+    "Description": "During Stealth Step {1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block"
   },
