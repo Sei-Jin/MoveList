@@ -58,7 +58,7 @@
   {
     "Id": 8,
     "Type": "Heat Moves",
-    "Name": "Lao Wng Xuan Feng Jiao",
+    "Name": "Lao Weng Xuan Feng Jiao",
     "Description": "{f,4,4}",
     "Properties": "Heat Engager",
     "Comment": ""
@@ -577,7 +577,7 @@
   },
   {
     "Id": 73,
-    "Type": "Moves During Sidestep",
+    "Type": "Moves during Sidestep",
     "Name": "Lone Dragon Slice",
     "Description": "During sidestep {4}",
     "Properties": "",
