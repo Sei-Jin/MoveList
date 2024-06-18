@@ -314,7 +314,7 @@
   {
     "Id": 40,
     "Type": "Normal Moves",
-    "Name": "Left-Uppercut",
+    "Name": "Left Uppercut",
     "Description": "{df,1}",
     "Properties": "",
     "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
@@ -474,7 +474,7 @@
   {
     "Id": 60,
     "Type": "Normal Moves",
-    "Name": "Swindler Outfox",
+    "Name": "Outfox",
     "Description": "{ub,3}",
     "Properties": "",
     "Comment": "Shift to Lion Heart"
@@ -666,7 +666,7 @@
   {
     "Id": 84,
     "Type": "During Ducking Left",
-    "Name": "Right Shoulder Rush > Billy Climb",
+    "Name": "Right Shoulder Rush > Billy Club",
     "Description": "During Ducking Left {2,1}",
     "Properties": "",
     "Comment": "During Ducking Left {2,f-hold} to shift to Peakaboo"
@@ -1010,7 +1010,7 @@
   {
     "Id": 127,
     "Type": "During Flicker Stance",
-    "Name": "Powerful Hook Combo",
+    "Name": "Power Hook Combo",
     "Description": "During Flicker Stance {1,d,1}",
     "Properties": "",
     "Comment": "Or during Flicker Stance {1,u,1}"
