@@ -258,7 +258,7 @@
   {
     "Id": 33,
     "Type": "Normal Moves",
-    "Name": "Sousoku REngeki",
+    "Name": "Sousoku Rengeki",
     "Description": "{f,2,3}",
     "Properties": "",
     "Comment": "{f,2,3,f-hold} to shift to Sentai, {f,2,d} or {u} to shift to Unsoku Kou"
@@ -731,7 +731,7 @@
     "Id": 92,
     "Type": "Moves during Wind God Step",
     "Name": "Electric Wind God Fist",
-    "Description": "{f,n,d,df,2} ({df+2} press simultaneously)",
+    "Description": "{f,n,d,df,2} ({df}+{2} press simultaneously)",
     "Properties": "",
     "Comment": "Chip damage on block"
   },
@@ -747,7 +747,7 @@
     "Id": 94,
     "Type": "Moves during Wind God Step",
     "Name": "Electric War God Kick",
-    "Description": "{f,n,d,df,3} ({df+3} press simultaneously)",
+    "Description": "{f,n,d,df,3} ({df}+{3} press simultaneously)",
     "Properties": "",
     "Comment": "Chip damage on block"
   },
