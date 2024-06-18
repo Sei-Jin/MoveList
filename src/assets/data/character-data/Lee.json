@@ -99,7 +99,7 @@
     "Id": 13,
     "Type": "Rage Moves",
     "Name": "The Marvelous Rose",
-    "Description": "During Rage df,1+2",
+    "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Or during Rage and Hitman {df,1+2}, Rage Art, erases opponent's recoverable health on hit"
   },
@@ -203,7 +203,7 @@
     "Id": 26,
     "Type": "Normal Moves",
     "Name": "Spin Kick Somersault Combo",
-    "Description": "{4,3,4]",
+    "Description": "{4,3,4}",
     "Properties": "Tornado",
     "Comment": ""
   },
@@ -227,14 +227,14 @@
     "Id": 29,
     "Type": "Normal Moves",
     "Name": "Lee Somersault",
-    "Description": "{4,d,3}",
+    "Description": "{4,u,3}",
     "Properties": "",
     "Comment": "{4,u,3,f-hold} to shift to Mist Step"
   },
   {
     "Id": 30,
     "Type": "Normal Moves",
-    "Name": "Piroutte Punch",
+    "Name": "Pirouette Punch",
     "Description": "{1+2}",
     "Properties": "Homing",
     "Comment": "{1+2,3+4} to shift to Hitman"
@@ -699,7 +699,7 @@
     "Id": 88,
     "Type": "Moves While Crouching",
     "Name": "Friction Spear Cardinal",
-    "Description": "While crouching {df,d,df,3} ({df+3} press simultaneously)",
+    "Description": "While crouching {df,d,df,3} ({df}+{3} press simultaneously)",
     "Properties": "",
     "Comment": "Or while crouching {df,d,df,3} (quick input), Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat)"
   },
