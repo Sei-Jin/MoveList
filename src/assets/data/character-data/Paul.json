@@ -371,7 +371,7 @@
     "Id": 47,
     "Type": "Normal Moves",
     "Name": "Wrecking Ball",
-    "Description": "{ub,2]",
+    "Description": "{ub,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -483,7 +483,7 @@
     "Id": 61,
     "Type": "Normal Moves",
     "Name": "Burning Spear",
-    "Description": "{b,d,1}",
+    "Description": "{b,f,1}",
     "Properties": "",
     "Comment": ""
   },
@@ -523,7 +523,7 @@
     "Id": 66,
     "Type": "Moves While Crouching",
     "Name": "Enfolding Dragon",
-    "Description": "While rising",
+    "Description": "While rising {1,2}",
     "Properties": "",
     "Comment": "While rising {1,2,b-hold} to shift to Sway"
   },
@@ -531,7 +531,7 @@
     "Id": 67,
     "Type": "Moves While Crouching",
     "Name": "Thunder Palm",
-    "Description": "While rising",
+    "Description": "While rising {2}",
     "Properties": "",
     "Comment": ""
   },
@@ -539,7 +539,7 @@
     "Id": 68,
     "Type": "Moves While Crouching",
     "Name": "Shioh",
-    "Description": "While rising",
+    "Description": "While rising {3,2}",
     "Properties": "",
     "Comment": ""
   },
@@ -547,7 +547,7 @@
     "Id": 69,
     "Type": "Moves While Crouching",
     "Name": "Toe Smash",
-    "Description": "While rising",
+    "Description": "While rising {4}",
     "Properties": "",
     "Comment": ""
   },
@@ -555,7 +555,7 @@
     "Id": 70,
     "Type": "Moves While Crouching",
     "Name": "Somersault Kick Warm-Up Moves",
-    "Description": "While crouching {d*} hold",
+    "Description": "While crouching {d-hold} hold",
     "Properties": "",
     "Comment": ""
   },
