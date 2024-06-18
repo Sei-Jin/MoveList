@@ -27,7 +27,7 @@
     "Id": 4,
     "Type": "Heat System",
     "Name": "What can be done during Heat (unique)",
-    "Description": "Additional folow up attack triggered when attack using doppelganger is block",
+    "Description": "Additional follow up attack triggered when attack using doppelganger is blocked",
     "Properties": "",
     "Comment": "{df,1} on hit or block {4}, while rising {3} on hit or block {2}, etc."
   },
@@ -100,7 +100,7 @@
     "Type": "Heat Moves",
     "Name": "Typhon Fang Phantom",
     "Description": "During Heat {f,f,f-hold,3} on hit or block {4}",
-    "Properties": "Power Crush",
+    "Properties": "Tornado",
     "Comment": "Partially uses remaining Heat time"
   },
   {
@@ -130,7 +130,7 @@
   {
     "Id": 17,
     "Type": "Normal Moves",
-    "Name": "Left Right Combo > Back Hole",
+    "Name": "Left Right Combo > Black Hole",
     "Description": "{1,2,4}",
     "Properties": "Tornado",
     "Comment": "{1,2,3+4} (or {1,2,d-hold} to shift to Soulzone"
