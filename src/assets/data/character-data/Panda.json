@@ -891,7 +891,7 @@
     "Id": 112,
     "Type": "Throws",
     "Name": "Bear Toss",
-    "Description": "During Hunting f,1+2",
+    "Description": "During Hunting {f,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Cannot throw escape"
   },
