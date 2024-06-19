@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { MoveInputParserService } from './move-input-parser.service';
+import { MoveSequenceParserService } from './move-sequence-parser.service';
 
 describe('MoveInputParserService', () => {
-  let service: MoveInputParserService;
+  let service: MoveSequenceParserService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(MoveInputParserService);
+    service = TestBed.inject(MoveSequenceParserService);
   });
 
   it('should be created', () => {

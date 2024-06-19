@@ -723,7 +723,7 @@
     "Id": 91,
     "Type": "During Slither Step",
     "Name": "Slither Step",
-    "Description": "{d,df,f }",
+    "Description": "{d,df,f}",
     "Properties": "",
     "Comment": "{d,df-hold} to shift to crouching state"
   },

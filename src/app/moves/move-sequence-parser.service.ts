@@ -1,12 +1,11 @@
 import { Injectable } from '@angular/core';
 
+import { MoveSequence } from "./move-sequence";
 
 @Injectable({
   providedIn: 'root'
 })
-
-
-export class MoveInputParserService {
+export class MoveSequenceParserService {
 
 
   /**
@@ -14,8 +13,11 @@ export class MoveInputParserService {
    *
    * @param moveSequence a string of inputs, separated by commas.
    */
-  getInputValues(moveSequence: string): string[] {
-    return moveSequence.split(',');
+  getInputValues(moveSequence: string): MoveSequence[] {
+    return moveSequence.split(',').map((value, index) => ({
+      id: index,
+      value: value,
+    }));
   }
 
 

@@ -17,15 +17,15 @@
       <div matListItemLine class="mat-list-item-line">
         {{ parseDescription(move.Description) }}
 
-        @for (part of parsedDescription; track part.text)
+        @for (part of parsedDescription; track part.id)
         {
           @if (part.moveSequence)
           {
             {{ parseMoveSequence(part.text) }}
 
-            @for (input of moveSequence; track input)
+            @for (input of moveSequence; track input.id)
             {
-              <mat-icon svgIcon={{input}} class="move-icon"></mat-icon>
+              <mat-icon svgIcon={{input.value}} class="move-icon"></mat-icon>
             }
           }
           @else

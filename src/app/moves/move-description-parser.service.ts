@@ -18,17 +18,18 @@ export class MoveDescriptionParserService {
   {
     const parts: ParsedDescription[] = [];
     const regex = /{([^}]+)}|([^{}]+)/g;
-
     let match;
+    let id = 0;
+
     while (match = regex.exec(input))
     {
       if (match[1] !== undefined)
       {
-        parts.push({ text: match[1], moveSequence: true });
+        parts.push({ id: id++, text: match[1], moveSequence: true });
       }
       else if (match[2] !== undefined)
       {
-        parts.push({ text: match[2], moveSequence: false });
+        parts.push({ id: id++, text: match[2], moveSequence: false });
       }
     }
 

@@ -1,4 +1,5 @@
 export interface ParsedDescription {
-  "text": string,
-  "moveSequence": boolean
+  id: number,
+  text: string,
+  moveSequence: boolean
 }

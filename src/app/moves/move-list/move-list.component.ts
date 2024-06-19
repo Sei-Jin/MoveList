@@ -6,11 +6,12 @@ import { ActivatedRoute, Router } from "@angular/router";
 
 import { MoveDataService } from "../move-data.service";
 import { MoveDescriptionParserService } from "../move-description-parser.service";
-import { MoveInputParserService } from "../move-input-parser.service";
+import { MoveSequenceParserService } from "../move-sequence-parser.service";
 
 import { MoveData } from "../move-data";
 import { ParsedDescription } from "../parsed-description";
 import { MovePropertiesParserService } from "../move-properties-parser.service";
+import { MoveSequence } from "../move-sequence";
 
 
 @Component({
@@ -33,7 +34,7 @@ export class MoveListComponent {
     private activatedRoute: ActivatedRoute,
 
     private moveDescriptionParserService: MoveDescriptionParserService,
-    private moveInputParserService: MoveInputParserService,
+    private moveSequenceParserService: MoveSequenceParserService,
     private movePropertiesParserService: MovePropertiesParserService
   ) {}
 
@@ -63,17 +64,17 @@ export class MoveListComponent {
   }
 
 
-  parsedDescription: ParsedDescription[] = [{ text: "", moveSequence: false }];
+  parsedDescription: ParsedDescription[] = [];
 
   parseDescription(type: string) {
     this.parsedDescription = this.moveDescriptionParserService.splitString(type);
   }
 
 
-  moveSequence: string[] = [];
+  moveSequence: MoveSequence[] = [];
 
   parseMoveSequence(type: string) {
-    this.moveSequence = this.moveInputParserService.getInputValues(type);
+    this.moveSequence = this.moveSequenceParserService.getInputValues(type);
   }
 
 
