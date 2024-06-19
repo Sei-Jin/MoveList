@@ -114,7 +114,7 @@
   {
     "Id": 15,
     "Type": "Normal Moves",
-    "Name": "Right Left Combo",
+    "Name": "Left Right Combo",
     "Description": "{1,2}",
     "Properties": "",
     "Comment": ""
@@ -186,7 +186,7 @@
   {
     "Id": 24,
     "Type": "Normal Moves",
-    "Name": "Attimu",
+    "Name": "Ettimu",
     "Description": "{f,2,3,4}",
     "Properties": "",
     "Comment": "{f,2,3} to shift to Scarecrow Stance, {f,2,3,b-hold} to shift to standing state"
@@ -276,7 +276,7 @@
     "Type": "Normal Moves",
     "Name": "Kur",
     "Description": "{df,2+3}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -298,7 +298,7 @@
   {
     "Id": 38,
     "Type": "Normal Moves",
-    "Name": "Earwg Pincer",
+    "Name": "Earwig Pincer",
     "Description": "{d,3}",
     "Properties": "",
     "Comment": "{d,3,d-hold} to shift to Mantis Stance"
@@ -380,7 +380,7 @@
     "Type": "Normal Moves",
     "Name": "Brisingamen Backfist",
     "Description": "{b,2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -402,7 +402,7 @@
   {
     "Id": 51,
     "Type": "Normal Moves",
-    "Name": "Spear of ALu",
+    "Name": "Spear of Alu",
     "Description": "{b,2+3}",
     "Properties": "",
     "Comment": ""
@@ -426,7 +426,7 @@
   {
     "Id": 54,
     "Type": "Normal Moves",
-    "Name": "Rehab",
+    "Name": "Rahab",
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "Or {ub,4} or {u,4}"
@@ -436,7 +436,7 @@
     "Type": "Normal Moves",
     "Name": "Gilgamesh Blast",
     "Description": "{f,f-hold,2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Chip damage on block"
   },
   {
@@ -452,7 +452,7 @@
     "Type": "Normal Moves",
     "Name": "Roundhouse Kick",
     "Description": "{f,f-hold,4}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": ""
   },
   {
@@ -476,7 +476,7 @@
     "Type": "Normal Moves",
     "Name": "Tiamat",
     "Description": "{f,f,f-hold,1+2}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Chip damage on block, shift to Tarantula Stance"
   },
   {
@@ -644,7 +644,7 @@
     "Type": "During Scarecrow Stance",
     "Name": "Double Abzu Abyss",
     "Description": "During Scarecrow Stance {df,3,3}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "During Scarecrow Stance {df,3} to shift to crouching state"
   },
   {
@@ -852,7 +852,7 @@
     "Type": "During Mantis Stance",
     "Name": "Mantis Slash",
     "Description": "During Mantis Stance {df,4}",
-    "Properties": "Homing Attack",
+    "Properties": "Homing",
     "Comment": "Shift to Tarantula Stance"
   },
   {
@@ -884,7 +884,7 @@
     "Type": "Throws",
     "Name": "Diabolos",
     "Description": "Approach opponent {1+3}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}"
   },
   {
@@ -892,7 +892,7 @@
     "Type": "Throws",
     "Name": "Akhazu",
     "Description": "Approach opponent {2+4}",
-    "Properties": "",
+    "Properties": "Homing",
     "Comment": "Throw escape {1} (or {2}), shift to Mantis Stance"
   },
   {
