@@ -1,16 +1,16 @@
-import { Component, inject } from '@angular/core';
+import { Component } from '@angular/core';
+import { ActivatedRoute, Router } from "@angular/router";
 
 import { MatListModule } from "@angular/material/list";
 import { MatIconModule } from "@angular/material/icon";
-import { ActivatedRoute, Router } from "@angular/router";
 
 import { MoveDataService } from "../move-data.service";
 import { MoveDescriptionParserService } from "../move-description-parser.service";
 import { MoveSequenceParserService } from "../move-sequence-parser.service";
+import { MovePropertiesParserService } from "../move-properties-parser.service";
 
 import { MoveData } from "../move-data";
 import { ParsedDescription } from "../parsed-description";
-import { MovePropertiesParserService } from "../move-properties-parser.service";
 import { MoveSequence } from "../move-sequence";
 
 
