@@ -33,7 +33,7 @@
   display: flex;
   flex-direction: column;
   padding-top: 10px;
-  padding-bottom: 14px;
+  padding-bottom: 8px;
 }
 
 .move-name {
@@ -43,14 +43,15 @@
 }
 
 .move-description {
-  padding-top: 6px;
   color: #b352ce;
   font-size: medium;
+  padding-top: 4px;
+  line-height: 1.6;
 }
 
 .move-icon {
   position: relative;
-  padding-top: 4px;
+  top: 3px;
   transform: scale(1.4);
   margin-left: 2px;
   margin-right: 2px;
@@ -86,7 +87,7 @@
   }
 
   .move-name-and-description {
-    padding-right: 8px;
+    padding-right: 10px;
   }
 
   .move-id {
