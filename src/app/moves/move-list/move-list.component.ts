@@ -27,19 +27,23 @@ import { MovePropertiesParserService } from "../move-properties-parser.service";
 
 export class MoveListComponent {
 
-  moves: MoveData[] = [];
-  character: string = "";
-
   constructor(
     private moveDataService: MoveDataService,
     private router: Router,
-    private activatedRoute: ActivatedRoute
+    private activatedRoute: ActivatedRoute,
+
+    private moveDescriptionParserService: MoveDescriptionParserService,
+    private moveInputParserService: MoveInputParserService,
+    private movePropertiesParserService: MovePropertiesParserService
   ) {}
 
   ngOnInit(): void {
     this.getCurrentRoute()
     this.loadCharacterData();
   }
+
+  moves: MoveData[] = [];
+  character: string = "";
 
   getCurrentRoute(): void {
     this.character = this.activatedRoute.snapshot.url[0].path;
@@ -52,15 +56,12 @@ export class MoveListComponent {
   }
 
 
-
   previousType: string = "";
 
   updatePreviousType(type: string) {
     this.previousType = type;
   }
 
-
-  private moveDescriptionParserService = inject(MoveDescriptionParserService);
 
   parsedDescription: ParsedDescription[] = [{ text: "", moveSequence: false }];
 
@@ -69,8 +70,6 @@ export class MoveListComponent {
   }
 
 
-  private moveInputParserService = inject(MoveInputParserService);
-
   moveSequence: string[] = [];
 
   parseMoveSequence(type: string) {
@@ -78,11 +77,9 @@ export class MoveListComponent {
   }
 
 
-  private movePropertiesParserService = inject(MovePropertiesParserService);
-
   moveProperties: string[] = [];
 
   parseMoveProperties(properties: string) {
-    this.moveProperties = this.moveInputParserService.getInputValues(properties);
+    this.moveProperties = this.movePropertiesParserService.getProperties(properties);
   }
 }

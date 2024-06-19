@@ -5,8 +5,6 @@ import { ParsedDescription } from "./parsed-description";
 @Injectable({
   providedIn: 'root'
 })
-
-
 export class MoveDescriptionParserService {
 
 
@@ -36,6 +34,4 @@ export class MoveDescriptionParserService {
 
     return parts;
   }
-
-
 }
