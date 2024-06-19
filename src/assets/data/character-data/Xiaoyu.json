@@ -35,7 +35,7 @@
     "Id": 5,
     "Type": "Heat System",
     "Name": "What can be done during Heat (unique)",
-    "Description": "Bai Yang Yan Di Po and Bai Lian Yan Di Po are available.",
+    "Description": "Bai Yang Yan Di Po and Bai Lian Yan Di Po are available",
     "Properties": "",
     "Comment": "{f,2,1,2}, {f,f-hold,1,2}"
   },
