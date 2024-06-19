@@ -27,7 +27,7 @@
     "Id": 4,
     "Type": "Heat System",
     "Name": "What can be done during Heat (unique)",
-    "Description": "Increased chip damage on block for fast multi-hit attacks such as Chain Punch",
+    "Description": "Increased chip damage on block for fast multi-hit attacks such as Chain Punch, during Heat partially restore remaining Heat time",
     "Properties": "",
     "Comment": "{1,1,1+2}, {1+2,1+2}, {f,3,1+2}, etc."
   },
@@ -570,7 +570,7 @@
   {
     "Id": 72,
     "Type": "Moves While Crouching",
-    "Name": "Reverse Cross Kick",
+    "Name": "",
     "Description": "While crouching {df,4,1}",
     "Properties": "",
     "Comment": ""

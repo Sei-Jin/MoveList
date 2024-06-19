@@ -577,7 +577,7 @@
   },
   {
     "Id": 73,
-    "Type": "Moves During Sidestep",
+    "Type": "Moves during Sidestep",
     "Name": "Salmon Swipe",
     "Description": "During sidestep {1+2}",
     "Properties": "",
@@ -705,7 +705,7 @@
   },
   {
     "Id": 89,
-    "Type": "Moves during Bear Sit",
+    "Type": "During Bear Sit",
     "Name": "Bear Sit",
     "Description": "{d,3+4}, etc.",
     "Properties": "",
@@ -713,7 +713,7 @@
   },
   {
     "Id": 90,
-    "Type": "Moves during Bear Sit",
+    "Type": "During Bear Sit",
     "Name": "Double Trout Sweep",
     "Description": "During Bear Sit {1,1}",
     "Properties": "",
@@ -721,7 +721,7 @@
   },
   {
     "Id": 91,
-    "Type": "Moves during Bear Sit",
+    "Type": "During Bear Sit",
     "Name": "Trout Smash",
     "Description": "During Bear Sit {2}",
     "Properties": "Tornado",
@@ -729,7 +729,7 @@
   },
   {
     "Id": 92,
-    "Type": "Moves during Bear Sit",
+    "Type": "During Bear Sit",
     "Name": "Rebound",
     "Description": "During Bear Sit {3+4}",
     "Properties": "",
@@ -737,7 +737,7 @@
   },
   {
     "Id": 93,
-    "Type": "Moves during Bear Sit",
+    "Type": "During Bear Sit",
     "Name": "Bear Roll",
     "Description": "During Bear Sit {f-hold}",
     "Properties": "",
@@ -745,7 +745,7 @@
   },
   {
     "Id": 94,
-    "Type": "Moves during Bear Roll",
+    "Type": "During Bear Roll",
     "Name": "Bear Roll",
     "Description": "While crouching {1+2}, etc.",
     "Properties": "",
@@ -753,7 +753,7 @@
   },
   {
     "Id": 95,
-    "Type": "Moves during Bear Roll",
+    "Type": "During Bear Roll",
     "Name": "Bear Shove",
     "Description": "During Bear Roll {1}",
     "Properties": "Tornado",
@@ -761,7 +761,7 @@
   },
   {
     "Id": 96,
-    "Type": "Moves during Bear Roll",
+    "Type": "During Bear Roll",
     "Name": "Bear Backhand",
     "Description": "During Bear Roll {2}",
     "Properties": "",
@@ -769,7 +769,7 @@
   },
   {
     "Id": 97,
-    "Type": "Moves during Bear Roll",
+    "Type": "During Bear Roll",
     "Name": "Bear Slide",
     "Description": "During Bear Roll {3}",
     "Properties": "",
@@ -777,7 +777,7 @@
   },
   {
     "Id": 98,
-    "Type": "Moves during Bear Roll",
+    "Type": "During Bear Roll",
     "Name": "Bear Rolling Kick",
     "Description": "During Bear Roll {4}",
     "Properties": "",
@@ -785,7 +785,7 @@
   },
   {
     "Id": 99,
-    "Type": "Moves during Bear Roll",
+    "Type": "During Bear Roll",
     "Name": "Giant Roll",
     "Description": "During Bear Roll {1+2}",
     "Properties": "",
@@ -793,7 +793,7 @@
   },
   {
     "Id": 100,
-    "Type": "Moves during Bear Roll",
+    "Type": "During Bear Roll",
     "Name": "Hunting",
     "Description": "During Bear Roll {d-hold} (or {3+4})",
     "Properties": "",

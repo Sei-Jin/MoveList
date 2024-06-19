@@ -761,7 +761,7 @@
   },
   {
     "Id": 96,
-    "Type": "Moves during Sneak",
+    "Type": "Moves during Lingering Shadow",
     "Name": "Lingering Shadow",
     "Description": "{d,df,f}",
     "Properties": "",
@@ -769,7 +769,7 @@
   },
   {
     "Id": 97,
-    "Type": "Moves during Sneak",
+    "Type": "Moves during Lingering Shadow",
     "Name": "Landslide",
     "Description": "{d,df,f,1}",
     "Properties": "",
@@ -777,7 +777,7 @@
   },
   {
     "Id": 98,
-    "Type": "Moves during Sneak",
+    "Type": "Moves during Lingering Shadow",
     "Name": "Mountain Crusher",
     "Description": "{d,df,f,2}",
     "Properties": "Tornado",
@@ -785,7 +785,7 @@
   },
   {
     "Id": 99,
-    "Type": "Moves during Sneak",
+    "Type": "Moves during Lingering Shadow",
     "Name": "Yan Wang's Wrath",
     "Description": "{d,df,f,1+2}",
     "Properties": "",

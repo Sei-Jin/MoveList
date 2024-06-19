@@ -793,7 +793,7 @@
   },
   {
     "Id": 100,
-    "Type": "Moves during Shadow Sprint",
+    "Type": "During Shadow Sprint",
     "Name": "Shadow Sprint",
     "Description": "{d,df,f}",
     "Properties": "",
@@ -801,7 +801,7 @@
   },
   {
     "Id": 101,
-    "Type": "Moves during Shadow Sprint",
+    "Type": "During Shadow Sprint",
     "Name": "Fatal Elbow > Phantom Halberd",
     "Description": "{d,df,f,1} on hit or block {2}",
     "Properties": "Tornado",
@@ -809,7 +809,7 @@
   },
   {
     "Id": 102,
-    "Type": "Moves during Shadow Sprint",
+    "Type": "During Shadow Sprint",
     "Name": "Buzzsaw",
     "Description": "{d,df,f,2}",
     "Properties": "",
@@ -817,7 +817,7 @@
   },
   {
     "Id": 103,
-    "Type": "Moves during Shadow Sprint",
+    "Type": "During Shadow Sprint",
     "Name": "Laevateinn",
     "Description": "{d,df,f,LB,2,1,RB}",
     "Properties": "",
@@ -825,7 +825,7 @@
   },
   {
     "Id": 104,
-    "Type": "Moves during Shadow Sprint",
+    "Type": "During Shadow Sprint",
     "Name": "Poison Needle > Nightmare",
     "Description": "{d,df,f,3}",
     "Properties": "",
@@ -833,7 +833,7 @@
   },
   {
     "Id": 105,
-    "Type": "Moves during Shadow Sprint",
+    "Type": "During Shadow Sprint",
     "Name": "Black Hole",
     "Description": "{d,df,f,4}",
     "Properties": "Tornado",
@@ -841,7 +841,7 @@
   },
   {
     "Id": 106,
-    "Type": "Moves during Shadow Sprint",
+    "Type": "During Shadow Sprint",
     "Name": "Hellhound",
     "Description": "{d,df,f,1+2}",
     "Properties": "",

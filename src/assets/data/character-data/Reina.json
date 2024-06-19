@@ -833,7 +833,7 @@
   },
   {
     "Id": 105,
-    "Type": "Moves during Unsoku",
+    "Type": "During Unsoku",
     "Name": "Unsoku",
     "Description": "{d,3}, etc.",
     "Properties": "",
@@ -841,7 +841,7 @@
   },
   {
     "Id": 106,
-    "Type": "Moves during Unsoku",
+    "Type": "During Unsoku",
     "Name": "Unpu Tobi-manji",
     "Description": "During Unsoku {4}",
     "Properties": "Heat Engager",
@@ -849,7 +849,7 @@
   },
   {
     "Id": 107,
-    "Type": "Moves during Unsoku",
+    "Type": "During Unsoku",
     "Name": "Sentai",
     "Description": "During Unsoku {f,3}",
     "Properties": "",
@@ -857,7 +857,7 @@
   },
   {
     "Id": 108,
-    "Type": "Moves during Unsoku",
+    "Type": "During Unsoku",
     "Name": "Wind God Step",
     "Description": "During Unsoku {df-hold}",
     "Properties": "",
@@ -945,15 +945,15 @@
   },
   {
     "Id": 119,
-    "Type": "Moves during Wind God Step",
-    "Name": "Wind God Step",
+    "Type": "Moves during Wind Step",
+    "Name": "Wind Step",
     "Description": "{f,n}",
     "Properties": "",
     "Comment": "Punch parry effect"
   },
   {
     "Id": 120,
-    "Type": "Moves during Wind God Step",
+    "Type": "Moves during Wind Step",
     "Name": "Fusenkyaku",
     "Description": "During Wind Step {3}",
     "Properties": "",
@@ -961,7 +961,7 @@
   },
   {
     "Id": 121,
-    "Type": "Moves during Wind God Step",
+    "Type": "Moves during Wind Step",
     "Name": "Wind God Step",
     "Description": "During Wind Step {df-hold}",
     "Properties": "",

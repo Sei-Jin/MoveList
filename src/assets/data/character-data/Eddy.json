@@ -753,7 +753,7 @@
   },
   {
     "Id": 95,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Negativa",
     "Description": "{d,3+4}, etc.",
     "Properties": "",
@@ -761,7 +761,7 @@
   },
   {
     "Id": 96,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Terra Gafanhoto",
     "Description": "During Negativa {1,3}",
     "Properties": "",
@@ -769,7 +769,7 @@
   },
   {
     "Id": 97,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Maré Cheia",
     "Description": "During Negativa {2,4,4}",
     "Properties": "",
@@ -777,7 +777,7 @@
   },
   {
     "Id": 98,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Iemanjá",
     "Description": "During Negativa {3,3}",
     "Properties": "",
@@ -785,7 +785,7 @@
   },
   {
     "Id": 99,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Chibata Ardente",
     "Description": "During Negativa {4,3}",
     "Properties": "Heat Engager",
@@ -793,7 +793,7 @@
   },
   {
     "Id": 100,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Cabeçada Fixa",
     "Description": "During Negativa {1+2}",
     "Properties": "",
@@ -801,7 +801,7 @@
   },
   {
     "Id": 101,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Troca e Ataque",
     "Description": "During Negativa {3+4}",
     "Properties": "Tornado",
@@ -809,7 +809,7 @@
   },
   {
     "Id": 102,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Negativa > Move Forward",
     "Description": "During Negativa {n,f}",
     "Properties": "",
@@ -817,7 +817,7 @@
   },
   {
     "Id": 103,
-    "Type": "Moves during Negative",
+    "Type": "Moves during Negativa",
     "Name": "Negativa > Bananeira",
     "Description": "During Negativa {n,d} (or {n,u}",
     "Properties": "",
@@ -825,7 +825,7 @@
   },
   {
     "Id": 104,
-    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Type": "Move can be used at Mandinga Level 1 or higher",
     "Name": "Yansan Mandinga",
     "Description": "While at Mandiga Level 1, during Bananeira {3+4}",
     "Properties": "",
@@ -833,7 +833,7 @@
   },
   {
     "Id": 105,
-    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Type": "Move can be used at Mandinga Level 1 or higher",
     "Name": "Yansan Mandinga",
     "Description": "While at Mandiga Level 2, during Bananeira {3+4}",
     "Properties": "",
@@ -841,7 +841,7 @@
   },
   {
     "Id": 106,
-    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Type": "Move can be used at Mandinga Level 1 or higher",
     "Name": "Ogum Mandinga",
     "Description": "While at Mandiga Level 1, during Bananeira {b,4}",
     "Properties": "",
@@ -849,7 +849,7 @@
   },
   {
     "Id": 107,
-    "Type": "Moves can be used at Mandinga Level 1 or higher",
+    "Type": "Move can be used at Mandinga Level 1 or higher",
     "Name": "Ogum Mandinga",
     "Description": "While at Mandiga Level 2, during Bananeira {b,4}",
     "Properties": "",
