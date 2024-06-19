@@ -12,7 +12,7 @@
   /* Make the header appear on top of any other components */
   z-index: 100;
 
-  background: linear-gradient(to right, lightskyblue, mediumslateblue);
+  background: #E6E6FA;
 }
 
 .move-list-text
