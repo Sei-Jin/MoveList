@@ -1,10 +1,16 @@
-mat-list-item {
-  height: 84px !important;
+.custom-list-item {
+  height: auto;
+  width: 100%;
   border: 1px solid #ccc;
   margin-top: 10px;
   margin-bottom: 10px;
   box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
-  border-radius: 10px !important;
+  border-radius: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
 }
 
 .mat-subheader {
@@ -13,32 +19,79 @@ mat-list-item {
   color: blueviolet;
 }
 
+.move-id {
+  text-align: center;
+  font-size: x-large;
+  color: dimgray;
+  padding-left: 4px;
+  min-width: 52px;
+  padding-right: 10px;
+}
+
+.move-name-and-description {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  padding-bottom: 14px;
+}
+
+.move-name {
+  padding-top: 8px;
+  font-size: medium;
+  color: black;
+}
+
+.move-description {
+  padding-top: 6px;
+  color: #b352ce;
+  font-size: medium;
+}
+
 .move-icon {
   position: relative;
-  top: 3px;
+  padding-top: 4px;
   transform: scale(1.4);
   margin-left: 2px;
   margin-right: 2px;
 }
 
-.mat-list-item-icon {
-  text-align: center;
-  color: dimgray !important;
+.move-properties-section {
+  width: 10%;
+  height: 100%;
+  margin-bottom: auto;
+  padding-top: 16px;
+  padding-left: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
 }
 
-.mat-list-item-title {
-
-}
-
-.mat-list-item-line {
-  padding-top: 10px;
-  color: #b352ce;
-  font-size: medium;
+.move-properties {
+  display: flex;
+  padding-right: 14px;
 }
 
 .property-icon {
   transform: scale(1.4);
   position: relative;
   margin-left: 8px;
-  margin-top: 16px;
+}
+
+@media screen and (max-width: 600px)
+{
+  .move-properties-section {
+    display: none;
+  }
+
+  .move-name-and-description {
+    padding-right: 8px;
+  }
+
+  .move-id {
+    font-size: large;
+    min-width: 40px;
+    padding-right: 8px;
+  }
 }

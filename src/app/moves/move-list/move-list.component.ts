@@ -12,6 +12,8 @@ import { MovePropertiesParserService } from "../move-properties-parser.service";
 import { MoveData } from "../move-data";
 import { ParsedDescription } from "../parsed-description";
 import { MoveSequence } from "../move-sequence";
+import { MatButton } from "@angular/material/button";
+import { MatRipple } from "@angular/material/core";
 
 
 @Component({
@@ -20,6 +22,8 @@ import { MoveSequence } from "../move-sequence";
   imports: [
     MatListModule,
     MatIconModule,
+    MatButton,
+    MatRipple,
   ],
   templateUrl: './move-list.component.html',
   styleUrl: './move-list.component.css',
