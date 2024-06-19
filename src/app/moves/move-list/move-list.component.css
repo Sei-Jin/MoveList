@@ -43,7 +43,7 @@
 }
 
 .move-description {
-  color: #b352ce;
+  color: #228B22;
   font-size: medium;
   padding-top: 4px;
   line-height: 1.6;
@@ -58,7 +58,7 @@
 }
 
 .move-properties-section {
-  width: 10%;
+  min-width: 48px;
   height: 100%;
   margin-bottom: auto;
   padding-top: 16px;
@@ -78,21 +78,4 @@
   transform: scale(1.4);
   position: relative;
   margin-left: 8px;
-}
-
-@media screen and (max-width: 500px)
-{
-  .move-properties-section {
-    display: none;
-  }
-
-  .move-name-and-description {
-    padding-right: 10px;
-  }
-
-  .move-id {
-    font-size: large;
-    min-width: 40px;
-    padding-right: 8px;
-  }
 }
