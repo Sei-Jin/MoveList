@@ -27,7 +27,7 @@
     "Id": 4,
     "Type": "Heat System",
     "Name": "What can be done during Heat (unique)",
-    "Description": "Monsier Samurai can be used",
+    "Description": "Monsieur Samurai can be used",
     "Properties": "",
     "Comment": "{db,1+2}"
   },
@@ -43,7 +43,7 @@
     "Id": 6,
     "Type": "Heat System",
     "Name": "What can be done during Heat (unique)",
-    "Description": "Some sword moves partially restores remaining Heat time on hit",
+    "Description": "Some sword moves partially restore remaining Heat time on hit",
     "Properties": "",
     "Comment": "{f,1+2}, during Iai Stance {2}, etc."
   },
@@ -154,7 +154,7 @@
   {
     "Id": 20,
     "Type": "Normal Moves",
-    "Name": "Briollete Cut",
+    "Name": "Briolette Cut",
     "Description": "{1,2,1}",
     "Properties": "Tornado",
     "Comment": ""
@@ -330,7 +330,7 @@
   {
     "Id": 42,
     "Type": "Normal Moves",
-    "Name": "Fine ASalute",
+    "Name": "Fine Salute",
     "Description": "{d,4}",
     "Properties": "",
     "Comment": ""
@@ -675,7 +675,7 @@
     "Id": 85,
     "Type": "During Iai Stance",
     "Name": "Longinus",
-    "Description": "During Iai Stance {d,2}",
+    "Description": "During Heat and Iai Stance {d,2}",
     "Properties": "",
     "Comment": "Shift to Iai Stance, partially uses remaining Heat time"
   },
@@ -827,7 +827,7 @@
     "Id": 104,
     "Type": "Throws",
     "Name": "Romancing Chaser",
-    "Description": "Approach opponent {df,1+2}",
+    "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Also possible during Perfumer, throw escape {1+2}"
   },
