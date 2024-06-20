@@ -1,9 +1,36 @@
+.character-move-list {
+  margin: auto;
+}
+
+@media screen and (min-width: 1401px)
+{
+  .character-move-list
+  {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 1400px)
+{
+  .character-move-list
+  {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 800px)
+{
+  .character-move-list
+  {
+    width: 95%;
+  }
+}
+
+
 .custom-list-item {
   height: auto;
-  width: 100%;
   border: 1px solid #ccc;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin: 10px auto;
   box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
 
@@ -13,8 +40,10 @@
   cursor: pointer;
 }
 
-.mat-subheader {
-  padding-top: 60px;
+.move-type-header {
+  margin-top: 56px;
+  margin-left: 14px;
+  margin-bottom: 8px;
   font-size: x-large;
   color: blueviolet;
 }

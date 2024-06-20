@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
-import {NavigationEnd, Router, RouterOutlet} from '@angular/router';
+import { NavigationEnd, Router, RouterOutlet } from '@angular/router';
 
-import { MatSidenavModule } from "@angular/material/sidenav";
+import { MatSidenavModule} from "@angular/material/sidenav";
 import { MatIconModule } from "@angular/material/icon";
 import { MatButtonModule } from "@angular/material/button";
 import { MatToolbarModule } from "@angular/material/toolbar";
@@ -11,7 +11,7 @@ import { SidenavButtonsComponent } from "./navigation/sidenav-buttons/sidenav-bu
 
 import { NavigationIconsService } from "./navigation/navigation-icons.service";
 import { MoveIconsService } from "./moves/move-icons.service";
-import {NgOptimizedImage} from "@angular/common";
+import { NgOptimizedImage } from "@angular/common";
 
 
 @Component({

@@ -1,10 +1,10 @@
-<mat-action-list class="selection-list">
+<div class="character-move-list">
 
   @for (move of moves; track move.Id)
   {
     @if (move.Type != previousType)
     {
-      <div mat-subheader class="mat-subheader"> {{ move.Type }}</div>
+      <div class="move-type-header"> {{ move.Type }}</div>
       <mat-divider></mat-divider>
 
       {{ updatePreviousType(move.Type) }}
@@ -54,4 +54,4 @@
     </div>
   }
 
-</mat-action-list>
+</div>

@@ -31,38 +31,15 @@
 
 .sidenav
 {
-  width: 240px;
+  width: 280px;
   height: auto;
   margin-top: 56px;
+  padding-bottom: 24px;
 }
 
 .page-body
 {
-  padding-top: 80px;
-  margin: auto;
-  padding-bottom: 80px;
-}
-
-@media screen and (min-width: 1401px)
-{
-  .page-body
-  {
-    width: 60%;
-  }
-}
-
-@media screen and (max-width: 1400px)
-{
-  .page-body
-  {
-    width: 80%;
-  }
-}
-
-@media screen and (max-width: 800px)
-{
-  .page-body
-  {
-    width: 95%;
-  }
+  height: calc(100vh - 56px);
+  margin-top: 56px;
+  overflow-y: auto;
 }

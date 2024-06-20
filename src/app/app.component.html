@@ -18,9 +18,9 @@
 
 
 
-<mat-sidenav-container hasBackdrop="false" class="sidenav-container">
+<mat-sidenav-container hasBackdrop="true" class="sidenav-container" >
 
-  <mat-sidenav #sidenav class="sidenav" mode="over" fixedInViewport="true">
+  <mat-sidenav #sidenav class="sidenav" mode="over" fixedInViewport="true" [autoFocus]="false">
     <app-sidenav-buttons></app-sidenav-buttons>
   </mat-sidenav>
 
