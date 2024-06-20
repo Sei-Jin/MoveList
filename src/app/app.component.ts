@@ -41,7 +41,7 @@ export class AppComponent {
   ) {
     this.router.events.subscribe((event) => {
       if (event instanceof NavigationEnd) {
-        this.characterName = event.url.substring(1);
+        this.characterName = event.url.substring(1).replace("%20", " ");
       }
     });
   }
