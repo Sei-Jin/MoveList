@@ -15,9 +15,15 @@
   background: #E6E6FA;
 }
 
-.move-list-text
+.character-header-image
 {
-  margin: auto;
+  margin-left: 10px;
+}
+
+.character-name
+{
+  font-size: x-large;
+  margin-right: auto;
   color: blueviolet;
 }
 
