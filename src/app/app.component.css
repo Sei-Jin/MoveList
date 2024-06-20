@@ -12,7 +12,9 @@
   /* Make the header appear on top of any other components */
   z-index: 100;
 
-  background: #E6E6FA;
+  background: white;
+  border-bottom: 1px solid #ccc;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
 }
 
 .character-header-image
@@ -24,7 +26,7 @@
 {
   font-size: x-large;
   margin-right: auto;
-  color: blueviolet;
+  color: #333333;
 }
 
 .sidenav
