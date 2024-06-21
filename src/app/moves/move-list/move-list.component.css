@@ -1,5 +1,6 @@
 .character-move-list {
   margin: auto;
+  padding-bottom: 128px;
 }
 
 @media screen and (min-width: 1401px)

@@ -14,6 +14,7 @@ import { ParsedDescription } from "../parsed-description";
 import { MoveSequence } from "../move-sequence";
 import { MatButton } from "@angular/material/button";
 import { MatRipple } from "@angular/material/core";
+import {FooterComponent} from "../../footer/footer.component";
 
 
 @Component({
@@ -24,6 +25,7 @@ import { MatRipple } from "@angular/material/core";
     MatIconModule,
     MatButton,
     MatRipple,
+    FooterComponent,
   ],
   templateUrl: './move-list.component.html',
   styleUrl: './move-list.component.css',
