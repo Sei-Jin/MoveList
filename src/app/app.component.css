@@ -20,10 +20,12 @@
 .character-header-image
 {
   margin-left: 10px;
+  mask-image: linear-gradient(to right, transparent, white 30%, white 70%, transparent);
 }
 
 .character-name
 {
+  margin-left: 8px;
   font-size: x-large;
   margin-right: auto;
   color: #333333;
