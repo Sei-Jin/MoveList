@@ -10,7 +10,7 @@
       {{ updatePreviousType(move.Type) }}
     }
 
-    <div class="custom-list-item" matRipple>
+    <div class="custom-list-item" matRipple (click)="openDialog(move)">
 
       <div class="move-id"> {{ move.Id }} </div>
 

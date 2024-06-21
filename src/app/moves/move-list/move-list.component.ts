@@ -14,7 +14,9 @@ import { ParsedDescription } from "../parsed-description";
 import { MoveSequence } from "../move-sequence";
 import { MatButton } from "@angular/material/button";
 import { MatRipple } from "@angular/material/core";
-import {FooterComponent} from "../../footer/footer.component";
+import { FooterComponent } from "../../footer/footer.component";
+import { MatDialog } from "@angular/material/dialog";
+import { MoveInfoComponent } from "../move-info/move-info.component";
 
 
 @Component({
@@ -41,7 +43,9 @@ export class MoveListComponent {
 
     private moveDescriptionParserService: MoveDescriptionParserService,
     private moveSequenceParserService: MoveSequenceParserService,
-    private movePropertiesParserService: MovePropertiesParserService
+    private movePropertiesParserService: MovePropertiesParserService,
+
+    private dialog: MatDialog
   ) {}
 
   ngOnInit(): void {
@@ -88,5 +92,12 @@ export class MoveListComponent {
 
   parseMoveProperties(properties: string) {
     this.moveProperties = this.movePropertiesParserService.getProperties(properties);
+  }
+
+
+  openDialog(move: MoveData) {
+    this.dialog.open(MoveInfoComponent, {
+      data: move
+    });
   }
 }
