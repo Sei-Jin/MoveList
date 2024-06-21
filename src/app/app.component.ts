@@ -33,6 +33,7 @@ import { NgOptimizedImage } from "@angular/common";
 
 
 export class AppComponent {
+  title: string = "Movelist";
 
   constructor(
     private navigationIconsService: NavigationIconsService,
