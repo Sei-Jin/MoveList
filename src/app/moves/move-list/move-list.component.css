@@ -40,6 +40,10 @@
   cursor: pointer;
 }
 
+.custom-list-item:hover {
+  background-color: #f5f5f5;
+}
+
 .move-type-header {
   margin-top: 64px;
   margin-left: 14px;
