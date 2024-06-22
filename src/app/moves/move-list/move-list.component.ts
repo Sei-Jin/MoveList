@@ -54,14 +54,14 @@ export class MoveListComponent {
   }
 
   moves: MoveData[] = [];
-  character: string = "";
+  characterName: string = "";
 
   getCurrentRoute(): void {
-    this.character = this.activatedRoute.snapshot.url[0].path;
+    this.characterName = this.activatedRoute.snapshot.url[0].path;
   }
 
   private loadCharacterData(): void {
-    this.moveDataService.getCharacterData(this.character).subscribe(data => {
+    this.moveDataService.getCharacterData(this.characterName).subscribe(data => {
       this.moves = data;
     });
   }
@@ -97,7 +97,10 @@ export class MoveListComponent {
 
   openDialog(move: MoveData) {
     this.dialog.open(MoveInfoComponent, {
-      data: move
+      data: {
+        move: move,
+        characterName: this.characterName,
+      },
     });
   }
 }

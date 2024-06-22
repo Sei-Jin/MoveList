@@ -5,6 +5,12 @@ import { MAT_DIALOG_DATA, MatDialogModule } from "@angular/material/dialog";
 import { MoveData } from "../move-data";
 
 
+export interface MoveInfo {
+  move: MoveData,
+  characterName: string,
+}
+
+
 @Component({
   selector: 'app-move-info',
   standalone: true,
@@ -16,6 +22,6 @@ import { MoveData } from "../move-data";
 })
 export class MoveInfoComponent {
 
-  constructor(@Inject(MAT_DIALOG_DATA) public move: MoveData) {}
+  constructor(@Inject(MAT_DIALOG_DATA) public data: MoveInfo) {}
 
 }

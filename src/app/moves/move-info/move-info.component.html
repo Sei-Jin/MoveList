@@ -1,7 +1,7 @@
-<h3 mat-dialog-title>{{move.Id}}. {{move.Name}}</h3>
+<h3 mat-dialog-title>{{data.move.Id}}. {{data.move.Name}}</h3>
 <mat-dialog-content>
-  <video width="640" height="360" controls loop>
-    <source src="assets/clips/Asuka/{{move.Id}}.mp4" type="video/mp4">
+  <video width="640" height="360" controls autoplay>
+    <source src="assets/clips/{{data.characterName}}/{{data.move.Id}}.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </mat-dialog-content>
