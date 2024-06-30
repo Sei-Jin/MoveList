@@ -1,62 +1,48 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input } from '@angular/core';
+import { YouTubePlayer } from '@angular/youtube-player';
 
 
-@Component({
+@Component
+({
   selector: 'app-video-player',
   standalone: true,
-  imports: [],
+  imports:
+  [
+    YouTubePlayer
+  ],
   templateUrl: './video-player.component.html',
   styleUrl: './video-player.component.css'
 })
-export class VideoPlayerComponent implements OnInit {
+export class VideoPlayerComponent {
 
+  @Input() videoId!: string;
+  @Input() loopStartTime!: number; // Start time in seconds
+  @Input() length!: number;        // Duration in seconds
 
-  player: YT.Player | undefined
+  loopEndTime!: number;
 
+  playerVars = {
+    autoplay: 1,                   // Autoplay when player is ready
+    controls: 1,                   // Enable or disable player controls
+    start: this.loopStartTime,
+    end: this.loopEndTime
+  };
 
   ngOnInit() {
-    this.loadYouTubeAPI();
+    this.initializePlayerVars();
   }
 
+  private initializePlayerVars() {
+    this.loopEndTime = this.loopStartTime + this.length + 1;
 
-  loadYouTubeAPI() {
-
-    const tag: HTMLScriptElement = document.createElement('script');
-    tag.src = 'https://www.youtube.com/iframe_api';
-
-    const firstScriptTag: HTMLScriptElement = document.getElementsByTagName('script')[0];
-    firstScriptTag.parentNode?.insertBefore(tag, firstScriptTag);
-
-    this.onYouTubeIframeAPIReady();
+    this.playerVars.start = this.loopStartTime;
+    this.playerVars.end = this.loopEndTime;
   }
 
-
-  onYouTubeIframeAPIReady() {
-    this.player = new YT.Player('player', {
-      height: '390',
-      width: '640',
-      videoId: 'M7lc1UVf-VE',
-      playerVars: {
-        'playsinline': 1
-      },
-      events: {
-        'onReady': this.onPlayerReady,
-        'onStateChange': this.onPlayerStateChange
-      }
-    });
-  }
-
-
-  onPlayerReady(event: YT.PlayerEvent): void {
-    event.target.playVideo();
-  }
-
-
-  onPlayerStateChange(event: YT.OnStateChangeEvent): void {
+  onStateChange(event: YT.OnStateChangeEvent) {
     if (event.data === YT.PlayerState.ENDED) {
-      if (this.player) {
-        this.player.playVideo();
-      }
+      event.target.seekTo(this.loopStartTime, true);
+      event.target.playVideo();
     }
   }
 }

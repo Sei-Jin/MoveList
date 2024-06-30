@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 7,
+    "Length": 4
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 14,
+    "Length": 4
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can use Guerreiro Explosivo",
     "Properties": "",
-    "Comment": "{3+4}"
+    "Comment": "{3+4}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 21,
+    "Length": 3
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can use Rabo de Arraia Liberado",
     "Properties": "",
-    "Comment": "{d,df,f,4}"
+    "Comment": "{d,df,f,4}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 27,
+    "Length": 3
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 33,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Lufada",
     "Description": "{4,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 39,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Xangô",
     "Description": "{f,3+4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 45,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Lunging Brush Fire",
     "Description": "{b,3+4}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 51,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Chibata Ardente",
     "Description": "During Negativa ({d,3+4}, etc.) {4,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 57,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Vingativa Zanga",
     "Description": "Approach (crouching enemy) {d,1+3}",
     "Properties": "Heat Engager",
-    "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash"
+    "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 63,
+    "Length": 5
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Guerreiro Explosivo",
     "Description": "During Heat {3+4}",
     "Properties": "Tornado",
-    "Comment": "Shift to Bananeira, partially uses remaining Heat time"
+    "Comment": "Shift to Bananeira, partially uses remaining Heat time",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 71,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Rabo de Arraia Liberado",
     "Description": "During Heat {d,df,f,4}",
     "Properties": "",
-    "Comment": "Shift to Negativa, partially uses remaining Heat time"
+    "Comment": "Shift to Negativa, partially uses remaining Heat time",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 77,
+    "Length": 3
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Caveirinha Zangada",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Also possible during Bananeira and Negativa, Heat Smash, throw on hit, on block shift to Negativa"
+    "Comment": "Also possible during Bananeira and Negativa, Heat Smash, throw on hit, on block shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 83,
+    "Length": 4
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Enchente de Axé",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Aso possible during Negativa, Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Aso possible during Negativa, Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 90,
+    "Length": 14
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "One Two Galopantes",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": "{1,2,f-hold} to shift to Bananeira"
+    "Comment": "{1,2,f-hold} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 107,
+    "Length": 1
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "One Two Galopantes > Chute Baixo",
     "Description": "{1,2,LB,4,3,RB}",
     "Properties": "",
-    "Comment": "Shift to Negativa, {1,2,4} to shift to crouching state"
+    "Comment": "Shift to Negativa, {1,2,4} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 111,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "One Two Galopantes > Chute Alto",
     "Description": "{1,2,LB,4,4,RB}",
     "Properties": "",
-    "Comment": "Side ukemi can be used, {1,2,4} to shift to crouching state"
+    "Comment": "Side ukemi can be used, {1,2,4} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 116,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Céu Gafanhoto",
     "Description": "{1,3}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 121,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Combo Furacão",
     "Description": "{2,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 126,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Batida de Campasso",
     "Description": "{2,3}",
     "Properties": "",
-    "Comment": "Shift to Bananeira"
+    "Comment": "Shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 131,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Sincelo",
     "Description": "{3,3}",
     "Properties": "",
-    "Comment": "Shift to Bananeira"
+    "Comment": "Shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 136,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Lufada",
     "Description": "{4,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 141,
+    "Length": 3
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Faisão",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 147,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Ventania",
     "Description": "{f,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 152,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Combo do Funâmbulo",
     "Description": "{f,3,4}",
     "Properties": "Homing",
-    "Comment": "{f,3,4,f-hold} to can cancel third hit and shift to Bananeira"
+    "Comment": "{f,3,4,f-hold} to can cancel third hit and shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 157,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Aú do Sol",
     "Description": "{f,4,3,3+4}",
     "Properties": "",
-    "Comment": "{f,4} to shift to Bananeira"
+    "Comment": "{f,4} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 162,
+    "Length": 3
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Aú da Lua",
     "Description": "{f,4,3+4}",
     "Properties": "",
-    "Comment": "Shift to Negativa {f,4} to shift to Bananeira"
+    "Comment": "Shift to Negativa {f,4} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 168,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Bananeira",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": "Or while rising {1+2}, shift to Bananeira"
+    "Comment": "Or while rising {1+2}, shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 173,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Xangô",
     "Description": "{f,3+4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 178,
+    "Length": 3
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Gêiser",
     "Description": "{df,1,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 184,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Elbow Uppercut",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 189,
+    "Length": 1
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Mirage",
     "Description": "{df,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 193,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Kneecap Crusher",
     "Description": "{df,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 198,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Aú Reversão",
     "Description": "{df,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 203,
+    "Length": 1
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Palmares Giro",
     "Description": "{d,2,3}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 207,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Sismo",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 212,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Aú de Bico",
     "Description": "{d,4,3}",
     "Properties": "",
-    "Comment": "{d,4} to shift to crouching state"
+    "Comment": "{d,4} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 217,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Negativa",
     "Description": "{d,3+4}",
     "Properties": "",
-    "Comment": "Or while crouching {3+4}, shift to Negativa"
+    "Comment": "Or while crouching {3+4}, shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 222,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Twister Mirage",
     "Description": "{db,2,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 227,
+    "Length": 3
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Rasteira Forte",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 233,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Rabo de Arraia",
     "Description": "{db,4,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, Mandinga level increases by 1 on hit"
+    "Comment": "Chip damage on block, Mandinga level increases by 1 on hit",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 238,
+    "Length": 3
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Double Arm Stinger",
     "Description": "{db,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 244,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Meia-Lua de Compasso",
     "Description": "{db,3+4,4,3}",
     "Properties": "",
-    "Comment": "{db,3+4} to shift to crouching state"
+    "Comment": "{db,3+4} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 249,
+    "Length": 3
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Gato > Aú do Sol",
     "Description": "{b,1,4,3,3+4}",
     "Properties": "",
-    "Comment": "{b,1} to shift to crouching state, {b,1,4} to shift to Bananeira"
+    "Comment": "{b,1} to shift to crouching state, {b,1,4} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 255,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Gato > Aú da Lua",
     "Description": "{b,1,4,3+4}",
     "Properties": "",
-    "Comment": "Shift to Negativa {b,1} to shift to crouching state, {b,1,4} to shift to Bananeira"
+    "Comment": "Shift to Negativa {b,1} to shift to crouching state, {b,1,4} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 261,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Godeme > Combo Martelo",
     "Description": "{b,2,3,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 267,
+    "Length": 3
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Godeme > Calcanheira",
     "Description": "{b,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 273,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Knee Thruster > Relâmpago",
     "Description": "{b,3,3}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 278,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Leg Whip Mars Attack Flip",
     "Description": "{b,4,4,3}",
     "Properties": "",
-    "Comment": "{b,4,4,f-hold} to can cancel second hit and shift to Bananeira, chip damage on block"
+    "Comment": "{b,4,4,f-hold} to can cancel second hit and shift to Bananeira, chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 283,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Back Bananeira",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": "Shift to Bananeira"
+    "Comment": "Shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 289,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Lunging Brush Fire",
     "Description": "{b,3+4}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 294,
+    "Length": 3
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Perna da Lua",
     "Description": "{ub,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 300,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Satellite Moon",
     "Description": "{ub,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 305,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Acrobacia",
     "Description": "{u,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 310,
+    "Length": 3
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Back Summy > Chute Baixo",
     "Description": "{u,LB,4,3,RB}",
     "Properties": "",
-    "Comment": "Shift to Negativa {u,4} to shift to crouching state"
+    "Comment": "Shift to Negativa {u,4} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 316,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Back Summy > Chute Alto",
     "Description": "{u,LB,4,4,RB}",
     "Properties": "",
-    "Comment": "Side ukemi can be used, {u,4} to shift to crouching state"
+    "Comment": "Side ukemi can be used, {u,4} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 321,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Vassoura",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": "Or {ub,1+2}"
+    "Comment": "Or {ub,1+2}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 326,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Asfixiante",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "Or {ub,2} or {u,2}"
+    "Comment": "Or {ub,2} or {u,2}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 331,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Jumping Jacks Mirage",
     "Description": "{uf,3,3}",
     "Properties": "Tornado",
-    "Comment": "{uf,3,f-hold} to shift to Bananeira"
+    "Comment": "{uf,3,f-hold} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 336,
+    "Length": 3
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Armada Pulada > Baixo",
     "Description": "{uf,3,4}",
     "Properties": "",
-    "Comment": "{uf,3,f-hold} to shift to Bananeira"
+    "Comment": "{uf,3,f-hold} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 342,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Chapa Giratória",
     "Description": "{uf,4}",
     "Properties": "Homing",
-    "Comment": "Shift to Negative on hit"
+    "Comment": "Shift to Negative on hit",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 347,
+    "Length": 1
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Meia-Lua Pulando",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": "Or {ub,3+4} or {u,3+4}"
+    "Comment": "Or {ub,3+4} or {u,3+4}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 351,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 356,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Terremoto",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": "Shift to Negativa on hit"
+    "Comment": "Shift to Negativa on hit",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 361,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Folha Ataque",
     "Description": "{f,f-hold,4}",
     "Properties": "Tornado",
-    "Comment": "Shift to Bananeira"
+    "Comment": "Shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 366,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Roda Gigante",
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
-    "Comment": "{f,f-hold,3+4,n,f} to cancel and shift to Bananeira, chip damage on block"
+    "Comment": "{f,f-hold,3+4,n,f} to cancel and shift to Bananeira, chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 371,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Fruit Picker",
     "Description": "{b,b-hold,2+3}",
     "Properties": "",
-    "Comment": "{b,b-hold,2+3,b,b} to cancel"
+    "Comment": "{b,b-hold,2+3,b,b} to cancel",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 376,
+    "Length": 4
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Trovão",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Or {ub,b,3}, shift to Bananeira on block, chip damage on block"
+    "Comment": "Or {ub,b,3}, shift to Bananeira on block, chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 383,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "10 Hit Combo",
     "Description": "{ub,4,4,2,4,4,3+4,3+4,3+4,3+4,3+4,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 388,
+    "Length": 8
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Flic Flac",
     "Description": "{ub,b}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 399,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 404,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Fuzilação",
     "Description": "While rising {1,3}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 409,
+    "Length": 3
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Chapeu de Couro",
     "Description": "While rising {1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 415,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Machado",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 420,
+    "Length": 3
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Martelo",
     "Description": "While rising {3}",
     "Properties": "Tornado",
-    "Comment": "Or {d,df,f,3}"
+    "Comment": "Or {d,df,f,3}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 426,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Tempestade",
     "Description": "While rising {4,4,4,3}",
     "Properties": "",
-    "Comment": "While rising {4,4,4,f-hold} to can cancel third hit and shift ot Bananeira, chip damage on block"
+    "Comment": "While rising {4,4,4,f-hold} to can cancel third hit and shift ot Bananeira, chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 432,
+    "Length": 3
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Front Stinger",
     "Description": "While rising {3+4}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 438,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Gafanhoto",
     "Description": "While crouching {df,3}",
     "Properties": "",
-    "Comment": "Chip damage on block, shift to Negativa"
+    "Comment": "Chip damage on block, shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 443,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Tornada",
     "Description": "While crouching {df,4}",
     "Properties": "",
-    "Comment": "Shift to Bananeira"
+    "Comment": "Shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 448,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Hot Plate Special",
     "Description": "During sidestep {3}",
     "Properties": "",
-    "Comment": "Shift to Negativa, during sidestep {3,d-hold} to cancel and shift to Negativa"
+    "Comment": "Shift to Negativa, during sidestep {3,d-hold} to cancel and shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 453,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Troca Baixa",
     "Description": "During sidestep {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 458,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Faísca",
     "Description": "During sidestep {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 463,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Whirling Spring Kick",
     "Description": "(By opponent's feet) while down and facing up {b,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 468,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Bananeira",
     "Description": "{f,1+2}, etc.",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 473,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Godeme Trovoada",
     "Description": "During Bananeira {1}",
     "Properties": "",
-    "Comment": "Chip damage on block, shift to Negativa"
+    "Comment": "Chip damage on block, shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 478,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Combo Escorão",
     "Description": "During Bananeira {2,3}",
     "Properties": "",
-    "Comment": "Mandinga level increases by 1 on hit, during Bananeira {2,3,f-hold} to cancel second hit and shift to Bananeira"
+    "Comment": "Mandinga level increases by 1 on hit, during Bananeira {2,3,f-hold} to cancel second hit and shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 483,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Enxurrada",
     "Description": "During Bananeira {3,3,3}",
     "Properties": "Tornado",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 489,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Lança de Braço",
     "Description": "During Bananeira {4,2}",
     "Properties": "Tornado",
-    "Comment": "During Bananeira {4} to shift to Bananeira"
+    "Comment": "During Bananeira {4} to shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 495,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Salto Yotori",
     "Description": "During Bananeira {4,LB,2,3,RB}",
     "Properties": "",
-    "Comment": "During Bananeira {4} to shift to Bananeira, chip damage on block"
+    "Comment": "During Bananeira {4} to shift to Bananeira, chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 500,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Cabeçada Direta",
     "Description": "During Bananeira {1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 505,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Chapa Esquivando",
     "Description": "During Bananeira {b,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 510,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Bananeira > Move Forward",
     "Description": "During Bananeira {n,f}",
     "Properties": "",
-    "Comment": "Shift to Bananeira"
+    "Comment": "Shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 515,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Bananeira > Negativa",
     "Description": "During Bananeira {n,d} (or {n,u}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 520,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Negativa",
     "Description": "{d,3+4}, etc.",
     "Properties": "",
-    "Comment": "During Negativa {db-hold} or {b-hold} to block"
+    "Comment": "During Negativa {db-hold} or {b-hold} to block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 525,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Terra Gafanhoto",
     "Description": "During Negativa {1,3}",
     "Properties": "",
-    "Comment": "During Negativa {1,d-hold} to shift to crouching state"
+    "Comment": "During Negativa {1,d-hold} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 530,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Maré Cheia",
     "Description": "During Negativa {2,4,4}",
     "Properties": "",
-    "Comment": "During Negativa {2,4,d-hold} to shift to Negativa"
+    "Comment": "During Negativa {2,4,d-hold} to shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 535,
+    "Length": 3
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Iemanjá",
     "Description": "During Negativa {3,3}",
     "Properties": "",
-    "Comment": "Has clean hit effect, Mandinga level increases by 1 on hit, during Negativa {3} to shift to crouching state"
+    "Comment": "Has clean hit effect, Mandinga level increases by 1 on hit, during Negativa {3} to shift to crouching state",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 541,
+    "Length": 3
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Chibata Ardente",
     "Description": "During Negativa {4,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 547,
+    "Length": 3
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Cabeçada Fixa",
     "Description": "During Negativa {1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 553,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Troca e Ataque",
     "Description": "During Negativa {3+4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 558,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Negativa > Move Forward",
     "Description": "During Negativa {n,f}",
     "Properties": "",
-    "Comment": "Shift to Negativa"
+    "Comment": "Shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 563,
+    "Length": 1
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Negativa > Bananeira",
     "Description": "During Negativa {n,d} (or {n,u}",
     "Properties": "",
-    "Comment": "Shift to Bananeira"
+    "Comment": "Shift to Bananeira",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 567,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Yansan Mandinga",
     "Description": "While at Mandiga Level 1, during Bananeira {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 572,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Yansan Mandinga",
     "Description": "While at Mandiga Level 2, during Bananeira {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 578,
+    "Length": 4
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Ogum Mandinga",
     "Description": "While at Mandiga Level 1, during Bananeira {b,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa"
+    "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 585,
+    "Length": 3
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Ogum Mandinga",
     "Description": "While at Mandiga Level 2, during Bananeira {b,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa"
+    "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 591,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Rio Deal",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 597,
+    "Length": 4
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Rio Special",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 604,
+    "Length": 3
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Missile Launcher",
     "Description": "Approach opponent {1+3} (or {2+4}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 610,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Shadow Dancer",
     "Description": "Approach opponent {1+3} (or {2+4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 616,
+    "Length": 4
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Back Rodeo Spin",
     "Description": "Approach opponent {1+3} (or {2+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 623,
+    "Length": 4
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Cabra Macaco Throw",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 630,
+    "Length": 3
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Batucada",
     "Description": "During Bananeira approach opponent {1+3} (or {2+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape, shift to Negativa on hit"
+    "Comment": "Cannot throw escape, shift to Negativa on hit",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 636,
+    "Length": 3
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Rodeo Spin",
     "Description": "During Negativa approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 642,
+    "Length": 4
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Vingativa Zanga",
     "Description": "Approach (crouching enemy) {d,1+3}",
     "Properties": "Heat Engager",
-    "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash"
+    "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 649,
+    "Length": 5
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Vingativa Funeral",
     "Description": "Approach (crouching enemy) {d,2+4}",
     "Properties": "",
-    "Comment": "Or during Negativa {2+4}, cannot throw escape"
+    "Comment": "Or during Negativa {2+4}, cannot throw escape",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 657,
+    "Length": 4
   },
   {
     "Id": 118,
@@ -941,6 +1292,9 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "swVkLkpSL4M",
+    "StartTime": 664,
+    "Length": 2
   }
 ]

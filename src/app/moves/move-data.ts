@@ -5,4 +5,7 @@ export interface MoveData {
   "Description": string;
   "Properties": string;
   "Comment": string;
+  "VideoId": string;
+  "StartTime": number;
+  "Length": number;
 }

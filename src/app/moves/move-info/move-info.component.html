@@ -1,6 +1,8 @@
 <h3 mat-dialog-title>{{data.move.Id}}. {{data.move.Name}}</h3>
 <mat-dialog-content>
-<!--  <iframe width="640" height="360" src="https://www.youtube.com/embed/dmvM1pfatJU?autoplay=1&start=0&end=5&controls=0">-->
-<!--  </iframe>-->
-  <app-video-player></app-video-player>
+  <app-video-player
+    [videoId]="data.move.VideoId"
+    [loopStartTime]="data.move.StartTime"
+    [length]="data.move.Length"
+  ></app-video-player>
 </mat-dialog-content>

@@ -3,7 +3,7 @@ import { Component, Inject } from '@angular/core';
 import { MAT_DIALOG_DATA, MatDialogModule } from "@angular/material/dialog";
 
 import { MoveData } from "../move-data";
-import {VideoPlayerComponent} from "../video-player/video-player.component";
+import { VideoPlayerComponent } from "../video-player/video-player.component";
 
 
 export interface MoveInfo {
