@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 0,
+    "Length": 5
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 8,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 14,
+    "Length": 4
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of moves while Gamma Charge is activated",
     "Properties": "",
-    "Comment": "During Gamma Howl {2}, during Gamma Howl {1}"
+    "Comment": "During Gamma Howl {2}, during Gamma Howl {1}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 21,
+    "Length": 6
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 30,
+    "Length": 3
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Piston Gun Assault",
     "Description": "{b,2}",
     "Properties": "Heat Engager",
-    "Comment": "Hold to power up (chip damage on block)"
+    "Comment": "Hold to power up (chip damage on block)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 36,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Tyulpan Blast",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 42,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Full Metal Deathblow",
     "Description": "During Gamma Howl ({3+4}, etc.) {4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 48,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Particle Barrier",
     "Description": "During Gamma Howl ({3+4}, etc.) {3+4}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 54,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Iron Gunman",
     "Description": "Approach crouching opponent {d,3+4}",
     "Properties": "Heat Engager",
-    "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash"
+    "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 60,
+    "Length": 4
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Meteor Raid",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw"
+    "Comment": "Heat Smash, on hit shift to throw",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 67,
+    "Length": 4
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Terraforming Cannon",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 74,
+    "Length": 14
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Jab > Jackhammer",
     "Description": "{1,1}",
     "Properties": "",
-    "Comment": "{1,1,d-hold} to shift to Gamma Howl"
+    "Comment": "{1,1,d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 91,
+    "Length": 2
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Jab > Stunning Hook",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 96,
+    "Length": 2
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Jab Elbow Smash",
     "Description": "{2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 101,
+    "Length": 3
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Piston Gun Fusillade",
     "Description": "{2,1,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 107,
+    "Length": 3
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Mimesis Savage Knee",
     "Description": "{2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 113,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Tornado Punch",
     "Description": "{1+2}",
     "Properties": "Tornado, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 118,
+    "Length": 3
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Gamma Howl",
     "Description": "{3+4}",
     "Properties": "Power Crush",
-    "Comment": "Or while rising {3+4}, shift to Gamma howl, abosrb an attack to activate Gamma Charge"
+    "Comment": "Or while rising {3+4}, shift to Gamma howl, abosrb an attack to activate Gamma Charge",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 124,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Gigaton Punch",
     "Description": "{1+4,1}",
     "Properties": "",
-    "Comment": "{b,db,d,df,f,1} to power up, chip damage on block"
+    "Comment": "{b,db,d,df,f,1} to power up, chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 129,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Gigaton Punch",
     "Description": "{1+4} hold, then {1}",
     "Properties": "",
-    "Comment": "{1+4} hold or {b,db,d,df,f-hold} to increase rotation"
+    "Comment": "{1+4} hold or {b,db,d,df,f-hold} to increase rotation",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 134,
+    "Length": 5
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Windup Uppercut",
     "Description": "{1+4,df,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 142,
+    "Length": 3
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Prime Windup Uppercut",
     "Description": "{1+4,df,1} (quick input)",
     "Properties": "Tornado",
-    "Comment": "{b,db,d,df,f,df,1} (quick input) to power up"
+    "Comment": "{b,db,d,df,f,df,1} (quick input) to power up",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 148,
+    "Length": 3
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Impact Driver",
     "Description": "{f,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 154,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Drilling Engine",
     "Description": "{f,1,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 159,
+    "Length": 3
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Piston Gun Blaster",
     "Description": "{f,1,2,2}",
     "Properties": "",
-    "Comment": "Hold at last step to power up (chip damage on block)"
+    "Comment": "Hold at last step to power up (chip damage on block)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 165,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Pinpoint Assault",
     "Description": "{f,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 170,
+    "Length": 1
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Two-Step Die",
     "Description": "{f,3,2}",
     "Properties": "",
-    "Comment": "Or while rising {3,2}, {f,3,d-hold} to shift to Gamma Howl"
+    "Comment": "Or while rising {3,2}, {f,3,d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 174,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Machine Press",
     "Description": "{f,3,1+2}",
     "Properties": "",
-    "Comment": "Or while rising {3,1+2}, {f,3,d-hold} to shift to Gamma Howl"
+    "Comment": "Or while rising {3,1+2}, {f,3,d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 179,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Dark Greeting",
     "Description": "{f,LB,4,1,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 184,
+    "Length": 3
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Sudden Elbow",
     "Description": "{f,LB,4,1,RB,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 190,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Rolling Death Crusher",
     "Description": "{f,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 195,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Merkabah Headbutt",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": "{f,3+4,d-hold} to shift to Gamma Howl"
+    "Comment": "{f,3+4,d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 200,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Overheat",
     "Description": "{df,1,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 205,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Overdrive",
     "Description": "{df,1,2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 210,
+    "Length": 3
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Programmed Uppercut",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 216,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Cosmic Sweeper",
     "Description": "{df,2,1}",
     "Properties": "",
-    "Comment": "Hold at last step to power up, {df,2,1,d-hold} to shift to Gamma Howl"
+    "Comment": "Hold at last step to power up, {df,2,1,d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 221,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Cosmic Sweeper",
     "Description": "{df,2,1} hold",
     "Properties": "Tornado",
-    "Comment": "{df,2,1} hold, then {d-hold} to shift to Gamma Howl"
+    "Comment": "{df,2,1} hold, then {d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 226,
+    "Length": 4
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Combine Harvester",
     "Description": "{df,3,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 233,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Mimesis Wrench Kick",
     "Description": "{df,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 238,
+    "Length": 1
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Dump truck",
     "Description": "{df,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 242,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Body Press",
     "Description": "{df,1+3}",
     "Properties": "",
-    "Comment": "Throw when hit form the front in close range"
+    "Comment": "Throw when hit form the front in close range",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 247,
+    "Length": 4
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Heel Driller",
     "Description": "{df,1+3} during hit {1+2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 254,
+    "Length": 5
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Debugger",
     "Description": "{df,1+4}",
     "Properties": "Homing",
-    "Comment": "{b,db,d,df,1} to power up"
+    "Comment": "{b,db,d,df,1} to power up",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 262,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Megaton Blast",
     "Description": "{df,2+3}",
     "Properties": "",
-    "Comment": "{b,db,d,df,1} to power up"
+    "Comment": "{b,db,d,df,1} to power up",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 267,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Double Axe",
     "Description": "{df,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 272,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Sit Down",
     "Description": "{d,3+4}",
     "Properties": "",
-    "Comment": "Shift to Sit Down"
+    "Comment": "Shift to Sit Down",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 277,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Machinegun Blast",
     "Description": "{db,1,1,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 282,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Power Shovel",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": "Hold to power up (chip damage on block)"
+    "Comment": "Hold to power up (chip damage on block)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 287,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Cossack Kicks",
     "Description": "{db,3,4,3,4,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 292,
+    "Length": 4
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Cossack Smash",
     "Description": "During Cossack Kicks {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 299,
+    "Length": 3
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Cossack Compactor",
     "Description": "During Cossack Kicks approach (crouching opponent) {d,1+2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 305,
+    "Length": 4
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Big Boot",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 312,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Megaton Earthquake",
     "Description": "{db,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 317,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Double Biceps",
     "Description": "{b,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 322,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Piston Gun Assault",
     "Description": "{b,2}",
     "Properties": "Heat Engager",
-    "Comment": "Hold to power up (chip damage on block)"
+    "Comment": "Hold to power up (chip damage on block)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 327,
+    "Length": 3
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Mad Dozer",
     "Description": "{b,3,2,2}",
     "Properties": "",
-    "Comment": "{b,3,2,d-hold} to shift to Gamma Howl, hold at last step to power up (chip damage on block)"
+    "Comment": "{b,3,2,d-hold} to shift to Gamma Howl, hold at last step to power up (chip damage on block)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 333,
+    "Length": 3
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Sherman Stomp",
     "Description": "{b,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 339,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Tyulpan Blast",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 344,
+    "Length": 3
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Barrel Jacket Hammer",
     "Description": "{ub,1+2}",
     "Properties": "Power Crush, Homing",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 350,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Patriot Fist",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 355,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Giant Foot Stomp",
     "Description": "{u,3+4}",
     "Properties": "",
-    "Comment": "Or {ub,3+4}, {u,3+4,3+4,3+4,3+4,3+4} to power up"
+    "Comment": "Or {ub,3+4}, {u,3+4,3+4,3+4,3+4,3+4} to power up",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 360,
+    "Length": 3
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Sky Sweeper",
     "Description": "{uf,1}",
     "Properties": "Tornado",
-    "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1,d-hold} to shift to Gamma Howl"
+    "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1,d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 366,
+    "Length": 3
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Sky Sweeper",
     "Description": "{uf,1} hold",
     "Properties": "Tornado",
-    "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1} hold {d-hold} to shift to Gamma Howl"
+    "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1} hold {d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 372,
+    "Length": 3
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Reactor Elbow",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "Or {ub,2} or {u,2}"
+    "Comment": "Or {ub,2} or {u,2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 378,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Terrapulser",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {ub,3} or {u,3}, on hit shift to Gamma Howl"
+    "Comment": "Or {ub,3} or {u,3}, on hit shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 383,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Pancake Press",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": "Shift to Sit Down"
+    "Comment": "Shift to Sit Down",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 388,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Jackhammer",
     "Description": "{f,f-hold,1}",
     "Properties": "",
-    "Comment": "{f,f-hold,1,d-hold} to shift to Gamma Howl"
+    "Comment": "{f,f-hold,1,d-hold} to shift to Gamma Howl",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 393,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Rocket Uppercut",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": "Hold to power up (chip damage on block)"
+    "Comment": "Hold to power up (chip damage on block)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 398,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Granite Stomping",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": "{f,f-hold,3,d-hold} to directly shift to crouching state"
+    "Comment": "{f,f-hold,3,d-hold} to directly shift to crouching state",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 403,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Rocket Kick",
     "Description": "{f,f-hold,4}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 408,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Cross Cut Blast",
     "Description": "{f,f-hold,1+2,2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 413,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "High and Low Cross Cut",
     "Description": "{f,f-hold,1+2,1+2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 418,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Sliding Attack",
     "Description": "{f,f-hold,1+4}",
     "Properties": "",
-    "Comment": "Low attack on landing"
+    "Comment": "Low attack on landing",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 423,
+    "Length": 3
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Cemaho Chop",
     "Description": "{f,f,f-hold,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 429,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Mimesis Charging Tackle",
     "Description": "{f,f,f-hold,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{d,2,1,1,1,2,1,2,1,1+2,1+2}",
     "Properties": "",
-    "Comment": "Or while crouching {2,1,1,1,2,1,2,1,1+2,1+2}"
+    "Comment": "Or while crouching {2,1,1,1,2,1,2,1,1+2,1+2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 439,
+    "Length": 5
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{d,2,1,1,1,2,1,2,1,d,1+2,1+2}",
     "Properties": "",
-    "Comment": "Or while crouching {2,1,1,1,2,1,2,1,d,1+2,1+2}"
+    "Comment": "Or while crouching {2,1,1,1,2,1,2,1,d,1+2,1+2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 447,
+    "Length": 6
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Taunt",
     "Description": "{1+2+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 456,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 461,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Killing Uppercut",
     "Description": "While rising {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 466,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "V-Twin",
     "Description": "While rising {2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 471,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "V-Deathblow",
     "Description": "While rising {2,4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 476,
+    "Length": 3
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Toe Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 482,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Double Hammer Thrash",
     "Description": "While rising {1+2,1+2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 487,
+    "Length": 3
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Double Low Hammer",
     "Description": "While crouching {1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 493,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Megaton Strike",
     "Description": "While crouching {1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 498,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Low Cross Combo",
     "Description": "While crouching {1+2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 504,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Windmill Punches",
     "Description": "While crouching {df,1,2,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 510,
+    "Length": 3
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Swing R Knuckle",
     "Description": "While crouching {df,2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 516,
+    "Length": 3
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Swing R Knuckle High",
     "Description": "While crouching {df,2,f,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 522,
+    "Length": 3
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Swing R Knuckle Low",
     "Description": "While crouching {df,2,d,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 528,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Mimesis Spike Press",
     "Description": "While crouching {df,4,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 533,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Atomic Shoulder Tackle",
     "Description": "While crouching {df,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 538,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Pulverizer",
     "Description": "While crouching {db,1,1,1}",
     "Properties": "",
-    "Comment": "Hold at last step to power up (chip damage on block)"
+    "Comment": "Hold at last step to power up (chip damage on block)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 543,
+    "Length": 3
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Discharger",
     "Description": "During sidestep {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 549,
+    "Length": 3
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Piston Gun Snipe",
     "Description": "During sidestep {2}",
     "Properties": "",
-    "Comment": "During sidestep {2,d-hold} to shift to Gamma Howl, chip damage on block"
+    "Comment": "During sidestep {2,d-hold} to shift to Gamma Howl, chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 555,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Get Up Punch",
     "Description": "While down and facing up {d,1+2}",
     "Properties": "",
-    "Comment": "Shift to Sit Down"
+    "Comment": "Shift to Sit Down",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 560,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Sit Down",
     "Description": "{d,3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Sit Down"
+    "Comment": "Shift to Sit Down",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 565,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Sit Punches",
     "Description": "During Sit Down {1,2,1,2}",
     "Properties": "",
-    "Comment": "Or during Sit Down {2,1,2,1}"
+    "Comment": "Or during Sit Down {2,1,2,1}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 570,
+    "Length": 3
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Ground Assault",
     "Description": "During Sit Down {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 576,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Extra Pancake Press",
     "Description": "During Sit Down {3+4}",
     "Properties": "",
-    "Comment": "Shift to Sit Down (can shift to moves other than Extra Pancake Press)"
+    "Comment": "Shift to Sit Down (can shift to moves other than Extra Pancake Press)",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 581,
+    "Length": 3
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Forward Roll",
     "Description": "During Sit Down {f}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 587,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Backward Roll",
     "Description": "During Sit Down {b}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 592,
+    "Length": 2
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Gamma Howl",
     "Description": "{3+4}, etc.",
     "Properties": "Power Crush",
-    "Comment": "To Gamma Howl, partially restore remaining Heat time"
+    "Comment": "To Gamma Howl, partially restore remaining Heat time",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 597,
+    "Length": 2
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Juggernaut Hook",
     "Description": "During Gama Howl {1}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 602,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Exaton Blast",
     "Description": "During Gama Howl {2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 607,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Granite Stomping",
     "Description": "During Gama Howl {3}",
     "Properties": "",
-    "Comment": "During Gamma Howl {3,d-hold} to directly shift to crouching state"
+    "Comment": "During Gamma Howl {3,d-hold} to directly shift to crouching state",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 613,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Full Metal Deathblow",
     "Description": "During Gama Howl {4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 618,
+    "Length": 3
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Particle Barrier",
     "Description": "During Gama Howl {3+4}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 624,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Prime Windup Uppercut",
     "Description": "During Gama Howl {f,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 630,
+    "Length": 3
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Megalodriller",
     "Description": "During Gama Howl {f,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 636,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Breakout Fortress",
     "Description": "During Gama Howl {ub}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 642,
+    "Length": 2
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Flying Fortress",
     "Description": "During Gama Howl {uf}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 647,
+    "Length": 2
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Gamma Charge",
     "Description": "Time with opponent attack {3+4}",
     "Properties": "",
-    "Comment": "Always active during Heat, absorb attack to regain recoverable health and partially restore remaining Heat time"
+    "Comment": "Always active during Heat, absorb attack to regain recoverable health and partially restore remaining Heat time",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 652,
+    "Length": 2
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Jaguar Hook - Gamma",
     "Description": "During Gamma Charge and Gamma Howl {1}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block, during Heat partially uses remaining Heat time"
+    "Comment": "Chip damage on block, during Heat partially uses remaining Heat time",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 657,
+    "Length": 4
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Exaton Blast - Gamma",
     "Description": "During Gamma Charge and Gamma Howl {2}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Chip damage on block, during Heat partially uses remaining Heat time"
+    "Comment": "Chip damage on block, during Heat partially uses remaining Heat time",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 664,
+    "Length": 3
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Rotary Catapult",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 670,
+    "Length": 3
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Piston Gun Back Breaker",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 676,
+    "Length": 3
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Side Left Bomb",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 682,
+    "Length": 3
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Father's Love",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 688,
+    "Length": 4
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Spinal Crush",
     "Description": "Approach opponent from behind {1+3}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 695,
+    "Length": 3
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Throw Away",
     "Description": "Approach opponent from behind {2+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 701,
+    "Length": 3
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "Volcano",
     "Description": "Approach opponent {df,2+4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 707,
+    "Length": 4
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Volcano Blaster",
     "Description": "Approach opponent {df,df-hold,2+4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 714,
+    "Length": 4
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Body Smash",
     "Description": "Approach opponent {db,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 721,
+    "Length": 3
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Ground Zero",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 727,
+    "Length": 4
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Lift Up Megaton Hit",
     "Description": "Approach opponent {uf,1+2,d,df,2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 734,
+    "Length": 4
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Pile Driver",
     "Description": "Approach opponent {db,n,f,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 741,
+    "Length": 4
   },
   {
     "Id": 130,
@@ -1037,7 +1424,10 @@
     "Name": "Pyramid Driver",
     "Description": "Approach opponent {d,df,f,1}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 748,
+    "Length": 5
   },
   {
     "Id": 131,
@@ -1045,7 +1435,10 @@
     "Name": "Back Breaker",
     "Description": "Approach opponent {d,db,b,2}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 756,
+    "Length": 4
   },
   {
     "Id": 132,
@@ -1053,7 +1446,10 @@
     "Name": "Mimesis Overkill",
     "Description": "During Gamma Howl {1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 763,
+    "Length": 4
   },
   {
     "Id": 133,
@@ -1061,7 +1457,10 @@
     "Name": "Gun Bomb",
     "Description": "Approach crouching opponent {1+3}",
     "Properties": "",
-    "Comment": "Or during Gamma Howl {1+3}, cannot throw escape"
+    "Comment": "Or during Gamma Howl {1+3}, cannot throw escape",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 770,
+    "Length": 3
   },
   {
     "Id": 134,
@@ -1069,7 +1468,10 @@
     "Name": "Iron Gunman",
     "Description": "Approach crouching opponent {2+4}",
     "Properties": "Heat Engager",
-    "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash"
+    "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 776,
+    "Length": 4
   },
   {
     "Id": 135,
@@ -1077,7 +1479,10 @@
     "Name": "Twin Drivers",
     "Description": "During opponent wall stun {1+3} (or {2+4})",
     "Properties": "Homing",
-    "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape"
+    "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 783,
+    "Length": 4
   },
   {
     "Id": 136,
@@ -1085,6 +1490,9 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "S8DQG1kU1es",
+    "StartTime": 790,
+    "Length": 2
   }
 ]
