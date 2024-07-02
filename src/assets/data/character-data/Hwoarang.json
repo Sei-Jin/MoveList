@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 7,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 13,
+    "Length": 4
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can use kicks during powered up Right Flamingo",
     "Properties": "",
-    "Comment": "During Right Flamingo {d,4,3,4}, during Right Flamingo {f,4,4}, etc."
+    "Comment": "During Right Flamingo {d,4,3,4}, during Right Flamingo {f,4,4}, etc.",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 20,
+    "Length": 7
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 30,
+    "Length": 2
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Ignition Barrage",
     "Description": "{df,3+4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, also possible during Right Stance"
+    "Comment": "Chip damage on block, also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 35,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Peacekeeper",
     "Description": "{f,f-hold,4}",
     "Properties": "Heat Engager",
-    "Comment": "Also possible during Right Stance, shift to Right Stance (does not shift when using Heat Dash)"
+    "Comment": "Also possible during Right Stance, shift to Right Stance (does not shift when using Heat Dash)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 41,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Black Kite",
     "Description": "During Right Stance ({3+4}, etc.) {df,3}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage on block, shift to Right Stance (does not shift when using Heat Dash)"
+    "Comment": "Chip damage on block, shift to Right Stance (does not shift when using Heat Dash)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 47,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Flamingo Rocket",
     "Description": "During Left Flamingo ({f,3}, etc.) {f,3}",
     "Properties": "Heat Engager",
-    "Comment": "Shift to Left Flamingo (does not shift when using Heat Dash)"
+    "Comment": "Shift to Left Flamingo (does not shift when using Heat Dash)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 53,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Left Heel Lance",
     "Description": "During Right Flamingo ({f,n,4}, etc.) {b,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 59,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Trinity Claymore",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance and Left Flamingo, shift to Right Flamingo, Heat Smash"
+    "Comment": "Also possible during Right Stance and Left Flamingo, shift to Right Flamingo, Heat Smash",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 65,
+    "Length": 4
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Sky Burial",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Also possible during Right Stance and Left Flamingo, Rage art, erases opponent's recoverable health on hit"
+    "Comment": "Also possible during Right Stance and Left Flamingo, Rage art, erases opponent's recoverable health on hit",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 72,
+    "Length": 14
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Home Surgery",
     "Description": "{1,1,3,3}",
     "Properties": "",
-    "Comment": "{1,2,3} to shift to Left Flamingo, {1,2,4} to shift to Right Flamingo"
+    "Comment": "{1,2,3} to shift to Left Flamingo, {1,2,4} to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 89,
+    "Length": 2
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Left Right Combo",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 94,
+    "Length": 1
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Rejector",
     "Description": "{1,2,f,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 98,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Rejection",
     "Description": "{1,2,f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 103,
+    "Length": 2
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Right Jab",
     "Description": "{2}",
     "Properties": "",
-    "Comment": "{2,3} to shift to Left Flamingo, {2,4} to shift to Right Flamingo"
+    "Comment": "{2,3} to shift to Left Flamingo, {2,4} to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 108,
+    "Length": 1
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Right Jab Side Kick",
     "Description": "{2,f,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 112,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Right Jab > Spinning Back Kick",
     "Description": "{2,f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 117,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Siege Mortar combo",
     "Description": "{3,3,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 122,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Left Kicks",
     "Description": "{3,3,3}",
     "Properties": "",
-    "Comment": "{3,3,f-hold} to shift to Left Flamingo"
+    "Comment": "{3,3,f-hold} to shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 127,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Left Kicks > Right Hook Kick",
     "Description": "{3,3,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 132,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Left Kicks > Backlash",
     "Description": "{3,3,f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 137,
+    "Length": 3
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Flying Eagle",
     "Description": "{LB,3,4,RB}",
     "Properties": "",
-    "Comment": "Power up with quick input"
+    "Comment": "Power up with quick input",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 143,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Right Left Kick Combo",
     "Description": "{4,3}",
     "Properties": "",
-    "Comment": "{4,3,f-hold} to cancel and shift to Left Flamingo"
+    "Comment": "{4,3,f-hold} to cancel and shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 148,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Right Kicks > Chainsaw Heel",
     "Description": "{4,4,3}",
     "Properties": "",
-    "Comment": "Shift to Right Stance, {4,4} to shift to Right Flamingo"
+    "Comment": "Shift to Right Stance, {4,4} to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 153,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Right Kicks > Raptor Combo",
     "Description": "{4,4,4,4}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, {4,4} to shift to Right Flamingo, {4,4,4} to shift to Right Stance, {4,4,4,f-hold} to cancel and shift to Right Flamingo"
+    "Comment": "Chip damage on block, {4,4} to shift to Right Flamingo, {4,4,4} to shift to Right Stance, {4,4,4,f-hold} to cancel and shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 158,
+    "Length": 3
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Disrespect",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": "Facing Backward"
+    "Comment": "Facing Backward",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 164,
+    "Length": 1
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Motion Switch",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 168,
+    "Length": 1
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Rusty Knife",
     "Description": "{f,2}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 172,
+    "Length": 1
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Left Flamingo Feint",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": "Shift to Left Flamingo"
+    "Comment": "Shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 176,
+    "Length": 1
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Cheap Shot Snap Kick",
     "Description": "{f,LB,3,n,3,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 180,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Right Hook Kick",
     "Description": "{f,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 185,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Right Flamingo Feint",
     "Description": "{f,n,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 190,
+    "Length": 1
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Push Hands",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 194,
+    "Length": 1
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Left Uppercut & Middle Kick",
     "Description": "{df,1,3}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, shift to Left Flamingo"
+    "Comment": "Also possible during Right Stance, shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 198,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Right Uppercut",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 203,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Double Claymore",
     "Description": "{df,3,4}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block, {df,3,f-hold} (or {u-hold} or {d-hold}) to cancel and shift to Left Flamingo"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, {df,3,f-hold} (or {u-hold} or {d-hold}) to cancel and shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 208,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Middle Claymore",
     "Description": "{df,4}",
     "Properties": "Homing",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 213,
+    "Length": 1
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Ignition Barrage",
     "Description": "{df,3+4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, also possible during Right Stance"
+    "Comment": "Chip damage on block, also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 217,
+    "Length": 3
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Smash Low Right",
     "Description": "{d,3,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 223,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Firecracker",
     "Description": "{d,4,4}",
     "Properties": "Tornado",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 228,
+    "Length": 3
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Sweep Kick",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 234,
+    "Length": 1
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Ankle Biter > Crescent Kick",
     "Description": "{db,4,4}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, {db,4,f-hold} to shift to Right Flamingo"
+    "Comment": "Also possible during Right Stance, {db,4,f-hold} to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 238,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Dynamite Heel",
     "Description": "{db,3+4}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, {db,3+4,b,b} to cancel and shift to Left Flamingo"
+    "Comment": "Also possible during Right Stance, {db,3+4,b,b} to cancel and shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 243,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Stealth Needle",
     "Description": "{b,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 249,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Left Plasma Blade",
     "Description": "{b,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 254,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Nose Bleeder",
     "Description": "{b,4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 259,
+    "Length": 1
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Knife Hand Strike",
     "Description": "{ub,2}",
     "Properties": "Homing",
-    "Comment": "or {b,2}. Also possible during Right Stance"
+    "Comment": "or {b,2}. Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 263,
+    "Length": 1
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Fade-Away Kick",
     "Description": "{ub,4}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 267,
+    "Length": 1
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Jump Kick",
     "Description": "{u,3}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, shift to Left Flamingo"
+    "Comment": "Also possible during Right Stance, shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 271,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Scorpion Side Kick",
     "Description": "{u,4}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, shift to Right Flamingo"
+    "Comment": "Also possible during Right Stance, shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 276,
+    "Length": 1
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Bloody Guillotine",
     "Description": "{u,3+4}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 280,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Bone Stinger",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 285,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Hunting Hawk",
     "Description": "{uf,3} on hit or block {4,3}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, {uf,3} on hit or block {4} to shift to Right Flamingo"
+    "Comment": "Also possible during Right Stance, {uf,3} on hit or block {4} to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 290,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Air Raid",
     "Description": "{uf,4,4,4}",
     "Properties": "",
-    "Comment": "Also possible duirng Right Stance, shift to Right Flamingo, {uf,4} to shift to Right Flamingo, {uf,4,4} to shift to Right Flamingo"
+    "Comment": "Also possible duirng Right Stance, shift to Right Flamingo, {uf,4} to shift to Right Flamingo, {uf,4,4} to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 295,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Flashing Trident",
     "Description": "{uf,3+4,4}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, shift to Right Stance, {uf,3+4,f-hold} to shift to Left Flamingo"
+    "Comment": "Also possible during Right Stance, shift to Right Stance, {uf,3+4,f-hold} to shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 300,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 305,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Spinning Axe Kick",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 310,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Peacekeeper",
     "Description": "{f,f-hold,4}",
     "Properties": "Heat Engager",
-    "Comment": "Also possible during Right Stance, shift to Right Stance (does not shift when using Heat Dash)"
+    "Comment": "Also possible during Right Stance, shift to Right Stance (does not shift when using Heat Dash)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 315,
+    "Length": 3
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Flying Nerichagi",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block, also possible during Right Stance"
+    "Comment": "Chip damage on block, also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 321,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Torpedo Kick",
     "Description": "{f,f,f-hold,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, also possible during Right Stance"
+    "Comment": "Chip damage on block, also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 326,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 331,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Shark Step",
     "Description": "{f,n,d,df}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 336,
+    "Length": 1
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Phalanx",
     "Description": "{f,n,d,df,3}",
     "Properties": "",
-    "Comment": "Chip damage on block, also possible during Right Stance, shift to Left Flamingo"
+    "Comment": "Chip damage on block, also possible during Right Stance, shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 340,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Sky Rocket",
     "Description": "{f,n,d,df,4}",
     "Properties": "Tornado",
-    "Comment": "Also possible during Right Stance"
+    "Comment": "Also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 345,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Lethal Sky Rocket",
     "Description": "{f,n,df,4} ({df}+{4} press simultaneously)",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, also possible during Right Stance"
+    "Comment": "Chip damage on block, also possible during Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 350,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Chonsan Spin",
     "Description": "While rising {2,3}",
     "Properties": "Tornado",
-    "Comment": "Shift to Left Flamingo"
+    "Comment": "Shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 355,
+    "Length": 3
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Iron Heel",
     "Description": "While rising {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 361,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Tsunami Kick",
     "Description": "While rising {4,4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 366,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Spinning Scythe > Axe Heel",
     "Description": "While rising {3+4,3}",
     "Properties": "",
-    "Comment": "Or {f,n,d,df,3+4,3}, while rising {3+4} to face backward"
+    "Comment": "Or {f,n,d,df,3+4,3}, while rising {3+4} to face backward",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 371,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Eruption",
     "Description": "During sidestep {3,3}",
     "Properties": "",
-    "Comment": "Shift to Left Flamingo"
+    "Comment": "Shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 376,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Spinning Trip Kick",
     "Description": "During sidestep {4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 381,
+    "Length": 1
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Left Plasma Blade",
     "Description": "Back facing opponent {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 385,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Plasma Blade",
     "Description": "Back facing opponent {4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 390,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Spinning Low Kick",
     "Description": "Back facing opponent {d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 395,
+    "Length": 1
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Right Stance",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "{b,b} or {f,f} possible while maintaining stance"
+    "Comment": "{b,b} or {f,f} possible while maintaining stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 399,
+    "Length": 1
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Migraine",
     "Description": "During Right Stance {1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 403,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Big Fists",
     "Description": "During Right Stance {2,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 408,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Hawk Strike",
     "Description": "During Right Stance {2,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 413,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Chainsaw Kick Combo",
     "Description": "During Right Stance {2,4,3}",
     "Properties": "",
-    "Comment": "Shift to Right Stance, {2,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+    "Comment": "Shift to Right Stance, {2,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 418,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Right Reverse Kick Combo",
     "Description": "During Right Stance {2,4,4}",
     "Properties": "",
-    "Comment": "{2,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+    "Comment": "{2,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 423,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Volcannon",
     "Description": "During Right Stance {3,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo, {3,4,f-hold} to cancel and shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo, {3,4,f-hold} to cancel and shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 428,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Backlash",
     "Description": "During Right Stance {LB,3,4,RB}",
     "Properties": "Power Crush, Homing",
-    "Comment": "Has clean hit effect, chip damage on block, absorb attacks to power up"
+    "Comment": "Has clean hit effect, chip damage on block, absorb attacks to power up",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 433,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Chainsaw Kick",
     "Description": "During Right Stance {4,3}",
     "Properties": "",
-    "Comment": "Shift to Right Stance, {4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+    "Comment": "Shift to Right Stance, {4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 438,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Right Reverse Kick",
     "Description": "During Right Stance {4,4}",
     "Properties": "",
-    "Comment": "{4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+    "Comment": "{4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 443,
+    "Length": 3
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Disrespect",
     "Description": "During Right Stance {1+2}",
     "Properties": "",
-    "Comment": "Facing Backward"
+    "Comment": "Facing Backward",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 449,
+    "Length": 1
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Motion Switch",
     "Description": "During Right Stance {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 453,
+    "Length": 1
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Left Right Combo",
     "Description": "During Right Stance {f,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 457,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Cheap Shot",
     "Description": "During Right Stance {f,3}",
     "Properties": "",
-    "Comment": "Shift to Left Flamingo, {f,3,b-hold} to face backward"
+    "Comment": "Shift to Left Flamingo, {f,3,b-hold} to face backward",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 462,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Right Flamingo Feint",
     "Description": "During Right Stance {f,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 467,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Plasma Blade",
     "Description": "During Right Stance {f,LB,4,4,RB}",
     "Properties": "Tornado",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 472,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Black Kite",
     "Description": "During Right Stance {df,3}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage on block, shift to Right Stance (does not shift when using Heat Dash)"
+    "Comment": "Chip damage on block, shift to Right Stance (does not shift when using Heat Dash)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 477,
+    "Length": 3
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Right Sidekick",
     "Description": "During Right Stance {df,4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance, {df,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo"
+    "Comment": "Shift to Right Stance, {df,4,f-hold} (or {b-hold} or {d-hold} or {u-hold}) to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 483,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Double Claymore",
     "Description": "During Right Stance {df,2+3,4}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block, {df,2+3,f-hold} (or {u-hold} or {d-hold}) to cancel and shift to Left Flamingo"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, {df,2+3,f-hold} (or {u-hold} or {d-hold}) to cancel and shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 488,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Triumph Low Right",
     "Description": "During Right Stance {d,3,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo, {d,3} to face backward"
+    "Comment": "Shift to Right Flamingo, {d,3} to face backward",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 493,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Heel Screw",
     "Description": "During Right Stance {d,3+4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 498,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Blast Fist",
     "Description": "During Right Stance {b,2}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 503,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Nose Bleeder",
     "Description": "During Right Stance {b,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 508,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Spin Kick",
     "Description": "During Right Stance {b,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 513,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Hunting Heel",
     "Description": "During Right Stance {f,f-hold,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 518,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Left Flamingo",
     "Description": "{f,3}, etc.",
     "Properties": "",
-    "Comment": "Can move while maintaining stance {f-hold} (or {b-hold} or {d-hold} or {u-hold})"
+    "Comment": "Can move while maintaining stance {f-hold} (or {b-hold} or {d-hold} or {u-hold})",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 523,
+    "Length": 1
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Left Flamingo > Back Hand",
     "Description": "During Left Flamingo {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 527,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Right Backhand",
     "Description": "During Left Flamingo {2}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 532,
+    "Length": 2
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Flamingo Siege Combo",
     "Description": "During Left Flamingo {3,2}",
     "Properties": "",
-    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo"
+    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 537,
+    "Length": 2
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Flamingo Kick Combo Middle",
     "Description": "During Left Flamingo {3,3}",
     "Properties": "",
-    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo"
+    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 542,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Flamingo Side Kick > Right Hook Kick",
     "Description": "During Left Flamingo {3,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo, during Left Flamingo {3,f-hold} to shift to Left Flamingo"
+    "Comment": "Shift to Right Flamingo, during Left Flamingo {3,f-hold} to shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 547,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Flamingo Side Kick > Backlash",
     "Description": "During Left Flamingo {3,f,4}",
     "Properties": "",
-    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo"
+    "Comment": "During Left Flamingo {3,f-hold} to shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 552,
+    "Length": 3
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Right Step Kick",
     "Description": "During Left Flamingo {4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 558,
+    "Length": 2
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Lightning Halberd",
     "Description": "During Left Flamingo {LB,4,3,RB}",
     "Properties": "",
-    "Comment": "Power up with quick input"
+    "Comment": "Power up with quick input",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 563,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Flamingo Switch > Right Flamingo",
     "Description": "During Left Flamingo {3+4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 569,
+    "Length": 2
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Power Blast",
     "Description": "During Left Flamingo {1+4}",
     "Properties": "",
-    "Comment": "During Left Flamingo {2+3,b,b} to cancel"
+    "Comment": "During Left Flamingo {2+3,b,b} to cancel",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 574,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Flamingo Rocket",
     "Description": "During Left Flamingo {f,3}",
     "Properties": "Heat Engager",
-    "Comment": "Shift to Left Flamingo (does not shift when using Heat Dash)"
+    "Comment": "Shift to Left Flamingo (does not shift when using Heat Dash)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 580,
+    "Length": 3
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Spinning Hook Kick",
     "Description": "During Left Flamingo {f,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 586,
+    "Length": 2
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Flamingo Double Claymore",
     "Description": "During Left Flamingo {df,3,4}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block, during Left Flamingo {df,3,f-hold} (or {d} or {u}) to cancel and shift to Left Flamingo"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, during Left Flamingo {df,3,f-hold} (or {d} or {u}) to cancel and shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 591,
+    "Length": 2
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Flamingo Low Right",
     "Description": "During Left Flamingo {d,3,4}",
     "Properties": "",
-    "Comment": "Shift to Right Flamingo"
+    "Comment": "Shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 596,
+    "Length": 2
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Combat Low",
     "Description": "During Left Flamingo {d,4}",
     "Properties": "",
-    "Comment": "Or during Left Flamingo {db,4}, shift to Right Stance"
+    "Comment": "Or during Left Flamingo {db,4}, shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 601,
+    "Length": 2
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Stealth Needle",
     "Description": "During Left Flamingo {b,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 606,
+    "Length": 2
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Left Thunderbolt",
     "Description": "During Left Flamingo {b,3}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block, shift to Right Stance"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block, shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 611,
+    "Length": 2
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Flamingo Screw Kick",
     "Description": "During Left Flamingo {b,4,3}",
     "Properties": "",
-    "Comment": "Chip damage on block, shift to Right Stance"
+    "Comment": "Chip damage on block, shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 616,
+    "Length": 2
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Flamingo Hunting Hawk",
     "Description": "During Left Flamingo {uf,3} on hit or block {4,3}",
     "Properties": "",
-    "Comment": "During Left Flamingo, {uf,3} on hit or block {4} to shift to Right Flamingo"
+    "Comment": "During Left Flamingo, {uf,3} on hit or block {4} to shift to Right Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 621,
+    "Length": 3
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Switch Plasma Blade",
     "Description": "During Left Flamingo {uf,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 627,
+    "Length": 2
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Flamingo Flashing Trident",
     "Description": "During Left Flamingo {uf,3+4,4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance, during Left Flamingo {uf,3+4,f-hold} to shift to Left Flamingo"
+    "Comment": "Shift to Right Stance, during Left Flamingo {uf,3+4,f-hold} to shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 632,
+    "Length": 2
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "During Left Flamingo {2,2,3,4,3,4,4,4,4,3}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 637,
+    "Length": 6
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Right Flamingo",
     "Description": "{f,n,4}, etc.",
     "Properties": "",
-    "Comment": "Can move while maintaining stance {f-hold} (or {b-hold} or {d-hold} or {u-hold})"
+    "Comment": "Can move while maintaining stance {f-hold} (or {b-hold} or {d-hold} or {u-hold})",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 646,
+    "Length": 1
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Left Punch",
     "Description": "During Right Flamingo {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 650,
+    "Length": 2
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Right Flamingo > Back Hand",
     "Description": "During Right Flamingo {2}",
     "Properties": "",
-    "Comment": "Link to attack from during Right Stance {2}"
+    "Comment": "Link to attack from during Right Stance {2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 655,
+    "Length": 2
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Left Step Kick",
     "Description": "During Right Flamingo {3}",
     "Properties": "",
-    "Comment": "Shift to Left Flamingo, power up during Heat (increased chip damage on block)"
+    "Comment": "Shift to Left Flamingo, power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 660,
+    "Length": 2
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Right Kick",
     "Description": "During Right Flamingo {4}",
     "Properties": "",
-    "Comment": "Shift to Right Stance, power up during Heat (increased chip damage on block)"
+    "Comment": "Shift to Right Stance, power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 665,
+    "Length": 2
   },
   {
     "Id": 130,
@@ -1037,7 +1424,10 @@
     "Name": "Flamingo Switch > Left Flamingo",
     "Description": "During Right Flamingo {3+4}",
     "Properties": "",
-    "Comment": "Shift to Left Flamingo"
+    "Comment": "Shift to Left Flamingo",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 670,
+    "Length": 2
   },
   {
     "Id": 131,
@@ -1045,7 +1435,10 @@
     "Name": "Screw Kick",
     "Description": "During Right Flamingo {f,3}",
     "Properties": "Homing",
-    "Comment": "Power up during Heat (increased chip damage on block)"
+    "Comment": "Power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 675,
+    "Length": 2
   },
   {
     "Id": 132,
@@ -1053,7 +1446,10 @@
     "Name": "Right Viper Combo > Right Sword",
     "Description": "During Right Flamingo {f,4,4}",
     "Properties": "Tornado",
-    "Comment": "Shift to Right Stance, power up during Heat (partially uses remaining Heat time, increased chip damage on block"
+    "Comment": "Shift to Right Stance, power up during Heat (partially uses remaining Heat time, increased chip damage on block",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 680,
+    "Length": 3
   },
   {
     "Id": 133,
@@ -1061,7 +1457,10 @@
     "Name": "Snap Kick",
     "Description": "During Right Flamingo {df,4}",
     "Properties": "",
-    "Comment": "Power up during Heat (increased chip damage on block)"
+    "Comment": "Power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 686,
+    "Length": 2
   },
   {
     "Id": 134,
@@ -1069,7 +1468,10 @@
     "Name": "Teaser",
     "Description": "During Right Flamingo {d,3,3}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (increased chip damage on block)"
+    "Comment": "Chip damage on block, power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 691,
+    "Length": 3
   },
   {
     "Id": 135,
@@ -1077,7 +1479,10 @@
     "Name": "Predator Bardiche",
     "Description": "During Right Flamingo {d,4,3,4}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time, increased chip damage on block), during Right Flamingo {d,4} to shift to Right Stance"
+    "Comment": "Power up during Heat (partially uses remaining Heat time, increased chip damage on block), during Right Flamingo {d,4} to shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 697,
+    "Length": 3
   },
   {
     "Id": 136,
@@ -1085,7 +1490,10 @@
     "Name": "Left Heel Lance",
     "Description": "During Right Flamingo {b,3}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat (increased chip damage on block)"
+    "Comment": "Power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 703,
+    "Length": 3
   },
   {
     "Id": 137,
@@ -1093,7 +1501,10 @@
     "Name": "Right Thunderbolt",
     "Description": "During Right Flamingo {b,4}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block; power up during Heat (increased chip damage on block)"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block; power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 709,
+    "Length": 2
   },
   {
     "Id": 138,
@@ -1101,7 +1512,10 @@
     "Name": "Raptor Claw",
     "Description": "During Right Flamingo {u,4}",
     "Properties": "Homing",
-    "Comment": "Link to attack from {4,4,4}, power up during Heat (increased chip damage on block)"
+    "Comment": "Link to attack from {4,4,4}, power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 714,
+    "Length": 2
   },
   {
     "Id": 139,
@@ -1109,7 +1523,10 @@
     "Name": "Flamingo Hunting Heel",
     "Description": "During Right Flamingo {uf,3}",
     "Properties": "",
-    "Comment": "Power up during Heat (increased chip damage on block)"
+    "Comment": "Power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 719,
+    "Length": 2
   },
   {
     "Id": 140,
@@ -1117,7 +1534,10 @@
     "Name": "Air Blade",
     "Description": "During Right Flamingo {uf,4}",
     "Properties": "Tornado",
-    "Comment": "Shift to Right Stance, power up during Heat (increased chip damage on block)"
+    "Comment": "Shift to Right Stance, power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 724,
+    "Length": 2
   },
   {
     "Id": 141,
@@ -1125,7 +1545,10 @@
     "Name": "Flying Eagle",
     "Description": "During Right Flamingo {LB,3,4,RB}",
     "Properties": "",
-    "Comment": "Power up with quick input, power up during Heat (increased chip damage on block)"
+    "Comment": "Power up with quick input, power up during Heat (increased chip damage on block)",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 729,
+    "Length": 2
   },
   {
     "Id": 142,
@@ -1133,7 +1556,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "During Right Flamingo {1,2,3,4,3,4,4,4,4,3}",
     "Properties": "",
-    "Comment": "Shift to Right Stance"
+    "Comment": "Shift to Right Stance",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 734,
+    "Length": 6
   },
   {
     "Id": 143,
@@ -1141,7 +1567,10 @@
     "Name": "Pickpocket",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 743,
+    "Length": 3
   },
   {
     "Id": 144,
@@ -1149,7 +1578,10 @@
     "Name": "Falcon Dice Kick",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 749,
+    "Length": 2
   },
   {
     "Id": 145,
@@ -1157,7 +1589,10 @@
     "Name": "Bring It On",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, throw escape {1}"
+    "Comment": "Also possible during Right Stance, throw escape {1}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 754,
+    "Length": 4
   },
   {
     "Id": 146,
@@ -1165,7 +1600,10 @@
     "Name": "Dead-End",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, throw escape {2}"
+    "Comment": "Also possible during Right Stance, throw escape {2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 761,
+    "Length": 4
   },
   {
     "Id": 147,
@@ -1173,7 +1611,10 @@
     "Name": "Slaughterhouse",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, cannot throw escape"
+    "Comment": "Also possible during Right Stance, cannot throw escape",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 768,
+    "Length": 4
   },
   {
     "Id": 148,
@@ -1181,7 +1622,10 @@
     "Name": "Roll and Choke",
     "Description": "Approach opponent {2+4,b-hold}",
     "Properties": "Homing",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 775,
+    "Length": 4
   },
   {
     "Id": 149,
@@ -1189,7 +1633,10 @@
     "Name": "Human Cannonball",
     "Description": "Approach opponent {f,2+3}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, Left Flamingo, and Right Flamingo; throw escape {1+2}"
+    "Comment": "Also possible during Right Stance, Left Flamingo, and Right Flamingo; throw escape {1+2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 782,
+    "Length": 2
   },
   {
     "Id": 150,
@@ -1197,7 +1644,10 @@
     "Name": "Leg Hook Throw",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Also possuble during Right Stance, throw escape {1+2}"
+    "Comment": "Also possuble during Right Stance, throw escape {1+2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 787,
+    "Length": 2
   },
   {
     "Id": 151,
@@ -1205,7 +1655,10 @@
     "Name": "Door Mat",
     "Description": "Approach opponent {d,db,b,3}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 792,
+    "Length": 3
   },
   {
     "Id": 152,
@@ -1213,7 +1666,10 @@
     "Name": "Overhead Kick",
     "Description": "Approach airborne opponent {ub,3}",
     "Properties": "",
-    "Comment": "Also possible during Right Stance, cannot throw escape"
+    "Comment": "Also possible during Right Stance, cannot throw escape",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 798,
+    "Length": 3
   },
   {
     "Id": 153,
@@ -1221,7 +1677,10 @@
     "Name": "Jackknife",
     "Description": "During Right Stance approach opponent {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 804,
+    "Length": 3
   },
   {
     "Id": 154,
@@ -1229,7 +1688,10 @@
     "Name": "Parry",
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": "When parrying a punch, {4} for a follow-up attack"
+    "Comment": "When parrying a punch, {4} for a follow-up attack",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 810,
+    "Length": 1
   },
   {
     "Id": 155,
@@ -1237,7 +1699,10 @@
     "Name": "Shotgun Shuffle",
     "Description": "After successful parry {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 814,
+    "Length": 2
   },
   {
     "Id": 156,
@@ -1245,6 +1710,9 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "1EubtlgPkgc",
+    "StartTime": 819,
+    "Length": 2
   }
 ]
