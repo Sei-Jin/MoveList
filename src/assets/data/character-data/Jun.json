@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 0,
+    "Length": 5
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 8,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 14,
+    "Length": 3
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of Kazama's Power (heath reducing move) without reducing health",
     "Properties": "",
-    "Comment": "{f,2} on hit or block {1+2}, {df,2} on hit or block {1+2}, etc."
+    "Comment": "{f,2} on hit or block {1+2}, {df,2} on hit or block {1+2}, etc.",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 20,
+    "Length": 4
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of the powered up version of Inner Peace",
     "Properties": "",
-    "Comment": "{f,1+2}"
+    "Comment": "{f,1+2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 27,
+    "Length": 2
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 32,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Shunkei",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 38,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Ame-no-Habakiri",
     "Description": "{f,2} on hit or block {1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 44,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Kagura",
     "Description": "During sidestep ({u,n} or {d,n}) {4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 50,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Zuiun Renkyaku",
     "Description": "During Izumo ({u,2}, etc.) {3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 56,
+    "Length": 4
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Ame-no-Nuboko",
     "Description": "During Miare ({b,1+2}, etc.) {2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 63,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Yomotsu Ooyumi",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "On hit or block regain recoverable heatlh, Heat Smash"
+    "Comment": "On hit or block regain recoverable heatlh, Heat Smash",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 69,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Yomotsu Mihashira",
     "Description": "During Heat and Genjitsu {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash"
+    "Comment": "Heat Smash",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 75,
+    "Length": 4
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Amatsu Izanami",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 82,
+    "Length": 15
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Suikei > Izumo Smash",
     "Description": "{1,1}",
     "Properties": "",
-    "Comment": "Shift to Izumo"
+    "Comment": "Shift to Izumo",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 100,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Spear Step",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": "{1,2,d-hold} (or {u-hold}) to shift to sidestep"
+    "Comment": "{1,2,d-hold} (or {u-hold}) to shift to sidestep",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 105,
+    "Length": 2
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Spear Step > Izumo Strike",
     "Description": "{1,2,2}",
     "Properties": "Homing",
-    "Comment": "Shift to Izumo"
+    "Comment": "Shift to Izumo",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 110,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Spear Step > Spin Kick",
     "Description": "{1,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 115,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Suiren Leg Scythe",
     "Description": "{1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 120,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Byakuren Tsukinuki",
     "Description": "{2,1,4,1}",
     "Properties": "",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 125,
+    "Length": 3
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Byakuren Tamasudare",
     "Description": "{2,1,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 131,
+    "Length": 3
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Byakuren Misogi",
     "Description": "{2,1,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 137,
+    "Length": 3
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Shion",
     "Description": "{3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 143,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Shunkei",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 148,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Ryuuntsui - Misogi",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "{1+2,d-hold} to shift to crouching state when blocking, deals self-damage (recoverable when not in Heat)"
+    "Comment": "{1+2,d-hold} to shift to crouching state when blocking, deals self-damage (recoverable when not in Heat)",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 154,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "White Heron Dance",
     "Description": "{1+4,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 159,
+    "Length": 3
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "White Heron Lower Dance",
     "Description": "{1+4,2,d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 165,
+    "Length": 3
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "White Heron Sun Palm",
     "Description": "{1+4,3,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 171,
+    "Length": 3
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "White Heron Moon Kick",
     "Description": "{1+4,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 177,
+    "Length": 3
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Izumo Smash",
     "Description": "{f,1}",
     "Properties": "",
-    "Comment": "Shift to Izumo"
+    "Comment": "Shift to Izumo",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 183,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Demon Slayer",
     "Description": "{f,2}",
     "Properties": "",
-    "Comment": "{f,2,d-hold} to cancel and shift to crouching state"
+    "Comment": "{f,2,d-hold} to cancel and shift to crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 188,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Ame-no-Habakiri",
     "Description": "{f,2} on hit or block {1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 193,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Kanbashira > Izumo Strike",
     "Description": "{f,3,2}",
     "Properties": "Homing",
-    "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep, shift to Izumo"
+    "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep, shift to Izumo",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 199,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Double Kanbashira",
     "Description": "{f,3,4}",
     "Properties": "Tornado",
-    "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep"
+    "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 204,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Gentsukankyaku",
     "Description": "{f,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 209,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Inner Peace",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": "On hit shift to Miare, can parry during Heat (partially uses remaining Heat time), deals self-damage (reverable when not in Heat)"
+    "Comment": "On hit shift to Miare, can parry during Heat (partially uses remaining Heat time), deals self-damage (reverable when not in Heat)",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 214,
+    "Length": 1
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Genjitsu",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": "Shift to Genjitsu, during Genjitsu {d-hold} to shift ot crouching state"
+    "Comment": "Shift to Genjitsu, during Genjitsu {d-hold} to shift ot crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 218,
+    "Length": 1
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Wheel Kick",
     "Description": "{f,2+3}",
     "Properties": "",
-    "Comment": "Punch parry effect"
+    "Comment": "Punch parry effect",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 222,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Habotan",
     "Description": "{df,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 227,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Aya Stitch",
     "Description": "{df,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 232,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Mizuho",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 237,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Ame-no-Murakumo",
     "Description": "{df,2} on hit or block {1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 242,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Kazakiri",
     "Description": "{df,3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 247,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Katabami",
     "Description": "{df,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 252,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Heavenly Sun Palm",
     "Description": "{df,3+4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 257,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Heavenly Moon Kick",
     "Description": "{df,3+4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 262,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Narumi",
     "Description": "{d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 267,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Suminagashi",
     "Description": "{d,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 272,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Kamudo-no-Tsurugi",
     "Description": "{d,1+2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 277,
+    "Length": 3
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Double Lift Kicks",
     "Description": "{d,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 283,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Hourai's Dance",
     "Description": "{db,1,1,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 288,
+    "Length": 3
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Ayame",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 294,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Leg Scythe",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 299,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Kariashi",
     "Description": "{db,4,4,4}",
     "Properties": "",
-    "Comment": "{db,4,d-hold}, {db,4,4,d-hold}, {db,4,4,4,d-hold} to directly shift ot crouching state"
+    "Comment": "{db,4,d-hold}, {db,4,4,d-hold}, {db,4,4,4,d-hold} to directly shift ot crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 304,
+    "Length": 3
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Kariashi Hakuro",
     "Description": "During Kariashi {1+4}",
     "Properties": "",
-    "Comment": "Link to attack from {1+4}"
+    "Comment": "Link to attack from {1+4}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 310,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Violet",
     "Description": "{b,1}",
     "Properties": "",
-    "Comment": "{b,1,d-hold} to cancel and shift to crouching state"
+    "Comment": "{b,1,d-hold} to cancel and shift to crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 315,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Sumire Okuri",
     "Description": "{b,1} (Counter Hit)",
     "Properties": "",
-    "Comment": "Throw when hit from the front"
+    "Comment": "Throw when hit from the front",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 320,
+    "Length": 3
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Ryuen Saika Shikei",
     "Description": "{b,2,1,1}",
     "Properties": "",
-    "Comment": "{b,2,1,f-hold} to shift ot Genjitsu, {b,2,1,b-hold} to shift to Miare"
+    "Comment": "{b,2,1,f-hold} to shift ot Genjitsu, {b,2,1,b-hold} to shift to Miare",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 326,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Ryuen Saika Renken",
     "Description": "{b,2,1,2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 331,
+    "Length": 3
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Ryuen Saika Renshuu",
     "Description": "{b,2,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 337,
+    "Length": 3
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Ryuen Magushi",
     "Description": "{b,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 343,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Dragon Wheel Kick",
     "Description": "{b,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 348,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Ryuusha Renken",
     "Description": "{b,3,2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 353,
+    "Length": 3
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Dragon Wheel Leg Cutter",
     "Description": "{b,3,4}",
     "Properties": "",
-    "Comment": "Link to attack from {db,4}, {b,3,4,d-hold} to directly shift to crouching state"
+    "Comment": "Link to attack from {db,4}, {b,3,4,d-hold} to directly shift to crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 359,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Shirabyoushi",
     "Description": "{b,4,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 364,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Miare",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": "Shift to Miare, regain recoverable health, during Miare {d-hold} (or {u-hold}) to shift to sidestep"
+    "Comment": "Shift to Miare, regain recoverable health, during Miare {d-hold} (or {u-hold}) to shift to sidestep",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 369,
+    "Length": 1
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Omoikane",
     "Description": "{b,3+4}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 373,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Shinki",
     "Description": "{b,2+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 378,
+    "Length": 3
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Izumo Strike",
     "Description": "{u,2}",
     "Properties": "Homing",
-    "Comment": "Or {ub,2}, shift to Izumo"
+    "Comment": "Or {ub,2}, shift to Izumo",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 384,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Chikura",
     "Description": "{u,4}",
     "Properties": "",
-    "Comment": "Or {ub,4}"
+    "Comment": "Or {ub,4}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 389,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Divine Exile - Heaven",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": "Deals self-damage (recoverable) when not in Heat"
+    "Comment": "Deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 394,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Totsuka-no-Tsurugi",
     "Description": "{uf,2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 399,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Iwato",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {ub,3} or {u,3}"
+    "Comment": "Or {ub,3} or {u,3}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 404,
+    "Length": 1
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Housenka - Misogi",
     "Description": "{uf,4,3}",
     "Properties": "Tornado",
-    "Comment": "On hit shift to Miare, deals self-damage (recoverable) when not in Heat"
+    "Comment": "On hit shift to Miare, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 408,
+    "Length": 3
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Saiuntsui",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": "Or {ub,3+4} or {u,3+4}"
+    "Comment": "Or {ub,3+4} or {u,3+4}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 414,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Suiei Ura Saika",
     "Description": "{f,f-hold,2,2}",
     "Properties": "Tornado",
-    "Comment": "{f,f-hold,2,f-hold} to shift to Genjitsu, {f,f-hold,f,2,b-hold} to shift to Maire"
+    "Comment": "{f,f-hold,2,f-hold} to shift to Genjitsu, {f,f-hold,f,2,b-hold} to shift to Maire",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 419,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Suiei Kagetsu",
     "Description": "{f,f-hold,2,3}",
     "Properties": "",
-    "Comment": "{f,f-hold,2,f-hold} to shift to Genjitsu, {f,f-hold,f,2,b-hold} to shift to Maire"
+    "Comment": "{f,f-hold,2,f-hold} to shift to Genjitsu, {f,f-hold,f,2,b-hold} to shift to Maire",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 424,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Yukimiguruma",
     "Description": "{f,f-hold,3,3+4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 429,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Tokkei - Misogi",
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Ame-no-Uzume",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Or {ub,b,3}, chip damage on block"
+    "Comment": "Or {ub,b,3}, chip damage on block",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 439,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 444,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Tenkan Saika Shikei",
     "Description": "While rising {1,1,1}",
     "Properties": "",
-    "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare"
+    "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 449,
+    "Length": 3
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Tenkan Saika Renken",
     "Description": "While rising {1,1,2}",
     "Properties": "Tornado",
-    "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare, chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare, chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 455,
+    "Length": 3
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Tenkan Saika Renshuu",
     "Description": "While rising {1,1,4}",
     "Properties": "",
-    "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare"
+    "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 461,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Tomoezakura",
     "Description": "While rising {1,4,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 467,
+    "Length": 3
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Tomoefuji",
     "Description": "While rising {1,4,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 473,
+    "Length": 3
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Hyakkaou",
     "Description": "While rising {2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 479,
+    "Length": 2
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Gioh",
     "Description": "While rising {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 484,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Ichikaku",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 489,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Sudare Nagashi",
     "Description": "While rising {1+2}",
     "Properties": "",
-    "Comment": "While rising {1+2,d-hold} to cancel and shift to crouching state"
+    "Comment": "While rising {1+2,d-hold} to cancel and shift to crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 494,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Flowing Moon Scent",
     "Description": "While rising {3+4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 499,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Twin Cloud Kicks",
     "Description": "While crouching {3+4,3}",
     "Properties": "",
-    "Comment": "While crouching {3+4,d-hold} (or {3+4,3,d-hold}) to directly shift to crouching state"
+    "Comment": "While crouching {3+4,d-hold} (or {3+4,3,d-hold}) to directly shift to crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 504,
+    "Length": 3
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Divine Exile - Earth",
     "Description": "While crouching {df,1}",
     "Properties": "",
-    "Comment": "Deals self-damage (recoverable) when not in Heat"
+    "Comment": "Deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 510,
+    "Length": 3
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Grace",
     "Description": "While crouching {df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 516,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Kanamegaeshi",
     "Description": "While crouching {df,3}",
     "Properties": "",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 521,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "10 Hit Combo",
     "Description": "While rising {1,1,1+4,2,1,2,4,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 526,
+    "Length": 5
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Kasanegasumi",
     "Description": "During sidestep {2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 534,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Kagura",
     "Description": "During sidestep {4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 539,
+    "Length": 3
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Sankouchou",
     "Description": "During sidestep {1+2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 545,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Izumo",
     "Description": "{u,2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Izumo"
+    "Comment": "Shift to Izumo",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 550,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Haraede Kannagi",
     "Description": "During Izumo {1,1}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 555,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Haraede Musubi",
     "Description": "During Izumo {1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 561,
+    "Length": 3
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Setsurinbu - Misogi",
     "Description": "During Izumo {2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 567,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Zuiun Renkyaku",
     "Description": "During Izumo {3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 573,
+    "Length": 4
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Wakeikazuchi - Misogi",
     "Description": "During Izumo {4,1}",
     "Properties": "",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 580,
+    "Length": 3
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Mihikarioroshi",
     "Description": "During Izumo {1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 586,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Dianthus Garden",
     "Description": "During Izumo {f,1+2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 591,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Genjitsu",
     "Description": "{f,3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Genjitsu, during Genjitsu {d-hold} to shift to crouching state"
+    "Comment": "Shift to Genjitsu, during Genjitsu {d-hold} to shift to crouching state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 596,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Rurikoukai",
     "Description": "During Genjitsu {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 601,
+    "Length": 2
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Kazama Style Spirit",
     "Description": "During Genjitsu {2}",
     "Properties": "Power Crush",
-    "Comment": "Throw on front hit, deals self-damage when not in a Heat state (recoverable), absorb an attack to power up and add chip damage"
+    "Comment": "Throw on front hit, deals self-damage when not in a Heat state (recoverable), absorb an attack to power up and add chip damage",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 606,
+    "Length": 4
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Getsuun Renken",
     "Description": "During Genjitsu {3,2}",
     "Properties": "",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 613,
+    "Length": 3
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Nichiun",
     "Description": "During Genjitsu {4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 619,
+    "Length": 2
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Miare",
     "Description": "{b,1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Miare, regain recoverable health, during Miare {d-hold} (or {u-hold}) to shift to sidestep, {db-hold} to shift to standing state"
+    "Comment": "Shift to Miare, regain recoverable health, during Miare {d-hold} (or {u-hold}) to shift to sidestep, {db-hold} to shift to standing state",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 624,
+    "Length": 1
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Ame-no-Sakahoko",
     "Description": "During Miare {1}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 628,
+    "Length": 3
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Ame-no-Nuboko",
     "Description": "During Miare {2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat"
+    "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 634,
+    "Length": 3
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Izumo Strike",
     "Description": "During Miare {1+2}",
     "Properties": "Homing",
-    "Comment": "Shift to Izumo"
+    "Comment": "Shift to Izumo",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 640,
+    "Length": 2
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Genjitsu",
     "Description": "During Miare {f-hold}",
     "Properties": "",
-    "Comment": "Shift to Genjitsu"
+    "Comment": "Shift to Genjitsu",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 645,
+    "Length": 2
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Shiho Nage",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 650,
+    "Length": 3
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Katanuki",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 656,
+    "Length": 4
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Cloud Taste",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 663,
+    "Length": 4
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Wind Wheel",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 670,
+    "Length": 3
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Twisted Limbs",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 676,
+    "Length": 3
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "White Mountain",
     "Description": "Approach opponent {df,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 682,
+    "Length": 3
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "Riai",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 688,
+    "Length": 4
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Falling Rain",
     "Description": "While crouching {db,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 695,
+    "Length": 4
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Tsukuyomi",
     "Description": "During Izumo {1+4} (or {2+3})",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 702,
+    "Length": 3
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Attack Reversal",
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 708,
+    "Length": 3
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Amaterasu",
     "Description": "Time with opponent low attack {f,3+4}",
     "Properties": "",
-    "Comment": "Regain recoverable health"
+    "Comment": "Regain recoverable health",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 714,
+    "Length": 4
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 721,
+    "Length": 2
   },
   {
     "Id": 130,
@@ -1037,6 +1424,9 @@
     "Name": "Throw Reversal",
     "Description": "Time with opponent throw {f,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KYXWEd2cXgY",
+    "StartTime": 726,
+    "Length": 3
   }
 ]
