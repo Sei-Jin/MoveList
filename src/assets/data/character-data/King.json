@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 7,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 13,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of a powered up version of Jaguar Sprint",
     "Properties": "",
-    "Comment": "{f,3+4}, etc., during Jaguar Sprint {1}, during Jaguar Sprint {2}"
+    "Comment": "{f,3+4}, etc., during Jaguar Sprint {1}, during Jaguar Sprint {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 21,
+    "Length": 4
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Partially restores remaining Heat time with certain throws",
     "Properties": "",
-    "Comment": "{f,f,f-hold,2+4}, {d,db,b,1+2}, {f,b,db,d,df,f,1}, etc."
+    "Comment": "{f,f,f-hold,2+4}, {d,db,b,1+2}, {f,b,db,d,df,f,1}, etc.",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 28,
+    "Length": 7
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 38,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Elbow Impact",
     "Description": "{f,2,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 44,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Shoulder Tackle",
     "Description": "{f,2+3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 50,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Muscle Armor > Emerald Elbow",
     "Description": "{db,1+2,1}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Throw during front hit on ground (does not shift when using Heat Dash), Heat activates when the throw completes, absorb an attack to power up and add chip damage"
+    "Comment": "Throw during front hit on ground (does not shift when using Heat Dash), Heat activates when the throw completes, absorb an attack to power up and add chip damage",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 56,
+    "Length": 4
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Rapid King Onslaught",
     "Description": "During Jaguar Sprint ({f,3+4}, etc.) {1+3} (or {2+4})",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
+    "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 63,
+    "Length": 4
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Freedom Face Buster",
     "Description": "Approach crouching opponent {d,1+4}",
     "Properties": "Heat Engager",
-    "Comment": "Or {db,1+4}, cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
+    "Comment": "Or {db,1+4}, cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 70,
+    "Length": 5
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Ultimo Jaguar",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, throw on hit, shift to Jaguar Sprint on block"
+    "Comment": "Heat Smash, throw on hit, shift to Jaguar Sprint on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 78,
+    "Length": 5
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Anger Of The Beast",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 86,
+    "Length": 14
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Palm Strike",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 103,
+    "Length": 1
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Palm Strike > Head Jammer",
     "Description": "{1,2,2+4}",
     "Properties": "Tornado",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 107,
+    "Length": 4
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Palm Strike > V Driver",
     "Description": "{1,2,d,2+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 114,
+    "Length": 4
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Palm Strike Uppercut",
     "Description": "{1,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 121,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Palm Strike Uppercut > Suplex",
     "Description": "{1,2,1,2+4}",
     "Properties": "Tornado",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 126,
+    "Length": 6
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Palm Strike Uppercut > V Driver",
     "Description": "{1,2,1,d,2+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 135,
+    "Length": 5
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Right Jab > Uppercut",
     "Description": "{2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 143,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Head Spinner",
     "Description": "{1+2,1}",
     "Properties": "",
-    "Comment": "{1+2,1,b-hold} shift to cancel"
+    "Comment": "{1+2,1,b-hold} shift to cancel",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 148,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Brutal Sting",
     "Description": "{1+2,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 153,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Jaguar Step",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Shift to Jaguar Step, hold {3+4} to continue spinning (strikes from this are powered up)"
+    "Comment": "Shift to Jaguar Step, hold {3+4} to continue spinning (strikes from this are powered up)",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 158,
+    "Length": 1
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Elbow Impact",
     "Description": "{f,2,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 162,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Jaguar Smash Combo",
     "Description": "{f,2,d,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 168,
+    "Length": 3
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Front Kick",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 174,
+    "Length": 1
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Front Kick > DDT",
     "Description": "{f,3} during front hit on ground {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 178,
+    "Length": 3
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Rolling Sobat",
     "Description": "{f,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 184,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Shadow Lariat",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 189,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Jaguar Sprint",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel, Power Crush during Heat (partially uses remaining Heat time)"
+    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel, Power Crush during Heat (partially uses remaining Heat time)",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 194,
+    "Length": 3
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Body Check",
     "Description": "{f,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 200,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Shoulder Tackle",
     "Description": "{f,2+3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 205,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Elbow Sting",
     "Description": "{df,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 211,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Double Hook Disaster",
     "Description": "{df,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 216,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Lasso Kick",
     "Description": "{df,3} on hit or block {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 221,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Mincer",
     "Description": "{df,4,3,4}",
     "Properties": "",
-    "Comment": "{df,4,3,4,b-hold} to face backward"
+    "Comment": "{df,4,3,4,b-hold} to face backward",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 226,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Mincer Low",
     "Description": "{df,4,3,d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 231,
+    "Length": 3
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Frankensteiner",
     "Description": "{df,3+4}",
     "Properties": "",
-    "Comment": "Throw when hit from the front in close range"
+    "Comment": "Throw when hit from the front in close range",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 237,
+    "Length": 3
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Jab > Uppercut",
     "Description": "{d,1,2}",
     "Properties": "",
-    "Comment": "Or while crouching {1,2}"
+    "Comment": "Or while crouching {1,2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 243,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Stomp",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 248,
+    "Length": 1
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Atlas' Hammer",
     "Description": "{d,1+2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 252,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Stagger Kicks",
     "Description": "{d,3+4,4,4}",
     "Properties": "",
-    "Comment": "Or while crouching {df,4,4,4} or while running (two steps or more) {f-hold,4,4,4}"
+    "Comment": "Or while crouching {df,4,4,4} or while running (two steps or more) {f-hold,4,4,4}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 257,
+    "Length": 3
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Stagger Kicks Flurry",
     "Description": "{d,3+4,4,4,4} (Counter Hit)",
     "Properties": "",
-    "Comment": "Or while crouching {df,4,4,4,4} (Counter Hit)"
+    "Comment": "Or while crouching {df,4,4,4,4} (Counter Hit)",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 263,
+    "Length": 5
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Stagger Kick Spinning Uppercut",
     "Description": "During Stagger Kicks {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 271,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Corporate Elbow",
     "Description": "{d,2+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 276,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Brain Chop",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 281,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Crouching Low Kick",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 286,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Low Drop Kick",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": "Or back facing opponent {db,4} or back facing opponent {d,4} or back facing opponent {df,4}"
+    "Comment": "Or back facing opponent {db,4} or back facing opponent {d,4} or back facing opponent {df,4}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 291,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Muscle Armor > Emerald Elbow",
     "Description": "{db,1+2,2}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Throw during fornt hit on ground (does not shift when using Heat Dash), Heat activates when the throw completes, absorb an attack to power up and add chip damage"
+    "Comment": "Throw during fornt hit on ground (does not shift when using Heat Dash), Heat activates when the throw completes, absorb an attack to power up and add chip damage",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 296,
+    "Length": 4
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Muscle Armor > Jaguar Sprint",
     "Description": "{db,1+2,3+4}",
     "Properties": "",
-    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel"
+    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 303,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Quick Hook > Uppercut",
     "Description": "{b,1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 309,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Quick Hook > Heel Kick",
     "Description": "{b,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 314,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Chupacabra > Spinning Back Elbow",
     "Description": "{b,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 319,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Chupacabra > Olympia Slam",
     "Description": "{b,2,4}",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 324,
+    "Length": 4
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Chupacabra > Head Butt",
     "Description": "{b,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 331,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Toll Kick",
     "Description": "{b,3}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 336,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Guillotine Drop",
     "Description": "{b,3} during front hit on ground {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 341,
+    "Length": 4
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Disgraceful Kick",
     "Description": "{b,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 348,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Reverse Jaguar Step",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Shift to Jaguar Step"
+    "Comment": "Shift to Jaguar Step",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 353,
+    "Length": 1
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Capital Punishment",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": "Or {ub,1+2}"
+    "Comment": "Or {ub,1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 357,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Burning Knuckle",
     "Description": "{u,1+2} hold",
     "Properties": "",
-    "Comment": "Or {ub,1+2} hold"
+    "Comment": "Or {ub,1+2} hold",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 362,
+    "Length": 3
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Water Parting Chop",
     "Description": "{uf,1}",
     "Properties": "Homing",
-    "Comment": "Or {ub,1} or {u,1}"
+    "Comment": "Or {ub,1} or {u,1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 368,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "High Elbow Drop",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "Or {ub,2} or {u,2}"
+    "Comment": "Or {ub,2} or {u,2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 373,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Falling Heel Kick",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {ub,3} or {u,3}"
+    "Comment": "Or {ub,3} or {u,3}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 378,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Jumping Knee Lift",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": "Or {ub,4} or {u,4}"
+    "Comment": "Or {ub,4} or {u,4}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 383,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Sole Crusher",
     "Description": "{uf,3+4}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Shift to Jaguar Sprint on hit, {uf,3+4,b-hold} to stand up, absorb an attack to power up and add chip damage"
+    "Comment": "Shift to Jaguar Sprint on hit, {uf,3+4,b-hold} to stand up, absorb an attack to power up and add chip damage",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 388,
+    "Length": 3
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 394,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Stomach Smash",
     "Description": "{f,f,n,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 399,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Jaguar Hammer",
     "Description": "{f,f,n,2} (Counter Hit)",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 404,
+    "Length": 4
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Lay Off",
     "Description": "{f,f,n,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 411,
+    "Length": 1
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Jaguar Hook",
     "Description": "{f,f-hold,1}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 415,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Beast Elbow",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 420,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Konvict Kick",
     "Description": "{f,f-hold,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 425,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Konvict Kick > DDT",
     "Description": "{f,f-hold,4} (Counter Hit)",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 430,
+    "Length": 4
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Exploder",
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 437,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Diving Body Press",
     "Description": "{f,f-hold,2+3}",
     "Properties": "",
-    "Comment": "Throw when hit from the front in close range"
+    "Comment": "Throw when hit from the front in close range",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 442,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Strong Knee",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 447,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Running Exploder",
     "Description": "{f,f,f-hold,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 452,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{1,2,1,1,2,4,4,4,1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 457,
+    "Length": 5
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{1,2,1,1,3,3,4,3,2,1+2}",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 465,
+    "Length": 8
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 476,
+    "Length": 4
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Beast Step",
     "Description": "{f,n,d,df}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 483,
+    "Length": 1
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Knee Lift",
     "Description": "{f,n,d,df-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 487,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Black Bomb",
     "Description": "{f,n,d,df-hold,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 492,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Round Trip Chop",
     "Description": "While rising {2,2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 497,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Toe Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 502,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Snap Uppercut",
     "Description": "While rising {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 507,
+    "Length": 2
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Leg Breaker",
     "Description": "While crouching {df,1}",
     "Properties": "",
-    "Comment": "Or {f,n,d,df-hold,1}"
+    "Comment": "Or {f,n,d,df-hold,1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 512,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Body Blow",
     "Description": "While crouching {df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 518,
+    "Length": 3
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Victory Palm",
     "Description": "During sidestep {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 524,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Deadly Boomerang",
     "Description": "During sidestep {3+4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 529,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Whilring Spring Kick",
     "Description": "(By opponent's feet) while down and facing up {b,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 534,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Blind Kick",
     "Description": "Back facing opponent {3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 539,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Blind Kick > Neck Breaker",
     "Description": "Back facing opponent {3} on front hit on ground {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 544,
+    "Length": 3
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Atomic Blaster",
     "Description": "Back facing opponent {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 550,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Moonsault Body Press",
     "Description": "Back facing opponent {1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 555,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Jaguar Step",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Jaguar Step, hold {3+4} to continue spinning (strikes from this are powered up)"
+    "Comment": "Shift to Jaguar Step, hold {3+4} to continue spinning (strikes from this are powered up)",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 560,
+    "Length": 1
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Jaguar Step > Hook",
     "Description": "During Jaguar Step {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 564,
+    "Length": 3
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Jaguar Step > Hammer",
     "Description": "During Jaguar Step {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 570,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Jaguar Step > Sobat",
     "Description": "During Jaguar Step {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 575,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Jaguar Step > Sobat & Press",
     "Description": "During Jaguar Step {3,2+3}",
     "Properties": "",
-    "Comment": "Throw when hit from the front in close range"
+    "Comment": "Throw when hit from the front in close range",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 580,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Jaguar Step > High Kick",
     "Description": "During Jaguar Step {4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 586,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Jaguar Step > Mid Kick",
     "Description": "During Jaguar Step {df,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 591,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Jaguar Sprint",
     "Description": "{f,3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel, Power Crush during Heat (partially uses remaining Heat time)"
+    "Comment": "Shift to Jaguar Sprint, {b-hold} to cancel, Power Crush during Heat (partially uses remaining Heat time)",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 596,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Running Elbow Smash",
     "Description": "During Jaguar Sprint {1}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 602,
+    "Length": 2
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Jaguar Axe",
     "Description": "During Jaguar Sprint {2}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 607,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Sprint K.",
     "Description": "During Jaguar Sprint {3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 612,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Dashing Low Drop Kick",
     "Description": "During Jaguar Sprint {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 618,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Rapid King Onslaught",
     "Description": "During Jaguar Sprint {1+3} (or {2+4})",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash"
+    "Comment": "Cannot throw escape, partially restores remaining Heat time during Heat, unable to shift to Heat Dash",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 623,
+    "Length": 4
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Diving Body Press",
     "Description": "During Jaguar Sprint {2+3}",
     "Properties": "",
-    "Comment": "Throw when hit from the front in close range"
+    "Comment": "Throw when hit from the front in close range",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 630,
+    "Length": 2
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Winding Nut",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 635,
+    "Length": 3
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Winding Nut",
     "Description": "Approach opponent {f,1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 641,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Suplex",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 647,
+    "Length": 3
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Suplex",
     "Description": "Approach opponent {f,2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 653,
+    "Length": 3
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Argentina Backbreaker",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 659,
+    "Length": 5
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Knee Crusher",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 667,
+    "Length": 3
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Half Boston Crab",
     "Description": "Approach opponent from behind {1+3} (or {f,1+3})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 673,
+    "Length": 4
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Cobra Twist",
     "Description": "Approach opponent from behind {2+4}, (or {f,2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 680,
+    "Length": 5
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Stretch Buster",
     "Description": "Approach opponent from behind {b,f,1+2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 688,
+    "Length": 3
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Knee Bash",
     "Description": "Approach opponent {df,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 694,
+    "Length": 3
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Figure Four Leg Lock",
     "Description": "Approach opponent {db,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, when opponent inputs {3+4} (Just Input) shift to Reverse Figure Four Leg Lock"
+    "Comment": "Throw escape {1+2}, when opponent inputs {3+4} (Just Input) shift to Reverse Figure Four Leg Lock",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 700,
+    "Length": 6
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Throw Away",
     "Description": "Approach opponent {b,1+2}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1+2}, shift to Jaguar Sprint, approach opponent {b,1+2,f,f-hold} to shift to standing state"
+    "Comment": "Throw escape {1+2}, shift to Jaguar Sprint, approach opponent {b,1+2,f,f-hold} to shift to standing state",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 709,
+    "Length": 4
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Throw Away > Back Swing",
     "Description": "Approach opponent {b,1+2,1+2}",
     "Properties": "Homing",
-    "Comment": "Cannot throw escape, shift to Jaguar Sprint, approach opponent {b,1+2,1+2,f,f-hold} to shift to standing state"
+    "Comment": "Cannot throw escape, shift to Jaguar Sprint, approach opponent {b,1+2,1+2,f,f-hold} to shift to standing state",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 716,
+    "Length": 5
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "Executioner Drop",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, approach opponent {uf,1+2,b-hold} to throw in reverse direction"
+    "Comment": "Throw escape {1+2}, approach opponent {uf,1+2,b-hold} to throw in reverse direction",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 724,
+    "Length": 3
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Tombstone Pile Driver",
     "Description": "Approach opponent {db,n,f,2+4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 730,
+    "Length": 4
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Tomahawk",
     "Description": "Approach opponent {f,f,f-hold,2+4}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, power up with quick input, partially restores remaining Heat time"
+    "Comment": "Throw escape {1+2}, power up with quick input, partially restores remaining Heat time",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 737,
+    "Length": 3
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Pile Driver",
     "Description": "Approach opponent {d,df,f,1}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 743,
+    "Length": 5
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Double Arm Face Buster",
     "Description": "During Pile Driver {1+2,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 751,
+    "Length": 5
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Boston Crab",
     "Description": "During Pile Driver {1+2,3,4,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 759,
+    "Length": 7
   },
   {
     "Id": 130,
@@ -1037,7 +1424,10 @@
     "Name": "Muscle Buster",
     "Description": "Approach opponent {d,db,b,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, during Heat partially restore remaining Heat time"
+    "Comment": "Throw escape {1+2}, during Heat partially restore remaining Heat time",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 769,
+    "Length": 5
   },
   {
     "Id": 131,
@@ -1045,7 +1435,10 @@
     "Name": "Giant Swing",
     "Description": "Approach opponent {f,b,db,d,df,f,1}",
     "Properties": "",
-    "Comment": "Throw escape {1}, opponent can reduce damage with side ukemi, power up with quick input, partially restores remaining Heat time"
+    "Comment": "Throw escape {1}, opponent can reduce damage with side ukemi, power up with quick input, partially restores remaining Heat time",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 777,
+    "Length": 6
   },
   {
     "Id": 132,
@@ -1053,7 +1446,10 @@
     "Name": "Tijuana Twister",
     "Description": "Approach opponent {f,b,db,d,df,f,2}",
     "Properties": "",
-    "Comment": "Throw escape {2}, power up with quick input, partially restores remaining Heat time"
+    "Comment": "Throw escape {2}, power up with quick input, partially restores remaining Heat time",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 786,
+    "Length": 4
   },
   {
     "Id": 133,
@@ -1061,7 +1457,10 @@
     "Name": "Clothesline Press",
     "Description": "Whlie crouching {db,d,db,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 793,
+    "Length": 4
   },
   {
     "Id": 134,
@@ -1069,7 +1468,10 @@
     "Name": "Ultimate Tackle",
     "Description": "Whlie crouching {1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, shift to takedown on hit"
+    "Comment": "Throw escape {1+2}, shift to takedown on hit",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 800,
+    "Length": 3
   },
   {
     "Id": 135,
@@ -1077,7 +1479,10 @@
     "Name": "Ultimate Punch",
     "Description": "During takedown {2,1,2,1}",
     "Properties": "",
-    "Comment": "Or during takedown {1,2,1,2}, throw escape {1} (or {2})"
+    "Comment": "Or during takedown {1,2,1,2}, throw escape {1} (or {2})",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 806,
+    "Length": 5
   },
   {
     "Id": 136,
@@ -1085,7 +1490,10 @@
     "Name": "Armbar",
     "Description": "During takedown {1+2}",
     "Properties": "",
-    "Comment": "Shift is also possible after the third hit of Ultimate Punch, throw escape {1+2}"
+    "Comment": "Shift is also possible after the third hit of Ultimate Punch, throw escape {1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 814,
+    "Length": 5
   },
   {
     "Id": 137,
@@ -1093,7 +1501,10 @@
     "Name": "Arm Twist",
     "Description": "During Armbar {1+2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 822,
+    "Length": 7
   },
   {
     "Id": 138,
@@ -1101,7 +1512,10 @@
     "Name": "Leg Cross Hold",
     "Description": "During takedown {3+4}",
     "Properties": "",
-    "Comment": "Shift is also possible after the third hit of Ultimate Punch, throw escape {3+4}"
+    "Comment": "Shift is also possible after the third hit of Ultimate Punch, throw escape {3+4}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 832,
+    "Length": 5
   },
   {
     "Id": 139,
@@ -1109,7 +1523,10 @@
     "Name": "Stretch Combo",
     "Description": "During Leg Cross Hold {1+2} (Perfect)",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 840,
+    "Length": 8
   },
   {
     "Id": 140,
@@ -1117,7 +1534,10 @@
     "Name": "Iron Lariat",
     "Description": "Approach crouching opponent {d,1+3}",
     "Properties": "",
-    "Comment": "Or {db,1+3}, cannot throw escape"
+    "Comment": "Or {db,1+3}, cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 851,
+    "Length": 3
   },
   {
     "Id": 141,
@@ -1125,7 +1545,10 @@
     "Name": "V Driver",
     "Description": "Approach crouching opponent {d,2+4}",
     "Properties": "",
-    "Comment": "Or {db,2+4}, cannot throw escape"
+    "Comment": "Or {db,2+4}, cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 857,
+    "Length": 4
   },
   {
     "Id": 142,
@@ -1133,7 +1556,10 @@
     "Name": "Freedom Face Buster",
     "Description": "Approach crouching opponent {d,1+4}",
     "Properties": "Heat Engager",
-    "Comment": "Or {db,1+4}, cannot throw escape, partially restores remaining Heat time, unable to shift to Heat Dash"
+    "Comment": "Or {db,1+4}, cannot throw escape, partially restores remaining Heat time, unable to shift to Heat Dash",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 864,
+    "Length": 5
   },
   {
     "Id": 143,
@@ -1141,7 +1567,10 @@
     "Name": "Swing Away",
     "Description": "(Opponent down and facing up) by opponent's feet {db,1+3} (or {db,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 872,
+    "Length": 4
   },
   {
     "Id": 144,
@@ -1149,7 +1578,10 @@
     "Name": "Head Bomber",
     "Description": "(Opponent down and facing up) by opponent's feet {db-hold,1+3}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 879,
+    "Length": 3
   },
   {
     "Id": 145,
@@ -1157,7 +1589,10 @@
     "Name": "Figure Four Leg Lock",
     "Description": "(Opponent down and facing up) by opponent's feet {db-hold,2+4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 885,
+    "Length": 5
   },
   {
     "Id": 146,
@@ -1165,7 +1600,10 @@
     "Name": "Shoulder Cracker",
     "Description": "(Opponent down and facing up) by opponent's head {db,1+3} (or {db,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 893,
+    "Length": 4
   },
   {
     "Id": 147,
@@ -1173,7 +1611,10 @@
     "Name": "Turn Over",
     "Description": "(Opponent down and facing up) by opponent's side {db,1+3} (or {db,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 900,
+    "Length": 1
   },
   {
     "Id": 148,
@@ -1181,7 +1622,10 @@
     "Name": "Half Boston Crab",
     "Description": "(Opponent down and facing down) by opponent's feet {db,1+3} (or {db,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 904,
+    "Length": 4
   },
   {
     "Id": 149,
@@ -1189,7 +1633,10 @@
     "Name": "Wing Tearer",
     "Description": "(Opponent down and facing down) by opponent's head {db,1+3} (or {db,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 911,
+    "Length": 3
   },
   {
     "Id": 150,
@@ -1197,7 +1644,10 @@
     "Name": "Camel Clutch",
     "Description": "(Opponent down and facing down) from the left {db,1+3} (or {db,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 917,
+    "Length": 4
   },
   {
     "Id": 151,
@@ -1205,7 +1655,10 @@
     "Name": "Bow & Arrow Stretch Hold",
     "Description": "(Opponent down and facing down) from the right {db,1+3} (or {db,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 924,
+    "Length": 4
   },
   {
     "Id": 152,
@@ -1213,7 +1666,10 @@
     "Name": "Mid-Air Leg Cross Hold",
     "Description": "Approach airborne opponent {1+3} (or {f,1+3})",
     "Properties": "Homing",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 931,
+    "Length": 4
   },
   {
     "Id": 153,
@@ -1221,7 +1677,10 @@
     "Name": "Spine Cracker",
     "Description": "Approach airborne opponent {2+4} (or {f,2+4})",
     "Properties": "Tornado, Homing",
-    "Comment": "Or (during opponent wall stun) {3+4,1+4} (or {3+4,2+3}), cannot throw escape"
+    "Comment": "Or (during opponent wall stun) {3+4,1+4} (or {3+4,2+3}), cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 938,
+    "Length": 4
   },
   {
     "Id": 154,
@@ -1229,7 +1688,10 @@
     "Name": "Double Heel Hold",
     "Description": "Approach airborne opponent {d,1+3} (or {d,2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 945,
+    "Length": 3
   },
   {
     "Id": 155,
@@ -1237,7 +1699,10 @@
     "Name": "Flapjack",
     "Description": "Approach airborne opponent during Double Heel Hold {1+2,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 951,
+    "Length": 4
   },
   {
     "Id": 156,
@@ -1245,7 +1710,10 @@
     "Name": "Giant Swing",
     "Description": "Approach airborne opponent during Double Heel Hold {2,1,3,4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 958,
+    "Length": 6
   },
   {
     "Id": 157,
@@ -1253,7 +1721,10 @@
     "Name": "Running Jaguar Bomb",
     "Description": "Approach airborne opponent {f,f,f-hold,2+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape, power up with quick input, partially restores remaining Heat time"
+    "Comment": "Cannot throw escape, power up with quick input, partially restores remaining Heat time",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 967,
+    "Length": 4
   },
   {
     "Id": 158,
@@ -1261,7 +1732,10 @@
     "Name": "Aerial Jaguar Bomb",
     "Description": "Approach airborne opponent {f,b,db,d,df,f,1}",
     "Properties": "",
-    "Comment": "Or approach airborne opponent {f,b,db,d,df,f,2} (or during Jaguar Sprint {1+3}), cannot throw escape, power up with quick input, partially restores remaining Heat time"
+    "Comment": "Or approach airborne opponent {f,b,db,d,df,f,2} (or during Jaguar Sprint {1+3}), cannot throw escape, power up with quick input, partially restores remaining Heat time",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 974,
+    "Length": 4
   },
   {
     "Id": 159,
@@ -1269,7 +1743,10 @@
     "Name": "Shining Torpedo",
     "Description": "During opponent wall stun {f,b,db,d,df,f,1}",
     "Properties": "",
-    "Comment": "Or (during opponent wall stun) {f,f,f-hold,2+4}, cannot throw escape, power up with quick input, partially restores remaining Heat time"
+    "Comment": "Or (during opponent wall stun) {f,f,f-hold,2+4}, cannot throw escape, power up with quick input, partially restores remaining Heat time",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 981,
+    "Length": 4
   },
   {
     "Id": 160,
@@ -1277,7 +1754,10 @@
     "Name": "Arm Whip",
     "Description": "Time with opponent right punch {b,1+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 988,
+    "Length": 2
   },
   {
     "Id": 161,
@@ -1285,7 +1765,10 @@
     "Name": "Spinning Heel Hold",
     "Description": "Time with opponent left kick {b,2+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 993,
+    "Length": 5
   },
   {
     "Id": 162,
@@ -1293,7 +1776,10 @@
     "Name": "Leg Screw",
     "Description": "Time with opponent right kick {b,2+4}",
     "Properties": "",
-    "Comment": "After sucess, {3+4} to shift to Figure Four Leg Lock"
+    "Comment": "After sucess, {3+4} to shift to Figure Four Leg Lock",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1001,
+    "Length": 3
   },
   {
     "Id": 163,
@@ -1301,7 +1787,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1007,
+    "Length": 3
   },
   {
     "Id": 164,
@@ -1309,7 +1798,10 @@
     "Name": "Reverse Arm Slam",
     "Description": "Approach opponent {df,1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1013,
+    "Length": 3
   },
   {
     "Id": 165,
@@ -1317,7 +1809,10 @@
     "Name": "Backdrop",
     "Description": "During Reverse Arm Slam {1} (or {2})",
     "Properties": "",
-    "Comment": "Cannot throw escape, during Reverse Arm Slam {2,1,1+2} to power up"
+    "Comment": "Cannot throw escape, during Reverse Arm Slam {2,1,1+2} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1019,
+    "Length": 5
   },
   {
     "Id": 166,
@@ -1325,7 +1820,10 @@
     "Name": "German Suplex",
     "Description": "During Backdrop {1} (or {2})",
     "Properties": "",
-    "Comment": "Throw escape {1} (or {2}), during Backdrop {3+4,1} (or {3+4,2}) to power up"
+    "Comment": "Throw escape {1} (or {2}), during Backdrop {3+4,1} (or {3+4,2}) to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1027,
+    "Length": 8
   },
   {
     "Id": 167,
@@ -1333,7 +1831,10 @@
     "Name": "Power Bomb",
     "Description": "During German Suplex {1} (or {2})",
     "Properties": "",
-    "Comment": "Cannot throw escape, during German Suplex {1,2,3+4} to power up"
+    "Comment": "Cannot throw escape, during German Suplex {1,2,3+4} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1038,
+    "Length": 10
   },
   {
     "Id": 168,
@@ -1341,7 +1842,10 @@
     "Name": "Giant Swing",
     "Description": "During Power Bomb {1}",
     "Properties": "",
-    "Comment": "Throw escape {1}, during Power Bomb {2,1,3,4} to power up"
+    "Comment": "Throw escape {1}, during Power Bomb {2,1,3,4} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1051,
+    "Length": 14
   },
   {
     "Id": 169,
@@ -1349,7 +1853,10 @@
     "Name": "Muscle Buster",
     "Description": "During Power Bomb {2}",
     "Properties": "",
-    "Comment": "Throw escape {2}, during Power Bomb {2,1,3,3+4,1+2} to power up"
+    "Comment": "Throw escape {2}, during Power Bomb {2,1,3,3+4,1+2} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1068,
+    "Length": 13
   },
   {
     "Id": 170,
@@ -1357,7 +1864,10 @@
     "Name": "Reverse Special Stretch Bomb",
     "Description": "Approach opponent {df,2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1084,
+    "Length": 5
   },
   {
     "Id": 171,
@@ -1365,7 +1875,10 @@
     "Name": "Reverse Special Stretch Bomb",
     "Description": "During sidestep {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {2}, during sidestep {2+4,b-hold} (or {db-hold}) to cancel into crouch; changes to Cannonball Buster when grabbed from the side or back"
+    "Comment": "Throw escape {2}, during sidestep {2+4,b-hold} (or {db-hold}) to cancel into crouch; changes to Cannonball Buster when grabbed from the side or back",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1092,
+    "Length": 5
   },
   {
     "Id": 172,
@@ -1373,7 +1886,10 @@
     "Name": "Cannonball Buster",
     "Description": "During Reverse Special Stretch Bomb {1} (or {2})",
     "Properties": "",
-    "Comment": "Cannot throw escape, during Reverse Speical Stretch Bomb {2,2,1+2} to power up"
+    "Comment": "Cannot throw escape, during Reverse Speical Stretch Bomb {2,2,1+2} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1100,
+    "Length": 7
   },
   {
     "Id": 173,
@@ -1381,7 +1897,10 @@
     "Name": "Manhattan Drop",
     "Description": "During Cannonball Buster {1} (or {2})",
     "Properties": "",
-    "Comment": "Throw escape {1} (or {2}), during Cannonball Buster {3+4,1} (or {3+4,2}) to power up"
+    "Comment": "Throw escape {1} (or {2}), during Cannonball Buster {3+4,1} (or {3+4,2}) to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1110,
+    "Length": 9
   },
   {
     "Id": 174,
@@ -1389,7 +1908,10 @@
     "Name": "Victory Bomb",
     "Description": "During Manhattan Drop {1} (or {2})",
     "Properties": "",
-    "Comment": "Cannot throw escape, during Manhattan Drop {1,2,3+4,1+2} to power up"
+    "Comment": "Cannot throw escape, during Manhattan Drop {1,2,3+4,1+2} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1122,
+    "Length": 11
   },
   {
     "Id": 175,
@@ -1397,7 +1919,10 @@
     "Name": "Giant Swing",
     "Description": "During Victory Bomb {1}",
     "Properties": "",
-    "Comment": "Throw escape {1}, during Victory Bomb {2,1,3,4} to power up"
+    "Comment": "Throw escape {1}, during Victory Bomb {2,1,3,4} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1136,
+    "Length": 15
   },
   {
     "Id": 176,
@@ -1405,7 +1930,10 @@
     "Name": "Muscle Buster",
     "Description": "During Victory Bomb {2}",
     "Properties": "",
-    "Comment": "Throw escape {2}, during Victory Bomb {3,1,2,3+4,1+2} to power up"
+    "Comment": "Throw escape {2}, during Victory Bomb {3,1,2,3+4,1+2} to power up",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1154,
+    "Length": 13
   },
   {
     "Id": 177,
@@ -1413,7 +1941,10 @@
     "Name": "Standing Heel Hold",
     "Description": "Approach opponent {f,n,d,df-hold,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1170,
+    "Length": 5
   },
   {
     "Id": 178,
@@ -1421,7 +1952,10 @@
     "Name": "S.T.F.",
     "Description": "During Standing Heel Hold {1,2,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1178,
+    "Length": 9
   },
   {
     "Id": 179,
@@ -1429,7 +1963,10 @@
     "Name": "Scorpion Death Lock",
     "Description": "During Standing Heel Hold {2,1,1+3}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1190,
+    "Length": 9
   },
   {
     "Id": 180,
@@ -1437,7 +1974,10 @@
     "Name": "Indian Death Lock",
     "Description": "During Standing Heel Hold {1+2,1,3}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1202,
+    "Length": 9
   },
   {
     "Id": 181,
@@ -1445,7 +1985,10 @@
     "Name": "King's Bridge",
     "Description": "During Indian Death Lock {3,4,1+2,3+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1214,
+    "Length": 14
   },
   {
     "Id": 182,
@@ -1453,7 +1996,10 @@
     "Name": "Arm Breaker",
     "Description": "Approach opponent {f,n,d,df-hold,1+4}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1231,
+    "Length": 3
   },
   {
     "Id": 183,
@@ -1461,7 +2007,10 @@
     "Name": "Triple Arm Breaker",
     "Description": "During Arm Breaker {1,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1237,
+    "Length": 6
   },
   {
     "Id": 184,
@@ -1469,7 +2018,10 @@
     "Name": "Head Jammer",
     "Description": "During Arm Breaker {2,4,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1246,
+    "Length": 5
   },
   {
     "Id": 185,
@@ -1477,7 +2029,10 @@
     "Name": "Struggle Combination",
     "Description": "During Head Jammer {3,4,3+4,1+2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1254,
+    "Length": 9
   },
   {
     "Id": 186,
@@ -1485,7 +2040,10 @@
     "Name": "Chicken Wing Face Lock",
     "Description": "During Arm Breaker {2,1,1+3}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1266,
+    "Length": 5
   },
   {
     "Id": 187,
@@ -1493,7 +2051,10 @@
     "Name": "Dragon Sleeper Finish",
     "Description": "During Chicken Wing Face Lock {2,1,3,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1274,
+    "Length": 7
   },
   {
     "Id": 188,
@@ -1501,7 +2062,10 @@
     "Name": "Rolling Death Cradle",
     "Description": "During Chicken Wing Face Lock {1,3,4,2,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1284,
+    "Length": 12
   },
   {
     "Id": 189,
@@ -1509,7 +2073,10 @@
     "Name": "Cobra Clutch",
     "Description": "Approach opponent during Jaguar Step {1+4} (or {2+3})",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1299,
+    "Length": 4
   },
   {
     "Id": 190,
@@ -1517,7 +2084,10 @@
     "Name": "Cobra Twist",
     "Description": "During Cobra Clutch {1,4,2,3}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1306,
+    "Length": 7
   },
   {
     "Id": 191,
@@ -1525,7 +2095,10 @@
     "Name": "Reverse DDT",
     "Description": "During Cobra Twist {1,1+3} (or {2,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1316,
+    "Length": 9
   },
   {
     "Id": 192,
@@ -1533,7 +2106,10 @@
     "Name": "Reverse Special Stretch Bomb",
     "Description": "During Reverse DDT {1+2,1,1+3} (or {1+2,2,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1328,
+    "Length": 12
   },
   {
     "Id": 193,
@@ -1541,7 +2117,10 @@
     "Name": "Samurai Rock",
     "Description": "During Reverse DDT {2,3,1,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1343,
+    "Length": 12
   },
   {
     "Id": 194,
@@ -1549,7 +2128,10 @@
     "Name": "Backdrop",
     "Description": "During Reverse Special Stretch Bomb {3+4,1+2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1358,
+    "Length": 14
   },
   {
     "Id": 195,
@@ -1557,7 +2139,10 @@
     "Name": "Sol Naciente",
     "Description": "During Backdrop {1+2,4,2,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1375,
+    "Length": 18
   },
   {
     "Id": 196,
@@ -1565,7 +2150,10 @@
     "Name": "Burning Hammer",
     "Description": "During Backdrop {1+2,3,1+3} (or {1+2,4,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1396,
+    "Length": 17
   },
   {
     "Id": 197,
@@ -1573,6 +2161,9 @@
     "Name": "Screwdriver",
     "Description": "During Burning Hammer {2,4,3,1,1+3} (or {2,4,3,1,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "dl3ASG3Gons",
+    "StartTime": 1416,
+    "Length": 22
   }
 ]
