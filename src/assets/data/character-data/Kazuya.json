@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 7,
+    "Length": 4
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 14,
+    "Length": 4
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of new moves using the devil's power",
     "Properties": "",
-    "Comment": "{1,1,2,f-hold}, {1+4}, {f,n,d,df,4,1,1}, etc."
+    "Comment": "{1,1,2,f-hold}, {1+4}, {f,n,d,df,4,1,1}, etc.",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 21,
+    "Length": 6
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of Electric Wind God Fist without Just Input",
     "Properties": "",
-    "Comment": "{f,n,d,df,2}"
+    "Comment": "{f,n,d,df,2}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 30,
+    "Length": 3
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 36,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Slaughter Hook",
     "Description": "{df,1,2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 42,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Goutsuiken",
     "Description": "{db,1,2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 48,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Flash Tornado",
     "Description": "{b,4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 54,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Kumo Kiri",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 60,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Devil Fist",
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 66,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Omega Crash",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw"
+    "Comment": "Heat Smash, on hit shift to throw",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 72,
+    "Length": 4
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Demonic Catastrophe",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 79,
+    "Length": 14
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Flash Punch Combo",
     "Description": "{1,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 96,
+    "Length": 2
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Back Fist Combo",
     "Description": "{1,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 101,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Twin Fang Shattered Spine",
     "Description": "{1,2,LB,2,3,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 106,
+    "Length": 2
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Twin Fang Double Kick",
     "Description": "{1,2,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 111,
+    "Length": 3
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Double Back Fist",
     "Description": "{2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 117,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Agony Spear",
     "Description": "{3,1,4}",
     "Properties": "",
-    "Comment": "{3,1,df-hold} to shift to Wind God Step"
+    "Comment": "{3,1,df-hold} to shift to Wind God Step",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 122,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Roundhouse",
     "Description": "{4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 127,
+    "Length": 1
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Demon Scissors",
     "Description": "{LB,4,3,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 131,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Acute Pain",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 136,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Soul Thrust",
     "Description": "{f,2}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 141,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Oni Front Kick",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 146,
+    "Length": 1
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Right Splits Kick",
     "Description": "{f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 150,
+    "Length": 1
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Glorious Demon God Fist",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": "Punch parry effect"
+    "Comment": "Punch parry effect",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 154,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Slaughter Hook",
     "Description": "{df,1,2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 159,
+    "Length": 3
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Slaughter Uppercut",
     "Description": "{df,1,df-hold,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 165,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Slaughter High Kick",
     "Description": "{df,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 170,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Abolishing Fist",
     "Description": "{df,2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 175,
+    "Length": 1
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Impaling Knee Twin Thrust",
     "Description": "{df,3,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 179,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Impaling Knee Twin Skewer",
     "Description": "{df,3,2,1} hold",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 184,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Tsunami Kick",
     "Description": "{df,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 190,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Kyogeki Goutsuiken",
     "Description": "{df,3+4,1,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 195,
+    "Length": 3
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Nejiri Uraken",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": "{d,1+2,b-hold} to cancel and shift to crouching state"
+    "Comment": "{d,1+2,b-hold} to cancel and shift to crouching state",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 201,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Goutsuiken",
     "Description": "{db,1,2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 206,
+    "Length": 3
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Lion Slayer",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 212,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Sliding Low Kick",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 217,
+    "Length": 1
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Stature Smash",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 221,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Sokushitsu Goda",
     "Description": "{b,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 226,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Danzui Raizanba",
     "Description": "{b,2,2,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 231,
+    "Length": 3
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Rampaging Demon",
     "Description": "{b,2,4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 237,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Demon's Wrath",
     "Description": "{b,3,1,4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 242,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Reign of Terror",
     "Description": "{b,3,1,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 247,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Flash Tornado",
     "Description": "{b,4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 252,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Kumo Kiri",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 258,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Lightning Screw Uppercut",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 264,
+    "Length": 3
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Inferno",
     "Description": "{ub,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 270,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Searing Edge",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {u,3}"
+    "Comment": "Or {u,3}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 275,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Roundhouse > Triple Spin Kick",
     "Description": "{uf,4,4,4,4}",
     "Properties": "",
-    "Comment": "Or {u,4,4,4,4}"
+    "Comment": "Or {u,4,4,4,4}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 280,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 286,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Mist Step",
     "Description": "{f,n}",
     "Properties": "",
-    "Comment": "{f,n,df-hold} to shift to Wind God Step"
+    "Comment": "{f,n,df-hold} to shift to Wind God Step",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 291,
+    "Length": 1
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Devil Fist",
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "With chip damage on block, shift to Devil Form on Heat activation"
+    "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 295,
+    "Length": 3
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Left Splits Kick",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 301,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Devil's Steel Petal",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 306,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Leaping Side Kick",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 311,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{f,f,n,2,1,2,2,3,4,4,3,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 316,
+    "Length": 5
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{f,f,n,2,1,4,4,2,4,3,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 324,
+    "Length": 5
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 332,
+    "Length": 1
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Wind God Step",
     "Description": "{f,n,d,df}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 336,
+    "Length": 1
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Thunder God Fist",
     "Description": "{f,n,d,df,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 340,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Wind God Fist",
     "Description": "{f,n,d,df,2}",
     "Properties": "",
-    "Comment": "Becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)]"
+    "Comment": "Becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)]",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 345,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Electric Wind God Fist",
     "Description": "{f,n,d,df,2} ({df}+{2} press simultaneously)",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 350,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Hell Lancer",
     "Description": "{f,n,d,df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 355,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Spinning Demon > Left Hook",
     "Description": "{f,n,d,df,4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 360,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Illusive Demon",
     "Description": "{f,n,d,df,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 365,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Parricide Fist",
     "Description": "{f,n,d,df,1+2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 370,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Twin Pistons",
     "Description": "While rising {1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 375,
+    "Length": 3
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Demon God Fist",
     "Description": "While rising {2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 381,
+    "Length": 3
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Engetsusen",
     "Description": "While rising {3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 387,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Tsunami Kick",
     "Description": "While rising {4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 392,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Fujin Uraken",
     "Description": "While rising {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 397,
+    "Length": 1
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Tombstone Crusher",
     "Description": "While crouching {df,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 401,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Shattered Spine",
     "Description": "{3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 406,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Elkeid",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 411,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Devil Break",
     "Description": "During Devil Form {1,1,2,f-hold}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, on hit to standing or crouching opponent shift to throw"
+    "Comment": "Partially uses remaining Heat time, on hit to standing or crouching opponent shift to throw",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 416,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Devil Blaster",
     "Description": "During Devil Form {3+4}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 422,
+    "Length": 4
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Roar of the Devil",
     "Description": "During Devil Form {1+4}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Partially uses remaining Heat time, absorb an attack to power up"
+    "Comment": "Partially uses remaining Heat time, absorb an attack to power up",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 429,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Devil Impact",
     "Description": "During Devil Form {db,3+4}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, {db,3+4,df-hold} to shift to Wind God Step"
+    "Comment": "Partially uses remaining Heat time, {db,3+4,df-hold} to shift to Wind God Step",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Inferno",
     "Description": "During Devil Form {ub,1+2}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 439,
+    "Length": 3
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Air Inferno",
     "Description": "During Devil Form {u,1+2}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 445,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Chaos Inferno",
     "Description": "During Devil Form {f,f-hold,2}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, throw on front hit (does not shift when using Heat Dash)"
+    "Comment": "Partially uses remaining Heat time, throw on front hit (does not shift when using Heat Dash)",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 451,
+    "Length": 3
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Damnation",
     "Description": "During Devil Form {f,n,d,df,1}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,1,b-hold})"
+    "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,1,b-hold})",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 457,
+    "Length": 4
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Tempest Blaster",
     "Description": "During Devil Form {f,n,d,df,3}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, on front hit shift to throw"
+    "Comment": "Partially uses remaining Heat time, on front hit shift to throw",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 464,
+    "Length": 4
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Abyss Damnation",
     "Description": "During Devil Form {f,n,d,df,4,1,1}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,4,1,1,b-hold})"
+    "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,4,1,1,b-hold})",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 471,
+    "Length": 5
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Devil Twister",
     "Description": "During Devil Form and sidestep {2}",
     "Properties": "Tornado",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 479,
+    "Length": 3
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Double High Sweep",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 485,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Lightning Crash",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 491,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Steel Pedal Drop",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 497,
+    "Length": 3
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Skull Smash",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 503,
+    "Length": 3
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Reverse Neck Throw",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 509,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Stonehead",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}"
+    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 514,
+    "Length": 3
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Gates of Hell",
     "Description": "While crouching {db,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 520,
+    "Length": 4
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 527,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Oni Stomp",
     "Description": "While opponent is down {d,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 532,
+    "Length": 1
   },
   {
     "Id": 96,
@@ -765,6 +1050,9 @@
     "Name": "Grand Inferno",
     "Description": "While opponent is down during Devil Form {db,1+2}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "c4MGh2vNhfk",
+    "StartTime": 536,
+    "Length": 2
   }
 ]
