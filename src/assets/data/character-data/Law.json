@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 7,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 13,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of the powered up versions of nunchuck moves",
     "Properties": "",
-    "Comment": "{1+2}, during Dragon Charge {1+2}, time with opponent punch {b,2+4}"
+    "Comment": "{1+2}, during Dragon Charge {1+2}, time with opponent punch {b,2+4}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 21,
+    "Length": 6
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can parry punches with Dragon Charge",
     "Properties": "",
-    "Comment": "Take punches from opponent during Dragon Charge"
+    "Comment": "Take punches from opponent during Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 30,
+    "Length": 5
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 38,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Furious Rush",
     "Description": "{1,1,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 44,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Dragon Storm",
     "Description": "{b,1,2,2}",
     "Properties": "Heat Engager",
-    "Comment": "{b,1,f-hold}, {b,1,2,f-hold} to shift to Dragon Charge"
+    "Comment": "{b,1,f-hold}, {b,1,2,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 50,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Dragon's Fury",
     "Description": "{uf,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 56,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Dragon Cannon",
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Chip damage on block, absorb an attack to power up"
+    "Comment": "Chip damage on block, absorb an attack to power up",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 62,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Dragon Roar",
     "Description": "During Dragon Charge ({d,1+2}, etc.) {f,1}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 68,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Dragon Cannon",
     "Description": "During Dragon Charge ({d,1+2}, etc.) {f,3}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Chip damage on block, perfect frame input to power up, absorb an attack to power up"
+    "Comment": "Chip damage on block, perfect frame input to power up, absorb an attack to power up",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 74,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Heavenly Dragon",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Also possible during Dragon Charge, Heat Smash, throw on hit, on block shift to Dragon Charge"
+    "Comment": "Also possible during Dragon Charge, Heat Smash, throw on hit, on block shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 80,
+    "Length": 5
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Fate of the Dragon",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 88,
+    "Length": 13
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Furious Rush",
     "Description": "{1,1,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 104,
+    "Length": 3
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Knuckle Barrage Combo",
     "Description": "{1,1,2}",
     "Properties": "",
-    "Comment": "{1,1,2,f-hold} to shift to Dragon Charge"
+    "Comment": "{1,1,2,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 110,
+    "Length": 2
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Left Right Combo",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 115,
+    "Length": 1
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Left Right Dragon Fist Combo",
     "Description": "{1,2,2,2}",
     "Properties": "",
-    "Comment": "{1,2,2,2,f-hold} to shift to Dragon Charge"
+    "Comment": "{1,2,2,2,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 119,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Left Right Blazing Fist Combo",
     "Description": "{1,2,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 124,
+    "Length": 3
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Left Right > Knee",
     "Description": "{1,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 130,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Left Right Combo > Somersault Feint",
     "Description": "{1,2,uf,3,4}",
     "Properties": "",
-    "Comment": "{1,2,uf,3,df-hold} to shift to Slide Step"
+    "Comment": "{1,2,uf,3,df-hold} to shift to Slide Step",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 135,
+    "Length": 3
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Rave War Combo",
     "Description": "{2,2,2}",
     "Properties": "",
-    "Comment": "{2,2,2,f-hold} to shift to Dragon Charge"
+    "Comment": "{2,2,2,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 141,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Blazing Fist Combo",
     "Description": "{2,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 146,
+    "Length": 3
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Rage Dragon Combo",
     "Description": "{2,b,2,1,2}",
     "Properties": "",
-    "Comment": "{2,b,2,1,2,d-hold} to shift to crouching state"
+    "Comment": "{2,b,2,1,2,d-hold} to shift to crouching state",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 152,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Feint > Middle Kick",
     "Description": "{3,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 158,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "High Kick > Bloody Cleaver",
     "Description": "{3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 163,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Shaolin Spin Kicks",
     "Description": "{4,3,4}",
     "Properties": "",
-    "Comment": "{4,3,f-hold}, {4,3,4,f-hold} to shift to Dragon Charge"
+    "Comment": "{4,3,f-hold}, {4,3,4,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 168,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Crescent Kick Combo",
     "Description": "{4,u,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 173,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Tornado Claw",
     "Description": "{1+2}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat (paritally uses remaining Heat time)"
+    "Comment": "Power up during Heat (paritally uses remaining Heat time)",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 178,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Wild Dragon's Flight",
     "Description": "{3+4,4}",
     "Properties": "",
-    "Comment": "Or during Dragon Charge {3+4,4}, chip damage on block"
+    "Comment": "Or during Dragon Charge {3+4,4}, chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 183,
+    "Length": 3
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Poison Arrow",
     "Description": "{f,LB,2,1,RB}",
     "Properties": "",
-    "Comment": "Chip damage on block, {f,LB,2,1,RB,df-hold} to shift to Dragon Charge"
+    "Comment": "Chip damage on block, {f,LB,2,1,RB,df-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 189,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Plunging Knock",
     "Description": "{f,3,1}",
     "Properties": "",
-    "Comment": "{f,3,1,f-hold} to shift to Dragon Charge"
+    "Comment": "{f,3,1,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 194,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Dragon Hammer",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": "{f,1+2,d-hold} to shift to crouching state"
+    "Comment": "{f,1+2,d-hold} to shift to crouching state",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 199,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Dragon Killer",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": "Or during Dragon Charge {f,3+4}"
+    "Comment": "Or during Dragon Charge {f,3+4}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 204,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Dragon Raise",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 209,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Dragon Lance",
     "Description": "{df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 214,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Right Middle Kick > Somersault Kick",
     "Description": "{df,4,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 219,
+    "Length": 3
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Banana Peel",
     "Description": "{df,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 225,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Low Backhand > High Kick",
     "Description": "{d,1,3}",
     "Properties": "",
-    "Comment": "{d,1,df-hold} to shift to Slide Step"
+    "Comment": "{d,1,df-hold} to shift to Slide Step",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 230,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Body Blow > Dragon Lift",
     "Description": "{d,2,3}",
     "Properties": "Tornado",
-    "Comment": "Or while crouching {2,3}"
+    "Comment": "Or while crouching {2,3}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 235,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Dragon Low > Hook Kick",
     "Description": "{d,3,3}",
     "Properties": "",
-    "Comment": "{d,3,d-hold} to shift to crouching state"
+    "Comment": "{d,3,d-hold} to shift to crouching state",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 240,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Construct Kick",
     "Description": "{d,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 245,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Dragon Charge",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": "Shift to Dragon Charge"
+    "Comment": "Shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 250,
+    "Length": 1
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Low Kick > Somersault",
     "Description": "{d,3+4,3}",
     "Properties": "",
-    "Comment": "Or while crouching {4,3}"
+    "Comment": "Or while crouching {4,3}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 254,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Elbow Spring Kick",
     "Description": "{db,2,4}",
     "Properties": "",
-    "Comment": "{db,2,4,d-hold} to downed"
+    "Comment": "{db,2,4,d-hold} to downed",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 259,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Shin Crusher",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 264,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Dragon's Tail > Somersault Kick",
     "Description": "{db,4,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 269,
+    "Length": 3
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Dragon Storm",
     "Description": "{b,1,2,2}",
     "Properties": "Heat Engager",
-    "Comment": "{b,1,f-hold}, {b,1,2,f-hold} to shift to Dragon Charge"
+    "Comment": "{b,1,f-hold}, {b,1,2,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 275,
+    "Length": 3
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Vortex Rush",
     "Description": "{b,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 281,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Knuckle Rush",
     "Description": "{b,2,2}",
     "Properties": "",
-    "Comment": "{b,2,2,f-hold} to shift to Dragon Charge"
+    "Comment": "{b,2,2,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 286,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Junkyard Kick",
     "Description": "{b,2,3,4}",
     "Properties": "Tornado",
-    "Comment": "{b,2,3,4,f-hold} to shift to Dragon Charge"
+    "Comment": "{b,2,3,4,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 291,
+    "Length": 3
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Dragon Rush Combo",
     "Description": "{b,2,3,u,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 297,
+    "Length": 3
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Dragon Spin Kick",
     "Description": "{b,3}",
     "Properties": "Homing",
-    "Comment": "{b,3,b-hold} to face backward"
+    "Comment": "{b,3,b-hold} to face backward",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 303,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Tiger Fang",
     "Description": "{b,4,3}",
     "Properties": "Homing",
-    "Comment": "{b,4,b-hold} to face backward"
+    "Comment": "{b,4,b-hold} to face backward",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 308,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Dragon Stinger",
     "Description": "{b,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 313,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Dragon Arrow",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Or during Dragon Charge {b,3+4}"
+    "Comment": "Or during Dragon Charge {b,3+4}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 318,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Fury Fist Rush",
     "Description": "{ub,1,2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 323,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Somersault",
     "Description": "{u,3}",
     "Properties": "",
-    "Comment": "Or {ub,3}, {u,3,df-hold} to shift to Slide Step"
+    "Comment": "Or {ub,3}, {u,3,df-hold} to shift to Slide Step",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 328,
+    "Length": 1
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Somersault Fake",
     "Description": "{u,3,4}",
     "Properties": "",
-    "Comment": "Or {ub,3,4}"
+    "Comment": "Or {ub,3,4}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 332,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Blackout > Muggin'",
     "Description": "{uf,1,3}",
     "Properties": "",
-    "Comment": "Or during Charge Power Punch {1,3} or during Ki Charge {1,3}"
+    "Comment": "Or during Charge Power Punch {1,3} or during Ki Charge {1,3}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 337,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Dragon's Fury",
     "Description": "{uf,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 342,
+    "Length": 3
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Dragon's Rising Kick",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 348,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Dragon's Descent",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": "Or during Dragon Charge {uf,3+4}"
+    "Comment": "Or during Dragon Charge {uf,3+4}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 353,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Dragon's Rising Cannon",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 358,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Somersault Kick",
     "Description": "{uf-hold,4}",
     "Properties": "",
-    "Comment": "Or {ub-hold,4} or {u-hold,4} or while crouching {ub} (or {u} or {uf}) {4}"
+    "Comment": "Or {ub-hold,4} or {u-hold,4} or while crouching {ub} (or {u} or {uf}) {4}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 363,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Backflipper",
     "Description": "{uf-hold,4,3}",
     "Properties": "Tornado",
-    "Comment": "Or {ub-hold,4,3} or {u-hold,4,3} or while crouching {ub} (or {u} or {uf}) {4,3}"
+    "Comment": "Or {ub-hold,4,3} or {u-hold,4,3} or while crouching {ub} (or {u} or {uf}) {4,3}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 368,
+    "Length": 3
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Dragon Strike Combo",
     "Description": "{f,f-hold,2,1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 374,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Dragon Dagger",
     "Description": "{f,f-hold,2,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 380,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Dragon's Poke > Poison Arrow",
     "Description": "{f,f-hold,2,f,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, {f,f-hold,2,f,1+2,f-hold} to shift to Dragon Charge"
+    "Comment": "Chip damage on block, {f,f-hold,2,f,1+2,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 385,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Dragon Cannon",
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Chip damage on block, absorb an attack to power up"
+    "Comment": "Chip damage on block, absorb an attack to power up",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 390,
+    "Length": 3
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Dragon's Leap Shot",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 396,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Running Side Kick",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 401,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Charge Power Punch",
     "Description": "{b,b-hold,2+3}",
     "Properties": "",
-    "Comment": "{b,b-hold,2+3,b,b} to cancel and shift to Dragon Charge"
+    "Comment": "{b,b-hold,2+3,b,b} to cancel and shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 406,
+    "Length": 4
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "10 Hit Combo",
     "Description": "{df,1,3,2,2,3,3,3,4,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 413,
+    "Length": 5
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Taunt",
     "Description": "{2+3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 421,
+    "Length": 3
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 427,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Flash Fist",
     "Description": "While rising {1,2}",
     "Properties": "",
-    "Comment": "While rising {1,f-hold} to shift to Dragon Charge"
+    "Comment": "While rising {1,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 432,
+    "Length": 3
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Dragon Uppercut",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 438,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Side Kick",
     "Description": "While rising {3}",
     "Properties": "",
-    "Comment": "Shift to Dragon Charge"
+    "Comment": "Shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 443,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Front Kick Somersault Variation",
     "Description": "While rising {4,3}",
     "Properties": "Tornado",
-    "Comment": "While rising {4,f-hold} to shift to Dragon Chage"
+    "Comment": "While rising {4,f-hold} to shift to Dragon Chage",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 448,
+    "Length": 3
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Catapult Kick",
     "Description": "While rising {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 454,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Double Impact",
     "Description": "While crouching {3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 459,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Rainbow Kick",
     "Description": "While crouching {uf-hold,3+4}",
     "Properties": "",
-    "Comment": "Or while crouching {ub-hold} (or {u-hold}) {3+4}"
+    "Comment": "Or while crouching {ub-hold} (or {u-hold}) {3+4}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 464,
+    "Length": 3
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Slide Step",
     "Description": "While crouching {df,d,df-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 470,
+    "Length": 1
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Slide Kick",
     "Description": "While crouching {df,d,df-hold,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 474,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Spinning Dragon Blow",
     "Description": "During sidestep {2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 479,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Low Crush",
     "Description": "During sidestep {3}",
     "Properties": "",
-    "Comment": "Shift to Dragon Charge on hit"
+    "Comment": "Shift to Dragon Charge on hit",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 484,
+    "Length": 2
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Dragon Judgment",
     "Description": "During sidestep {1+2,1}",
     "Properties": "",
-    "Comment": "During sidestep {1+2} to shift to Dragon Charge"
+    "Comment": "During sidestep {1+2} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 489,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Double Dragon",
     "Description": "During sidestep {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 495,
+    "Length": 3
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Turning Knuckles",
     "Description": "Back facing opponent {1}",
     "Properties": "",
-    "Comment": "Link to attack from while facing forward {1}"
+    "Comment": "Link to attack from while facing forward {1}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 501,
+    "Length": 1
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Blind Elbow Combo",
     "Description": "Back facing opponent {2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 505,
+    "Length": 3
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Wolf Fang",
     "Description": "Back facing opponent {4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 511,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Dragon Back Blow",
     "Description": "Back facing opponent {1+2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 516,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Reverse Low",
     "Description": "Back facing opponent {d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 521,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Frogman",
     "Description": "Back facing opponent {d,3+4}",
     "Properties": "",
-    "Comment": "{d-hold,3+4} to downed"
+    "Comment": "{d-hold,3+4} to downed",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 526,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Dragon Charge",
     "Description": "{d,1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Dragon Charge, during Dragon Charge {df-hold} to shift Slide Step, absorb an attack during Heat state to shift to Dragon Parry"
+    "Comment": "Shift to Dragon Charge, during Dragon Charge {df-hold} to shift Slide Step, absorb an attack during Heat state to shift to Dragon Parry",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 531,
+    "Length": 1
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Dragon Knuckle",
     "Description": "During Dragon Charge {1}",
     "Properties": "",
-    "Comment": "Chip damage on block, shift to Dragon Charge"
+    "Comment": "Chip damage on block, shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 535,
+    "Length": 3
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Cloud Gates",
     "Description": "During Dragon Charge {2}",
     "Properties": "",
-    "Comment": "Or {1+2+3+4} hold {2}, with chip damage on block"
+    "Comment": "Or {1+2+3+4} hold {2}, with chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 541,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Dragon Charge Spin Kick",
     "Description": "During Dragon Charge {3}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 546,
+    "Length": 3
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Dragon Charge Kick",
     "Description": "During Dragon Charge {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 552,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Tornado Claw",
     "Description": "During Dragon Charge {1+2}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 557,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Dragon Roar",
     "Description": "During Dragon Charge {f,1}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 562,
+    "Length": 3
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Poison Arrow",
     "Description": "During Dragon Charge {f,LB,2,1,RB}",
     "Properties": "",
-    "Comment": "Chip damage on block, during Dragon Charge {f,LB,2,1,RB,f-hold} to shift to Dragon Charge"
+    "Comment": "Chip damage on block, during Dragon Charge {f,LB,2,1,RB,f-hold} to shift to Dragon Charge",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 568,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Dragon Cannon",
     "Description": "During Dragon Charge {f,3}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Chip damage on block, perfect frame input to power up, absorb an attack to power up"
+    "Comment": "Chip damage on block, perfect frame input to power up, absorb an attack to power up",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 573,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Dragon's Flight",
     "Description": "During Dragon Charge {f,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, perfect frame input to power up"
+    "Comment": "Chip damage on block, perfect frame input to power up",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 579,
+    "Length": 3
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Dragon's Fire",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 585,
+    "Length": 3
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Hopping Frog",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} (or {2}), {2+4,d-hold} to face backward"
+    "Comment": "Throw escape {1} (or {2}), {2+4,d-hold} to face backward",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 591,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Headlock Kick",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 597,
+    "Length": 3
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Ball Breaker",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 603,
+    "Length": 4
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Dragon Bites",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 610,
+    "Length": 4
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Run Up > Drop",
     "Description": "Approach opponent {f,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 617,
+    "Length": 4
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Headlock Punch",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 624,
+    "Length": 4
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Headlock Drop",
     "Description": "Approach opponent {uf,1+2,1,2,1+2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 631,
+    "Length": 3
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Knee Lift",
     "Description": "Approach opponent {f,f-hold,3+4}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 637,
+    "Length": 3
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Facelift",
     "Description": "During Dragon Charge {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 643,
+    "Length": 4
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Parry",
     "Description": "Time with opponent attack {b,1+3}",
     "Properties": "",
-    "Comment": "Or during Dragon Charge {b,1+3}, {f} to shift to Dragon Charge when successful"
+    "Comment": "Or during Dragon Charge {b,1+3}, {f} to shift to Dragon Charge when successful",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 650,
+    "Length": 1
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 654,
+    "Length": 2
   },
   {
     "Id": 118,
@@ -941,6 +1292,9 @@
     "Name": "Dragon Parry",
     "Description": "Time with opponent punch {b,2+4}",
     "Properties": "",
-    "Comment": "Or during Dragon Charge {b,2+4}, partially restores remaining Heat time"
+    "Comment": "Or during Dragon Charge {b,2+4}, partially restores remaining Heat time",
+    "VideoId": "BlW2OHkZ5i4",
+    "StartTime": 659,
+    "Length": 4
   }
 ]
