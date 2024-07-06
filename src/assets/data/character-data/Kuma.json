@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 0,
+    "Length": 5
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 8,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 14,
+    "Length": 3
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Some hold moves can have shortened max level holds",
     "Properties": "",
-    "Comment": "{db,1,2} hold, etc."
+    "Comment": "{db,1,2} hold, etc.",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 20,
+    "Length": 3
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of the powered up version of Bear Roll",
     "Properties": "",
-    "Comment": "While crouching {1+2}, during Bear Roll {1}, etc."
+    "Comment": "While crouching {1+2}, during Bear Roll {1}, etc.",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 26,
+    "Length": 2
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of Wind Bear Fist, Fresh Wind Bear Fist",
     "Properties": "",
-    "Comment": "{df,2+3}, {df,2+3} hold"
+    "Comment": "{df,2+3}, {df,2+3} hold",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 31,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 37,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Demon Bear Breath",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 43,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Bear Slash",
     "Description": "{b,1}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "{b,1,d-hold} (or [3+4}) to shift to Hunting (does not shift when using Heat Dash), absorb an attack to power up and deal more chip damage on block"
+    "Comment": "{b,1,d-hold} (or [3+4}) to shift to Hunting (does not shift when using Heat Dash), absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 49,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Bear X",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage, {b,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)"
+    "Comment": "Chip damage, {b,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 55,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Rabid Bear",
     "Description": "{f,f,f-hold,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage, {f,f,f-hold,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)"
+    "Comment": "Chip damage, {f,f,f-hold,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 61,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Frolicking Bear",
     "Description": "During Hunting ({3+4}, etc.) {d,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Shift to Hunting (does not shift when using Heat Dash)"
+    "Comment": "Shift to Hunting (does not shift when using Heat Dash)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 67,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Wind Bear Fist",
     "Description": "During Heat {df,2+3}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, during Heat {f,d,df,2} to power up"
+    "Comment": "Partially uses remaining Heat time, during Heat {f,d,df,2} to power up",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 73,
+    "Length": 2
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Fresh Wind Bear Fist",
     "Description": "During Heat {df,2+3} hold",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, during Heat {f,d,df,2} to power up, cannot absorb with Power Crush"
+    "Comment": "Partially uses remaining Heat time, during Heat {f,d,df,2} to power up, cannot absorb with Power Crush",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 78,
+    "Length": 3
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Salmon Fishing Cast",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash"
+    "Comment": "Heat Smash",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 84,
+    "Length": 3
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Type 38 Eradication Weapon: Aramaki",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 90,
+    "Length": 14
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "G-Clef Cannon",
     "Description": "{1,1,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 107,
+    "Length": 3
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Angry Lumberjack",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 113,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Bear Combo Middle",
     "Description": "{2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 118,
+    "Length": 3
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Bear Combo Low",
     "Description": "{2,1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 124,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Demon Bear Breath",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 129,
+    "Length": 3
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Hunting",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Or while down and facing down {3+4}, to shift to Hunting"
+    "Comment": "Or while down and facing down {3+4}, to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 135,
+    "Length": 1
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Wild Lumberjack",
     "Description": "{f,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 139,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Bear Claw Cross",
     "Description": "{f,1+2,1+2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 144,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Shape-Up Kick",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 150,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Shade-Up Hip",
     "Description": "{f,3+4,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 155,
+    "Length": 3
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Grizzly Rampage",
     "Description": "{df,1,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 161,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Kuma Musou",
     "Description": "{df,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 166,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Honey Trap",
     "Description": "{df,3,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 171,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Hip Smash",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 176,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Bear Sit",
     "Description": "{d,3+4}",
     "Properties": "",
-    "Comment": "Or {db,3+4}, {d,3+4,f-hold} to shift to Bear Roll, {d,3+4,b-hold} to shift to California Roll"
+    "Comment": "Or {db,3+4}, {d,3+4,f-hold} to shift to Bear Roll, {d,3+4,b-hold} to shift to California Roll",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 181,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Double Wild Slap",
     "Description": "{db,1,2}",
     "Properties": "",
-    "Comment": "Can hold, {db,1,2,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "Can hold, {db,1,2,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 186,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Double Wild Slap",
     "Description": "{db,1,2} hold",
     "Properties": "",
-    "Comment": "Chip damage on block, {db,1,2} hold {d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "Chip damage on block, {db,1,2} hold {d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 191,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Fresh Wild Slap",
     "Description": "{db,1,2} hold (max)",
     "Properties": "",
-    "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time), {db,1,2} hold, then {d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time), {db,1,2} hold, then {d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 196,
+    "Length": 3
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Bear Lariat",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": "{db,2,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "{db,2,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 202,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Bear Pump in Pedal",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 207,
+    "Length": 1
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Spinning Kuma",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 211,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Drum Roll",
     "Description": "{db,1+2,1+2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 216,
+    "Length": 3
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Salmon Hunter",
     "Description": "{db,2+3}",
     "Properties": "",
-    "Comment": "Hold to power up and deal more chip damage on block"
+    "Comment": "Hold to power up and deal more chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 222,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Salmon Hunter",
     "Description": "{db,2+3} hold",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 227,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Fresh Salmon Hunter",
     "Description": "{db,2+3} hold (max)",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 232,
+    "Length": 3
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Bear Slash",
     "Description": "{b,1}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "{b,1,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash), absorb an attack to power up and deal more chip damage on block"
+    "Comment": "{b,1,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash), absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 238,
+    "Length": 3
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Howling Bear",
     "Description": "{b,2,1,1+2}",
     "Properties": "",
-    "Comment": "{b,2,1,d-hold} (or {3+4}) to shift to Hunting, {b,2,1,f-hold} to shift to Bear Roll"
+    "Comment": "{b,2,1,d-hold} (or {3+4}) to shift to Hunting, {b,2,1,f-hold} to shift to Bear Roll",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 244,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Salmon Massacre",
     "Description": "{b,2,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 249,
+    "Length": 3
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Bear X",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage, {b,1+2,d-hold} (or {3+4}) to shift ot Hunting (does not shift when using Heat Dash)"
+    "Comment": "Chip damage, {b,1+2,d-hold} (or {3+4}) to shift ot Hunting (does not shift when using Heat Dash)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 255,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "High Jinks",
     "Description": "{b,3+4}",
     "Properties": "Tornado",
-    "Comment": "Or while rising {3+4}"
+    "Comment": "Or while rising {3+4}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 261,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Deadly Claw",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": "{b,1+4,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "{b,1+4,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 267,
+    "Length": 3
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Rolling Bear",
     "Description": "{b,1+4,f,f}",
     "Properties": "",
-    "Comment": "{b,1+4,f,f-hold} to extend"
+    "Comment": "{b,1+4,f,f-hold} to extend",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 273,
+    "Length": 3
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Bear Skip",
     "Description": "{ub,1+2}",
     "Properties": "",
-    "Comment": "{ub,1+2,d-hold} (or {3+4}) to cancel and shift to Hunting"
+    "Comment": "{ub,1+2,d-hold} (or {3+4}) to cancel and shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 279,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Big Bear Attack",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": "{u,1+2,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "{u,1+2,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 284,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Pancake Press",
     "Description": "{u,3+4}",
     "Properties": "",
-    "Comment": "Shift to Bear Sit"
+    "Comment": "Shift to Bear Sit",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 289,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Hornet Sweep",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": "Or {ub,1} or {u,1}, chip damage on block"
+    "Comment": "Or {ub,1} or {u,1}, chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 294,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Ultra Kuma",
     "Description": "{uf,2}",
     "Properties": "Homing",
-    "Comment": "Or {ub,2} or {u,2}"
+    "Comment": "Or {ub,2} or {u,2}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 299,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Bear Double Hop Kick Combo",
     "Description": "{uf,3,4,1+2}",
     "Properties": "",
-    "Comment": "{uf,3,4,1+2,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "{uf,3,4,1+2,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 304,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Kuma Hell Axle",
     "Description": "{uf,4} on hit or block {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 309,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Demon Uppercut",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 314,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Falling Bear",
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
-    "Comment": "Chip damage, to shift to Hunting, {f,f-hold,1+2,f-hold} to shift Bear Roll"
+    "Comment": "Chip damage, to shift to Hunting, {f,f-hold,1+2,f-hold} to shift Bear Roll",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 319,
+    "Length": 3
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Anger Hook",
     "Description": "{b,f,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 325,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Grizzly Claws",
     "Description": "{d,df,f,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 330,
+    "Length": 3
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Grizzly Claw Smash",
     "Description": "{d,df,f,2,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 336,
+    "Length": 3
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Leaping Side Kick",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 342,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Rabid Bear",
     "Description": "{f,f,f-hold,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage, {f,f,f-hold,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)"
+    "Comment": "Chip damage, {f,f,f-hold,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 347,
+    "Length": 3
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "You're Welcome",
     "Description": "{1+3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 353,
+    "Length": 3
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 359,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Killing Claws",
     "Description": "While rising {1,2}",
     "Properties": "Tornado",
-    "Comment": "Can hold at last step, while rising {1,2,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "Can hold at last step, while rising {1,2,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 364,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Killing Claws",
     "Description": "While rising {1,2} hold",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, while rising {1,2} hold {d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "Chip damage on block, while rising {1,2} hold {d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 369,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Fresh Killing Claws",
     "Description": "While rising {1,2} hold (max)",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time), while rising {1,2} hold, then {d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time), while rising {1,2} hold, then {d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 374,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Mad Angler",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 380,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Spinning Bear Kick",
     "Description": "While rising {3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 385,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Paw Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 390,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Watch Your Feet",
     "Description": "While crouching {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 395,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Bear Roll",
     "Description": "While crouching {1+2}",
     "Properties": "",
-    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)"
+    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 400,
+    "Length": 1
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "10 Hit Combo",
     "Description": "While crouching {df,2,1,1+2,3,1+2,3+4,1+2,2,3,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 404,
+    "Length": 8
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Salmon Swipe",
     "Description": "During sidestep {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 415,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Hunting",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Hunting, {db-hold} to shift to crouching state, {ub} (or {u} or {uf}) to shift to standing state"
+    "Comment": "Shift to Hunting, {db-hold} to shift to crouching state, {ub} (or {u} or {uf}) to shift to standing state",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 420,
+    "Length": 1
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Honeycomb Spike",
     "Description": "During Hunting {1,2}",
     "Properties": "",
-    "Comment": "Can hold at last step"
+    "Comment": "Can hold at last step",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 424,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Honeycomb Spike",
     "Description": "During Hunting {1,2} hold",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 429,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Fresh Honeycomb Spike",
     "Description": "During Hunting {1,2} hold (max)",
     "Properties": "",
-    "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time)"
+    "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 434,
+    "Length": 3
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Bear Claw",
     "Description": "During Hunting {2}",
     "Properties": "",
-    "Comment": "Shift to Hunting"
+    "Comment": "Shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 440,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Bear Fling",
     "Description": "During Hunting {1+2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 445,
+    "Length": 3
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Bear Tackle",
     "Description": "During Hunting {3+4}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 451,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Hunting Hip Smash",
     "Description": "During Hunting {f,3+4}",
     "Properties": "",
-    "Comment": "Or during Hunting {b,3+4}, shift to Bear Sit"
+    "Comment": "Or during Hunting {b,3+4}, shift to Bear Sit",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 456,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Big Tree",
     "Description": "During Hunting {df,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 461,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Frolicking Bear",
     "Description": "During Hunting {d,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Shift to Hunting (does not shift whne using Heat Dash)"
+    "Comment": "Shift to Hunting (does not shift whne using Heat Dash)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 466,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Break'n",
     "Description": "During Hunting {b,1+2,1+2}",
     "Properties": "",
-    "Comment": "During Hunting {b,1+2,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "During Hunting {b,1+2,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 472,
+    "Length": 3
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Hunting to Roll Over",
     "Description": "During Hunting {3} (or {4})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 478,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Hunting to Play Dead",
     "Description": "During Hunting {d,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 483,
+    "Length": 1
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Bear Roll",
     "Description": "During Hunting {f,f}",
     "Properties": "",
-    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)"
+    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 487,
+    "Length": 1
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Backward Roll",
     "Description": "During Hunting {b,b}",
     "Properties": "",
-    "Comment": "During Bear Sit {b-hold}, during Hunting {b,b,d-hold} (or {3+4}) to shift to Hunting"
+    "Comment": "During Bear Sit {b-hold}, during Hunting {b,b,d-hold} (or {3+4}) to shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 491,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Bear Sit",
     "Description": "{d,3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Bear Sit"
+    "Comment": "Shift to Bear Sit",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 496,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Double Trout Sweep",
     "Description": "During Bear Sit {1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 501,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Trout Smash",
     "Description": "During Bear Sit {2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 506,
+    "Length": 3
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Rebound",
     "Description": "During Bear Sit {3+4}",
     "Properties": "",
-    "Comment": "During Bear Sit {3+4,f-hold} to shift to Bear Roll"
+    "Comment": "During Bear Sit {3+4,f-hold} to shift to Bear Roll",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 512,
+    "Length": 3
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Bear Roll",
     "Description": "During Bear Sit {f-hold}",
     "Properties": "",
-    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)"
+    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 518,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Bear Roll",
     "Description": "While crouching {1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)"
+    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 523,
+    "Length": 1
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Bear Shove",
     "Description": "During Bear Roll {1}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 527,
+    "Length": 3
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Bear Backhand",
     "Description": "During Bear Roll {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 533,
+    "Length": 3
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Bear Slide",
     "Description": "During Bear Roll {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 539,
+    "Length": 3
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Bear Rolling Kick",
     "Description": "During Bear Roll {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 545,
+    "Length": 3
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Giant Roll",
     "Description": "During Bear Roll {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 551,
+    "Length": 3
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Hunting",
     "Description": "During Bear Roll {d-hold} (or {3+4})",
     "Properties": "",
-    "Comment": "Shift to Hunting"
+    "Comment": "Shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 557,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Bear Backstroke",
     "Description": "While down and facing up {1+2}",
     "Properties": "",
-    "Comment": "Shift to Hunting"
+    "Comment": "Shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 562,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Get Up Punch",
     "Description": "While down and facing up {d,1+2}",
     "Properties": "",
-    "Comment": "Shift to Bear Sit"
+    "Comment": "Shift to Bear Sit",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 567,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Bear Butterfly",
     "Description": "While down and facing down {1+2}",
     "Properties": "",
-    "Comment": "Shift to Hunting"
+    "Comment": "Shift to Hunting",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 572,
+    "Length": 1
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Bear Roll",
     "Description": "While down and facing down {f-hold}",
     "Properties": "",
-    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)"
+    "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 576,
+    "Length": 1
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Bear's Bite",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 580,
+    "Length": 4
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Bear Hug",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 587,
+    "Length": 4
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Bear Slam",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 594,
+    "Length": 4
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Choke Slam",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 601,
+    "Length": 3
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Swing Swung",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 607,
+    "Length": 5
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Headbutt",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 615,
+    "Length": 3
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Rock'n Roll Circus",
     "Description": "Approach opponent {f,df,d,db,b,f,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 621,
+    "Length": 5
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Bear Toss",
     "Description": "During Hunting {f,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 629,
+    "Length": 4
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 636,
+    "Length": 2
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack during Hunting {f-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 641,
+    "Length": 3
   },
   {
     "Id": 116,
@@ -925,6 +1270,9 @@
     "Name": "Dance With Me",
     "Description": "While opponent is down {d,1+4}",
     "Properties": "",
-    "Comment": "(While opponent is down) {d,1+4,3+4} to cancel and face backward"
+    "Comment": "(While opponent is down) {d,1+4,3+4} to cancel and face backward",
+    "VideoId": "hvbJroHyJxw",
+    "StartTime": 647,
+    "Length": 4
   }
 ]
