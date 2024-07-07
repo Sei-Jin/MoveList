@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 7,
+    "Length": 4
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 14,
+    "Length": 3
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of moves during Lightning Glare",
     "Properties": "",
-    "Comment": "During Lightning Glare {db,4,1,1+2}, {b,3,1,2}, {f,2,4,3}"
+    "Comment": "During Lightning Glare {db,4,1,1+2}, {b,3,1,2}, {f,2,4,3}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 20,
+    "Length": 6
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, gain Lightning Glare {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, gain Lightning Glare {2+3,b,b} to cancel attack",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 29,
+    "Length": 3
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Bei Zhan Juan Long Jiao",
     "Description": "{db,2,4}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation"
+    "Comment": "Gain Lightning Glare on Heat activation",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 35,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Er Lang Dan Shan",
     "Description": "{b,2,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation"
+    "Comment": "Gain Lightning Glare on Heat activation",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 41,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Rising Bei Zhe Kao",
     "Description": "While rising {4,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation"
+    "Comment": "Gain Lightning Glare on Heat activation",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 47,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Bai She Tui Chuang",
     "Description": "During Jin Ji Du Li ({f,4}, etc.) {1,2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu"
+    "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 53,
+    "Length": 4
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Lao Pao Ba",
     "Description": "During Fo Bu ({d,1+2}, etc.) {1+2}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block"
+    "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 60,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Ultimate Feng Huo Lun Kick",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, throw on hit, on block {df-hold} to shift Jin Bu"
+    "Comment": "Heat Smash, throw on hit, on block {df-hold} to shift Jin Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 66,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Ultimate Huo Jian Qiang Fist",
     "Description": "During Heat and Jin JI Du Li {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash"
+    "Comment": "Heat Smash",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 72,
+    "Length": 4
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Transcendent Blow",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 79,
+    "Length": 14
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "He Zi Shou",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": "{1,2,b-hold} to shift to Jin Ji Du Li"
+    "Comment": "{1,2,b-hold} to shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 96,
+    "Length": 1
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Liang Yi Zhou",
     "Description": "{1,2,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 100,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Wai Bai Tui",
     "Description": "{1,2,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 105,
+    "Length": 3
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Ye Chui",
     "Description": "{1,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 111,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Lian Tan Jin Ji Du Li",
     "Description": "{1,4}",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li"
+    "Comment": "Shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 116,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Xiang Long Shi Chong Tian Zhang",
     "Description": "{2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 121,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Xiang Long Shi Ling Zhou",
     "Description": "{2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 126,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Wu Dang Xuan Feng Jiao",
     "Description": "{3,2,3}",
     "Properties": "Tornado",
-    "Comment": "{3,2,3,b-hold} to cancel, {3,2,d-hold} to shift to Fo Bu"
+    "Comment": "{3,2,3,b-hold} to cancel, {3,2,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 131,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Wu Dang Jin Ji Du Li",
     "Description": "{3,2,4}",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li, {3,2,d-hold} to shift to Fo Bu"
+    "Comment": "Shift to Jin Ji Du Li, {3,2,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 136,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Dual Thunder Fists",
     "Description": "{1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 141,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Heng Da Er Lang Dan Shan",
     "Description": "{f,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 146,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Heng Da Bai Tui",
     "Description": "{f,2,4}",
     "Properties": "",
-    "Comment": "{f,2,4,df-hold} to shift to Jin Bu"
+    "Comment": "{f,2,4,df-hold} to shift to Jin Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 151,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Bai Tui",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": "{f,3,d-hold} to shift to Fo Bu"
+    "Comment": "{f,3,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 156,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Jin Ji Du Li",
     "Description": "{f,4}",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li"
+    "Comment": "Shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 161,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Bei Zhe Kao",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 166,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Yellow Crane",
     "Description": "{f,3+4}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 171,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Xiang Chui",
     "Description": "{f,2+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 176,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Shuang Huan Da",
     "Description": "{df,1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 181,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Sheng Pao",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 186,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Chuan Pao",
     "Description": "{df,3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 191,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Gui Xi",
     "Description": "{df,2+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 196,
+    "Length": 1
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Fu Hu",
     "Description": "{d,1}",
     "Properties": "",
-    "Comment": "{d,1,d-hold} to directly shift to crouching state"
+    "Comment": "{d,1,d-hold} to directly shift to crouching state",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 200,
+    "Length": 1
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Pi Zhong",
     "Description": "{d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 204,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Sao Tang Ti > Shang Bu Zhuang Zhang > Lightning Glare",
     "Description": "{d,4,2} on hit {1+2}",
     "Properties": "",
-    "Comment": "Gain Lightning Glare"
+    "Comment": "Gain Lightning Glare",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 209,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Fo Bu",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": "Or while crouching {d} (or {db}) {1+2}"
+    "Comment": "Or while crouching {d} (or {db}) {1+2}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 214,
+    "Length": 1
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Bei Zhan Juan Long Jiao",
     "Description": "{db,2,4}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation"
+    "Comment": "Gain Lightning Glare on Heat activation",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 218,
+    "Length": 3
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Lie Huo Fan Jiao",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 224,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Qian Sao Lei Wang Quan",
     "Description": "{db,4,1}",
     "Properties": "",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 229,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Ba Wang Zhe Jiang",
     "Description": "{db,1+2,1}",
     "Properties": "",
-    "Comment": "{db,1+2,d-hold} to shift to Fo Bu"
+    "Comment": "{db,1+2,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 234,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Ding Zhou Jin Ji Du Li",
     "Description": "{b,1,4}",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li"
+    "Comment": "Shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 239,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Ding Zhou Meng Po Kao",
     "Description": "{b,1,1+2}",
     "Properties": "",
-    "Comment": "{b,1,1+2,d-hold} to shift to Fo Bu"
+    "Comment": "{b,1,1+2,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 244,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Wu Hu Chu Dong",
     "Description": "{b,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 249,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Er Lang Dan Shan",
     "Description": "{b,2,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation"
+    "Comment": "Gain Lightning Glare on Heat activation",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 254,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Ying Mian Tui",
     "Description": "{b,3,1}",
     "Properties": "",
-    "Comment": "{b,3,1,d-hold} to shift to Fo Bu, {b,3,1,b-hold} to shift to Jin Ji Du Li"
+    "Comment": "{b,3,1,d-hold} to shift to Fo Bu, {b,3,1,b-hold} to shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 260,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Dragon's Impact",
     "Description": "{b,4,1}",
     "Properties": "",
-    "Comment": "{b,4,1,d-hold} to cancel and shift to crouching state"
+    "Comment": "{b,4,1,d-hold} to cancel and shift to crouching state",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 265,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Dragon's Impact > Jin Ji Du Li",
     "Description": "{b,4,LB,1,4,RB}",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li"
+    "Comment": "Shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 270,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Jin Gang Hua Shan Tuo Tian Zhang",
     "Description": "{b,1+2,1+2,2}",
     "Properties": "",
-    "Comment": "{b,1+2,1+2,d,df,f,2} to power up and deal more chip damage on block"
+    "Comment": "{b,1+2,1+2,d,df,f,2} to power up and deal more chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 275,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Tui Bu Jin Ji Du Li",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li"
+    "Comment": "Shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 281,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Cuo Zhang",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 286,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Ye Kua",
     "Description": "{b,2+3}",
     "Properties": "",
-    "Comment": "Punch parry effect"
+    "Comment": "Punch parry effect",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 291,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Sky Vibration",
     "Description": "{ub,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 296,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Xiao Jia Er Lu Liang Yi Zhou",
     "Description": "{ub,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 301,
+    "Length": 3
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Xiang Quan",
     "Description": "{u,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 307,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Li Xiang Quan",
     "Description": "{uf,1,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 312,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Chuan Chong Quan > Lightning Glare",
     "Description": "{uf,1,2} on hit {1+2}",
     "Properties": "",
-    "Comment": "Gain Lightning Glare"
+    "Comment": "Gain Lightning Glare",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 317,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Yue Bu Si Quan",
     "Description": "{uf,2,1}",
     "Properties": "",
-    "Comment": "{uf,2,d-hold} to shift to Fo Bu"
+    "Comment": "{uf,2,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 322,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Yi Qi Jiao",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {u,3}"
+    "Comment": "Or {u,3}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 327,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Yue Bu San Jing Ti",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": "Or {ub,4} or {u,4}"
+    "Comment": "Or {ub,4} or {u,4}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 332,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 337,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Shang Bu Zhuang Quan > Lightning Glare",
     "Description": "{f,f-hold,2} on hit {1+2}",
     "Properties": "",
-    "Comment": "Gain Lightning Glare"
+    "Comment": "Gain Lightning Glare",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 342,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Tiao Shan Fu Ren",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": "{f,f-hold,3,d-hold} to shift to Fo Bu"
+    "Comment": "{f,f-hold,3,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 347,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Tiao Shan Pu Bu",
     "Description": "{f,f-hold,4,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 352,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Tiao Shan Jiang Jiao",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 357,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{2,1,3,2,1,2,3,1,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 362,
+    "Length": 6
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{2,1,3,2,1,3,2,4,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 371,
+    "Length": 6
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit / Gain Lightning Glare"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit / Gain Lightning Glare",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 380,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Jue Zhao Heng Da Bai Tui",
     "Description": "During Lightning Glare {f,2,4,3}",
     "Properties": "",
-    "Comment": "Or during Heat {f,2,4,3} (partially uses remaining Heat time), chip damage on block, {f,2,4,3,d-hold} to shift to Fo Bu"
+    "Comment": "Or during Heat {f,2,4,3} (partially uses remaining Heat time), chip damage on block, {f,2,4,3,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 385,
+    "Length": 4
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Jue Zhao Qian Sao Lei Wang Quan",
     "Description": "During Lightning Glare {db,4,1,1+2}",
     "Properties": "",
-    "Comment": "Or during Heat {db,4,1,1+2} (partially uses remaining Heat time), chip damage on block"
+    "Comment": "Or during Heat {db,4,1,1+2} (partially uses remaining Heat time), chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 392,
+    "Length": 4
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Jue Zhao Ying Mian Tui",
     "Description": "During Lightning Glare {b,3,1,2}",
     "Properties": "",
-    "Comment": "Or during Heat {b,3,1,2} (partially uses remaining Heat time), chip damage on block"
+    "Comment": "Or during Heat {b,3,1,2} (partially uses remaining Heat time), chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 399,
+    "Length": 4
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Huo Da Ding Zhou",
     "Description": "While rising {1,4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 406,
+    "Length": 3
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Shang Bu Gua Shan",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 412,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Liang Yi Er Tui Ya Zhou",
     "Description": "While rising {3,1,2}",
     "Properties": "",
-    "Comment": "While rising {3,1,d-hold} to shift to Fo Bu"
+    "Comment": "While rising {3,1,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 417,
+    "Length": 3
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Rising Bei Zhe Kao",
     "Description": "While rising {4,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation"
+    "Comment": "Gain Lightning Glare on Heat activation",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 423,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Le Kua Kao > Lightning Glare",
     "Description": "While rising {1+2} on hit {1+2}",
     "Properties": "",
-    "Comment": "Gain Lightning Glare"
+    "Comment": "Gain Lightning Glare",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 429,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Hou Sao Xuan",
     "Description": "While crouching {df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Da Kai",
     "Description": "During sidestep {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 439,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Tui Bu Dan Yi",
     "Description": "Back facing opponent {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 444,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Jin Bu",
     "Description": "{d,df,f}",
     "Properties": "",
-    "Comment": "{d,df-hold} to shift to crouching state"
+    "Comment": "{d,df-hold} to shift to crouching state",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 449,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Lei Zhang",
     "Description": "{d,df,f,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 455,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Lightning Spear",
     "Description": "{d,df,f,2,1}",
     "Properties": "",
-    "Comment": "{d,df,f,2,b-hold} to shift Jin Ji Du Li"
+    "Comment": "{d,df,f,2,b-hold} to shift Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 460,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Lightning Skypiercer",
     "Description": "{d,df,f,2,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, {d,df,f,2,b-hold} to shift to Jin Ji Du Li"
+    "Comment": "Chip damage on block, {d,df,f,2,b-hold} to shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 465,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Swallow Step",
     "Description": "{d,df,f,3+4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 471,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Jin Ji Du Li",
     "Description": "{f,4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li"
+    "Comment": "Shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 476,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Bai She Tui Chuang",
     "Description": "During Jin Ji Du Li {1,2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu"
+    "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 481,
+    "Length": 4
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Heng Quan",
     "Description": "During Jin Ji Du Li {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 488,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Er Qi Jiao",
     "Description": "During Jin Ji Du Li {3,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 493,
+    "Length": 3
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Cuo Ti Fu Ren",
     "Description": "During Jin Ji Du Li {4}",
     "Properties": "",
-    "Comment": "During JIn Ji Du Li {4,df-hold} to shift to Jin Bu"
+    "Comment": "During JIn Ji Du Li {4,df-hold} to shift to Jin Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 499,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Upper Rising Fist",
     "Description": "During Jin Ji Du Li {1+2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 504,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Tree Feller",
     "Description": "During Jin Ji Du Li {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 509,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Jin Bu",
     "Description": "During Jin Ji Du Li {df-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 514,
+    "Length": 1
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Fo Bu",
     "Description": "{d,1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Fo Bu"
+    "Comment": "Shift to Fo Bu",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 518,
+    "Length": 1
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Ya Sui Ying Quan",
     "Description": "During Fo Bu {1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 522,
+    "Length": 3
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Fan Lan Chui",
     "Description": "During Fo Bu {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 528,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Startled Crane",
     "Description": "During Fo Bu {3}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 533,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Jin Ji Du Li",
     "Description": "During Fo Bu {4}",
     "Properties": "",
-    "Comment": "Shift to Jin Ji Du Li"
+    "Comment": "Shift to Jin Ji Du Li",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 538,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Lao Pao Ba",
     "Description": "During Fo Bu {1+2}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block"
+    "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 543,
+    "Length": 3
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Bao Hu Gui Shan",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 549,
+    "Length": 3
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Dan Yang Da",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 555,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Da Zhe Jiang",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 561,
+    "Length": 3
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Chou Bie Zi",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 567,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Yang Di Tou",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 573,
+    "Length": 2
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Shuang Pai Shou",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 578,
+    "Length": 4
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Bao Zhou",
     "Description": "Time with opponent kick {ub,1}",
     "Properties": "",
-    "Comment": "When parrying an attack, {4} for follow-up attack"
+    "Comment": "When parrying an attack, {4} for follow-up attack",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 585,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Bao Zhou Ji Tui",
     "Description": "After Bao Zhou succeeds {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 590,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Shi Zi Xiao Zhang Kou",
     "Description": "Time with opponent attack {b,1+3}",
     "Properties": "",
-    "Comment": "When parrying an attack, {2} for follow-up attack"
+    "Comment": "When parrying an attack, {2} for follow-up attack",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 595,
+    "Length": 1
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Shi Zi Xiao Zhang Kou > Shang Bu Zhuang Quan",
     "Description": "After Shi Zi Xiao Zhang Kou succeeds {2}",
     "Properties": "",
-    "Comment": "Gain Lightning Glare on hit"
+    "Comment": "Gain Lightning Glare on hit",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 599,
+    "Length": 3
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Shi Zi Zhou",
     "Description": "Time with opponent attack {b,2+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 605,
+    "Length": 2
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 610,
+    "Length": 2
   },
   {
     "Id": 112,
@@ -893,6 +1226,9 @@
     "Name": "Zhen Jiao",
     "Description": "While opponent is down {d,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "E9MAHmG1PJU",
+    "StartTime": 615,
+    "Length": 2
   }
 ]
