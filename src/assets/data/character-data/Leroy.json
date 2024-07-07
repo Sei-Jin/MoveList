@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 7,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 13,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Increased chip damage on block for fast multi-hit attacks such as Chain Punch, during Heat partially restore remaining Heat time",
     "Properties": "",
-    "Comment": "{1,1,1+2}, {1+2,1+2}, {f,3,1+2}, etc."
+    "Comment": "{1,1,1+2}, {1+2,1+2}, {f,3,1+2}, etc.",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 21,
+    "Length": 5
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Partially restores remaining Heat time with a successful parry or attack reversal unique to Leroy",
     "Properties": "",
-    "Comment": "{db,1+2}, {b,2}, {ub,2}, etc."
+    "Comment": "{db,1+2}, {b,2}, {ub,2}, etc.",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 29,
+    "Length": 3
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 35,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Chain Punch: Stem",
     "Description": "{1+2,1+2,1}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 41,
+    "Length": 4
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Lao Weng Xuan Feng Jiao",
     "Description": "{f,4,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 48,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Chanhui Zhang",
     "Description": "{d,1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 54,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Tan Sau Shui Yue Tu",
     "Description": "{db,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block"
+    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 60,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Chain Punch: Root",
     "Description": "During Hermit ({3+4}, etc.) {1+2,1}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 66,
+    "Length": 4
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Twin Dragon Thunderclap",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Also possible during Hermit or after Twin Dragon Gate is successful, Heat Smash, on hit shift to throw on block shift to Hermit"
+    "Comment": "Also possible during Hermit or after Twin Dragon Gate is successful, Heat Smash, on hit shift to throw on block shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 73,
+    "Length": 5
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Dark Dragon Commandment",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 81,
+    "Length": 15
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Chain Punch: Sheath",
     "Description": "{1,1,1+2,1}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 99,
+    "Length": 3
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Front Palm",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 105,
+    "Length": 1
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Front Palm Pulsing Fist",
     "Description": "{1,2,1}",
     "Properties": "",
-    "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+    "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 109,
+    "Length": 2
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Front Palm Xuan Feng Jiao",
     "Description": "{1,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 114,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Front Palm Snap Kick",
     "Description": "{1,2,4}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 119,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Needle Elbow",
     "Description": "{2,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 124,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Claws of Fury",
     "Description": "{2,1,2,1}",
     "Properties": "Tornado",
-    "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+    "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 129,
+    "Length": 3
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Hissing Snake",
     "Description": "{3,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 135,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Falling Bamboo",
     "Description": "{4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 140,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Chain Punch: Stem",
     "Description": "{1+2,1+2,1}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 145,
+    "Length": 4
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Hermit",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when successful), during Hermit {3+4} to stand up"
+    "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when successful), during Hermit {3+4} to stand up",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 152,
+    "Length": 1
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Lone Dragon Storm",
     "Description": "{f,2,3,4}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 156,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Strike of the Five Precepts",
     "Description": "{f,3,1+2,4}",
     "Properties": "Tornado",
-    "Comment": "Or while rising {3,1+2,4}, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Or while rising {3,1+2,4}, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 161,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Lao Weng Xuan Feng Jiao",
     "Description": "{f,4,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 166,
+    "Length": 3
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Dragon Elbow Crash",
     "Description": "{f,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up (chip damage on block)"
+    "Comment": "Absorb an attack to power up (chip damage on block)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 172,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Chopping Snap Kick",
     "Description": "{df,1,4}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 177,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Admonishment Whirl",
     "Description": "{df,1,1+2,2}",
     "Properties": "",
-    "Comment": "Fifth hit has a punch parry effect (partially restores remaining Heat time when successful during Heat), power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Fifth hit has a punch parry effect (partially restores remaining Heat time when successful during Heat), power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 182,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Rising Dragons",
     "Description": "{df,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 187,
+    "Length": 3
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Poison Strike",
     "Description": "{df,3,1,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 193,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Snap Kick Knee",
     "Description": "{df,4,3}",
     "Properties": "",
-    "Comment": "{df,4} to shift to Hermit"
+    "Comment": "{df,4} to shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 199,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Jawbreaker Bow Kick",
     "Description": "{df,3+4}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 204,
+    "Length": 3
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Ru Huan Snap Kick",
     "Description": "{d,1,2,4}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 210,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Falling Fist Sweep",
     "Description": "{d,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 215,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Twin Snake Strike",
     "Description": "{d,3,2}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 220,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Razor Kick",
     "Description": "{d,4,4}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 225,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Chanhui Zhang",
     "Description": "{d,1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 230,
+    "Length": 3
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Shadow Ram Punch",
     "Description": "{db,1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 236,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Shadow Raccoon Swing",
     "Description": "{db,1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 241,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Shadow Double Fist Punch",
     "Description": "{db,1,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 246,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Amputation Kick",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 251,
+    "Length": 1
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Fan Sweep",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 255,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Tan Sau Shui Yue Tu",
     "Description": "{db,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block"
+    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 260,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Hermit's Fist",
     "Description": "{b,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 266,
+    "Length": 1
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Knee Snap",
     "Description": "{b,1} (Counter Hit)",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 270,
+    "Length": 4
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Beheading Back Kick",
     "Description": "{b,3}",
     "Properties": "Homing",
-    "Comment": "Shift to Hermit, {b,3,3+4} to cancel into Hermit, chip damage on block"
+    "Comment": "Shift to Hermit, {b,3,3+4} to cancel into Hermit, chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 277,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Zhuan Shen Jiao",
     "Description": "{b,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 282,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Outcast Arrow",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 287,
+    "Length": 1
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Earth Sunder Chain",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Throw when hit from the front"
+    "Comment": "Throw when hit from the front",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 291,
+    "Length": 4
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Enter the Dragon",
     "Description": "{ub,2}",
     "Properties": "",
-    "Comment": "Has punch parry effect (partially restores remaining Heat time when successful during Heat)"
+    "Comment": "Has punch parry effect (partially restores remaining Heat time when successful during Heat)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 298,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Pulsing Fist",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 303,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Zhuan Shen Long Fang Quan",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "Or {u,2}, chip damage on block"
+    "Comment": "Or {u,2}, chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 308,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Floating Kick",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {ub,3} or {u,3}"
+    "Comment": "Or {ub,3} or {u,3}",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 313,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Floating Axe Drop",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": "Or {ub,4} or {u,4}"
+    "Comment": "Or {ub,4} or {u,4}",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 318,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Biting Dragons",
     "Description": "{uf,3+4,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 323,
+    "Length": 3
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 329,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Cleansing Arrow",
     "Description": "{f,f-hold,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 334,
+    "Length": 3
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Viper Bow Kick",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 340,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Sacrum Severance",
     "Description": "{f,f-hold,4,2}",
     "Properties": "Tornado",
-    "Comment": "{f,f-hold,4} to shift to Hermit"
+    "Comment": "{f,f-hold,4} to shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 345,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Chakra Elbow",
     "Description": "{d,df,f,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 350,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Piercing Charge",
     "Description": "{d,df,f,3+4,f-hold}",
     "Properties": "",
-    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 355,
+    "Length": 4
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Dragon's Heel",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 362,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "10 Hit Combo",
     "Description": "{df,3,1,4,1+2,2,1+2,1+2}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 367,
+    "Length": 5
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Go Sugar",
     "Description": "{1+4}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 375,
+    "Length": 3
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Taunt",
     "Description": "{1+3+4}",
     "Properties": "",
-    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch"
+    "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 381,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 387,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Elbow Slash Snap Kick",
     "Description": "While rising {1,4}",
     "Properties": "",
-    "Comment": "Shift to Hermit"
+    "Comment": "Shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 392,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Arrow Shower",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 397,
+    "Length": 3
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Toe Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 403,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "",
     "Description": "While crouching {df,4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 408,
+    "Length": 3
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Lone Dragon Slice",
     "Description": "During sidestep {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 414,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Chain Punch: Seed",
     "Description": "During sidestep {1+2}",
     "Properties": "",
-    "Comment": "Or during Nimble Shift {1+2}, chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Or during Nimble Shift {1+2}, chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 419,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Hermit",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when sucessful), during Hermit {3+4} to stand up"
+    "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when sucessful), during Hermit {3+4} to stand up",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 424,
+    "Length": 1
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Tan Zhang",
     "Description": "During Hermit {1}",
     "Properties": "",
-    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat)"
+    "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 428,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Double Jawbreaker",
     "Description": "During Hermit {2,3}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 433,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Stampeding Dragon",
     "Description": "During Hermit {3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 438,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Cautious Dragon",
     "Description": "During Hermit {4,1+2}",
     "Properties": "Tornado",
-    "Comment": "During Hermit {4} to shift to Hermit"
+    "Comment": "During Hermit {4} to shift to Hermit",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 443,
+    "Length": 3
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Chain Punch: Root",
     "Description": "During Hermit {1+2,1}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 449,
+    "Length": 4
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Villain Slayer",
     "Description": "During Hermit {f,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 456,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Duan Tou Xuan Feng Jiao",
     "Description": "During Hermit {f,4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 461,
+    "Length": 3
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Prayer Fist",
     "Description": "During Hermit {b,1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 467,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Twin Dragon Acceptance",
     "Description": "During Hermit {b,3,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 472,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Razor Sweep",
     "Description": "During Hermit {b,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 478,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Nimble Shift",
     "Description": "During Hermit {d} (or {u})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 483,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Master's Lesson",
     "Description": "(Only once per match) {f,2+3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 488,
+    "Length": 4
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Master's Sermon",
     "Description": "(Only once per match) {db,2+3}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 495,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Devastating Chain Punch",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 501,
+    "Length": 4
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Corkscrew Strike",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 508,
+    "Length": 4
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Devastating Chain Punch",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 515,
+    "Length": 4
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Corkscrew Strike",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 522,
+    "Length": 4
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Lone Dragon's Rage",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 529,
+    "Length": 4
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Lian Jin Xuan Feng Jiao",
     "Description": "{uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 536,
+    "Length": 4
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Twin Dragon Gate",
     "Description": "Time with opponent attack {b,2}",
     "Properties": "",
-    "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect"
+    "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 543,
+    "Length": 1
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Chain Punch: Branch",
     "Description": "After Twin Dragon Gate succeeds {1} (or {2})",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 547,
+    "Length": 3
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Superior Twin Dragon Gate",
     "Description": "Time with opponent attack {b,2} (Perfect)",
     "Properties": "",
-    "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect"
+    "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 553,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Superior Chain Punch: Branch",
     "Description": "After Superior Twin Dragon Gate succeeds {1} (or {2})",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 558,
+    "Length": 4
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 565,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,6 +1094,9 @@
     "Name": "Tremor Punch",
     "Description": "While opponent is down {db,2,1+2}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "_oalsk8LQgg",
+    "StartTime": 570,
+    "Length": 2
   }
 ]
