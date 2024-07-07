@@ -783,7 +783,7 @@
   {
     "Id": 72,
     "Type": "Moves While Crouching",
-    "Name": "",
+    "Name": "Reverse Cross Kick",
     "Description": "While crouching {df,4,1}",
     "Properties": "",
     "Comment": "",
