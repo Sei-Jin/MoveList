@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 6,
+    "Length": 4
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 12,
+    "Length": 4
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can use powered up Feisty Rabbit",
     "Properties": "",
-    "Comment": "{b,3} > during Feisty Rabbit {3}, etc."
+    "Comment": "{b,3} > during Feisty Rabbit {3}, etc.",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 18,
+    "Length": 3
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of the powered up version of Piercing Thorn",
     "Properties": "",
-    "Comment": "{1,2,4}, {f,f-hold,3+4}, etc."
+    "Comment": "{1,2,4}, {f,f-hold,3+4}, etc.",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 23,
+    "Length": 4
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 29,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Peacock Waltz",
     "Description": "{3,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 34,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Black Swan",
     "Description": "{3+4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 39,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Nocturne",
     "Description": "During Dew Glide ({d,df,f}) {2,1}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 44,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Scorpio's Sting",
     "Description": "Back facing opponent ({b,3+4}, etc.) {1,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 49,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Rabbit Song",
     "Description": "During Fiesty Rabbit ({b,3}, etc.) {2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 54,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "White Swan Mezzo Forte",
     "Description": "During Heat {2+3}",
     "Properties": "Homing",
-    "Comment": "Heat Smash, on hit shift to throw"
+    "Comment": "Heat Smash, on hit shift to throw",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 59,
+    "Length": 4
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Rosa Giganteia Mezzo Forte",
     "Description": "During Heat (back facing opponent) {2+3}",
     "Properties": "Homing",
-    "Comment": "Heat Smash"
+    "Comment": "Heat Smash",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 65,
+    "Length": 4
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "La Vie en Rose fortississimo",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 71,
+    "Length": 13
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Tricolore",
     "Description": "{1,1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 86,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Left Right Thrust",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 90,
+    "Length": 1
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Left Right Back Strike",
     "Description": "{1,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 93,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Left Right Piercing Thorn",
     "Description": "{1,2,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 97,
+    "Length": 3
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Sunrise Sunset",
     "Description": "{2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 102,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Bed Time",
     "Description": "{2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 106,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Peacock Waltz",
     "Description": "{3,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 110,
+    "Length": 3
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Peacock Jive",
     "Description": "{3,2,3}",
     "Properties": "",
-    "Comment": "{3,2,f-hold} to shift to Dew Glide"
+    "Comment": "{3,2,f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 115,
+    "Length": 3
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Broken Heart",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 120,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Black Swan",
     "Description": "{3+4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 124,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Mars Sword",
     "Description": "{f,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 129,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Circle Knee",
     "Description": "{f,3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 133,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Bélier Attaque",
     "Description": "{f,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 137,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Kitty Claws",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 141,
+    "Length": 1
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Sundial",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 144,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Garland Kick Combo",
     "Description": "{f,3+4,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 148,
+    "Length": 3
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Orleans Sword",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": "{df,2,b-hold} to face backward"
+    "Comment": "{df,2,b-hold} to face backward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 153,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Submissive Heel",
     "Description": "{df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 157,
+    "Length": 1
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Dominating Heel",
     "Description": "{df,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 160,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Backflip",
     "Description": "{df,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 164,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Backflip Spinning edge",
     "Description": "{df,3+4,3+4}",
     "Properties": "",
-    "Comment": "{df,3+4} to face backward"
+    "Comment": "{df,3+4} to face backward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 168,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Heavy Languish",
     "Description": "{d,1,2,4}",
     "Properties": "",
-    "Comment": "{d,1,d-hold} to directly shift to crouching state, {d,1,2,b-hold} to face backward"
+    "Comment": "{d,1,d-hold} to directly shift to crouching state, {d,1,2,b-hold} to face backward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 172,
+    "Length": 3
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Bloody Masquerade Piton",
     "Description": "{d,2,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 177,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Bloody Masquerade Lance",
     "Description": "{d,2,2,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 181,
+    "Length": 3
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Thorn Whip",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 186,
+    "Length": 1
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Barcarolle",
     "Description": "{d,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 189,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Matterhorn Ascension",
     "Description": "{d,3+4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 193,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Twist of Fate",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 197,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Edelweiss",
     "Description": "{db,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 201,
+    "Length": 3
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Freesia Thrust",
     "Description": "{db,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 206,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Élysée Le Bras Allongé Caracole",
     "Description": "{b,1,4}",
     "Properties": "Tornado",
-    "Comment": "{b,1,f-hold} to shift to Dew Glide"
+    "Comment": "{b,1,f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 210,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Heliotrope Corsage",
     "Description": "{b,2,1,1+2}",
     "Properties": "",
-    "Comment": "{b,2,1,b-hold} to face backward, {b,2,1,f-hold} to shift to Dew Glide"
+    "Comment": "{b,2,1,b-hold} to face backward, {b,2,1,f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 214,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Feisty Rabbit",
     "Description": "{b,3}",
     "Properties": "",
-    "Comment": "Or {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide"
+    "Comment": "Or {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 218,
+    "Length": 1
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Dendrobium",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 221,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Mirror Image",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Back towards opponent"
+    "Comment": "Back towards opponent",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 225,
+    "Length": 1
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Piercing Thorn Fortissimo",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 228,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Shattered Crown",
     "Description": "{ub,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 233,
+    "Length": 1
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Moonsault Alstroemeria",
     "Description": "{u,3,3} on hit or block {3+4}",
     "Properties": "",
-    "Comment": "Or {ub,3,3,3+4}, {u,3,f-hold} (or {u,3,3,f-hold}) to shift to Dew Glide"
+    "Comment": "Or {ub,3,3,3+4}, {u,3,f-hold} (or {u,3,3,f-hold}) to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 236,
+    "Length": 3
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Divine Step",
     "Description": "{u,3+4}",
     "Properties": "",
-    "Comment": "Throw when hit from close range on the ground"
+    "Comment": "Throw when hit from close range on the ground",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 241,
+    "Length": 3
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Stinging Nettle",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "Or {ub,2} or {u,2}"
+    "Comment": "Or {ub,2} or {u,2}",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 246,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Capricorn Kick",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 250,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Sunflower Lance",
     "Description": "{uf,4,3}",
     "Properties": "Tornado",
-    "Comment": "{uf,4,b-hold} to face backward"
+    "Comment": "{uf,4,b-hold} to face backward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 254,
+    "Length": 3
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Angel Knee > Front Kick",
     "Description": "{uf,3+4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 259,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Angel Knee Ascension",
     "Description": "{uf,3+4,3+4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 263,
+    "Length": 3
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 268,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Allonger Le Bras",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 272,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Alstromeria",
     "Description": "{f,f-hold,3} on hit or block {3+4}",
     "Properties": "",
-    "Comment": "{f,f-hold,3,f-hold} to shift to Dew Glide"
+    "Comment": "{f,f-hold,3,f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 276,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Root of Evil",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": "{f,f-hold,4,b-hold} to face backward"
+    "Comment": "{f,f-hold,4,b-hold} to face backward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 280,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Lashing Iris",
     "Description": "{f,f-hold,1+2}",
     "Properties": "Homing",
-    "Comment": "Hold to power up and deal more chip damage on block"
+    "Comment": "Hold to power up and deal more chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 284,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Lashing Iris Forte",
     "Description": "{f,f-hold,1+2} hold",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 288,
+    "Length": 3
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Piercing Thorn",
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 293,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Sabre Slash",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 297,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{4,1,3,4,4,3,4,4,3+4}",
     "Properties": "",
-    "Comment": "Throw when hit from close range on the ground"
+    "Comment": "Throw when hit from close range on the ground",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 301,
+    "Length": 7
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{4,1,3,3+4,3,4,3,1,3+4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 310,
+    "Length": 7
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "10 Hit Combo 3",
     "Description": "{4,1,3,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 319,
+    "Length": 3
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 324,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Sullen Daisy",
     "Description": "While rising {1,2,4}",
     "Properties": "",
-    "Comment": "While rising {1,2,f-hold} to shift to Dew Glide"
+    "Comment": "While rising {1,2,f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 328,
+    "Length": 3
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Delicate Uprising",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": "While rising {2,b-hold} to face backward"
+    "Comment": "While rising {2,b-hold} to face backward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 333,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Honeysuckle",
     "Description": "While rising {3,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 337,
+    "Length": 3
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Cane Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 342,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Slashing Vine",
     "Description": "While rising {df,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 346,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Horizon Slide",
     "Description": "While rising {df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 350,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Stunning Toe Kick",
     "Description": "During sidestep {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 354,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Demilune",
     "Description": "During sidestep {4}",
     "Properties": "",
-    "Comment": "During sidestep {4,b,3} (or {b,4}) to shift to Feisty Rabbit"
+    "Comment": "During sidestep {4,b,3} (or {b,4}) to shift to Feisty Rabbit",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 358,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Minuet",
     "Description": "During sidestep {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 362,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Fierbois Sword",
     "Description": "Back facing opponent {1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 366,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Scorpio's Sting",
     "Description": "Back facing opponent {1,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 370,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Rompez Fleuret",
     "Description": "Back facing opponent {2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 375,
+    "Length": 1
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Arc-en-Ciel",
     "Description": "Back facing opponent {3,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 378,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Shears > Spinning Edge",
     "Description": "Back facing opponent {4,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 382,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Tempest",
     "Description": "Back facing opponent {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 387,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Twist Backflip",
     "Description": "Back facing opponent {3+4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 391,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Petal Sweep",
     "Description": "Back facing opponent {d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 395,
+    "Length": 1
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Autumn Wind",
     "Description": "Back facing opponent {d,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 398,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Graceful Low Kick",
     "Description": "Back facing opponent {d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 402,
+    "Length": 1
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Orchid RIng",
     "Description": "Back facing opponent {d,3+4}",
     "Properties": "",
-    "Comment": "{d,3+4,f-hold} to face forward"
+    "Comment": "{d,3+4,f-hold} to face forward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 405,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Feisty Rabbit",
     "Description": "Back facing opponent {b,3}",
     "Properties": "",
-    "Comment": "Or back toward enemy {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide"
+    "Comment": "Or back toward enemy {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 409,
+    "Length": 1
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Dew Glide",
     "Description": "{d,df,f}",
     "Properties": "",
-    "Comment": "{d,df-hold} to cancel and directly shift to crouching state, {b,3} (or {b,4}) to shift to Feisty Rabbit"
+    "Comment": "{d,df-hold} to cancel and directly shift to crouching state, {b,3} (or {b,4}) to shift to Feisty Rabbit",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 412,
+    "Length": 1
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Rose Pique",
     "Description": "{d,df,f,1,2}",
     "Properties": "",
-    "Comment": "{d,df,f,1,2,b-hold} to cancel and face backward"
+    "Comment": "{d,df,f,1,2,b-hold} to cancel and face backward",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 415,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Rose Piercing Thorn",
     "Description": "{d,df,f,1,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 419,
+    "Length": 3
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Nocturne",
     "Description": "{d,df,f,2,1}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 424,
+    "Length": 3
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Platinum Grace",
     "Description": "{d,df,f,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 429,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Angel Heart",
     "Description": "{d,df,f,1+2}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 433,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Cloisonne",
     "Description": "{d,df,f,3+4}",
     "Properties": "",
-    "Comment": "{d,df,f,3+4,b,3} (or {b,4}) to shift to Feisty Rabbit"
+    "Comment": "{d,df,f,3+4,b,3} (or {b,4}) to shift to Feisty Rabbit",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 437,
+    "Length": 1
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Feisty Rabbit",
     "Description": "{b,3}, etc.",
     "Properties": "",
-    "Comment": "Shift to Feisty Rabbit, {f-hold} to shift to Dew Glide"
+    "Comment": "Shift to Feisty Rabbit, {f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 440,
+    "Length": 1
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Rabbit Song",
     "Description": "During Feisty Rabbit {2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 443,
+    "Length": 3
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Rabbit Dance",
     "Description": "During Feisty Rabbit {3}",
     "Properties": "Homing",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 448,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Rabbit Piercing Thorn",
     "Description": "During Feisty Rabbit {4}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 452,
+    "Length": 3
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Feisty Rabbit Deuxième",
     "Description": "{b-hold,3} hold",
     "Properties": "",
-    "Comment": "Or {b-hold,4} hold, shift to Feisty Rabbit Deuxième, can shift to into moves from Feisty Rabbit, partially restores remaining Heat time, {f-hold} to shift to Dew Glide"
+    "Comment": "Or {b-hold,4} hold, shift to Feisty Rabbit Deuxième, can shift to into moves from Feisty Rabbit, partially restores remaining Heat time, {f-hold} to shift to Dew Glide",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 457,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Kiss of Devotion",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 461,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Femme Fatale",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 466,
+    "Length": 3
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Soleil",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 471,
+    "Length": 3
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Monaco Mixer",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 476,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Ravaging Beauty",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 481,
+    "Length": 3
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Rafflesia",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 486,
+    "Length": 3
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Larkspur",
     "Description": "During opponent wall stun {1+3} (or {2+4})",
     "Properties": "Homing",
-    "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape"
+    "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 491,
+    "Length": 5
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Attack Reversal",
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 498,
+    "Length": 4
   },
   {
     "Id": 112,
@@ -893,6 +1226,9 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "DWUPqD5PBLk",
+    "StartTime": 504,
+    "Length": 2
   }
 ]
