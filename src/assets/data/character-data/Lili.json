@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,7 +17,7 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 6,
     "Length": 4
   },
@@ -28,7 +28,7 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 12,
     "Length": 4
   },
@@ -39,7 +39,7 @@
     "Description": "Can use powered up Feisty Rabbit",
     "Properties": "",
     "Comment": "{b,3} > during Feisty Rabbit {3}, etc.",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 18,
     "Length": 3
   },
@@ -50,7 +50,7 @@
     "Description": "Allows the use of the powered up version of Piercing Thorn",
     "Properties": "",
     "Comment": "{1,2,4}, {f,f-hold,3+4}, etc.",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 23,
     "Length": 4
   },
@@ -61,7 +61,7 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 29,
     "Length": 3
   },
@@ -72,7 +72,7 @@
     "Description": "{3,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 34,
     "Length": 3
   },
@@ -83,7 +83,7 @@
     "Description": "{3+4}",
     "Properties": "Heat Engager, Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 39,
     "Length": 3
   },
@@ -94,7 +94,7 @@
     "Description": "During Dew Glide ({d,df,f}) {2,1}",
     "Properties": "Heat Engager, Homing",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 44,
     "Length": 3
   },
@@ -105,7 +105,7 @@
     "Description": "Back facing opponent ({b,3+4}, etc.) {1,4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 49,
     "Length": 3
   },
@@ -116,7 +116,7 @@
     "Description": "During Fiesty Rabbit ({b,3}, etc.) {2}",
     "Properties": "Heat Engager",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 54,
     "Length": 3
   },
@@ -127,7 +127,7 @@
     "Description": "During Heat {2+3}",
     "Properties": "Homing",
     "Comment": "Heat Smash, on hit shift to throw",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 59,
     "Length": 4
   },
@@ -138,7 +138,7 @@
     "Description": "During Heat (back facing opponent) {2+3}",
     "Properties": "Homing",
     "Comment": "Heat Smash",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 65,
     "Length": 4
   },
@@ -149,7 +149,7 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 71,
     "Length": 13
   },
@@ -160,7 +160,7 @@
     "Description": "{1,1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 86,
     "Length": 2
   },
@@ -171,7 +171,7 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 90,
     "Length": 1
   },
@@ -182,7 +182,7 @@
     "Description": "{1,2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 93,
     "Length": 2
   },
@@ -193,7 +193,7 @@
     "Description": "{1,2,4}",
     "Properties": "",
     "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 97,
     "Length": 3
   },
@@ -204,7 +204,7 @@
     "Description": "{2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 102,
     "Length": 2
   },
@@ -215,7 +215,7 @@
     "Description": "{2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 106,
     "Length": 2
   },
@@ -226,7 +226,7 @@
     "Description": "{3,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 110,
     "Length": 3
   },
@@ -237,7 +237,7 @@
     "Description": "{3,2,3}",
     "Properties": "",
     "Comment": "{3,2,f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 115,
     "Length": 3
   },
@@ -248,7 +248,7 @@
     "Description": "{1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 120,
     "Length": 2
   },
@@ -259,7 +259,7 @@
     "Description": "{3+4}",
     "Properties": "Heat Engager, Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 124,
     "Length": 3
   },
@@ -270,7 +270,7 @@
     "Description": "{f,2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 129,
     "Length": 2
   },
@@ -281,7 +281,7 @@
     "Description": "{f,3}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 133,
     "Length": 2
   },
@@ -292,7 +292,7 @@
     "Description": "{f,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 137,
     "Length": 2
   },
@@ -303,7 +303,7 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 141,
     "Length": 1
   },
@@ -314,7 +314,7 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 144,
     "Length": 2
   },
@@ -325,7 +325,7 @@
     "Description": "{f,3+4,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 148,
     "Length": 3
   },
@@ -336,7 +336,7 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "{df,2,b-hold} to face backward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 153,
     "Length": 2
   },
@@ -347,7 +347,7 @@
     "Description": "{df,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 157,
     "Length": 1
   },
@@ -358,7 +358,7 @@
     "Description": "{df,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 160,
     "Length": 2
   },
@@ -369,7 +369,7 @@
     "Description": "{df,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 164,
     "Length": 2
   },
@@ -380,7 +380,7 @@
     "Description": "{df,3+4,3+4}",
     "Properties": "",
     "Comment": "{df,3+4} to face backward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 168,
     "Length": 2
   },
@@ -391,7 +391,7 @@
     "Description": "{d,1,2,4}",
     "Properties": "",
     "Comment": "{d,1,d-hold} to directly shift to crouching state, {d,1,2,b-hold} to face backward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 172,
     "Length": 3
   },
@@ -402,7 +402,7 @@
     "Description": "{d,2,2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 177,
     "Length": 2
   },
@@ -413,7 +413,7 @@
     "Description": "{d,2,2,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 181,
     "Length": 3
   },
@@ -424,7 +424,7 @@
     "Description": "{d,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 186,
     "Length": 1
   },
@@ -435,7 +435,7 @@
     "Description": "{d,1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 189,
     "Length": 2
   },
@@ -446,7 +446,7 @@
     "Description": "{d,3+4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 193,
     "Length": 2
   },
@@ -457,7 +457,7 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 197,
     "Length": 2
   },
@@ -468,7 +468,7 @@
     "Description": "{db,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 201,
     "Length": 3
   },
@@ -479,7 +479,7 @@
     "Description": "{db,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 206,
     "Length": 2
   },
@@ -490,7 +490,7 @@
     "Description": "{b,1,4}",
     "Properties": "Tornado",
     "Comment": "{b,1,f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 210,
     "Length": 2
   },
@@ -501,7 +501,7 @@
     "Description": "{b,2,1,1+2}",
     "Properties": "",
     "Comment": "{b,2,1,b-hold} to face backward, {b,2,1,f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 214,
     "Length": 2
   },
@@ -512,7 +512,7 @@
     "Description": "{b,3}",
     "Properties": "",
     "Comment": "Or {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 218,
     "Length": 1
   },
@@ -523,7 +523,7 @@
     "Description": "{b,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 221,
     "Length": 2
   },
@@ -534,7 +534,7 @@
     "Description": "{b,3+4}",
     "Properties": "",
     "Comment": "Back towards opponent",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 225,
     "Length": 1
   },
@@ -545,7 +545,7 @@
     "Description": "{b,1+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 228,
     "Length": 3
   },
@@ -556,7 +556,7 @@
     "Description": "{ub,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 233,
     "Length": 1
   },
@@ -567,7 +567,7 @@
     "Description": "{u,3,3} on hit or block {3+4}",
     "Properties": "",
     "Comment": "Or {ub,3,3,3+4}, {u,3,f-hold} (or {u,3,3,f-hold}) to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 236,
     "Length": 3
   },
@@ -578,7 +578,7 @@
     "Description": "{u,3+4}",
     "Properties": "",
     "Comment": "Throw when hit from close range on the ground",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 241,
     "Length": 3
   },
@@ -589,7 +589,7 @@
     "Description": "{uf,2}",
     "Properties": "",
     "Comment": "Or {ub,2} or {u,2}",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 246,
     "Length": 2
   },
@@ -600,7 +600,7 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 250,
     "Length": 2
   },
@@ -611,7 +611,7 @@
     "Description": "{uf,4,3}",
     "Properties": "Tornado",
     "Comment": "{uf,4,b-hold} to face backward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 254,
     "Length": 3
   },
@@ -622,7 +622,7 @@
     "Description": "{uf,3+4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 259,
     "Length": 2
   },
@@ -633,7 +633,7 @@
     "Description": "{uf,3+4,3+4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 263,
     "Length": 3
   },
@@ -644,7 +644,7 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 268,
     "Length": 2
   },
@@ -655,7 +655,7 @@
     "Description": "{f,f-hold,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 272,
     "Length": 2
   },
@@ -666,7 +666,7 @@
     "Description": "{f,f-hold,3} on hit or block {3+4}",
     "Properties": "",
     "Comment": "{f,f-hold,3,f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 276,
     "Length": 2
   },
@@ -677,7 +677,7 @@
     "Description": "{f,f-hold,4}",
     "Properties": "",
     "Comment": "{f,f-hold,4,b-hold} to face backward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 280,
     "Length": 2
   },
@@ -688,7 +688,7 @@
     "Description": "{f,f-hold,1+2}",
     "Properties": "Homing",
     "Comment": "Hold to power up and deal more chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 284,
     "Length": 2
   },
@@ -699,7 +699,7 @@
     "Description": "{f,f-hold,1+2} hold",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 288,
     "Length": 3
   },
@@ -710,7 +710,7 @@
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
     "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 293,
     "Length": 2
   },
@@ -721,7 +721,7 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 297,
     "Length": 2
   },
@@ -732,7 +732,7 @@
     "Description": "{4,1,3,4,4,3,4,4,3+4}",
     "Properties": "",
     "Comment": "Throw when hit from close range on the ground",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 301,
     "Length": 7
   },
@@ -743,7 +743,7 @@
     "Description": "{4,1,3,3+4,3,4,3,1,3+4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 310,
     "Length": 7
   },
@@ -754,7 +754,7 @@
     "Description": "{4,1,3,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 319,
     "Length": 3
   },
@@ -765,7 +765,7 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 324,
     "Length": 2
   },
@@ -776,7 +776,7 @@
     "Description": "While rising {1,2,4}",
     "Properties": "",
     "Comment": "While rising {1,2,f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 328,
     "Length": 3
   },
@@ -787,7 +787,7 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "While rising {2,b-hold} to face backward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 333,
     "Length": 2
   },
@@ -798,7 +798,7 @@
     "Description": "While rising {3,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 337,
     "Length": 3
   },
@@ -809,7 +809,7 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 342,
     "Length": 2
   },
@@ -820,7 +820,7 @@
     "Description": "While rising {df,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 346,
     "Length": 2
   },
@@ -831,7 +831,7 @@
     "Description": "While rising {df,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 350,
     "Length": 2
   },
@@ -842,7 +842,7 @@
     "Description": "During sidestep {3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 354,
     "Length": 2
   },
@@ -853,7 +853,7 @@
     "Description": "During sidestep {4}",
     "Properties": "",
     "Comment": "During sidestep {4,b,3} (or {b,4}) to shift to Feisty Rabbit",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 358,
     "Length": 2
   },
@@ -864,7 +864,7 @@
     "Description": "During sidestep {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 362,
     "Length": 2
   },
@@ -875,7 +875,7 @@
     "Description": "Back facing opponent {1,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 366,
     "Length": 2
   },
@@ -886,7 +886,7 @@
     "Description": "Back facing opponent {1,4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 370,
     "Length": 3
   },
@@ -897,7 +897,7 @@
     "Description": "Back facing opponent {2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 375,
     "Length": 1
   },
@@ -908,7 +908,7 @@
     "Description": "Back facing opponent {3,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 378,
     "Length": 2
   },
@@ -919,7 +919,7 @@
     "Description": "Back facing opponent {4,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 382,
     "Length": 3
   },
@@ -930,7 +930,7 @@
     "Description": "Back facing opponent {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 387,
     "Length": 2
   },
@@ -941,7 +941,7 @@
     "Description": "Back facing opponent {3+4}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 391,
     "Length": 2
   },
@@ -952,7 +952,7 @@
     "Description": "Back facing opponent {d,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 395,
     "Length": 1
   },
@@ -963,7 +963,7 @@
     "Description": "Back facing opponent {d,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 398,
     "Length": 2
   },
@@ -974,7 +974,7 @@
     "Description": "Back facing opponent {d,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 402,
     "Length": 1
   },
@@ -985,7 +985,7 @@
     "Description": "Back facing opponent {d,3+4}",
     "Properties": "",
     "Comment": "{d,3+4,f-hold} to face forward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 405,
     "Length": 2
   },
@@ -996,7 +996,7 @@
     "Description": "Back facing opponent {b,3}",
     "Properties": "",
     "Comment": "Or back toward enemy {b,4}, shift to Feisty Rabbit, {f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 409,
     "Length": 1
   },
@@ -1007,7 +1007,7 @@
     "Description": "{d,df,f}",
     "Properties": "",
     "Comment": "{d,df-hold} to cancel and directly shift to crouching state, {b,3} (or {b,4}) to shift to Feisty Rabbit",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 412,
     "Length": 1
   },
@@ -1018,7 +1018,7 @@
     "Description": "{d,df,f,1,2}",
     "Properties": "",
     "Comment": "{d,df,f,1,2,b-hold} to cancel and face backward",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 415,
     "Length": 2
   },
@@ -1029,7 +1029,7 @@
     "Description": "{d,df,f,1,4}",
     "Properties": "",
     "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 419,
     "Length": 3
   },
@@ -1040,7 +1040,7 @@
     "Description": "{d,df,f,2,1}",
     "Properties": "Heat Engager, Homing",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 424,
     "Length": 3
   },
@@ -1051,7 +1051,7 @@
     "Description": "{d,df,f,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 429,
     "Length": 2
   },
@@ -1062,7 +1062,7 @@
     "Description": "{d,df,f,1+2}",
     "Properties": "Tornado, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 433,
     "Length": 2
   },
@@ -1073,7 +1073,7 @@
     "Description": "{d,df,f,3+4}",
     "Properties": "",
     "Comment": "{d,df,f,3+4,b,3} (or {b,4}) to shift to Feisty Rabbit",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 437,
     "Length": 1
   },
@@ -1084,7 +1084,7 @@
     "Description": "{b,3}, etc.",
     "Properties": "",
     "Comment": "Shift to Feisty Rabbit, {f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 440,
     "Length": 1
   },
@@ -1095,7 +1095,7 @@
     "Description": "During Feisty Rabbit {2}",
     "Properties": "Heat Engager",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 443,
     "Length": 3
   },
@@ -1106,7 +1106,7 @@
     "Description": "During Feisty Rabbit {3}",
     "Properties": "Homing",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 448,
     "Length": 2
   },
@@ -1117,7 +1117,7 @@
     "Description": "During Feisty Rabbit {4}",
     "Properties": "",
     "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 452,
     "Length": 3
   },
@@ -1128,7 +1128,7 @@
     "Description": "{b-hold,3} hold",
     "Properties": "",
     "Comment": "Or {b-hold,4} hold, shift to Feisty Rabbit Deuxième, can shift to into moves from Feisty Rabbit, partially restores remaining Heat time, {f-hold} to shift to Dew Glide",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 457,
     "Length": 2
   },
@@ -1139,7 +1139,7 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 461,
     "Length": 3
   },
@@ -1150,7 +1150,7 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 466,
     "Length": 3
   },
@@ -1161,7 +1161,7 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 471,
     "Length": 3
   },
@@ -1172,7 +1172,7 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 476,
     "Length": 3
   },
@@ -1183,7 +1183,7 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 481,
     "Length": 3
   },
@@ -1194,7 +1194,7 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 486,
     "Length": 3
   },
@@ -1205,7 +1205,7 @@
     "Description": "During opponent wall stun {1+3} (or {2+4})",
     "Properties": "Homing",
     "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 491,
     "Length": 5
   },
@@ -1216,7 +1216,7 @@
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 498,
     "Length": 4
   },
@@ -1227,7 +1227,7 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "DWUPqD5PBLk",
+    "VideoId": "rdDRQgW7Z1Q",
     "StartTime": 504,
     "Length": 2
   }
