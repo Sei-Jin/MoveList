@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "29byARHntOM",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "29byARHntOM",
+    "StartTime": 11,
+    "Length": 4
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of the powered up version of Phoenix Smasher",
     "Properties": "",
-    "Comment": "{1+2}, {d,df,f,2}, {d,1,2}, etc."
+    "Comment": "{1+2}, {d,df,f,2}, {d,1,2}, etc.",
+    "VideoId": "29byARHntOM",
+    "StartTime": 17,
+    "Length": 3
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Powered up versions of hold moves can be used",
     "Properties": "",
-    "Comment": "{b,2,1} hold, {d,1,2} hold, etc."
+    "Comment": "{b,2,1} hold, {d,1,2} hold, etc.",
+    "VideoId": "29byARHntOM",
+    "StartTime": 22,
+    "Length": 5
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "29byARHntOM",
+    "StartTime": 29,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Phoenix Hook, Tiger Claw",
     "Description": "{f,2}",
     "Properties": "Heat Engager",
-    "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed"
+    "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed",
+    "VideoId": "29byARHntOM",
+    "StartTime": 34,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Stone Lion",
     "Description": "{f,4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 39,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Moonfall",
     "Description": "{uf,2}",
     "Properties": "Heat Engager",
-    "Comment": "Or {u,2}, chip damage on block"
+    "Comment": "Or {u,2}, chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 44,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Phoenix Smasher",
     "Description": "During Cormorant Step ({d,df,f}) {2}",
     "Properties": "Heat Engager",
-    "Comment": "Has clean hit effect, power up while Heat is activated (partially uses remaining Heat time)"
+    "Comment": "Has clean hit effect, power up while Heat is activated (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 49,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Rubber Band Attack",
     "Description": "During Sway ({d,db,b}) {2}",
     "Properties": "Heat Engager",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "29byARHntOM",
+    "StartTime": 54,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Demolition Ball",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw"
+    "Comment": "Heat Smash, on hit shift to throw",
+    "VideoId": "29byARHntOM",
+    "StartTime": 59,
+    "Length": 4
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Big Bang Phoenix Smasher",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "29byARHntOM",
+    "StartTime": 65,
+    "Length": 13
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Left Right Combo",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 80,
+    "Length": 1
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Reverse PDK Combo",
     "Description": "{1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 83,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "PK Combo",
     "Description": "{2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 87,
+    "Length": 2
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "PDK Combo",
     "Description": "{2,d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 91,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Piston Fire",
     "Description": "{3,2}",
     "Properties": "",
-    "Comment": "{3,2,b-hold} to shift to Sway"
+    "Comment": "{3,2,b-hold} to shift to Sway",
+    "VideoId": "29byARHntOM",
+    "StartTime": 95,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Half-Step Phoenix Smasher",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 99,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Half-Step Phoenix Smasher",
     "Description": "{1+2} hold",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 103,
+    "Length": 3
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Burning Fist",
     "Description": "{1+2} hold (max)",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time), {1+2} hold, then {f-hold} to cancel and shift to Cormorant Step, {1+2} hold, then {b-hold} to cancel and shift to Sway"
+    "Comment": "Power up during Heat (partially uses remaining Heat time), {1+2} hold, then {f-hold} to cancel and shift to Cormorant Step, {1+2} hold, then {b-hold} to cancel and shift to Sway",
+    "VideoId": "29byARHntOM",
+    "StartTime": 108,
+    "Length": 3
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Phoenix Hook, Tiger Claw",
     "Description": "{f,2}",
     "Properties": "Heat Engager",
-    "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed"
+    "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed",
+    "VideoId": "29byARHntOM",
+    "StartTime": 113,
+    "Length": 3
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Lion's Tempest",
     "Description": "{f,3,1}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 118,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Stone Lion",
     "Description": "{f,4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 122,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Hammer of the Gods",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 127,
+    "Length": 1
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Hammer of the Gods",
     "Description": "{f,1+2} hold",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 130,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Shoulder Tackle",
     "Description": "{f,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 134,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Lion's Roar",
     "Description": "{df,1,1,2}",
     "Properties": "",
-    "Comment": "{df,1,b-hold} to shift to Sway"
+    "Comment": "{df,1,b-hold} to shift to Sway",
+    "VideoId": "29byARHntOM",
+    "StartTime": 138,
+    "Length": 3
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Kurenai",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 143,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Phoenix Wings",
     "Description": "{df,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 147,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Tiger Claw",
     "Description": "{df,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 151,
+    "Length": 1
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Hammer Punch",
     "Description": "{d,1}",
     "Properties": "",
-    "Comment": "{d,1,d-hold} to directly shift to crouching state"
+    "Comment": "{d,1,d-hold} to directly shift to crouching state",
+    "VideoId": "29byARHntOM",
+    "StartTime": 154,
+    "Length": 1
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Hammer Punch > Phoenix Smasher",
     "Description": "{d,1,2}",
     "Properties": "",
-    "Comment": "Power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 157,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Hammer Punch > Phoenix Smasher",
     "Description": "{d,1,2} hold",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 161,
+    "Length": 3
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Hang Over",
     "Description": "{d,1,4,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 166,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Bone Breaker",
     "Description": "{d,4,2}",
     "Properties": "",
-    "Comment": "Or {d,df,f,d,4,2}, has clean hit effect"
+    "Comment": "Or {d,df,f,d,4,2}, has clean hit effect",
+    "VideoId": "29byARHntOM",
+    "StartTime": 170,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Demolition Man",
     "Description": "{d,4,2,1+2}",
     "Properties": "",
-    "Comment": "Or {d,df,f,d,4,2,1+2}, power up with perfect frame input"
+    "Comment": "Or {d,df,f,d,4,2,1+2}, power up with perfect frame input",
+    "VideoId": "29byARHntOM",
+    "StartTime": 174,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Shoulder Smash",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 178,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Shoot the Moon",
     "Description": "{db,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 182,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Chain Breaker",
     "Description": "{db,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 186,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Double Wing",
     "Description": "{b,1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 190,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Crushing Wind",
     "Description": "{b,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 194,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Crushing Wind",
     "Description": "{b,2,1} hold",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 198,
+    "Length": 3
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Lights Out",
     "Description": "{b,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 203,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Leg Sweep",
     "Description": "{b,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 207,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Hassou Strike",
     "Description": "{b,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 211,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Wrecking Ball",
     "Description": "{ub,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 215,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Moonfall",
     "Description": "{uf,2}",
     "Properties": "Heat Engager",
-    "Comment": "Or {u,2}, chip damage on block"
+    "Comment": "Or {u,2}, chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 219,
+    "Length": 3
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Shredder",
     "Description": "{uf,3,4}",
     "Properties": "",
-    "Comment": "Or {ub,3,4} or {u,3,4}"
+    "Comment": "Or {ub,3,4} or {u,3,4}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 224,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Rising Toe Kick",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": "Or {ub,4} or {u,4}"
+    "Comment": "Or {ub,4} or {u,4}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 228,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 232,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Juggernaut",
     "Description": "{f,f-hold,2,1}",
     "Properties": "",
-    "Comment": "Or while crouching {df,2,1}, {f,f-hold,2,1,b-hold} to cancel"
+    "Comment": "Or while crouching {df,2,1}, {f,f-hold,2,1,b-hold} to cancel",
+    "VideoId": "29byARHntOM",
+    "StartTime": 236,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Phoenix Bone Breaker",
     "Description": "{f,f-hold,2,1} (Perfect Input)",
     "Properties": "",
-    "Comment": "Or while crouching {df,2,1} (Perfect), with chip damage on block"
+    "Comment": "Or while crouching {df,2,1} (Perfect), with chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 240,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Bulldozer",
     "Description": "{f,f-hold,2,2}",
     "Properties": "",
-    "Comment": "Or while crouching {df,2,2}, {f,f-hold,2,2,b-hold} to cancel and shift to crouching state"
+    "Comment": "Or while crouching {df,2,2}, {f,f-hold,2,2,b-hold} to cancel and shift to crouching state",
+    "VideoId": "29byARHntOM",
+    "StartTime": 244,
+    "Length": 3
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Double Hop Kick High",
     "Description": "{f,f-hold,3,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 249,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Triple Kick Combo",
     "Description": "{f,f-hold,3,4,f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 253,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Double Hop Kick Low",
     "Description": "{f,f-hold,3,4,d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 257,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Neutron Bomb",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 261,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Tiger Thruster",
     "Description": "{f,f,f-hold,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 265,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Turbulent Hammer",
     "Description": "Approach airborne opponent {f,f,f-hold,2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "29byARHntOM",
+    "StartTime": 269,
+    "Length": 4
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Burning Spear",
     "Description": "{b,f,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 275,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{1,2,3,2,1,2,1,4,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 279,
+    "Length": 5
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{1,2,3,1,4,2,1,4,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 286,
+    "Length": 6
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "10 Hit Combo 3",
     "Description": "{1,2,3,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 294,
+    "Length": 3
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "29byARHntOM",
+    "StartTime": 299,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Enfolding Dragon",
     "Description": "While rising {1,2}",
     "Properties": "",
-    "Comment": "While rising {1,2,b-hold} to shift to Sway"
+    "Comment": "While rising {1,2,b-hold} to shift to Sway",
+    "VideoId": "29byARHntOM",
+    "StartTime": 303,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Thunder Palm",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 307,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Shioh",
     "Description": "While rising {3,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 311,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Toe Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 315,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Somersault Kick Warm-Up Moves",
     "Description": "While crouching {d-hold} hold",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 319,
+    "Length": 3
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Incomplete Somersault",
     "Description": "During Somersault Kick Warm-Up Moves {u,4}",
     "Properties": "",
-    "Comment": "Deals self-damage (recoverable)"
+    "Comment": "Deals self-damage (recoverable)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 324,
+    "Length": 4
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Turn Thruster",
     "Description": "During sidestep {1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 330,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Pump in Pedal",
     "Description": "During sidestep {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 334,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Cormorant Step",
     "Description": "{d,df,f}",
     "Properties": "",
-    "Comment": "{d,df-hold} to shift to crouching state"
+    "Comment": "{d,df-hold} to shift to crouching state",
+    "VideoId": "29byARHntOM",
+    "StartTime": 338,
+    "Length": 1
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Thruster",
     "Description": "{d,df,f,1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 341,
+    "Length": 1
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Phoenix Smasher",
     "Description": "{d,df,f,2}",
     "Properties": "Heat Engager",
-    "Comment": "Has clean hit effect, power up while Heat is activated (partially uses remaining Heat time)"
+    "Comment": "Has clean hit effect, power up while Heat is activated (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 344,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Gengetsu",
     "Description": "{d,df,f,3}",
     "Properties": "",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "29byARHntOM",
+    "StartTime": 349,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Gunba",
     "Description": "{d,df,f,1+2}",
     "Properties": "",
-    "Comment": "{d,df-hold,1+2,b-hold} to shift to crouching state"
+    "Comment": "{d,df-hold,1+2,b-hold} to shift to crouching state",
+    "VideoId": "29byARHntOM",
+    "StartTime": 353,
+    "Length": 3
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Mountain Raze",
     "Description": "{d,df,f,3+4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 358,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Deep Dive",
     "Description": "During Cormorant Step {df}",
     "Properties": "",
-    "Comment": "Or during Sway {df}"
+    "Comment": "Or during Sway {df}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 362,
+    "Length": 1
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Quick Petal Strike",
     "Description": "During Deep Dive {df-hold,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 365,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Quick Lightning Breaker",
     "Description": "During Deep Dive {df-hold,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 370,
+    "Length": 3
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Bigetsu",
     "Description": "During Deep Dive {df-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 375,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Incomplete Somersault",
     "Description": "During Deep Dive {df-hold,3+4}",
     "Properties": "",
-    "Comment": "Deals self-damage (recoverable)"
+    "Comment": "Deals self-damage (recoverable)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 379,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Sway",
     "Description": "{d,db,b}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 384,
+    "Length": 1
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "God Hammer Punch",
     "Description": "{d,db,b,1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 387,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Rubber Band Attack",
     "Description": "{d,db,b,2}",
     "Properties": "Heat Engager",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "29byARHntOM",
+    "StartTime": 391,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Rapid Fire > Petal Strike",
     "Description": "{d,db,b,3,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 396,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Rapid Fire > Lightning Breaker",
     "Description": "{d,db,b,3,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 401,
+    "Length": 3
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Kawaragoma",
     "Description": "{d,db,b,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "29byARHntOM",
+    "StartTime": 406,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Unseen Gust",
     "Description": "{d,db,b,1+2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 410,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Over The Shoulder",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 414,
+    "Length": 3
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Shoulder Pop",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 419,
+    "Length": 3
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Dragon Screw",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 424,
+    "Length": 3
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Fall Away",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 429,
+    "Length": 3
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Reverse Neck Throw",
     "Description": "Approach opponent from behind {1+3}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "29byARHntOM",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Piggyback Throw",
     "Description": "Approach opponent from behind {2+4}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "29byARHntOM",
+    "StartTime": 438,
+    "Length": 3
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Chest Crusher",
     "Description": "Approach opponent {2+4,b-hold}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 443,
+    "Length": 3
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Kongo Blast > Phoenix Smasher",
     "Description": "Approach opponent {df,1+3,d,df,f,2}",
     "Properties": "",
-    "Comment": "Throw escape {2}, power up with perfect frame input or during Heat (partially uses remaining Heat time)"
+    "Comment": "Throw escape {2}, power up with perfect frame input or during Heat (partially uses remaining Heat time)",
+    "VideoId": "29byARHntOM",
+    "StartTime": 448,
+    "Length": 3
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Foot Launch",
     "Description": "Approach opponent {b,1+4}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 453,
+    "Length": 3
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Twist and Shout",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 458,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Push Away",
     "Description": "Approach opponent {f,f-hold,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 463,
+    "Length": 4
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Ultimate Tackle",
     "Description": "While crouching {1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, shift to takedown on hit"
+    "Comment": "Throw escape {1+2}, shift to takedown on hit",
+    "VideoId": "29byARHntOM",
+    "StartTime": 469,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Ultimate Punch",
     "Description": "During takedown {2,1,2,1}",
     "Properties": "",
-    "Comment": "Or during takedown {1,2,1,2}, throw escape {1} (or {2})"
+    "Comment": "Or during takedown {1,2,1,2}, throw escape {1} (or {2})",
+    "VideoId": "29byARHntOM",
+    "StartTime": 474,
+    "Length": 5
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Ultimate Punishment",
     "Description": "During takedown {2,d,1,1,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 481,
+    "Length": 8
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Armbar",
     "Description": "During takedown {1+2}",
     "Properties": "",
-    "Comment": "Shift is also possible after the third hit of Ultiamte Punch, throw escape {1+2}"
+    "Comment": "Shift is also possible after the third hit of Ultiamte Punch, throw escape {1+2}",
+    "VideoId": "29byARHntOM",
+    "StartTime": 491,
+    "Length": 5
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Attack Reversal",
     "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 498,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 503,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -869,6 +1193,9 @@
     "Name": "Down Strike",
     "Description": "While opponent is down {d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "29byARHntOM",
+    "StartTime": 507,
+    "Length": 2
   }
 ]
