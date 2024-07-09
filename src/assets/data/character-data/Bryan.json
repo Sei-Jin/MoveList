@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 11,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can use Snake Eyes moves",
     "Properties": "",
-    "Comment": "During Snake Eyes {f,f-hold,1+2}, {3+4,2}, {f,2,1,2,3,2}, {uf,2,2,2,2,2,3}, etc."
+    "Comment": "During Snake Eyes {f,f-hold,1+2}, {3+4,2}, {f,2,1,2,3,2}, {uf,2,2,2,2,2,3}, etc.",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 18,
+    "Length": 5
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, gain Snake Eyes, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, gain Snake Eyes, {2+3,b,b} to cancel attack",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 25,
+    "Length": 3
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "One Two Neck Breaker",
     "Description": "{1,2,4}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation"
+    "Comment": "Gain Snake Eyes on Heat activation",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 30,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Crash Impact",
     "Description": "{db,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation"
+    "Comment": "Gain Snake Eyes on Heat activation",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 35,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Mach Breaker",
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 40,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Snake Fang",
     "Description": "During sidestep ({u,n} or {d,n}) {2,1}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation"
+    "Comment": "Gain Snake Eyes on Heat activation",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 45,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Requiem",
     "Description": "During Slither Step ({d,df,f}) {1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 50,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Notorious Monster",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Or during Heat, {2+3} during {1+3+4}, Heat Smash, throw on hit"
+    "Comment": "Or during Heat, {2+3} during {1+3+4}, Heat Smash, throw on hit",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 55,
+    "Length": 5
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Total Vandalization",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 62,
+    "Length": 14
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Left Right Combo",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 78,
+    "Length": 1
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "One Two Body Blow",
     "Description": "{1,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 81,
+    "Length": 2
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "One Two Low Kick",
     "Description": "{1,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 85,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "One Two Neck Breaker",
     "Description": "{1,2,4}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation"
+    "Comment": "Gain Snake Eyes on Heat activation",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 89,
+    "Length": 3
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Lair's Dance",
     "Description": "{1,4,2,1,2}",
     "Properties": "",
-    "Comment": "{1,4,2,f,1} to cancel the third hit, {1,4,2,1,d} (or {u}) to cancel and sidestep, {1,4,2,1,f-hold} to shift to Slither Step"
+    "Comment": "{1,4,2,f,1} to cancel the third hit, {1,4,2,1,d} (or {u}) to cancel and sidestep, {1,4,2,1,f-hold} to shift to Slither Step",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 94,
+    "Length": 3
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Whipping Fury",
     "Description": "{1,4,2,4}",
     "Properties": "",
-    "Comment": "{1,4,2,f,4} to cancel the third hit"
+    "Comment": "{1,4,2,f,4} to cancel the third hit",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 99,
+    "Length": 3
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Cremation",
     "Description": "{1,4,2,1,4}",
     "Properties": "Tornado",
-    "Comment": "{1,4,2,f,1} to cancel the third hit, {1,4,2,1,d} (or {u}) to cancel and sidestep, {1,4,2,1,f-hold} to shift to Slither Step"
+    "Comment": "{1,4,2,f,1} to cancel the third hit, {1,4,2,1,d} (or {u}) to cancel and sidestep, {1,4,2,1,f-hold} to shift to Slither Step",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 104,
+    "Length": 4
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Jab > Double Spin Kick",
     "Description": "{1,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 110,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Running Blind",
     "Description": "{1,4,3,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 114,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "PK Combination",
     "Description": "{2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 118,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Mid Kick > Rush",
     "Description": "{3,2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 122,
+    "Length": 3
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Gatling Combination",
     "Description": "{3,2,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 127,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Anaconda Bite",
     "Description": "{3,3,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 131,
+    "Length": 3
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Anaconda Rage",
     "Description": "{3,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 136,
+    "Length": 3
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Double Spin Tomahawk",
     "Description": "{4,3,4}",
     "Properties": "",
-    "Comment": "Hold to power up and deal more chip damage on block"
+    "Comment": "Hold to power up and deal more chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 141,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Triple Spin Kick",
     "Description": "{4,3,f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 145,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Snake Bite",
     "Description": "{1+2,1}",
     "Properties": "Homing",
-    "Comment": "{1+2,1,b-hold} to shift to Sway"
+    "Comment": "{1+2,1,b-hold} to shift to Sway",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 149,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Snake Pit",
     "Description": "{1+2,2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 153,
+    "Length": 3
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Middle Side Kick",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 158,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Right Left > Spin Kick > Snake Eye",
     "Description": "{f,2,1,4} on hit {1+2}",
     "Properties": "",
-    "Comment": "Gain Snake Eyes"
+    "Comment": "Gain Snake Eyes",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 162,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Knee Strike",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 167,
+    "Length": 1
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Boa Crusher",
     "Description": "{f,4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 170,
+    "Length": 3
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Sidestep Elbow",
     "Description": "{f,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 175,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Double Body Blow",
     "Description": "{df,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 179,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Vulcan Cannon",
     "Description": "{df-hold,1,1,1,1}",
     "Properties": "",
-    "Comment": "{2} can shift to Double Body Blow"
+    "Comment": "{2} can shift to Double Body Blow",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 183,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Blackout Combo",
     "Description": "{df,2,1}",
     "Properties": "",
-    "Comment": "{df,2,1,b-hold} to shift to Sway"
+    "Comment": "{df,2,1,b-hold} to shift to Sway",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 187,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Blackout Trap",
     "Description": "{df,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 191,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Snake Edge",
     "Description": "{df,3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 195,
+    "Length": 3
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Wolf's Tail",
     "Description": "{df,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 200,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Python Crush",
     "Description": "{d,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 204,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Quick Low Screw Punch > Snake Eyes",
     "Description": "{d,3,2} on hit {1+2}",
     "Properties": "",
-    "Comment": "Gain Snake Eyes"
+    "Comment": "Gain Snake Eyes",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 208,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Low Kick",
     "Description": "{d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 212,
+    "Length": 1
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Hammer Driver Hatchet",
     "Description": "{d,1+2,3}",
     "Properties": "",
-    "Comment": "{d,1+2,f-hold} to shift to Slither Step, {d,1+2,b-hold} to shift to Sway"
+    "Comment": "{d,1+2,f-hold} to shift to Slither Step, {d,1+2,b-hold} to shift to Sway",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 215,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Snake Bomb",
     "Description": "{d,LB,1+2,2,RB}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 219,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Side Low Knuckle Whip",
     "Description": "{d,3+4,2}",
     "Properties": "Tornado",
-    "Comment": "{d,3+4,2,db-hold} to cancel"
+    "Comment": "{d,3+4,2,db-hold} to cancel",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 224,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Stomach Blow",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 228,
+    "Length": 1
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Sweeper Kick",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 231,
+    "Length": 1
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Crash Impact",
     "Description": "{db,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation"
+    "Comment": "Gain Snake Eyes on Heat activation",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 234,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Chopping Elbow",
     "Description": "{b,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 239,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Hands of Doom",
     "Description": "{b,2,1,2}",
     "Properties": "",
-    "Comment": "{b,2,f,1} to cancel the first hit, {b,2,1,d} (or {u}) to cancel and sidestep, {b,2,1,f-hold} to shift to Slither Step"
+    "Comment": "{b,2,f,1} to cancel the first hit, {b,2,1,d} (or {u}) to cancel and sidestep, {b,2,1,f-hold} to shift to Slither Step",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 243,
+    "Length": 3
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Kickass Combo",
     "Description": "{b,2,1,4}",
     "Properties": "Tornado",
-    "Comment": "{b,2,f,1} to cancel the first hit, {b,2,1,d} (or {u}) to cancel and sidestep, {b,2,1,f-hold} to shift to Slither Step"
+    "Comment": "{b,2,f,1} to cancel the first hit, {b,2,1,d} (or {u}) to cancel and sidestep, {b,2,1,f-hold} to shift to Slither Step",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 248,
+    "Length": 3
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Wolf Call",
     "Description": "{b,2,4}",
     "Properties": "",
-    "Comment": "{b,2,f,4} to cancel the first hit"
+    "Comment": "{b,2,f,4} to cancel the first hit",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 253,
+    "Length": 3
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Front Kick > Rush",
     "Description": "{b,3,2,1,2}",
     "Properties": "",
-    "Comment": "{b,3,f-hold} to shift to Slither Step"
+    "Comment": "{b,3,f-hold} to shift to Slither Step",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 258,
+    "Length": 3
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Run for Cover",
     "Description": "{b,3,2,1,4}",
     "Properties": "",
-    "Comment": "{b,3,f-hold} to shift to Slither Step"
+    "Comment": "{b,3,f-hold} to shift to Slither Step",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 263,
+    "Length": 3
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Front Kick > Double Hammer",
     "Description": "{b,3,1+2}",
     "Properties": "",
-    "Comment": "{b,3,f-hold} to shift to Slither Step"
+    "Comment": "{b,3,f-hold} to shift to Slither Step",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 268,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Knee Break",
     "Description": "{b,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 272,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Gravity Blow",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 276,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Meteor Smash",
     "Description": "{b,1+4} hold",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 280,
+    "Length": 3
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Gatling Rush",
     "Description": "{ub,1+2,1,2,1,2,1,2,1,2,1,4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 285,
+    "Length": 4
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Rolling Driver",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {u,3}"
+    "Comment": "Or {u,3}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 291,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Bloody War",
     "Description": "{uf,2,2,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 295,
+    "Length": 3
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Orbital Heel Kick",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": "Or {u,4}"
+    "Comment": "Or {u,4}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 300,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Bullet Knee > Snake Eyes",
     "Description": "{uf,3+4}",
     "Properties": "Tornado",
-    "Comment": "Gain Snake Eyes on hit"
+    "Comment": "Gain Snake Eyes on hit",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 304,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 308,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Mach Breaker",
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 312,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Slash Kick > Snake Eyes",
     "Description": "{f,f-hold,3} on hit {1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, can hold"
+    "Comment": "Chip damage on block, can hold",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 317,
+    "Length": 3
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Mach Kick",
     "Description": "{f,f-hold,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 322,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Jet Uppercut",
     "Description": "{f,n,b,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 326,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Wedge Driver",
     "Description": "{b,df,4}",
     "Properties": "",
-    "Comment": "{b,df,4,b-hold} to cancel"
+    "Comment": "{b,df,4,b-hold} to cancel",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 330,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Flying Knee Kick",
     "Description": "{b,b-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 334,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Snake Slash",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 338,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "10 Hit Combo",
     "Description": "{b,3,4,1,2,1,4,2,1,4,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 342,
+    "Length": 6
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Taunt",
     "Description": "{1+3+4}",
     "Properties": "",
-    "Comment": "Gain Snake Eyes"
+    "Comment": "Gain Snake Eyes",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 350,
+    "Length": 3
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 355,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Left Upper",
     "Description": "While rising {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 359,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Fisherman's Slam",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": "Throw on hit, while rising {2} on hit {f,2} (or {b,2}) (Perfect Input) to power up"
+    "Comment": "Throw on hit, while rising {2} on hit {f,2} (or {b,2}) (Perfect Input) to power up",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 363,
+    "Length": 4
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "High Knee Kick",
     "Description": "While rising {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 369,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Double High Knee Kick",
     "Description": "While rising {3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 373,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Toe Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 377,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Snake Rampage",
     "Description": "While crouching {df,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 381,
+    "Length": 3
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Northern Cross",
     "Description": "While crouching {df,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 386,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Hellraiser",
     "Description": "During sidestep {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 390,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Snake Fang",
     "Description": "During sidestep {2,1}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation"
+    "Comment": "Gain Snake Eyes on Heat activation",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 394,
+    "Length": 3
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Neo Soul Eraser",
     "Description": "During Snake Eyes {3+4,2}",
     "Properties": "",
-    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 399,
+    "Length": 3
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Neo Soul Eraser Exceed",
     "Description": "During Snake Eyes {3+4,2} hold",
     "Properties": "Tornado",
-    "Comment": "Consumes Snake Eyes (during Heat, remaining Heat is consumed), chip damage on block, cannot absorb with Power Crush"
+    "Comment": "Consumes Snake Eyes (during Heat, remaining Heat is consumed), chip damage on block, cannot absorb with Power Crush",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 404,
+    "Length": 4
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Neo Incinerator",
     "Description": "During Snake Eyes {f,2,1,2,3,2}",
     "Properties": "",
-    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 410,
+    "Length": 4
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Neo Bloody War",
     "Description": "During Snake Eyes {uf,2,2,2,2,3}",
     "Properties": "",
-    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 416,
+    "Length": 4
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Neo Mach Breaker",
     "Description": "During Snake Eyes {f,f-hold,1+2}",
     "Properties": "",
-    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 422,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Slither Step",
     "Description": "{d,df,f}",
     "Properties": "",
-    "Comment": "{d,df-hold} to shift to crouching state"
+    "Comment": "{d,df-hold} to shift to crouching state",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 426,
+    "Length": 1
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Cross Bazooka",
     "Description": "{d,df,f,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 429,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Cross Grenade",
     "Description": "{d,df,f,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 433,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Cross Bullet > Snake Eyes",
     "Description": "{d,df,f,2,4}",
     "Properties": "Tornado",
-    "Comment": "Gain Snake Eyes on hit"
+    "Comment": "Gain Snake Eyes on hit",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 437,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Snake Spin Mach Breaker",
     "Description": "{d,df,f,4,1,2}",
     "Properties": "",
-    "Comment": "{d,df,f,4,1,d} (or {u}) to cancel and shift to sidestep"
+    "Comment": "{d,df,f,4,1,d} (or {u}) to cancel and shift to sidestep",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 441,
+    "Length": 3
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Snake Spin Kickass",
     "Description": "{d,df,f,4,1,4}",
     "Properties": "Tornado",
-    "Comment": "{d,df,f,4,1,d} (or {u}) to cancel and shift to sidestep"
+    "Comment": "{d,df,f,4,1,d} (or {u}) to cancel and shift to sidestep",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 446,
+    "Length": 3
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Requiem",
     "Description": "{d,df,f,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block"
+    "Comment": "Gain Snake Eyes on Heat activation, chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 451,
+    "Length": 3
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Sway",
     "Description": "{d,db,b}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 456,
+    "Length": 1
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Cannonball Straight",
     "Description": "{d,db,b,1}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 459,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Smash and Mach Kick",
     "Description": "{d,db,b,2,4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 463,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Hatchet Kick",
     "Description": "{d,db,b,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 467,
+    "Length": 1
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Kickoff",
     "Description": "{d,db,b,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 470,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Gravity Brain Buster",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 474,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Guillotine",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 479,
+    "Length": 4
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Gravity Throw",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 485,
+    "Length": 4
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Knee Blast",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 491,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Neck Throw",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 495,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Anaconda Assassin",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 499,
+    "Length": 3
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Chains of Misery",
     "Description": "While crouching {db,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 504,
+    "Length": 4
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Parry",
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": "When parrying an attack, {2} for follow-up attack"
+    "Comment": "When parrying an attack, {2} for follow-up attack",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 510,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Parry > Mach Breaker > Snake Eyes",
     "Description": "After successful parry {2}",
     "Properties": "",
-    "Comment": "Gain Snake Eyes on hit, chip damage on block"
+    "Comment": "Gain Snake Eyes on hit, chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 515,
+    "Length": 3
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Immortal Payback",
     "Description": "During Snake Eyes, time with opponent attack {f,f-hold,1+2}",
     "Properties": "",
-    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block"
+    "Comment": "Consumes Snake Eyes (during Heat, partially uses remaining Heat time), chip damage on block",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 520,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -901,6 +1237,9 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "bbleo3Gkxzs",
+    "StartTime": 525,
+    "Length": 2
   }
 ]
