@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 6,
+    "Length": 4
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 12,
+    "Length": 6
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Lethal Fury can be used from some attack sequences",
     "Properties": "",
-    "Comment": "{3,4,4}, {3+4,4,4}, {f,3+4,4}"
+    "Comment": "{3,4,4}, {3+4,4,4}, {f,3+4,4}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 20,
+    "Length": 10
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of Electric Wind God Fist and Electric War God Kick without Just Input",
     "Properties": "",
-    "Comment": "{f,n,d,df,2}, {f,n,d,df,3}"
+    "Comment": "{f,n,d,df,2}, {f,n,d,df,3}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 32,
+    "Length": 4
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can parry high or mid attacks during Heaven's Wrath",
     "Properties": "",
-    "Comment": "{d,1+2}, etc."
+    "Comment": "{d,1+2}, etc.",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 38,
+    "Length": 5
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 45,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Muso Basara",
     "Description": "{df,1,2}",
     "Properties": "Heat Engager",
-    "Comment": "{df,1,f-hold} to shift to Sentai"
+    "Comment": "{df,1,f-hold} to shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 50,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Trailokya Splits Kick",
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 55,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Sen Kaijo-geri",
     "Description": "During Sentai ({f,3}, etc.) {3}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 60,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Unpu Tobi-manji",
     "Description": "During Unsoku ({d,3}, etc.) {4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, during Unsoku {4,d-hold} to cancel and shift to crouching"
+    "Comment": "Chip damage on block, during Unsoku {4,d-hold} to cancel and shift to crouching",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 65,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Iron Hand",
     "Description": "During Heaven's Wrath ({d,1+2}, etc.) {2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 70,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Senjomanji Lethal Fury",
     "Description": "During Heat {3,4,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block, partially uses remaining Heat time"
+    "Comment": "Chip damage on block, partially uses remaining Heat time",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 75,
+    "Length": 3
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Aerial Manji Lethal Fury",
     "Description": "During Heat {3+4,4,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, partially uses remaining Heat time"
+    "Comment": "Chip damage on block, partially uses remaining Heat time",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 80,
+    "Length": 4
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Ouhen Manji Lethal Fury",
     "Description": "During Heat {f,3+4,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, partially uses remaining Heat time"
+    "Comment": "Chip damage on block, partially uses remaining Heat time",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 86,
+    "Length": 3
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Charging Hard",
     "Description": "During Heat activated during Heaven's Wrath, take high or mid attack from opponent",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 91,
+    "Length": 5
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Divine Dominance of Annihilation",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, to throw on hit, shift to Heaven's Wrath on block"
+    "Comment": "Heat Smash, to throw on hit, shift to Heaven's Wrath on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 98,
+    "Length": 7
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Divine Wrath of Annihilation",
     "Description": "During Heat and Heaven's Wrath {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw"
+    "Comment": "Heat Smash, on hit shift to throw",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 107,
+    "Length": 6
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Sacred Dismantle Spark",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 115,
+    "Length": 14
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Flash Punch Combo",
     "Description": "{1,1,2}",
     "Properties": "",
-    "Comment": "Shift to Sentai on hit (does not shift with {1,1,2,b-hold}"
+    "Comment": "Shift to Sentai on hit (does not shift with {1,1,2,b-hold}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 131,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "One Two Strike",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 135,
+    "Length": 1
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Back Fist Combo",
     "Description": "{1,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 138,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Sting the Works",
     "Description": "{1,2,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 142,
+    "Length": 3
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Ganzan Basara",
     "Description": "{2,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 147,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Bishamon Massacre",
     "Description": "{2,2,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 151,
+    "Length": 3
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Raging Bishamon",
     "Description": "{2,2,2,2}",
     "Properties": "",
-    "Comment": "{2,2,2,d,df,f,2} to power up"
+    "Comment": "{2,2,2,d,df,f,2} to power up",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 156,
+    "Length": 4
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Ondeko",
     "Description": "{LB,2,1,RB}",
     "Properties": "",
-    "Comment": "Power up with quick input"
+    "Comment": "Power up with quick input",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 162,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Senjo-zuki",
     "Description": "{3,2}",
     "Properties": "Tornado, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 166,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Senjo-manji",
     "Description": "{3,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 170,
+    "Length": 3
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Nobility Hunter",
     "Description": "{4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 175,
+    "Length": 1
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Demon Breath",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 178,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Aerial Manji-geri",
     "Description": "{3+4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 182,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Sousoku Rengeki",
     "Description": "{f,2,3}",
     "Properties": "",
-    "Comment": "{f,2,3,f-hold} to shift to Sentai, {f,2,d} or {u} to shift to Unsoku Kou"
+    "Comment": "{f,2,3,f-hold} to shift to Sentai, {f,2,d} or {u} to shift to Unsoku Kou",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 187,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Sentai",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": "Shift to Sentai"
+    "Comment": "Shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 191,
+    "Length": 1
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Kamadhatu Splits Kick",
     "Description": "{f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 194,
+    "Length": 1
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Senshin-zuki",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": "Or during Unsoku {1+2}"
+    "Comment": "Or during Unsoku {1+2}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 197,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Senshin Karami-ate",
     "Description": "{f,1+2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 201,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Nen Ashigarami",
     "Description": "{f,1+2,3} (Counter Hit)",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 205,
+    "Length": 5
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Senshin Hiei",
     "Description": "{f,1+2,uf-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 212,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Senshin Chuten-geri",
     "Description": "{f,1+2,uf-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 216,
+    "Length": 3
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Senshin Tobi Kaijo-geri",
     "Description": "{f,1+2,uf-hold,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block, {f,1+2,uf-hold,4,d-hold} to shift to Heaven's Wrath"
+    "Comment": "Chip damage on block, {f,1+2,uf-hold,4,d-hold} to shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 221,
+    "Length": 3
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Ouhen Manji-geri",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": "Or during Unsoku {3+4}, {f,3+4,d-hold} to cancel and shift to crouching state"
+    "Comment": "Or during Unsoku {3+4}, {f,3+4,d-hold} to cancel and shift to crouching state",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 226,
+    "Length": 3
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Ouhen Fubi Manji-geri",
     "Description": "{f,3+4} hold",
     "Properties": "",
-    "Comment": "{f,3+4,d-hold} to cancel and shift to crouching state"
+    "Comment": "{f,3+4,d-hold} to cancel and shift to crouching state",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 231,
+    "Length": 4
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Muso Tensho",
     "Description": "{df,1,1}",
     "Properties": "",
-    "Comment": "{df,1,f-hold} to shift to Sentai"
+    "Comment": "{df,1,f-hold} to shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 237,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Muso Basara",
     "Description": "{df,1,2}",
     "Properties": "Heat Engager",
-    "Comment": "{df,1,f-hold} to shift to Sentai"
+    "Comment": "{df,1,f-hold} to shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 241,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Queen Bee Stinger",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 246,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Wind God Step",
     "Description": "{df,3}",
     "Properties": "",
-    "Comment": "Or {f,n,d,df}, to shift to Wind God Step"
+    "Comment": "Or {f,n,d,df}, to shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 250,
+    "Length": 1
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Gekirosatsu",
     "Description": "{df,4,2,3}",
     "Properties": "Tornado",
-    "Comment": "{df,4,2,d-hold} to shift to Heaven's Wrath"
+    "Comment": "{df,4,2,d-hold} to shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 253,
+    "Length": 3
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Kasho Maki-manji",
     "Description": "{df,3+4,4}",
     "Properties": "",
-    "Comment": "Or {u,3+4,4}"
+    "Comment": "Or {u,3+4,4}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 258,
+    "Length": 3
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Nen Dougarami",
     "Description": "{df,3+4} (Counter Hit)",
     "Properties": "",
-    "Comment": "Or {d,3+4} (Counter Hit), throw on front hit"
+    "Comment": "Or {d,3+4} (Counter Hit), throw on front hit",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 263,
+    "Length": 4
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Tecchuu-ate",
     "Description": "{d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 269,
+    "Length": 1
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Unsoku Kou",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": "Or {db,3}, to shift to Unsoku, punch parry effect, during Unsoku Kou {b,3} to shift to Unsoku Gen"
+    "Comment": "Or {db,3}, to shift to Unsoku, punch parry effect, during Unsoku Kou {b,3} to shift to Unsoku Gen",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 272,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Heaven's Wrath",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": "Or {db,1+2}, shift to Heaven's Wrath"
+    "Comment": "Or {db,1+2}, shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 276,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Eisaimon",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 280,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Un Oshi-kuzushi",
     "Description": "{db,4,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 284,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Hen-in 4 Hit Combo",
     "Description": "{b,1,1,3,3}",
     "Properties": "",
-    "Comment": "{b,1,1,3,f-hold} to shift to Sentai"
+    "Comment": "{b,1,1,3,f-hold} to shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 288,
+    "Length": 4
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Sin Smiter",
     "Description": "{b,2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 294,
+    "Length": 1
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Unsoku Gen",
     "Description": "{b,3}",
     "Properties": "",
-    "Comment": "Shift to Unsoku, during Unsoku Gen {d,3} (or {u,3}) to shift to Unsoku Kou"
+    "Comment": "Shift to Unsoku, during Unsoku Gen {d,3} (or {u,3}) to shift to Unsoku Kou",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 297,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Ebi-geri",
     "Description": "{b,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 301,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Kugai Dachi",
     "Description": "{b,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 305,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Clairvoyant Fatal Violet",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": "{b,1+4,b,b} to cancel"
+    "Comment": "{b,1+4,b,b} to cancel",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 309,
+    "Length": 3
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Unsoku Kou",
     "Description": "{u,3}",
     "Properties": "",
-    "Comment": "Or {ub,3}, shift to Unsoku, punch parry effect, during Unsoku Kou {b,3} to shift to Unsoku Gen"
+    "Comment": "Or {ub,3}, shift to Unsoku, punch parry effect, during Unsoku Kou {b,3} to shift to Unsoku Gen",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 314,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Seigan Ugachi",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": "Or {ub,1} or {u,1}, shift to Heaven's Wrath on hit"
+    "Comment": "Or {ub,1} or {u,1}, shift to Heaven's Wrath on hit",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 318,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Tobisenzuki",
     "Description": "{uf,3,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 322,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Silver Gleam",
     "Description": "{uf,4}",
     "Properties": "Tornado",
-    "Comment": "Or {ub,4} or {u,4}"
+    "Comment": "Or {ub,4} or {u,4}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 326,
+    "Length": 3
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Un Hiensatsu",
     "Description": "{uf,3+4,1+2}",
     "Properties": "",
-    "Comment": "Or {ub,3+4,1+2} or {u,3+4,1+2}"
+    "Comment": "Or {ub,3+4,1+2} or {u,3+4,1+2}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 331,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Raiden",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": "{f,f-hold,2,f-hold} to shift to Sentai"
+    "Comment": "{f,f-hold,2,f-hold} to shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 335,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Trailokya Splits Kick",
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 339,
+    "Length": 3
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Un Hien-geri",
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 344,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Ten Chuten-geri",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 348,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Un Tobi Kaijo-geri",
     "Description": "{f,f,f-hold,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block, {f,f,f-hold,4,d-hold} to shift to Heaven's Wrath"
+    "Comment": "Chip damage on block, {f,f,f-hold,4,d-hold} to shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 352,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{2,2,2,3,1,1,3,3,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 356,
+    "Length": 6
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{2,2,2,3,1,1,3,3,1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 364,
+    "Length": 6
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Fukuteki",
     "Description": "{1+4}",
     "Properties": "",
-    "Comment": "Or while rising {1+4}, {1+4,df-hold} to shift to Wind God Step"
+    "Comment": "Or while rising {1+4}, {1+4,df-hold} to shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 372,
+    "Length": 1
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Fading Shadow",
     "Description": "{ub,1+2}",
     "Properties": "",
-    "Comment": "Or {ub,b} or during Unsoku {ub,1+2}, {ub,1+2,df-hold} to shift to Wind God Step"
+    "Comment": "Or {ub,b} or during Unsoku {ub,1+2}, {ub,1+2,df-hold} to shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 375,
+    "Length": 1
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Swift Shadow",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": "Or during Unsoku {u,1+2}, {u,1+2,df-hold} to shift to Wind God Step"
+    "Comment": "Or during Unsoku {u,1+2}, {u,1+2,df-hold} to shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 378,
+    "Length": 1
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Taunt",
     "Description": "{2+3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 381,
+    "Length": 3
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 386,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Jewel Snatcher",
     "Description": "While rising {1}",
     "Properties": "",
-    "Comment": "Throw on front hit, shift to Sentai after throw"
+    "Comment": "Throw on front hit, shift to Sentai after throw",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 390,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Benten Thrust",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 394,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Twin Stingers",
     "Description": "While rising {3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 398,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Seven Seas Splits Kick",
     "Description": "While rising {4,4}",
     "Properties": "",
-    "Comment": "While rising {4,4,d-hold} to shift to Heaven's Wrath"
+    "Comment": "While rising {4,4,d-hold} to shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 402,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Hen Gyakujo-geri",
     "Description": "While rising {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 406,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Nen Hangetsu-ate",
     "Description": "While crouching {df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 410,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Manji-geri",
     "Description": "While crouching {df,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 415,
+    "Length": 3
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Jirin Sweep",
     "Description": "During sidestep {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 420,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Rear Manji-geri",
     "Description": "Back facing opponent {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 424,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Wind God Step",
     "Description": "{df,3}, etc.",
     "Properties": "",
-    "Comment": "Or {f,n,d,df} to shift to Wind God Step"
+    "Comment": "Or {f,n,d,df} to shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 429,
+    "Length": 1
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Lightning Splits Kick",
     "Description": "During Wind God Step {1,3}",
     "Properties": "",
-    "Comment": "Chip damage on block, {f,n,d,df,1,3} to power up"
+    "Comment": "Chip damage on block, {f,n,d,df,1,3} to power up",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 432,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Lightning Wheel",
     "Description": "During Wind God Step {1,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, {f,n,d,df,1,4} to power up"
+    "Comment": "Chip damage on block, {f,n,d,df,1,4} to power up",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 436,
+    "Length": 3
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Wind God Fist",
     "Description": "During Wind God Step {2}",
     "Properties": "",
-    "Comment": "{f,n,d,df,2} to power up, becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)"
+    "Comment": "{f,n,d,df,2} to power up, becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 441,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Electric Wind God Fist",
     "Description": "{f,n,d,df,2} ({df}+{2} press simultaneously)",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 445,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "War God Kick",
     "Description": "During Wind God Step {df-hold,3}",
     "Properties": "",
-    "Comment": "{f,n,d,df-hold,3} to power up, becomes Electric War God Kick during Heat (partially uses remaining Heat time)"
+    "Comment": "{f,n,d,df-hold,3} to power up, becomes Electric War God Kick during Heat (partially uses remaining Heat time)",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 449,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Electric War God Kick",
     "Description": "{f,n,d,df,3} ({df}+{3} press simultaneously)",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 453,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Ruthless Demon",
     "Description": "During Wind God Step {df-hold,4,2}",
     "Properties": "",
-    "Comment": "During Wind God Step {df-hold,4,2,d-hold} to shift to Heaven's Wrath, {f,n,d,df-hold,4,2} to power up"
+    "Comment": "During Wind God Step {df-hold,4,2,d-hold} to shift to Heaven's Wrath, {f,n,d,df-hold,4,2} to power up",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 457,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Spinning Demon",
     "Description": "During Wind God Step {df-hold,4,4}",
     "Properties": "",
-    "Comment": "{f,n,d,df-hold,4,4} to power up"
+    "Comment": "{f,n,d,df-hold,4,4} to power up",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 461,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Sentai",
     "Description": "During Wind God Step {f,3}",
     "Properties": "",
-    "Comment": "Shift to Sentai"
+    "Comment": "Shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 465,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Sentai",
     "Description": "{f,3},etc.",
     "Properties": "",
-    "Comment": "Shift to Sentai"
+    "Comment": "Shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 469,
+    "Length": 1
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Furin Kazan",
     "Description": "During Sentai {1,2}",
     "Properties": "Power Crush",
-    "Comment": "During Sentai, {1,d,df,f,2} to power up, absorb an attack to power up and deal more chip damage on block"
+    "Comment": "During Sentai, {1,d,df,f,2} to power up, absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 472,
+    "Length": 3
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Rashomon",
     "Description": "During Sentai {2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 477,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Sen Kaijo-geri",
     "Description": "During Sentai {3}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 481,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Kandachi-geri",
     "Description": "During Sentai {4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 486,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Inverse Deva Laser",
     "Description": "During Sentai {1+2}",
     "Properties": "Tornado",
-    "Comment": "Shift to Heaven's Wrath"
+    "Comment": "Shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 490,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Yaksha Sweep",
     "Description": "During Sentai {3+4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 495,
+    "Length": 2
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Unsoku",
     "Description": "{d,3}, etc.",
     "Properties": "",
-    "Comment": "Partially restore remaining Heat time"
+    "Comment": "Partially restore remaining Heat time",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 499,
+    "Length": 2
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Unpu Tobi-manji",
     "Description": "During Unsoku {4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, during Unsoku {4,d-hold} to cancel and shift to crouching state"
+    "Comment": "Chip damage on block, during Unsoku {4,d-hold} to cancel and shift to crouching state",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 503,
+    "Length": 3
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Sentai",
     "Description": "During Unsoku {f,3}",
     "Properties": "",
-    "Comment": "Shift to Sentai"
+    "Comment": "Shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 508,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Wind God Step",
     "Description": "During Unsoku {df-hold}",
     "Properties": "",
-    "Comment": "Shift to Wind God Step"
+    "Comment": "Shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 512,
+    "Length": 1
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Heaven's Wrath",
     "Description": "{d,1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Heaven's Wrath"
+    "Comment": "Shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 515,
+    "Length": 2
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Funkei Goma",
     "Description": "During Heaven's Wrath {1,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block, during Heaven's Wrath {1,f-hold} to shift to Sentai"
+    "Comment": "Chip damage on block, during Heaven's Wrath {1,f-hold} to shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 519,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Iron Hand",
     "Description": "During Heaven's Wrath {2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 524,
+    "Length": 3
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Hell Axle",
     "Description": "During Heaven's Wrath {3} on hit or block {4}",
     "Properties": "",
-    "Comment": "Chip damage on block, during Heaven's Wrath {3} on hit or block {4,d-hold} to shift to Heaven's Wrath"
+    "Comment": "Chip damage on block, during Heaven's Wrath {3} on hit or block {4,d-hold} to shift to Heaven's Wrath",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 529,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Kongo Gekimetsujin",
     "Description": "During Heaven's Wrath {4,2,2,1+2}",
     "Properties": "",
-    "Comment": "During Heaven's Wrath {4,2,2,d,df,f,1+2} to power up"
+    "Comment": "During Heaven's Wrath {4,2,2,d,df,f,1+2} to power up",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 534,
+    "Length": 4
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Demon Bolt",
     "Description": "During Heaven's Wrath {1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 540,
+    "Length": 2
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Goma-sai",
     "Description": "During Heaven's Wrath {3+4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 544,
+    "Length": 2
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Harai Kuzushi-manji",
     "Description": "During Heaven's Wrath {d,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 548,
+    "Length": 3
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Sentai",
     "Description": "During Heaven's Wrath {f,3}",
     "Properties": "",
-    "Comment": "Shift to Sentai"
+    "Comment": "Shift to Sentai",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 553,
+    "Length": 2
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Wind God Step",
     "Description": "During Heaven's Wrath {df-hold}",
     "Properties": "",
-    "Comment": "Shift to Wind God Step"
+    "Comment": "Shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 557,
+    "Length": 2
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Wind Step",
     "Description": "{f,n}",
     "Properties": "",
-    "Comment": "Punch parry effect"
+    "Comment": "Punch parry effect",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 561,
+    "Length": 1
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Fusenkyaku",
     "Description": "During Wind Step {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 564,
+    "Length": 2
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Wind God Step",
     "Description": "During Wind Step {df-hold}",
     "Properties": "",
-    "Comment": "Shift to Wind God Step"
+    "Comment": "Shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 568,
+    "Length": 1
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Gekka Hyojin",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 571,
+    "Length": 4
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Saijin Ikkoku",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 577,
+    "Length": 4
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "Gekka Hyojin",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 583,
+    "Length": 4
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Saijin Ikkoku",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 589,
+    "Length": 4
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Trailokyavijaya",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 595,
+    "Length": 5
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Stonehead",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}"
+    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 602,
+    "Length": 3
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Raidou Hitsumetsu",
     "Description": "Approach opponent {d,db,b,f,2}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 607,
+    "Length": 4
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Haburi-kaze",
     "Description": "During Sentai {1+3} (or {2+4})",
     "Properties": "Homing",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 613,
+    "Length": 2
   },
   {
     "Id": 130,
@@ -1037,7 +1424,10 @@
     "Name": "Heaven's Roar",
     "Description": "During Heaven's Wrath {1+3} (or {2+4})",
     "Properties": "Homing",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 617,
+    "Length": 4
   },
   {
     "Id": 131,
@@ -1045,7 +1435,10 @@
     "Name": "Tatenashi",
     "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": "Deals self-damage (recoverable) when successful, partially restores remaining Heat time, shift to Heaven's Wrath, has strong attack reversal effect"
+    "Comment": "Deals self-damage (recoverable) when successful, partially restores remaining Heat time, shift to Heaven's Wrath, has strong attack reversal effect",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 623,
+    "Length": 2
   },
   {
     "Id": 132,
@@ -1053,7 +1446,10 @@
     "Name": "Fusatsujin",
     "Description": "Time with punch {f,n}",
     "Properties": "",
-    "Comment": "Shift to Wind God Step"
+    "Comment": "Shift to Wind God Step",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 627,
+    "Length": 2
   },
   {
     "Id": 133,
@@ -1061,7 +1457,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 631,
+    "Length": 2
   },
   {
     "Id": 134,
@@ -1069,6 +1468,9 @@
     "Name": "Totetsu Jyurin",
     "Description": "(While opponent is down) {d,4,1}",
     "Properties": "",
-    "Comment": "Just Input to power up"
+    "Comment": "Just Input to power up",
+    "VideoId": "BSMp42NVW-U",
+    "StartTime": 635,
+    "Length": 2
   }
 ]
