@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "t8lgqSDpFBU",
+    "VideoId": "sqCwO6Cp5AQ",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 7,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 6,
     "Length": 4
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 14,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 12,
     "Length": 4
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Cannot throw escape Feint & Catch or Ambush Tackle",
     "Properties": "",
     "Comment": "{f,f-hold,2,1+2}, during sidestep {2,1+2,1+2}, etc.",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 21,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 18,
     "Length": 9
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Ambush Tackle can be used from attack sequences",
     "Properties": "",
     "Comment": "{f,f,f-hold,2,1+2}, while crouching {df,1,1+2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 33,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 29,
     "Length": 7
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 43,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 38,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{1,2,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 49,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 43,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{f,3,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, {f,3,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 55,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 48,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{b,4,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 61,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 53,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "During Sneak ({d,df,f}) {4}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 67,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 58,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "Approach crouching opponent {d,1+3} (or {d,2+4})",
     "Properties": "Heat Engager",
     "Comment": "Cannot throw escape, unable to Heat Dash",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 73,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 63,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "Approach crouching opponent {db,3,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Cannot throw escape, unable to Heat Dash, {db,3,1+2,d-hold} to cancel into crouch",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 79,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 68,
     "Length": 4
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Heat {f,f,f-hold,2,1+2}",
     "Properties": "",
     "Comment": "Cannot throw escape, to shift to takedown on hit, partially uses remaining Heat time",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 86,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 74,
     "Length": 3
   },
   {
@@ -149,8 +149,8 @@
     "Description": "During Heat, while crouching {df,1,1+2}",
     "Properties": "",
     "Comment": "Cannot throw escape, to shift to takedown on hit, partially uses remaining Heat time",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 92,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 79,
     "Length": 4
   },
   {
@@ -160,8 +160,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash, on hit shift to throw",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 99,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 85,
     "Length": 4
   },
   {
@@ -171,8 +171,8 @@
     "Description": "During Heat {2+3,db,1+2}",
     "Properties": "",
     "Comment": "Heat Smash, cannot throw escape, to shift to takedown on hit",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 106,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 91,
     "Length": 5
   },
   {
@@ -182,8 +182,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 114,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 98,
     "Length": 14
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 131,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 114,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{1,2,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 136,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 118,
     "Length": 3
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{1,3,2}",
     "Properties": "",
     "Comment": "{1,3,2,1+2} to shift to Feint & Catch",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 142,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 123,
     "Length": 3
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{2,1,3}",
     "Properties": "",
     "Comment": "{2,1,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 148,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 128,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{2,1,4}",
     "Properties": "",
     "Comment": "{2,1,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 153,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 132,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{3,1,2}",
     "Properties": "",
     "Comment": "{3,1,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 158,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 136,
     "Length": 2
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{3,1,4}",
     "Properties": "",
     "Comment": "{3,1,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 163,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 140,
     "Length": 3
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{4,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 169,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 145,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 174,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 149,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{4,4}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 179,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 153,
     "Length": 2
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 184,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 157,
     "Length": 2
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{3+4}",
     "Properties": "",
     "Comment": "Side ukemi can be used",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 189,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 161,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{f,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 194,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 165,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{f,3,3}",
     "Properties": "",
     "Comment": "Throw when hit from the front in close range, {f,3,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 199,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 169,
     "Length": 4
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{f,3,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, {f,3,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 206,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 175,
     "Length": 3
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{f,4,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 212,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 180,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{f,4,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 217,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 184,
     "Length": 2
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{f,4,d,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 222,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 188,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 227,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 192,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{df,1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 232,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 196,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 237,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 200,
     "Length": 2
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{df,3}",
     "Properties": "",
     "Comment": "Throw when hit from the front in close range",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 242,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 204,
     "Length": 3
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{df,3+4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 248,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 209,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{d,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 253,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 213,
     "Length": 1
   },
   {
@@ -457,9 +457,9 @@
     "Description": "{d,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 257,
-    "Length": 1
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 216,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -468,8 +468,8 @@
     "Description": "{d,3,2,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 261,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 220,
     "Length": 3
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{d,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 267,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 225,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{d,4,1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 272,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 229,
     "Length": 2
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{d,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 277,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 233,
     "Length": 2
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{db,2,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 282,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 237,
     "Length": 3
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "Has clean hit effect",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 288,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 242,
     "Length": 3
   },
   {
@@ -534,8 +534,8 @@
     "Description": "Approach crouching opponent {db,3,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Cannot throw escape, unable to shift to Heat Dash, {db,3,1+2,d-hold} to cancel into crouch",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 294,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 247,
     "Length": 4
   },
   {
@@ -545,9 +545,9 @@
     "Description": "{db,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 301,
-    "Length": 1
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 253,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -556,8 +556,8 @@
     "Description": "{b,1,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 305,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 257,
     "Length": 2
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{b,2,1,3}",
     "Properties": "",
     "Comment": "Has clean hit effect, shift to Clipping Heel Hook on close range counter hit, {b,2,1,3,1+2} to shift to Clipping Sweep to Feint & Catch",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 310,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 261,
     "Length": 2
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{b,3}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 315,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 265,
     "Length": 1
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{b,4,2,1}",
     "Properties": "",
     "Comment": "{b,4,2,d-hold} to directly shift to crouching state, {b,4,2,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 319,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 268,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{b,4,2,1+2}",
     "Properties": "",
     "Comment": "{b,4,2,d-hold} to directly shift to crouching, {b,4,2,df-hold} to shift to Sneak, throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 324,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 272,
     "Length": 4
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{b,4,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 331,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 278,
     "Length": 3
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{b,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 337,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 283,
     "Length": 2
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{b,3+4}",
     "Properties": "",
     "Comment": "Punch parry effect",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 342,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 287,
     "Length": 2
   },
   {
@@ -644,9 +644,9 @@
     "Description": "{ub,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 347,
-    "Length": 1
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 291,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -655,8 +655,8 @@
     "Description": "{ub,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 351,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 295,
     "Length": 3
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{uf,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 357,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 300,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{uf,2}",
     "Properties": "",
     "Comment": "Or {u,2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 362,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 304,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 367,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 308,
     "Length": 2
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "Or {ub,4} or {u,4}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 372,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 312,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 377,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 316,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 382,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 320,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{f,f-hold,2,1+2}",
     "Properties": "Homing",
     "Comment": "Throw escape {1+2} (cannot throw escape during Heat), {f,f-hold,2,1+2,b-hold} to cancel, partially uses remaining Heat time",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 387,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 324,
     "Length": 5
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 395,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 331,
     "Length": 2
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{f,f-hold,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 400,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 335,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "{f,f,f-hold,2}",
     "Properties": "",
     "Comment": "Chip damage on block, power up with quick input",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 405,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 339,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "{f,f,f-hold,4}",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 410,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 343,
     "Length": 2
   },
   {
@@ -787,9 +787,9 @@
     "Description": "During opponent wall stun {f,f,f-hold,4}",
     "Properties": "Tornado",
     "Comment": "Cannot throw escape",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 415,
-    "Length": 5
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 347,
+    "Length": 6
   },
   {
     "Id": 73,
@@ -798,8 +798,8 @@
     "Description": "While running (two steps or more) {f-hold,3}",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 423,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 355,
     "Length": 3
   },
   {
@@ -809,8 +809,8 @@
     "Description": "{d,db,b,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 429,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 360,
     "Length": 3
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{1,3,1,2,1,1,4,1,3,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 435,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 365,
     "Length": 5
   },
   {
@@ -831,9 +831,9 @@
     "Description": "{1,3,1,2,4,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 443,
-    "Length": 3
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 372,
+    "Length": 4
   },
   {
     "Id": 77,
@@ -842,9 +842,9 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 449,
-    "Length": 1
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 378,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -853,8 +853,8 @@
     "Description": "While rising {1,2}",
     "Properties": "",
     "Comment": "While rising {1,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 453,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 382,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "While rising {1,3}",
     "Properties": "",
     "Comment": "While rising {1,df-hold} to shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 458,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 386,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 463,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 390,
     "Length": 2
   },
   {
@@ -886,8 +886,8 @@
     "Description": "While rising {3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 468,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 394,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 473,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 398,
     "Length": 2
   },
   {
@@ -908,8 +908,8 @@
     "Description": "While rising {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 478,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 402,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "While crouching {df,1} on hit {4}",
     "Properties": "",
     "Comment": "Just Input to power up, shift to Sneak",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 483,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 406,
     "Length": 2
   },
   {
@@ -930,8 +930,8 @@
     "Description": "During Heat, while crouching {df,1,1+2}",
     "Properties": "",
     "Comment": "Cannot throw escape, to shift to takedown on hit, partially uses remaining Heat time",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 488,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 410,
     "Length": 4
   },
   {
@@ -941,8 +941,8 @@
     "Description": "During sidestep {2,3}",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 495,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 416,
     "Length": 4
   },
   {
@@ -952,8 +952,8 @@
     "Description": "During sidestep {2,1+2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 502,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 422,
     "Length": 4
   },
   {
@@ -963,8 +963,8 @@
     "Description": "During sidestep {2,1+2,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 509,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 428,
     "Length": 4
   },
   {
@@ -974,9 +974,9 @@
     "Description": "During sidestep {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 516,
-    "Length": 1
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -985,8 +985,8 @@
     "Description": "(By opponent's feet) while down and facing down {3}",
     "Properties": "",
     "Comment": "Throw when hit from the front in close range",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 520,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 438,
     "Length": 3
   },
   {
@@ -996,8 +996,8 @@
     "Description": "While down and facing down {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 526,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 443,
     "Length": 1
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "While down and facing down {1+2,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 530,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 446,
     "Length": 3
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "Back facing opponent {d,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 536,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 451,
     "Length": 1
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "{d,df,f}",
     "Properties": "",
     "Comment": "{d,df-hold} to shift to crouching state",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 540,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 454,
     "Length": 1
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "{d,df,f,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 544,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 457,
     "Length": 2
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "{d,df,f,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 549,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 461,
     "Length": 2
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "{d,df,f,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 554,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 465,
     "Length": 2
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "{d,df,f,3} (Counter Hit)",
     "Properties": "",
     "Comment": "Throw when hit from the front in close range",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 559,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 469,
     "Length": 3
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "{d,df,f,4}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 565,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 474,
     "Length": 3
   },
   {
@@ -1095,9 +1095,9 @@
     "Description": "{d,df,f,3+4}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to shift to Snap Knee Assault",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 571,
-    "Length": 1
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 479,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -1106,8 +1106,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 575,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 483,
     "Length": 4
   },
   {
@@ -1117,9 +1117,9 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 582,
-    "Length": 2
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 489,
+    "Length": 3
   },
   {
     "Id": 103,
@@ -1128,8 +1128,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 587,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 494,
     "Length": 4
   },
   {
@@ -1139,8 +1139,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 594,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 500,
     "Length": 4
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 601,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 506,
     "Length": 4
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "Approach opponent {f,1+4}",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 608,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 512,
     "Length": 3
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "Approach opponent {f,2+3}",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 614,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 517,
     "Length": 3
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 620,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 522,
     "Length": 4
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "Approach crouching opponent {d,1+3} (or {d,2+4})",
     "Properties": "Heat Engager",
     "Comment": "Cannot throw escape, unable to Heat Dash",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 627,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 528,
     "Length": 3
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 633,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 533,
     "Length": 4
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "During sidestep {3+4,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2} (cannot throw escape during Heat), to shift to takedown on hit, consumes remaining Heat",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 640,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 539,
     "Length": 3
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "During takedown {1}",
     "Properties": "Removes Recoverable",
     "Comment": "Throw escape {1}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 646,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 544,
     "Length": 5
   },
   {
@@ -1238,8 +1238,8 @@
     "Description": "During takedown {2}",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 654,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 551,
     "Length": 5
   },
   {
@@ -1249,8 +1249,8 @@
     "Description": "During takedown {1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 662,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 558,
     "Length": 6
   },
   {
@@ -1260,8 +1260,8 @@
     "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 671,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 566,
     "Length": 4
   },
   {
@@ -1271,8 +1271,8 @@
     "Description": "Time with opponent low attack {d,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 678,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 572,
     "Length": 3
   },
   {
@@ -1282,8 +1282,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 684,
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 577,
     "Length": 2
   },
   {
@@ -1293,8 +1293,8 @@
     "Description": "While opponent is down {d,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "t8lgqSDpFBU",
-    "StartTime": 689,
-    "Length": 1
+    "VideoId": "sqCwO6Cp5AQ",
+    "StartTime": 581,
+    "Length": 2
   }
 ]
