@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 11,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Annihilation Beam can be used",
     "Properties": "",
-    "Comment": "{LB,4,3,RB} {1+2}, {b,f,2,1,4,1+2}, etc."
+    "Comment": "{LB,4,3,RB} {1+2}, {b,f,2,1,4,1+2}, etc.",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 18,
+    "Length": 6
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of Electric Wind God Fist without Just Input",
     "Properties": "",
-    "Comment": "{f,n,d,df,2}"
+    "Comment": "{f,n,d,df,2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 26,
+    "Length": 3
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 31,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Rahshasa's Fury",
     "Description": "{b,2,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 36,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Wicked Jambu Spear",
     "Description": "{b,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 41,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Wraith Kick",
     "Description": "{uf,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 46,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Demon's Paw",
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 51,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Dark Arachnid Twister",
     "Description": "During Mourning Crow ({f,3}, etc.) {2,2}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 56,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Wheel of Pain > Annihilation Beam",
     "Description": "During Heat {LB,4,3,RB,1+2}",
     "Properties": "Tornado",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 61,
+    "Length": 4
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Hisou > Annihilation Beam",
     "Description": "During Heat {uf,3+4} on hit or block {1+2}",
     "Properties": "",
-    "Comment": "Throw on front hit, partially uses remaining Heat time"
+    "Comment": "Throw on front hit, partially uses remaining Heat time",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 67,
+    "Length": 3
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Laser Crush > Annihilation Beam",
     "Description": "During Heat {b,f,2,1,4,1+2}",
     "Properties": "Tornado",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 72,
+    "Length": 4
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Spiral of Madness > Annihilation Beam",
     "Description": "During Heat {f,n,d,df,1+2,1+2}",
     "Properties": "Tornado, Homing",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 78,
+    "Length": 4
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Vindictive Helix",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, to throw on hit, shift to Mourning Crow on block"
+    "Comment": "Heat Smash, to throw on hit, shift to Mourning Crow on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 84,
+    "Length": 5
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Inner Purgatory",
     "Description": "During Heat and Mourning Crow {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw"
+    "Comment": "Heat Smash, on hit shift to throw",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 91,
+    "Length": 5
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Devil Dimension: Tainted Chains",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 98,
+    "Length": 14
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Flash Claw Combo",
     "Description": "{1,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 114,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "One Two Strike",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 118,
+    "Length": 1
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Back Fist Combo",
     "Description": "{1,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 121,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Shoot the Works",
     "Description": "{1,2,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 125,
+    "Length": 3
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "One Two Knee",
     "Description": "{1,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 130,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Demon Backhand Spin",
     "Description": "{2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 134,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Hell Cyclone",
     "Description": "{3,1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 138,
+    "Length": 4
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Hell Spiral",
     "Description": "{3,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 144,
+    "Length": 3
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Demon March",
     "Description": "{3,1,f,f-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 149,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Last Rites",
     "Description": "{4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 153,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Wheel of Pain",
     "Description": "{LB,4,3,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 157,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Tsujikaze",
     "Description": "{1+2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 161,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Fly",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Shift to Fly"
+    "Comment": "Shift to Fly",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 165,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Three Ring Alaya",
     "Description": "{1+4,2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 169,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "893P > Knee Kick",
     "Description": "{f,2,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 174,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Mourning Crow",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": "Shift to Mourning Crow"
+    "Comment": "Shift to Mourning Crow",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 178,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Twisted Samsara",
     "Description": "{f,4,3}",
     "Properties": "Tornado",
-    "Comment": "On hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly"
+    "Comment": "On hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 182,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Dark Twin Lancer",
     "Description": "{df,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 186,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Bloody Glaive",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": "On hit {f-hold} to shift to Mourning Crow"
+    "Comment": "On hit {f-hold} to shift to Mourning Crow",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 190,
+    "Length": 1
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Rengoku",
     "Description": "{df,3,2,4}",
     "Properties": "Tornado",
-    "Comment": "On hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly"
+    "Comment": "On hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 193,
+    "Length": 3
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Tsunami Kick",
     "Description": "{df,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 198,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Corpse Thrust",
     "Description": "{d,1}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 202,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Broken Plate",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 206,
+    "Length": 1
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Double Lift Kicks",
     "Description": "{d,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 209,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Malicious Mace",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 213,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Demon's Spear",
     "Description": "{db,1+2}",
     "Properties": "",
-    "Comment": "{db,1+2,f-hold} to shift to Mourning Crow"
+    "Comment": "{db,1+2,f-hold} to shift to Mourning Crow",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 217,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Demon's Lance",
     "Description": "{db,1+2} hold",
     "Properties": "",
-    "Comment": "Chip damage on block, {db,1+2} hold, then {f-hold} to shift to Mourning Crow"
+    "Comment": "Chip damage on block, {db,1+2} hold, then {f-hold} to shift to Mourning Crow",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 221,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Brimstone Strike",
     "Description": "{b,1,2}",
     "Properties": "",
-    "Comment": "{b-hold} to cancel"
+    "Comment": "{b-hold} to cancel",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 226,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Rakshasa's Rampage",
     "Description": "{b,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 230,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Rakshasa's Fury",
     "Description": "{b,2,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 234,
+    "Length": 3
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Wicked Jambu Spear",
     "Description": "{b,3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 239,
+    "Length": 3
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Demon Steel Pedal",
     "Description": "{b,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 244,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Aratama Strike",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 248,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Lightning Screw Uppercut",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 252,
+    "Length": 3
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Hellfire Blast",
     "Description": "{ub,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 257,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Samsara",
     "Description": "{u,4}",
     "Properties": "Tornado",
-    "Comment": "Or {ub,4}, on hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly"
+    "Comment": "Or {ub,4}, on hit {ub-hold}, {u-hold}, or {uf-hold} to shift to Fly",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 261,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Hellfire Cannon",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": "Only hits airborne opponents"
+    "Comment": "Only hits airborne opponents",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 265,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Infernal Shackle",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": "Shift to Mourning Crow on hit or block, chip damage on block"
+    "Comment": "Shift to Mourning Crow on hit or block, chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 269,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Decapitating Sword",
     "Description": "{uf,2}",
     "Properties": "Homing",
-    "Comment": "Or {ub,2} or {u,2}"
+    "Comment": "Or {ub,2} or {u,2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 273,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Reaper's Scythe",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 277,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Wraith Kick",
     "Description": "{uf,4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 281,
+    "Length": 3
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Hisou",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 286,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Demon's Paw",
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 290,
+    "Length": 3
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Demon's Shaft",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 295,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Laser Cannon",
     "Description": "{b,f,2,1,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 299,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Laser Scraper",
     "Description": "{b,f,2,1,df,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 303,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Laser Crush",
     "Description": "{b,f,2,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 307,
+    "Length": 3
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Laser Slice",
     "Description": "{b,f,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 312,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Gates of Hades",
     "Description": "{b,f,1+2,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 316,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Leaping Side Kick",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Or {f,n,d,df,uf-hold,3}, chip damage on block"
+    "Comment": "Or {f,n,d,df,uf-hold,3}, chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 321,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "10 Hit Combo",
     "Description": "{f,2,4,3,1+4,1,2,1,4,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 325,
+    "Length": 5
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 332,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Solo Piston > Infernal Shackle",
     "Description": "While rising {1,1}",
     "Properties": "",
-    "Comment": "Shift to Mourning Crow on hit or block, chip damage on block"
+    "Comment": "Shift to Mourning Crow on hit or block, chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 336,
+    "Length": 3
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Solo Piston > Bloody Glaive",
     "Description": "While rising {1,2}",
     "Properties": "",
-    "Comment": "On hit {f-hold} to shift to Mourning Crow"
+    "Comment": "On hit {f-hold} to shift to Mourning Crow",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 341,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Alaya",
     "Description": "While rising {2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 345,
+    "Length": 3
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Organ Wrecker",
     "Description": "While rising {3}",
     "Properties": "",
-    "Comment": "On hit {f-hold} to shift to Mourning Crow"
+    "Comment": "On hit {f-hold} to shift to Mourning Crow",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 350,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Wretched Heel",
     "Description": "While rising {4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 354,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Devil Twister",
     "Description": "During sidestep {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 358,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Hell's Gate",
     "Description": "During sidestep {2} during hit {u-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 363,
+    "Length": 4
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Yomigaeri",
     "Description": "While down and facing up {u,3+4}",
     "Properties": "",
-    "Comment": "Shift to Fly"
+    "Comment": "Shift to Fly",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 369,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Wind God Step",
     "Description": "{f,n,d,df}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 373,
+    "Length": 1
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Thunder God Fist",
     "Description": "{f,n,d,df,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 376,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Heaven's Door",
     "Description": "{f,n,d,df,1,uf-hold}",
     "Properties": "",
-    "Comment": "Throw on hit"
+    "Comment": "Throw on hit",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 380,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Wind God Fist",
     "Description": "{f,n,d,df,2}",
     "Properties": "",
-    "Comment": "Becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)"
+    "Comment": "Becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 385,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Electric Wind God Fist",
     "Description": "{f,n,d,df,2} ({df}+{2} press simultaneously)",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 389,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Demon's Hoof",
     "Description": "{f,n,d,df,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 393,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Demon's Tail",
     "Description": "{f,n,d,df-hold,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 397,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Spinning Demon Scythe",
     "Description": "{f,n,d,df-hold,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 401,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Spinning Demon Hellfire Beam",
     "Description": "{f,n,d,df-hold,4} on hit {1+2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 405,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Spiral of Madness",
     "Description": "{f,n,d,df,1+2}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 410,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Fly",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Fly"
+    "Comment": "Shift to Fly",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 414,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Near Death",
     "Description": "During Fly {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 418,
+    "Length": 3
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Infernal Annihilation",
     "Description": "During Fly {2}",
     "Properties": "",
-    "Comment": "Throw when hit from the front"
+    "Comment": "Throw when hit from the front",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 423,
+    "Length": 4
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Amara",
     "Description": "During Fly {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 429,
+    "Length": 3
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Devil Starstorm",
     "Description": "During Fly {4} during hit {2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 434,
+    "Length": 5
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Infernal Destruction",
     "Description": "During Fly {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 441,
+    "Length": 4
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Cross Infernal Destruction",
     "Description": "During Fly {f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 447,
+    "Length": 5
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Mourning Crow",
     "Description": "{f,3}, etc.",
     "Properties": "",
-    "Comment": "Shift to Mourning Crow"
+    "Comment": "Shift to Mourning Crow",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 454,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Tiger Thrush",
     "Description": "During Mourning Crow {1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 458,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Dark Arachnid Twister",
     "Description": "During Mourning Crow {2,2}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 462,
+    "Length": 3
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Venomous Torment",
     "Description": "During Mourning Crow {3}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 467,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Devil Starstorm",
     "Description": "During Mourning Crow {4} on hit {2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 471,
+    "Length": 4
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Double High Sweep",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 477,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Judgment",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 482,
+    "Length": 4
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Shoulder Flip",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 488,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Over the Limit",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 493,
+    "Length": 2
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Pivoting Hip Throw",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 497,
+    "Length": 3
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "White Mountain",
     "Description": "Approach opponent {df,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 502,
+    "Length": 3
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Stonehead",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}"
+    "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 507,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Complicated Wire",
     "Description": "Approach opponent {d,db,b,1+3}",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 512,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Obliteration",
     "Description": "Approach opponent {f,b,db,d,df,f,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 516,
+    "Length": 5
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Imperial Wrath",
     "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
     "Properties": "Power Crush",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 523,
+    "Length": 2
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 527,
+    "Length": 2
   },
   {
     "Id": 112,
@@ -893,6 +1226,9 @@
     "Name": "Hellfire Incinerator",
     "Description": "While opponent is down {d,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "Pvz1zjSo2jI",
+    "StartTime": 531,
+    "Length": 2
   }
 ]
