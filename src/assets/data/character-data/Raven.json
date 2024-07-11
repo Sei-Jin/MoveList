@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 11,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Additional follow up attack triggered when attack using doppelganger is blocked",
     "Properties": "",
-    "Comment": "{df,1} on hit or block {4}, while rising {3} on hit or block {2}, etc."
+    "Comment": "{df,1} on hit or block {4}, while rising {3} on hit or block {2}, etc.",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 18,
+    "Length": 5
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Partially restores remaining Heat time when attack using doppelganger hits",
     "Properties": "",
-    "Comment": "{df,1} on hit or block {4}, while rising {3} on hit or block {2}, etc."
+    "Comment": "{df,1} on hit or block {4}, while rising {3} on hit or block {2}, etc.",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 25,
+    "Length": 6
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of Typhon Fang Phantom",
     "Properties": "",
-    "Comment": "{f,f,f-hold,3} on hit or block {4}"
+    "Comment": "{f,f,f-hold,3} on hit or block {4}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 33,
+    "Length": 4
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 39,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Crusader",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 44,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Minos Typhoon",
     "Description": "{f,1+2}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 49,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Spinning Middle Kick",
     "Description": "Whie rising {3+4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Or {d,df,f,3+4}, while rising {3+4,b-hold} to cancel and face backward"
+    "Comment": "Or {d,df,f,3+4}, while rising {3+4,b-hold} to cancel and face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 54,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Chronos Lathe",
     "Description": "Back facing opponent ({b,3+4},etc.) {4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 59,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Dual Thanatos",
     "Description": "During Soulzone ({3+4},etc.) {2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat"
+    "Comment": "Power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 64,
+    "Length": 4
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Typhon Fang Phantom",
     "Description": "During Heat {f,f,f-hold,3} on hit or block {4}",
     "Properties": "Tornado",
-    "Comment": "Partially uses remaining Heat time"
+    "Comment": "Partially uses remaining Heat time",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 70,
+    "Length": 4
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Pandemonium",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw, on block shift to Soulzone"
+    "Comment": "Heat Smash, on hit shift to throw, on block shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 76,
+    "Length": 5
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Wild Hunt X-ecutor",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 83,
+    "Length": 14
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Left Right Combo",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": "{1,2,3+4} (or {1,2,d-hold} to shift to Soulzone"
+    "Comment": "{1,2,3+4} (or {1,2,d-hold} to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 99,
+    "Length": 1
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Left Right Combo > Black Hole",
     "Description": "{1,2,4}",
     "Properties": "Tornado",
-    "Comment": "{1,2,3+4} (or {1,2,d-hold} to shift to Soulzone"
+    "Comment": "{1,2,3+4} (or {1,2,d-hold} to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 102,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "PDK Combo",
     "Description": "{2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 106,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "PK Combo",
     "Description": "{2,4}",
     "Properties": "",
-    "Comment": "Shift to Shadow Sprint during hit, {2,4,b-hold} to stand up"
+    "Comment": "Shift to Shadow Sprint during hit, {2,4,b-hold} to stand up",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 110,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Valkyrie Lance Combo",
     "Description": "{3,3,4}",
     "Properties": "",
-    "Comment": "{3,3,4,b-hold} to cancel and face backward"
+    "Comment": "{3,3,4,b-hold} to cancel and face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 114,
+    "Length": 3
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Brocken Connect",
     "Description": "{4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 119,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Chariot",
     "Description": "{LB,3,4,RB}",
     "Properties": "",
-    "Comment": "{LB,3,4,RB,f-hold} to shift to Blind Roll"
+    "Comment": "{LB,3,4,RB,f-hold} to shift to Blind Roll",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 123,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Hydra Bite Low",
     "Description": "{LB,4,3,RB,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 127,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Hydra Bite High",
     "Description": "{LB,4,3,RB,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 131,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Hydra Bite Mid",
     "Description": "{LB,4,3,RB,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 135,
+    "Length": 3
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Crusader",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 140,
+    "Length": 3
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Soulzone",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Or {d,3+4} or while crouching {3+4}, shift to Soulzone"
+    "Comment": "Or {d,3+4} or while crouching {3+4}, shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 145,
+    "Length": 1
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Tartaros",
     "Description": "{f,2,3}",
     "Properties": "",
-    "Comment": "{f,2,3,3+4} (or {f,2,3,d-hold}) to shift to Soulzone"
+    "Comment": "{f,2,3,3+4} (or {f,2,3,d-hold}) to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 148,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Circling Winds",
     "Description": "{f,3,2}",
     "Properties": "Homing",
-    "Comment": "{f,3,b-hold} to face backward"
+    "Comment": "{f,3,b-hold} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 152,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Lance Kick",
     "Description": "{f,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 156,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Minos Typhoon",
     "Description": "{f,1+2}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 160,
+    "Length": 3
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Body Blow > Phantom Mace",
     "Description": "{df,1} on hit or block {4}",
     "Properties": "",
-    "Comment": "Power up during Heat"
+    "Comment": "Power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 165,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Meat Hook",
     "Description": "{df,2,3}",
     "Properties": "",
-    "Comment": "{df,2} to face backward"
+    "Comment": "{df,2} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 170,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Bolt Stunner",
     "Description": "{df,2,4}",
     "Properties": "",
-    "Comment": "{df,2} to face backward"
+    "Comment": "{df,2} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 174,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Shadow Snap Kick",
     "Description": "{df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 178,
+    "Length": 1
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Pendulum Kick",
     "Description": "{df,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 181,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Pendulum Shadow",
     "Description": "{df,4,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 185,
+    "Length": 3
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Stinging Low",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 190,
+    "Length": 1
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Basilisk Fang",
     "Description": "{d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 193,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Assassin's Sting > Phantom Javelin",
     "Description": "{db,2,1} on hit or block {1}",
     "Properties": "",
-    "Comment": "Power up during Heat, {db,2} to face backward, {db,2,1,3+4} (or {db,2,1,d-hold}) to shift to Soulzone"
+    "Comment": "Power up during Heat, {db,2} to face backward, {db,2,1,3+4} (or {db,2,1,d-hold}) to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 197,
+    "Length": 3
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Killer Bee",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 202,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Shinobi Cyclone",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 206,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Elbow Strike",
     "Description": "{b,1}",
     "Properties": "",
-    "Comment": "Shift to Soulzone on hit or block, chip damage on block"
+    "Comment": "Shift to Soulzone on hit or block, chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 210,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Unicorn's Tail",
     "Description": "{b,2,2,3}",
     "Properties": "",
-    "Comment": "{b,2,2} to face backward"
+    "Comment": "{b,2,2} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 214,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Deadly Talon",
     "Description": "{b,2,2,1+2}",
     "Properties": "",
-    "Comment": "{b,2,2} to face backward"
+    "Comment": "{b,2,2} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 218,
+    "Length": 3
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Missing Worm > Phantom Halberd",
     "Description": "{b,2,4} on hit or block {2}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat"
+    "Comment": "Power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 223,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Hades Heel",
     "Description": "{b,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 228,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Skull Smasher",
     "Description": "{b,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 232,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Skull Smasher Feint",
     "Description": "{b,4,b-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 236,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Skull Spin",
     "Description": "{b,4,b-hold,4,3,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 240,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Alternating Smash",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 245,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Labyrinth",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Back towards opponent"
+    "Comment": "Back towards opponent",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 249,
+    "Length": 1
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Gate Keeper",
     "Description": "{ub,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 252,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Deathbringer Low",
     "Description": "{u,3,3}",
     "Properties": "",
-    "Comment": "Or {ub,3,3}, first attack deals chip damage on block, {u,3} to face backward, on hit gain Ki Charge"
+    "Comment": "Or {ub,3,3}, first attack deals chip damage on block, {u,3} to face backward, on hit gain Ki Charge",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 256,
+    "Length": 3
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Deathbringer Low > Shadow",
     "Description": "{u,3,3,3}",
     "Properties": "",
-    "Comment": "Or {ub,3,3,3}, first attack deals chip damage on block, {u,3} to face backward"
+    "Comment": "Or {ub,3,3,3}, first attack deals chip damage on block, {u,3} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 261,
+    "Length": 3
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Shadow Scythe",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 266,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Stormbringer",
     "Description": "{uf,4,4}",
     "Properties": "",
-    "Comment": "Or {ub,4,4} or {u,4,4}, {uf,4,4,b-hold} to cancel and face backward"
+    "Comment": "Or {ub,4,4} or {u,4,4}, {uf,4,4,b-hold} to cancel and face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 270,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Chakram",
     "Description": "{uf,3+4,4,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 274,
+    "Length": 3
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Spinning Chakram",
     "Description": "{uf,3+4,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 279,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 283,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Shadow Spear",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 287,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Sudden Strike",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 291,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Iron Maul",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 295,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Typhon Fang",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 299,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "War Hound",
     "Description": "{b,b-hold,2}",
     "Properties": "",
-    "Comment": "Has attack reversal effect"
+    "Comment": "Has attack reversal effect",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 303,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "10 Hit Combo",
     "Description": "{ub,1,2,2,2,4,2,3,4,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 307,
+    "Length": 7
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Pandora Spin",
     "Description": "{ub,b-hold,3+4}",
     "Properties": "",
-    "Comment": "{ub,b} to shift to Soulzone"
+    "Comment": "{ub,b} to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 316,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 321,
+    "Length": 1
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Dead End",
     "Description": "{1+2+3+4,b,f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 324,
+    "Length": 4
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Rising Uppercut",
     "Description": "While rising {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 330,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Jackknife Elbow",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 334,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Trident Kick > Phantom Halberd",
     "Description": "While rising {3} on hit or block {2}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat"
+    "Comment": "Power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 338,
+    "Length": 3
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Shadow Snap Kick",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 343,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Spinning Middle Kick",
     "Description": "While rising {3+4}",
     "Properties": "Heat Engager, Homing",
-    "Comment": "Or {d,df,f,3+4}, while rising {3+4,b-hold} to cancel and face backward"
+    "Comment": "Or {d,df,f,3+4}, while rising {3+4,b-hold} to cancel and face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 347,
+    "Length": 3
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Aqua Spider",
     "Description": "While crouching {df,3}",
     "Properties": "",
-    "Comment": "Or {d,df-hold,3}"
+    "Comment": "Or {d,df-hold,3}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 352,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Tornado Destruction",
     "Description": "While crouching {df,3+4}",
     "Properties": "",
-    "Comment": "Shift to Soulzone on hit, power up during Heat"
+    "Comment": "Shift to Soulzone on hit, power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 356,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Crouch Step",
     "Description": "While crouching {df,d,df-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 361,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Blind Lance",
     "Description": "Back facing opponent {1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 365,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Backfist > Straight",
     "Description": "Back facing opponent {2,1}",
     "Properties": "",
-    "Comment": "Back facing opponent {2} (or {2,1,b-hold}) to face backward, back facing opponent {2,1,f-hold} to shift to Shadow Sprint"
+    "Comment": "Back facing opponent {2} (or {2,1,b-hold}) to face backward, back facing opponent {2,1,f-hold} to shift to Shadow Sprint",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 369,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Blinding Knife > Phantom Javelin",
     "Description": "Back facing opponent {2,2} on hit or block {1}",
     "Properties": "",
-    "Comment": "Power up during Heat, back facing opponent {2,2,3+4} (or back facing opponent {2,2,d-hold}) to shift to Soulzone"
+    "Comment": "Power up during Heat, back facing opponent {2,2,3+4} (or back facing opponent {2,2,d-hold}) to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 373,
+    "Length": 3
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Crescent Mirage",
     "Description": "Back facing opponent {3,4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 378,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Fafnir",
     "Description": "Back facing opponent {3,4,4}",
     "Properties": "",
-    "Comment": "Back towards opponent, back facing opponent {3,4,4,f-hold} to shift to Blind Roll"
+    "Comment": "Back towards opponent, back facing opponent {3,4,4,f-hold} to shift to Blind Roll",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 383,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Chronos Lathe",
     "Description": "Back facing opponent {4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 387,
+    "Length": 3
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Crusader",
     "Description": "Back facing opponent {1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 392,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Spiral Cannon",
     "Description": "Back facing opponent {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 396,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Soul Steal",
     "Description": "Back facing opponent {f,1}",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 400,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Cold Massacre",
     "Description": "Back facing opponent {f,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 404,
+    "Length": 2
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Cold Worm > Phantom Halberd",
     "Description": "Back facing opponent {f,2,4} on hit or block {2}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat"
+    "Comment": "Power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 408,
+    "Length": 3
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Demon Knee",
     "Description": "Back facing opponent {f,3}",
     "Properties": "",
-    "Comment": "Back facing opponent {f,3,b-hold} to face backward"
+    "Comment": "Back facing opponent {f,3,b-hold} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 413,
+    "Length": 1
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Trick Bang",
     "Description": "Back facing opponent {f,4,1}",
     "Properties": "Tornado",
-    "Comment": "Back facing opponent {f,4} to face backward, back facing opponent {f,4,1,3+4} (or back opponent {f,4,1,d-hold}) to shift to Soulzone"
+    "Comment": "Back facing opponent {f,4} to face backward, back facing opponent {f,4,1,3+4} (or back opponent {f,4,1,d-hold}) to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 416,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Reverse Chakram",
     "Description": "Back facing opponent {f,3+4}",
     "Properties": "",
-    "Comment": "Back facing opponent {f,3+4,f-hold} to shift to Blind Roll"
+    "Comment": "Back facing opponent {f,3+4,f-hold} to shift to Blind Roll",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 420,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Shinobi Cyclone",
     "Description": "Back facing opponent {d,3}",
     "Properties": "",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 424,
+    "Length": 3
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Abyss Cannon",
     "Description": "Back facing opponent {b,2,3}",
     "Properties": "",
-    "Comment": "Back facing opponent {b,2} to face backward"
+    "Comment": "Back facing opponent {b,2} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 429,
+    "Length": 3
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Abyss Spear",
     "Description": "Back facing opponent {b,2,4}",
     "Properties": "",
-    "Comment": "Back facing opponent {b,2} to face backward"
+    "Comment": "Back facing opponent {b,2} to face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Cannon Tail",
     "Description": "Back facing opponent {b,3}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 438,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Labyrinth",
     "Description": "Back facing opponent {b,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 442,
+    "Length": 1
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Gremlin Smasher",
     "Description": "Back facing opponent {f,f-hold,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 445,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Vermillion",
     "Description": "Back facing opponent {f,f-hold,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 449,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Blind Roll",
     "Description": "Back facing opponent {f,f,f}",
     "Properties": "",
-    "Comment": "When close to opponent, transition behind opponent"
+    "Comment": "When close to opponent, transition behind opponent",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 453,
+    "Length": 1
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Shadow Sprint",
     "Description": "{d,df,f}",
     "Properties": "",
-    "Comment": "{d,df-hold} to shift to crouching state"
+    "Comment": "{d,df-hold} to shift to crouching state",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 456,
+    "Length": 1
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Fatal Elbow > Phantom Halberd",
     "Description": "{d,df,f,1} on hit or block {2}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat, {d,df,f,1,3+4} (or {d,df,f,1,d-hold}) to shift to Soulzone"
+    "Comment": "Power up during Heat, {d,df,f,1,3+4} (or {d,df,f,1,d-hold}) to shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 459,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Buzzsaw",
     "Description": "{d,df,f,2}",
     "Properties": "",
-    "Comment": "{d,df,f,2,b-hold} to cancel and face backward"
+    "Comment": "{d,df,f,2,b-hold} to cancel and face backward",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 464,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Laevateinn",
     "Description": "{d,df,f,LB,2,1,RB}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 468,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Poison Needle > Nightmare",
     "Description": "{d,df,f,3}",
     "Properties": "",
-    "Comment": "Throw when hit from the front, power up during Heat"
+    "Comment": "Throw when hit from the front, power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 472,
+    "Length": 4
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Black Hole",
     "Description": "{d,df,f,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 478,
+    "Length": 2
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Hellhound",
     "Description": "{d,df,f,1+2}",
     "Properties": "",
-    "Comment": "Attack reversal"
+    "Comment": "Attack reversal",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 482,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Soulzone",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Soulzone"
+    "Comment": "Shift to Soulzone",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 486,
+    "Length": 1
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Swift Blade > Phantom Mace",
     "Description": "During Soulzone {1} on hit or block {4}",
     "Properties": "",
-    "Comment": "Power up during Heat, during Soulzone {1,f-hold} to shift to Shadow Sprint"
+    "Comment": "Power up during Heat, during Soulzone {1,f-hold} to shift to Shadow Sprint",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 489,
+    "Length": 3
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Dual Thanatos",
     "Description": "During Soulzone {2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat"
+    "Comment": "Power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 494,
+    "Length": 4
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Radius Flail > Phantom Halberd",
     "Description": "During Soulzone {3} on hit or block {2}",
     "Properties": "Tornado",
-    "Comment": "Power up during Heat"
+    "Comment": "Power up during Heat",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 500,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Cocytus Glide",
     "Description": "During Soulzone {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 505,
+    "Length": 2
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Oceanus Fissure",
     "Description": "During Soulzone {1+2}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 509,
+    "Length": 2
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Blind Fall",
     "Description": "During Soulzone {d-hold} (or {u-hold})",
     "Properties": "",
-    "Comment": "During Soulzone {d-hold} to shift to crouching state, during Soulzone {u-hold} to shift to standing state"
+    "Comment": "During Soulzone {d-hold} to shift to crouching state, during Soulzone {u-hold} to shift to standing state",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 513,
+    "Length": 1
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Blind Labyrinth",
     "Description": "During Soulzone {b-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 516,
+    "Length": 1
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Grave Digger",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 519,
+    "Length": 4
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Salamander",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 525,
+    "Length": 3
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Neck Ringer",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 530,
+    "Length": 3
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Swift Assassin",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 535,
+    "Length": 3
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Dark Matter",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 540,
+    "Length": 3
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Orbiting Moon",
     "Description": "{df,1+4}",
     "Properties": "",
-    "Comment": "Or approach opponent {d,df,f,df,1+4}, throw escape {1}"
+    "Comment": "Or approach opponent {d,df,f,df,1+4}, throw escape {1}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 545,
+    "Length": 3
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Undertaker",
     "Description": "{uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 550,
+    "Length": 4
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Utsusemi Escape",
     "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": "Or back facing opponent and time with opponent attack {b,1+3} (or {b,2+4}), completely evade attacks, on success deals self-damage (recoverable)"
+    "Comment": "Or back facing opponent and time with opponent attack {b,1+3} (or {b,2+4}), completely evade attacks, on success deals self-damage (recoverable)",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 556,
+    "Length": 2
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 560,
+    "Length": 2
   },
   {
     "Id": 124,
@@ -989,6 +1358,9 @@
     "Name": "Sixth Sense",
     "Description": "Back facing opponent and time with opponent attack {f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "KBKit-kFBDw",
+    "StartTime": 564,
+    "Length": 3
   }
 ]
