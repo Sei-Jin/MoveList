@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 11,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Monsieur Samurai can be used",
     "Properties": "",
-    "Comment": "{db,1+2}"
+    "Comment": "{db,1+2}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 18,
+    "Length": 3
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Caliburnus, Rhongomyniad are powered up",
     "Properties": "",
-    "Comment": "{u,1+2}, during Iai Stance {d,2}"
+    "Comment": "{u,1+2}, during Iai Stance {d,2}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 23,
+    "Length": 6
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Some sword moves partially restore remaining Heat time on hit",
     "Properties": "",
-    "Comment": "{f,1+2}, during Iai Stance {2}, etc."
+    "Comment": "{f,1+2}, during Iai Stance {2}, etc.",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 31,
+    "Length": 4
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 37,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Carving Cameo",
     "Description": "{f,4,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 42,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Durandal",
     "Description": "{f,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, partially restores remaining Heat time on hit"
+    "Comment": "Chip damage on block, partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 47,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Llawfrodedd",
     "Description": "{d,2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 52,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Failnaught",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Chip damage on block, absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Chip damage on block, absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 57,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Flying Gentleman",
     "Description": "During Perfumer ({f,3}, etc.) {3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 62,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Monsieur Samurai",
     "Description": "During Heat {db,1+2}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, partially uses remaining Heat time"
+    "Comment": "Shift to Iai Stance, partially uses remaining Heat time",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 67,
+    "Length": 3
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Excalibur",
     "Description": "During Heat {u,1+2}",
     "Properties": "",
-    "Comment": "Or during Heat {ub,1+2}, partially uses remaining Heat time"
+    "Comment": "Or during Heat {ub,1+2}, partially uses remaining Heat time",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 72,
+    "Length": 3
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Longinus",
     "Description": "During Heat and Iai Stance {d,2}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, partially uses remaining Heat time"
+    "Comment": "Shift to Iai Stance, partially uses remaining Heat time",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 77,
+    "Length": 4
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Élimination Samouraï",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw"
+    "Comment": "Heat Smash, on hit shift to throw",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 83,
+    "Length": 5
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Coup de Chevalier",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Also possible during Perfumer, Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Also possible during Perfumer, Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 90,
+    "Length": 15
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Double Cabochon Cut",
     "Description": "{1,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 107,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Basic Etiquette",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 111,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Briolette Cut",
     "Description": "{1,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 115,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Basic Manners",
     "Description": "{1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 119,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Cutlery Etiquette",
     "Description": "{2,1}",
     "Properties": "",
-    "Comment": "{2,1,f-hold} to shift to Perfumer"
+    "Comment": "{2,1,f-hold} to shift to Perfumer",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 123,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Crybaby Sophia",
     "Description": "{2,2} on hit or block {2}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, chip damage"
+    "Comment": "Shift to Iai Stance, chip damage",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 127,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Good Communication",
     "Description": "{3,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 131,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Asterism of Benevolence",
     "Description": "{4,3,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 135,
+    "Length": 3
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Eden",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 140,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Iai Stance",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, during Iai Stance {db} or {3+4} to shift to standing state"
+    "Comment": "Shift to Iai Stance, during Iai Stance {db} or {3+4} to shift to standing state",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 144,
+    "Length": 1
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Gorlagon",
     "Description": "{f,2,2,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 147,
+    "Length": 3
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Radiant Cut",
     "Description": "{f,2,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 152,
+    "Length": 3
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Perfumer",
     "Description": "{f,3}",
     "Properties": "",
-    "Comment": "Has punch parry effect, shift to Perfumer, during Perfumer {df} to shift to crouching state"
+    "Comment": "Has punch parry effect, shift to Perfumer, during Perfumer {df} to shift to crouching state",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 157,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Carving Cameo",
     "Description": "{f,4,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 161,
+    "Length": 3
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Carving Intaglio",
     "Description": "{f,4,2}",
     "Properties": "",
-    "Comment": "{f,4,2,d-hold} (or {f,4,2,3+4}) to shift to Iai Stanc on hit or block"
+    "Comment": "{f,4,2,d-hold} (or {f,4,2,3+4}) to shift to Iai Stanc on hit or block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 166,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Durandal",
     "Description": "{f,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, partially restores remaining Heat time on hit"
+    "Comment": "Chip damage on block, partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 170,
+    "Length": 3
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Trilliant Cut",
     "Description": "{df,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 175,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Arcadia",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 179,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Iridescence of Loyalty",
     "Description": "{df,3,4,2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 183,
+    "Length": 3
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Selfish Miranda",
     "Description": "{df,4} on hit or block {2}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, chip damage"
+    "Comment": "Shift to Iai Stance, chip damage",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 188,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Llamrei",
     "Description": "{df,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 192,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Concave Cut",
     "Description": "{d,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 196,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Llawfrodedd",
     "Description": "{d,2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 200,
+    "Length": 3
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Good Manners",
     "Description": "{d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 205,
+    "Length": 1
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Fine Salute",
     "Description": "{d,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 208,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Guilty Mariko",
     "Description": "{d,4} (Counter Hit)",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 212,
+    "Length": 4
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Iridescence of Prowess",
     "Description": "{d,1+2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 218,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Emerald Cut",
     "Description": "{db,1,1}",
     "Properties": "",
-    "Comment": "{db,1,1,f-hold} to shift to Perfumer"
+    "Comment": "{db,1,1,f-hold} to shift to Perfumer",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 222,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Polite Greetings",
     "Description": "{db,3}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 226,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Welcome Sweep",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 230,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Musk-Scented Natasha",
     "Description": "{db,4} (Counter Hit)",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 234,
+    "Length": 4
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Vanity Love",
     "Description": "{b,1,2}",
     "Properties": "",
-    "Comment": "Shift to throw on front hit, {b,1,f-hold} to shift to Perfumer"
+    "Comment": "Shift to throw on front hit, {b,1,f-hold} to shift to Perfumer",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 240,
+    "Length": 3
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Strobing Memories",
     "Description": "{b,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 245,
+    "Length": 1
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Caval",
     "Description": "{b,3,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 248,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Cordial Circuit",
     "Description": "{b,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 252,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Failnaught",
     "Description": "{b,1+2}",
     "Properties": "Heat Engager, Power Crush",
-    "Comment": "Chip damage on block, absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Chip damage on block, absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 256,
+    "Length": 3
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Dun Stallion",
     "Description": "{b,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 261,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Caliburnus",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": "Or {ub,1+2}, chip damage on block"
+    "Comment": "Or {ub,1+2}, chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 265,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Excalibur",
     "Description": "During Heat {u,1+2}",
     "Properties": "",
-    "Comment": "Or during Heat {ub,1+2}, partially uses remaining Heat time"
+    "Comment": "Or during Heat {ub,1+2}, partially uses remaining Heat time",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 269,
+    "Length": 3
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Gringolet",
     "Description": "{uf,1,1}",
     "Properties": "Tornado",
-    "Comment": "Or {ub,1} or {u,1}, {uf,1,1,d-hold} (or {uf,1,1,3+4}) to cancel the 2nd hit and shift to Iai Stance"
+    "Comment": "Or {ub,1} or {u,1}, {uf,1,1,d-hold} (or {uf,1,1,3+4}) to cancel the 2nd hit and shift to Iai Stance",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 274,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Marquise Cut",
     "Description": "{uf,2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 278,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Peaceful Shoes",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {ub,3} or {u,3}"
+    "Comment": "Or {ub,3} or {u,3}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 282,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Chatoyant Courage",
     "Description": "{uf,4}",
     "Properties": "Tornado",
-    "Comment": "Or {ub,4} or {u,4}"
+    "Comment": "Or {ub,4} or {u,4}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 286,
+    "Length": 3
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Carnwennan",
     "Description": "{f,f-hold,2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 291,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Asterism of Virtue",
     "Description": "{f,f,f-hold,2}",
     "Properties": "",
-    "Comment": "Chip damage on block, {f,f,f-hold,2,d-hold} (or {f,f,f-hold,2,3+4}) to shift to Iai Stance on hit or block"
+    "Comment": "Chip damage on block, {f,f,f-hold,2,d-hold} (or {f,f,f-hold,2,3+4}) to shift to Iai Stance on hit or block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 295,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Armour Shaft",
     "Description": "{d,df,f,2}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, chip damage"
+    "Comment": "Shift to Iai Stance, chip damage",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 299,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Montjoie Takemikazuchi",
     "Description": "{b,b-hold,2+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 303,
+    "Length": 4
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "10 Hit Combo",
     "Description": "{2,1,3,1,1,4,2,1,2,2}",
     "Properties": "",
-    "Comment": "Partially restores remaining Heat time on hit"
+    "Comment": "Partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 309,
+    "Length": 6
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Taunt",
     "Description": "{2+3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 317,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 321,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Le Blanc",
     "Description": "{ub,b}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 325,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Oval Cut",
     "Description": "While rising {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 329,
+    "Length": 3
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Baguette Cut",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 334,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Iridescence of Faith",
     "Description": "While rising {3,2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 338,
+    "Length": 3
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Praise Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 343,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Pearly Gates",
     "Description": "While rising {1+2}",
     "Properties": "",
-    "Comment": "While rising {1+2,f-hold} to shift to Perfumer"
+    "Comment": "While rising {1+2,f-hold} to shift to Perfumer",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 347,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Shangri-La",
     "Description": "While crouching {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 351,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Dandy Blow",
     "Description": "During sidestep {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 355,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Iai Stance",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, during Iai Stance {db} or {3+4} to shift to standing state"
+    "Comment": "Shift to Iai Stance, during Iai Stance {db} or {3+4} to shift to standing state",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 359,
+    "Length": 1
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Spumador",
     "Description": "During Iai Stance {1,1}",
     "Properties": "Tornado",
-    "Comment": "During Iai Stance {1,1,d-hold} (or {1,1,3+4}) to cancel the second hit to Iai Stance"
+    "Comment": "During Iai Stance {1,1,d-hold} (or {1,1,3+4}) to cancel the second hit to Iai Stance",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 362,
+    "Length": 3
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Clarent",
     "Description": "During Iai Stance {1,2,2}",
     "Properties": "",
-    "Comment": "Chip damage on block, partially restores remaining Heat time on hit"
+    "Comment": "Chip damage on block, partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 367,
+    "Length": 4
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Chastiefol",
     "Description": "During Iai Stance {1,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, partially restores remaining Heat time on hit"
+    "Comment": "Chip damage on block, partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 373,
+    "Length": 3
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Almace",
     "Description": "During Iai Stance {2}",
     "Properties": "Tornado",
-    "Comment": "Chip damage on block, partially restores remaining Heat time on hit"
+    "Comment": "Chip damage on block, partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 378,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Sequence",
     "Description": "During Iai Stance {3}",
     "Properties": "Power Crush",
-    "Comment": "Partially restores remaining Heat time on hit, absorb an attack to power up and add chip damage on block"
+    "Comment": "Partially restores remaining Heat time on hit, absorb an attack to power up and add chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 382,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Murgleys",
     "Description": "During Iai Stance {4,2}",
     "Properties": "",
-    "Comment": "Chip damage on block, partially restores remaining Heat time on hit"
+    "Comment": "Chip damage on block, partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 387,
+    "Length": 3
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Hauteclaire",
     "Description": "During Iai Stance {1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, partially restores remaining Heat time on hit"
+    "Comment": "Chip damage on block, partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 392,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Rhongomyniad",
     "Description": "During Iai Stance {d,2}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, chip damage"
+    "Comment": "Shift to Iai Stance, chip damage",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 396,
+    "Length": 3
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Longinus",
     "Description": "During Heat and Iai Stance {d,2}",
     "Properties": "",
-    "Comment": "Shift to Iai Stance, partially uses remaining Heat time"
+    "Comment": "Shift to Iai Stance, partially uses remaining Heat time",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 401,
+    "Length": 4
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Espee Adventureuse",
     "Description": "During Iai Stance {d,1+2}",
     "Properties": "",
-    "Comment": "Partially restores remaining Heat time on hit"
+    "Comment": "Partially restores remaining Heat time on hit",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 407,
+    "Length": 3
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Take a Bow",
     "Description": "During Iai Stance {d}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 412,
+    "Length": 2
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Move Forward",
     "Description": "During Iai Stance {f}",
     "Properties": "",
-    "Comment": "Completely evade low attacks"
+    "Comment": "Completely evade low attacks",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 416,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Move Backward",
     "Description": "During Iai Stance {b}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 420,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Pydwen",
     "Description": "During Iai Stance {u}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 424,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Perfumer",
     "Description": "{f,3}, etc.",
     "Properties": "",
-    "Comment": "Shift to Perfumer, during Perfumer {df} to shift to crouching state"
+    "Comment": "Shift to Perfumer, during Perfumer {df} to shift to crouching state",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 428,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Maceration",
     "Description": "During Perfumer {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 432,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Top Note",
     "Description": "During Perfumer {2,2,1}",
     "Properties": "",
-    "Comment": "During Perfumer {2,2} to shift to Iai Stance"
+    "Comment": "During Perfumer {2,2} to shift to Iai Stance",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 436,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Last Note",
     "Description": "During Perfumer {2,2,1+2}",
     "Properties": "",
-    "Comment": "During Perfumer {2,2} to shift to Iai Stance"
+    "Comment": "During Perfumer {2,2} to shift to Iai Stance",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 440,
+    "Length": 3
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Flying Gentleman",
     "Description": "During Perfumer {3}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 445,
+    "Length": 3
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Cordial Circuit",
     "Description": "During Perfumer {4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 450,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Hengroen",
     "Description": "During Perfumer {1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 454,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Sillage",
     "Description": "During Perfumer {df}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 458,
+    "Length": 1
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "One Night Miracle",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 461,
+    "Length": 4
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Je Te Veux",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 467,
+    "Length": 5
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "One Night Miracle",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 474,
+    "Length": 4
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Je Te Veux",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 480,
+    "Length": 5
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Farewell in Taj Mahal",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 487,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Romancing Chaser",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Also possible during Perfumer, throw escape {1+2}"
+    "Comment": "Also possible during Perfumer, throw escape {1+2}",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 492,
+    "Length": 4
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 498,
+    "Length": 2
   },
   {
     "Id": 106,
@@ -845,6 +1160,9 @@
     "Name": "Gwen",
     "Description": "Time with opponent low attack during Iai Stance {f}",
     "Properties": "Tornado",
-    "Comment": "Partially restore remaining Heat time, completely evade low attacks"
+    "Comment": "Partially restore remaining Heat time, completely evade low attacks",
+    "VideoId": "X9F-2WhU1n0",
+    "StartTime": 502,
+    "Length": 3
   }
 ]
