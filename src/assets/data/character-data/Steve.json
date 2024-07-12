@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 11,
+    "Length": 6
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "A new Ducking In shift move can be used",
     "Properties": "",
-    "Comment": "{df,3+4}"
+    "Comment": "{df,3+4}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 19,
+    "Length": 2
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can use Two-Faced",
     "Properties": "",
-    "Comment": "During Ducking In {1+3} (or {2+4}), etc."
+    "Comment": "During Ducking In {1+3} (or {2+4}), etc.",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 23,
+    "Length": 4
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Can parry mid attacks during Lion Heart",
     "Properties": "",
-    "Comment": "During Lion Heat, take mid attack from opponent"
+    "Comment": "During Lion Heat, take mid attack from opponent",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 29,
+    "Length": 4
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 35,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Sonic Fang",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 40,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Rocket Launcher",
     "Description": "{d,df,f,1}",
     "Properties": "Heat Engager",
-    "Comment": "{d,df,f,1,b-hold} shift to Flicker Stance (does not shift when using Heat Dash)"
+    "Comment": "{d,df,f,1,b-hold} shift to Flicker Stance (does not shift when using Heat Dash)",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 45,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Eraser",
     "Description": "{f,f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 50,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Cyclone Punch",
     "Description": "During Quick Spin ({3+4}, etc.) {2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 55,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Vigilant Blow",
     "Description": "During Lion Heart ({ub,3}, etc.) {1}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 60,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Two-Faced",
     "Description": "With Heat activated during Lion Heart, take mid attack from opponent",
     "Properties": "",
-    "Comment": "Shift to Two-Faced"
+    "Comment": "Shift to Two-Faced",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 65,
+    "Length": 4
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Ducking In Direct",
     "Description": "During Heat {df,3+4}",
     "Properties": "",
-    "Comment": "Shift to Ducking In, partially uses remaining Heat time, hold {3} (or {4}) {b-hold} to shift to Swaying, {u} (or {d}) to shift to Ducking Left / Right, {db-hold} to cancel"
+    "Comment": "Shift to Ducking In, partially uses remaining Heat time, hold {3} (or {4}) {b-hold} to shift to Swaying, {u} (or {d}) to shift to Ducking Left / Right, {db-hold} to cancel",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 71,
+    "Length": 2
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Two-Faced",
     "Description": "During Heat and Ducking In {1+3} (or {2+4})",
     "Properties": "Homing",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 75,
+    "Length": 3
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Dominion Rush",
     "Description": "During Two-Faced {1}",
     "Properties": "",
-    "Comment": "Throw escape {1}, partially uses remaining Heat time"
+    "Comment": "Throw escape {1}, partially uses remaining Heat time",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 80,
+    "Length": 4
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Debutante Ball",
     "Description": "During Two-Faced {2}",
     "Properties": "",
-    "Comment": "Throw escape {2}, partially uses remaining Heat time"
+    "Comment": "Throw escape {2}, partially uses remaining Heat time",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 86,
+    "Length": 6
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Bretwalda",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, on hit shift to throw, on block shift to Lion Heat (does not shift with {b-hold})"
+    "Comment": "Heat Smash, on hit shift to throw, on block shift to Lion Heat (does not shift with {b-hold})",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 94,
+    "Length": 6
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Bretwalda",
     "Description": "During Heat and Peakaboo {2+3}",
     "Properties": "",
-    "Comment": "Or during Heat and Flicker Stance {2+3}, Heat Smash, on hit shift to throw, on block shift to Lion Heat (does not shift with {b-hold})"
+    "Comment": "Or during Heat and Flicker Stance {2+3}, Heat Smash, on hit shift to throw, on block shift to Lion Heat (does not shift with {b-hold})",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 102,
+    "Length": 6
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Dear Land of Hope",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 110,
+    "Length": 14
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Double Jab",
     "Description": "{1,1}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 126,
+    "Length": 1
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Jab > Body Blow",
     "Description": "{1,d,1}",
     "Properties": "",
-    "Comment": "{1,d,1,b-hold} to shift to Flicker Stance"
+    "Comment": "{1,d,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 129,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Lightning Combo",
     "Description": "{1,1,2}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 133,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Double Jab > Body Blow",
     "Description": "{1,1,d,1}",
     "Properties": "",
-    "Comment": "{1,1,d,1,b-hold} to shift to Flicker Stance"
+    "Comment": "{1,1,d,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 137,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Left Right",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 141,
+    "Length": 1
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "British Edge Combo",
     "Description": "{1,2,1,2}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying from second to fourth hits, {1,2,1,f-hold} to shift to Peakaboo {1,2,1,b-hold} to shift to Flicker Stance"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying from second to fourth hits, {1,2,1,f-hold} to shift to Peakaboo {1,2,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 144,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "British Edge Combo 2",
     "Description": "{1,2,1,d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 148,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Vanguard Rush",
     "Description": "{2,1,2}",
     "Properties": "",
-    "Comment": "{2,1,f-hold} to shift to Peakaboo, {2,1,b-hold} to shift to Flicker Stance"
+    "Comment": "{2,1,f-hold} to shift to Peakaboo, {2,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 152,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Cromwell Combination",
     "Description": "{2,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 156,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Ducking Left",
     "Description": "{3}",
     "Properties": "",
-    "Comment": "Shift to Ducking Left, hold {3} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Right"
+    "Comment": "Shift to Ducking Left, hold {3} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Right",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 160,
+    "Length": 1
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Ducking Right",
     "Description": "{4}",
     "Properties": "",
-    "Comment": "Shift to Ducking Right, hold {4} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Left"
+    "Comment": "Shift to Ducking Right, hold {4} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Left",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 163,
+    "Length": 1
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Sonic Fang",
     "Description": "{1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Or while rising {1+2}"
+    "Comment": "Or while rising {1+2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 166,
+    "Length": 3
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Quick Spin",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Shift to Quick Spin"
+    "Comment": "Shift to Quick Spin",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 171,
+    "Length": 1
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Ducking Body Blow > Left Hook",
     "Description": "{f,2,1}",
     "Properties": "",
-    "Comment": "{f,2,1,f-hold} to shift to Peakaboo, {f,2,1,b-hold} to shift to Flicker Stance"
+    "Comment": "{f,2,1,f-hold} to shift to Peakaboo, {f,2,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 174,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Ducking Psyche-out Body",
     "Description": "{f,2,LB,1,2,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 178,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Conqueror Combination",
     "Description": "{f,2,2,1+2}",
     "Properties": "",
-    "Comment": "{f,2,2} to shift to Lion Heat (does not shift with {b-hold})"
+    "Comment": "{f,2,2} to shift to Lion Heat (does not shift with {b-hold})",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 182,
+    "Length": 3
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Ducking",
     "Description": "{f,3} (or {f,4})",
     "Properties": "",
-    "Comment": "Shift to Ducking, hold {3} (or {4}) {b-hold} to shift to Swaying, {u} (or {d}) to shift to Ducking Left / Right, {db-hold} to cancel"
+    "Comment": "Shift to Ducking, hold {3} (or {4}) {b-hold} to shift to Swaying, {u} (or {d}) to shift to Ducking Left / Right, {db-hold} to cancel",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 187,
+    "Length": 1
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Shotgun Combination",
     "Description": "{f,1+2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 190,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Peakaboo",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": "Shift to Peakaboo, can shift to Ducking, Ducking Left / Right, or Swaying, {3+4} to shift to Quick Spin"
+    "Comment": "Shift to Peakaboo, can shift to Ducking, Ducking Left / Right, or Swaying, {3+4} to shift to Quick Spin",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 194,
+    "Length": 1
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Left Uppercut",
     "Description": "{df,1}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 197,
+    "Length": 1
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Uppercut Cross Combo",
     "Description": "{df,1,2}",
     "Properties": "",
-    "Comment": "Can cancel second hit and shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can cancel second hit and shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 200,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Uppercut Psyche-out Hook",
     "Description": "{df,1,LB,2,1,RB}",
     "Properties": "",
-    "Comment": "{df,1,LB,2,1,RB,b-hold} to shift to Flicker Stance"
+    "Comment": "{df,1,LB,2,1,RB,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 204,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Uppercut Psyche-out Body",
     "Description": "{df,1,LB,2,2,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 208,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Uppercut Psyche-out Left Right Combo",
     "Description": "{df,1,LB,2,f,1+2,RB}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 212,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Crescent Hook",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 216,
+    "Length": 1
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Knee Blaster",
     "Description": "{d,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 219,
+    "Length": 1
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Wildman Combo",
     "Description": "{d,2,1,2}",
     "Properties": "",
-    "Comment": "Can cancel second hit and shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can cancel second hit and shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 222,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Knee Clipper",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": "Or while crouching {db,2}"
+    "Comment": "Or while crouching {db,2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 226,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Foot Stomp Right Hook",
     "Description": "{db,3,2}",
     "Properties": "",
-    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 230,
+    "Length": 3
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Stun Gun",
     "Description": "{db,1+2}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 235,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Quick Hook",
     "Description": "{b,1}",
     "Properties": "",
-    "Comment": "{b,1,b-hold} to shift to Flicker Stance"
+    "Comment": "{b,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 239,
+    "Length": 1
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Quick Draw",
     "Description": "{b,1,2}",
     "Properties": "Homing",
-    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 242,
+    "Length": 3
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Swindler",
     "Description": "{b,1,LB,2,1,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 247,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Frigate Combo",
     "Description": "{b,1,d,2,1}",
     "Properties": "Tornado",
-    "Comment": "{b,1,d,2,f-hold} to shift to Peakaboo"
+    "Comment": "{b,1,d,2,f-hold} to shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 251,
+    "Length": 3
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Body Bomb",
     "Description": "{b,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 256,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Swaying",
     "Description": "{b,3} (or {b,4})",
     "Properties": "",
-    "Comment": "Shift to Swaying, hold {3} (or {4}) {f-hold} to shift to Ducking, {u} (or {d}) to shift to Ducking Left / Right"
+    "Comment": "Shift to Swaying, hold {3} (or {4}) {f-hold} to shift to Ducking, {u} (or {d}) to shift to Ducking Left / Right",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 260,
+    "Length": 1
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Flicker Stance",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Shift Flicker Stance, can shift Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Shift Flicker Stance, can shift Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 263,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Bounty Hunter",
     "Description": "{ub,2}",
     "Properties": "Homing",
-    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 267,
+    "Length": 3
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Swindler",
     "Description": "{ub,LB,2,1,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 272,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Outfox",
     "Description": "{ub,3}",
     "Properties": "",
-    "Comment": "Shift to Lion Heart"
+    "Comment": "Shift to Lion Heart",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 276,
+    "Length": 3
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Hellfire",
     "Description": "{ub,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 281,
+    "Length": 3
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Over the Top",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 286,
+    "Length": 1
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Burst Hammer",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "Or {u,2}"
+    "Comment": "Or {u,2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 289,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Jump-in Foot Stomp Right Hook",
     "Description": "{uf,3,2}",
     "Properties": "",
-    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)"
+    "Comment": "Shift to Lion Heat ({b-hold} to stay in place)",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 293,
+    "Length": 4
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Jumping Duck Kick",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": "Or {u,4}"
+    "Comment": "Or {u,4}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 299,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Beat Down",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 303,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Rocket Launcher",
     "Description": "{d,df,f,1}",
     "Properties": "Heat Engager",
-    "Comment": "{d,df,f,1,b-hold} shift to Flicker Stance (does not shift when using Heat Dash)"
+    "Comment": "{d,df,f,1,b-hold} shift to Flicker Stance (does not shift when using Heat Dash)",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 307,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Low Cross Blaster",
     "Description": "{d,df,f,2}",
     "Properties": "",
-    "Comment": "{d,df,f,2,f-hold} to shift to Peakaboo"
+    "Comment": "{d,df,f,2,f-hold} to shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 312,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Eraser",
     "Description": "{f,f,f-hold,2}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 316,
+    "Length": 3
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Sliding Low Punch",
     "Description": "While running (two steps or more) {f-hold,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 321,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{df,1,LB,2,f,1+2,RB,1,1,2,1,1,2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 325,
+    "Length": 5
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{df,1,LB,2,f,1+2,RB,1,1,2,1,1,2,1,b,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 332,
+    "Length": 6
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Taunt",
     "Description": "{1+2+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 340,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 344,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Eagle Jab",
     "Description": "While rising {1,1}",
     "Properties": "",
-    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 348,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Wildman",
     "Description": "While rising {1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 352,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Nighthawk Combination",
     "Description": "While rising {2,2}",
     "Properties": "",
-    "Comment": "Shift to Lion Heat (does not shift with {b-hold}), from first hit can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Shift to Lion Heat (does not shift with {b-hold}), from first hit can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 356,
+    "Length": 4
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Finishing Blow",
     "Description": "While crouching {df,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 362,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Ducking Left",
     "Description": "{3}, etc.",
     "Properties": "",
-    "Comment": "Shift to Ducking Left, hold {3,b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Right"
+    "Comment": "Shift to Ducking Left, hold {3,b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {d-hold} to shift to Ducking Right",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 366,
+    "Length": 1
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Double Stinger",
     "Description": "During Ducking Left {1,1}",
     "Properties": "",
-    "Comment": "During Ducking Left {1,b-hold} to shift to Flicker Stance"
+    "Comment": "During Ducking Left {1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 369,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Bee Sting Combo",
     "Description": "During Ducking Left {1,2}",
     "Properties": "Homing",
-    "Comment": "Shift to Lion Heart ({b-hold} to stay in place)"
+    "Comment": "Shift to Lion Heart ({b-hold} to stay in place)",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 373,
+    "Length": 4
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Swindler",
     "Description": "During Ducking Left {1,LB,2,1,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 379,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Centurion Rush",
     "Description": "During Ducking Left {1,f,1,1}",
     "Properties": "",
-    "Comment": "During Ducking Left {1,f,1,1,b-hold} to shift to Flicker Stance"
+    "Comment": "During Ducking Left {1,f,1,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 383,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Right Shoulder Rush > Billy Club",
     "Description": "During Ducking Left {2,1}",
     "Properties": "",
-    "Comment": "During Ducking Left {2,f-hold} to shift to Peakaboo"
+    "Comment": "During Ducking Left {2,f-hold} to shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 387,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Ducking Right",
     "Description": "{4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Ducking Right, hold {4} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} to shift to Ducking Left"
+    "Comment": "Shift to Ducking Right, hold {4} {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} to shift to Ducking Left",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 391,
+    "Length": 1
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Hawk Swoop Combo",
     "Description": "During Ducking Right {1,2}",
     "Properties": "Homing",
-    "Comment": "Shift to Lion Heat (does not shift with {b-hold}), during Ducking Right {1,f-hold} to shift to Peakaboo"
+    "Comment": "Shift to Lion Heat (does not shift with {b-hold}), during Ducking Right {1,f-hold} to shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 394,
+    "Length": 4
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Swindler",
     "Description": "During Ducking Right {1,LB,2,1,RB}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 400,
+    "Length": 2
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Gut Drill",
     "Description": "During Ducking Right {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 404,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Quick Spin",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Quick Spin"
+    "Comment": "Shift to Quick Spin",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 408,
+    "Length": 1
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Cyclone Punch",
     "Description": "During Quick Spin {2}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 411,
+    "Length": 3
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Cyclone Knee Clip",
     "Description": "During Quick Spin {d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 416,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Spin > Peakaboo",
     "Description": "During Quick Spin {f-hold}",
     "Properties": "",
-    "Comment": "Shift to Peakaboo"
+    "Comment": "Shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 420,
+    "Length": 1
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Cyclone Left (Right)",
     "Description": "During Quick Spin {u-hold} (or {d-hold})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 423,
+    "Length": 2
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Double Cyclone Punch",
     "Description": "During Quick Spin {u-hold} (or {d-hold}) {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 427,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Double Cyclone Knee Punch",
     "Description": "During Quick Spin {u-hold} (or {d-hold}) {d,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 431,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Spin > Peakaboo",
     "Description": "During Quick Spin {u-hold} (or {d-hold}) {f-hold}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 435,
+    "Length": 1
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Ducking",
     "Description": "{f,3} (or {f,4}), etc.",
     "Properties": "",
-    "Comment": "Shift to Ducking, hold {3} (or {4}) {b} to shift to Swaying, {u-hold} (or {d-hold}) to shift to Ducking Left / Right, {db-hold} to cancel"
+    "Comment": "Shift to Ducking, hold {3} (or {4}) {b} to shift to Swaying, {u-hold} (or {d-hold}) to shift to Ducking Left / Right, {db-hold} to cancel",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 438,
+    "Length": 1
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Fox Hunt",
     "Description": "During Ducking {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 441,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Skyscraper",
     "Description": "During Ducking {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 445,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Punisher",
     "Description": "During Ducking {f,2}",
     "Properties": "",
-    "Comment": "Chip damage on block, hold {3} (or {4}) {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right"
+    "Comment": "Chip damage on block, hold {3} (or {4}) {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 449,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Gatling Gun",
     "Description": "During Ducking {1+2,1+2,1+2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 453,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Ducking In",
     "Description": "{f,3} hold {f-hold} (or {f,4} hold {f-hold})",
     "Properties": "",
-    "Comment": "Hold {3} (or {4}) {b-hold} to shift to Swaying, {u-hold} (or {d-hold}) to shift to Ducking Left / Right, {db-hold} to cancel"
+    "Comment": "Hold {3} (or {4}) {b-hold} to shift to Swaying, {u-hold} (or {d-hold}) to shift to Ducking Left / Right, {db-hold} to cancel",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 458,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Power Fox Hunt",
     "Description": "During Ducking In {1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 462,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Power Skyscraper",
     "Description": "During Ducking In {2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 467,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Power Punisher",
     "Description": "During Ducking In {f,2}",
     "Properties": "",
-    "Comment": "Chip damage on block, hold {3} (or {4}) {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right"
+    "Comment": "Chip damage on block, hold {3} (or {4}) {b-hold} to shift to Swaying, {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 472,
+    "Length": 3
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Peakaboo",
     "Description": "{f,3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Peakaboo, can shift to Ducking, Ducking Left / Right, or Swaying, {3+4} to shift to Quick Spin"
+    "Comment": "Shift to Peakaboo, can shift to Ducking, Ducking Left / Right, or Swaying, {3+4} to shift to Quick Spin",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 477,
+    "Length": 1
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Albion Combination",
     "Description": "During Peakaboo {1,2,1}",
     "Properties": "",
-    "Comment": "Shift to Peakaboo"
+    "Comment": "Shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 480,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Spite Hook",
     "Description": "During Peakaboo {2}",
     "Properties": "Homing",
-    "Comment": "Shift to Peakaboo, has punch parry effect"
+    "Comment": "Shift to Peakaboo, has punch parry effect",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 484,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Ten Count",
     "Description": "During Peakaboo {1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 488,
+    "Length": 4
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Straight Punch Combination",
     "Description": "During Peakaboo {f,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 494,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Nimrod Combination",
     "Description": "During Peakaboo {f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 499,
+    "Length": 2
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Argos Rush",
     "Description": "During Peakaboo {df,1,1,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 503,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Cross Cut",
     "Description": "During Peakaboo {df,1,2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 508,
+    "Length": 2
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Cutting Elbow",
     "Description": "During Peakaboo {df,2}",
     "Properties": "",
-    "Comment": "Shift to Peakaboo"
+    "Comment": "Shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 512,
+    "Length": 2
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Patella Smash",
     "Description": "During Peakaboo {d,1}",
     "Properties": "",
-    "Comment": "Or while crouching {df,1}, shift to Peakaboo"
+    "Comment": "Or while crouching {df,1}, shift to Peakaboo",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 516,
+    "Length": 2
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Knuckle Plow",
     "Description": "During Peakaboo {d,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 520,
+    "Length": 2
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Lancaster Combination",
     "Description": "During Peakaboo {b,1,1,2,1}",
     "Properties": "",
-    "Comment": "During Peakaboo {b,1,1,2,1,b-hold} to shift to Flicker Stance"
+    "Comment": "During Peakaboo {b,1,1,2,1,b-hold} to shift to Flicker Stance",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 524,
+    "Length": 3
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Swaying Hook",
     "Description": "During Peakaboo {b,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 529,
+    "Length": 2
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Dreadnought Uppercut",
     "Description": "During Peakaboo {uf,2}",
     "Properties": "Tornado",
-    "Comment": "Or during Peakaboo {u,2}"
+    "Comment": "Or during Peakaboo {u,2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 533,
+    "Length": 2
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Swaying",
     "Description": "{b,3} (or {b,4}), etc.",
     "Properties": "",
-    "Comment": "Shift to Swaying, hold {3} (or {4}) {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right"
+    "Comment": "Shift to Swaying, hold {3} (or {4}) {f-hold} to shift to Ducking, {u-hold} (or {d-hold}) to shift to Ducking Left / Right",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 537,
+    "Length": 1
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Billy Club",
     "Description": "During Swaying {1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 540,
+    "Length": 2
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Snake Charmer",
     "Description": "During Swaying {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 544,
+    "Length": 3
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Position Change",
     "Description": "During Swaying {1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, during Swaying {1+2,b-hold} (or {1+2,u-hold}) or {1+2,d-hold}) to throw in different direction"
+    "Comment": "Throw escape {1+2}, during Swaying {1+2,b-hold} (or {1+2,u-hold}) or {1+2,d-hold}) to throw in different direction",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 549,
+    "Length": 2
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "Flicker Stance",
     "Description": "{b,3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Flicker Stance, can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Shift to Flicker Stance, can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 553,
+    "Length": 2
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Spiteful Combination",
     "Description": "During Flicker Stance {1,1,1,2}",
     "Properties": "Tornado",
-    "Comment": "From first or second hit, {2} to shift into move, {1,b-hold} (or {1,1,b-hold} or {1,1,1,b-hold}) to shift to Flicker Stance, {1,3+4} (or {1,1,3+4} or {1,1,1,3+4}) to shift to Quick Spin"
+    "Comment": "From first or second hit, {2} to shift into move, {1,b-hold} (or {1,1,b-hold} or {1,1,1,b-hold}) to shift to Flicker Stance, {1,3+4} (or {1,1,3+4} or {1,1,1,3+4}) to shift to Quick Spin",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 557,
+    "Length": 3
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Tempest Combo",
     "Description": "During Flicker Stance {1,f,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 562,
+    "Length": 2
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Power Hook Combo",
     "Description": "During Flicker Stance {1,d,1}",
     "Properties": "",
-    "Comment": "Or during Flicker Stance {1,u,1}"
+    "Comment": "Or during Flicker Stance {1,u,1}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 566,
+    "Length": 2
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Fly Swatter",
     "Description": "During Flicker Stance {2}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 570,
+    "Length": 2
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Griffin Throw",
     "Description": "During Flicker Stance {1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 574,
+    "Length": 3
   },
   {
     "Id": 130,
@@ -1037,7 +1424,10 @@
     "Name": "British Lancer",
     "Description": "During Flicker Stance {b,2}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 579,
+    "Length": 2
   },
   {
     "Id": 131,
@@ -1045,7 +1435,10 @@
     "Name": "Lion Heart",
     "Description": "{ub,3}, etc.",
     "Properties": "",
-    "Comment": "Shift to Lion Heart, can shift to Ducking, Ducking Left / Right, or Swaying"
+    "Comment": "Shift to Lion Heart, can shift to Ducking, Ducking Left / Right, or Swaying",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 583,
+    "Length": 3
   },
   {
     "Id": 132,
@@ -1053,7 +1446,10 @@
     "Name": "Vigilant Blow",
     "Description": "During Lion Heart {1}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 588,
+    "Length": 3
   },
   {
     "Id": 133,
@@ -1061,7 +1457,10 @@
     "Name": "Bloodhound",
     "Description": "During Lion Heart {2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 593,
+    "Length": 3
   },
   {
     "Id": 134,
@@ -1069,7 +1468,10 @@
     "Name": "Swingfire Advance",
     "Description": "During Lion Heart {1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, has reversal break effect"
+    "Comment": "Chip damage on block, has reversal break effect",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 598,
+    "Length": 3
   },
   {
     "Id": 135,
@@ -1077,7 +1479,10 @@
     "Name": "Gut Wrencher",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 603,
+    "Length": 3
   },
   {
     "Id": 136,
@@ -1085,7 +1490,10 @@
     "Name": "Brain Pulverizer",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 608,
+    "Length": 2
   },
   {
     "Id": 137,
@@ -1093,7 +1501,10 @@
     "Name": "Choke Slam",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 612,
+    "Length": 3
   },
   {
     "Id": 138,
@@ -1101,7 +1512,10 @@
     "Name": "Throw Down",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 617,
+    "Length": 4
   },
   {
     "Id": 139,
@@ -1109,7 +1523,10 @@
     "Name": "Schoolyard Bully",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 623,
+    "Length": 4
   },
   {
     "Id": 140,
@@ -1117,7 +1534,10 @@
     "Name": "Armlock Throw",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 629,
+    "Length": 3
   },
   {
     "Id": 141,
@@ -1125,7 +1545,10 @@
     "Name": "Spinning Elbow Drop",
     "Description": "Approach opponent {d,db,b,2+4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 634,
+    "Length": 3
   },
   {
     "Id": 142,
@@ -1133,7 +1556,10 @@
     "Name": "Cheapshot",
     "Description": "While opponent is down {d,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 639,
+    "Length": 1
   },
   {
     "Id": 143,
@@ -1141,7 +1567,10 @@
     "Name": "Parry",
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": "Or during Flicker Stance {b,1+3} (or {b,2+4}), when parrying an attack, {1} for follow-up attack"
+    "Comment": "Or during Flicker Stance {b,1+3} (or {b,2+4}), when parrying an attack, {1} for follow-up attack",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 642,
+    "Length": 1
   },
   {
     "Id": 144,
@@ -1149,7 +1578,10 @@
     "Name": "Revenge Blow",
     "Description": "After successful parry {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 645,
+    "Length": 2
   },
   {
     "Id": 145,
@@ -1157,7 +1589,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 649,
+    "Length": 2
   },
   {
     "Id": 146,
@@ -1165,7 +1600,10 @@
     "Name": "Two-Faced",
     "Description": "With Heat activated during Lion Heart, take mid attack from opponent",
     "Properties": "",
-    "Comment": "Shift to Two-Faced"
+    "Comment": "Shift to Two-Faced",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 653,
+    "Length": 4
   },
   {
     "Id": 147,
@@ -1173,7 +1611,10 @@
     "Name": "Two-Faced",
     "Description": "During Heat and Ducking In {1+3} (or {2+4})",
     "Properties": "Homing",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 659,
+    "Length": 3
   },
   {
     "Id": 148,
@@ -1181,7 +1622,10 @@
     "Name": "Dominion Rush",
     "Description": "During Two-Faced {1}",
     "Properties": "",
-    "Comment": "Throw escape {1}, partially uses remaining Heat time"
+    "Comment": "Throw escape {1}, partially uses remaining Heat time",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 664,
+    "Length": 4
   },
   {
     "Id": 149,
@@ -1189,6 +1633,9 @@
     "Name": "Debutante Ball",
     "Description": "During Two-Faced {2}",
     "Properties": "",
-    "Comment": "Throw escape {2}, partially uses remaining Heat time"
+    "Comment": "Throw escape {2}, partially uses remaining Heat time",
+    "VideoId": "e2JeQ2syHFw",
+    "StartTime": 670,
+    "Length": 6
   }
 ]
