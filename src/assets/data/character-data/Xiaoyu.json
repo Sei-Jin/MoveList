@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 11,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Allows the use of the powered up version of Hypnotist",
     "Properties": "",
-    "Comment": "During Hypnotist {3}, during Hypnotist {2}, etc."
+    "Comment": "During Hypnotist {3}, during Hypnotist {2}, etc.",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 18,
+    "Length": 4
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Bai Yang Yan Di Po and Bai Lian Yan Di Po are available",
     "Properties": "",
-    "Comment": "{f,2,1,2}, {f,f-hold,1,2}"
+    "Comment": "{f,2,1,2}, {f,f-hold,1,2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 24,
+    "Length": 5
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack"
+    "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 31,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Storming Flower",
     "Description": "{db,1}",
     "Properties": "Heat Engager",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 36,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Moonhare Palm",
     "Description": "{b,4,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 41,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Battering Storm",
     "Description": "Back facing opponent ({b,3+4}, etc.) {1+2,4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 46,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Spin Sticker",
     "Description": "During Hypnotist ({db,1+2}, etc.) {2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 51,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Phoenix Double Palm",
     "Description": "During Phoenix ({d,1+2}, etc.) {2,1}",
     "Properties": "Heat Engager",
-    "Comment": "During Phoenix {2,1,b-hold} to cancel and face backward"
+    "Comment": "During Phoenix {2,1,b-hold} to cancel and face backward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 56,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Bai Yang Yan Di Po",
     "Description": "During Heat {f,2,1,2}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, {f,2,1,2,f-hold} to face forward"
+    "Comment": "Partially uses remaining Heat time, {f,2,1,2,f-hold} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 61,
+    "Length": 3
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Bai Lian Yan Di Po",
     "Description": "During Heat {f,f-hold,1,2}",
     "Properties": "",
-    "Comment": "Partially uses remaining Heat time, {f,f-hold,1,2,f-hold} to face forward"
+    "Comment": "Partially uses remaining Heat time, {f,f-hold,1,2,f-hold} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 66,
+    "Length": 3
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Divine Shooting Star",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, throw on hit, on block {2+3,f-hold} to face forward"
+    "Comment": "Heat Smash, throw on hit, on block {2+3,f-hold} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 71,
+    "Length": 5
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Innumerable Moons",
     "Description": "During Heat (back facing opponent) {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, shift to Hypnotist (no shift with {2+3,f-hold}), can shift into moves from second step of Hypnotist"
+    "Comment": "Heat Smash, shift to Hypnotist (no shift with {2+3,f-hold}), can shift into moves from second step of Hypnotist",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 78,
+    "Length": 5
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Wang's Celestial Epic",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Or during Rage and Phoenix {df,1+2}, Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Or during Rage and Phoenix {df,1+2}, Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 85,
+    "Length": 13
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "Bayonet",
     "Description": "{1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 100,
+    "Length": 1
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "Bayonet Thruster",
     "Description": "{1,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 103,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Fan Dance",
     "Description": "{1,d,2}",
     "Properties": "",
-    "Comment": "{1,d-hold,2} to face forward, {1,d,2,b-hold} to shift to Hypnotist"
+    "Comment": "{1,d-hold,2} to face forward, {1,d,2,b-hold} to shift to Hypnotist",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 107,
+    "Length": 1
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Fan Dance > Birds Flock",
     "Description": "{1,d,2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 110,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "April Showers",
     "Description": "{2,1}",
     "Properties": "",
-    "Comment": "{2,df-hold,1} to face forward"
+    "Comment": "{2,df-hold,1} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 114,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Cloud Kick",
     "Description": "{3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 118,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Birds Flock",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 122,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Crescent Moon Kick",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "{3+4,d-hold} to shift to Phoenix"
+    "Comment": "{3+4,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 126,
+    "Length": 2
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Bai Yang Zhuan Wu",
     "Description": "{f,2,1,4}",
     "Properties": "",
-    "Comment": "{f,2,1,b-hold} to shift to Hypnotist"
+    "Comment": "{f,2,1,b-hold} to shift to Hypnotist",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 130,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Talons of Fury",
     "Description": "{f,3,1,4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 134,
+    "Length": 3
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Wings of Fury",
     "Description": "{f,3,1,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 139,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Swivel Kick",
     "Description": "{f,4}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 143,
+    "Length": 1
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Clouded Peak",
     "Description": "{f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 146,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Forward Roll > Phoenix Talon",
     "Description": "{f,3+4,3+4}",
     "Properties": "",
-    "Comment": "{f,3+4,d-hold} to shift to Phoenix"
+    "Comment": "{f,3+4,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 150,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Belly Chop",
     "Description": "{df,1}",
     "Properties": "",
-    "Comment": "{df-hold,1} to face forward"
+    "Comment": "{df-hold,1} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 154,
+    "Length": 1
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Moon Swallow",
     "Description": "{df,2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 157,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Phoenix Tail",
     "Description": "{df,3}",
     "Properties": "Homing",
-    "Comment": "{df,3,b-hold} to cancel and face backward, {df,3,d-hold} to shift to Phoenix"
+    "Comment": "{df,3,b-hold} to cancel and face backward, {df,3,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 161,
+    "Length": 3
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Sunset Fan",
     "Description": "{d,1}",
     "Properties": "",
-    "Comment": "{d-hold,1} to shift to Phoenix"
+    "Comment": "{d-hold,1} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 166,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Giant Slayer",
     "Description": "{d,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 170,
+    "Length": 2
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Phoenix",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": "Or back facing opponent {d,1+2}"
+    "Comment": "Or back facing opponent {d,1+2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 174,
+    "Length": 1
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Spinner",
     "Description": "{d,3+4}",
     "Properties": "",
-    "Comment": "Or {u,3+4}"
+    "Comment": "Or {u,3+4}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 177,
+    "Length": 1
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Storming Flower",
     "Description": "{db,1}",
     "Properties": "Heat Engager",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 180,
+    "Length": 3
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Feathered Fan",
     "Description": "{db,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 185,
+    "Length": 1
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Knee Cracker",
     "Description": "{db,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 188,
+    "Length": 1
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Nutcracker",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 191,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Hypnotist",
     "Description": "{db,1+2}",
     "Properties": "",
-    "Comment": "Or {ub,1+2}, punch parry effect"
+    "Comment": "Or {ub,1+2}, punch parry effect",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 195,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Great Wall Left",
     "Description": "{b,1}",
     "Properties": "",
-    "Comment": "Rain Dance on hit, {b-hold,1} to face forward on hit"
+    "Comment": "Rain Dance on hit, {b-hold,1} to face forward on hit",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 199,
+    "Length": 1
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Seven Star Fist",
     "Description": "{b,2,2}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 202,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Peacock Kick",
     "Description": "{b,3}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 206,
+    "Length": 1
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Moonhare Palm",
     "Description": "{b,4,1}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 209,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Cross Lifting Palms",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 214,
+    "Length": 2
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Rain Dance",
     "Description": "{b,3+4}",
     "Properties": "",
-    "Comment": "Or back facing opponent {b,3+4} or during Phoenix {b,3+4}"
+    "Comment": "Or back facing opponent {b,3+4} or during Phoenix {b,3+4}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 218,
+    "Length": 1
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "From the Ashes",
     "Description": "{ub,3}",
     "Properties": "Tornado",
-    "Comment": "Shift to Phoenix"
+    "Comment": "Shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 221,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Born of Fire",
     "Description": "{ub,4}",
     "Properties": "Tornado, Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 225,
+    "Length": 2
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Fortune Cookie",
     "Description": "{u,1+2,2,1}",
     "Properties": "",
-    "Comment": "{u,1+2,2,1,b-hold} to cancel and face backward"
+    "Comment": "{u,1+2,2,1,b-hold} to cancel and face backward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 229,
+    "Length": 3
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Silver Needle",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": "Or {u,1} to shift to Phoenix, {uf,1,d-hold} to cancel and shift to crouching state"
+    "Comment": "Or {u,1} to shift to Phoenix, {uf,1,d-hold} to cancel and shift to crouching state",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 234,
+    "Length": 2
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Phoenix Flight",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "{uf,2,f-hold} to face forward, chip damage on block"
+    "Comment": "{uf,2,f-hold} to face forward, chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 238,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Bolting Rabbit",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": "Or {u,3}"
+    "Comment": "Or {u,3}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 242,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Flare Kick",
     "Description": "{uf,4}",
     "Properties": "",
-    "Comment": "Or {u,4}, {uf,4,d-hold} to directly shift to crouching state, {uf,4,d,1+2} to shift to Phoenix"
+    "Comment": "Or {u,4}, {uf,4,d-hold} to directly shift to crouching state, {uf,4,d,1+2} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 246,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Shooting Star",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": "Shift to Rain Dance on block"
+    "Comment": "Shift to Rain Dance on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 250,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Delayed Rising Toe Kick",
     "Description": "{uf,n,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 254,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Poison Flower",
     "Description": "{f,f-hold,1,3}",
     "Properties": "",
-    "Comment": "{f,f-hold,1,d-hold} to shift to Phoenix"
+    "Comment": "{f,f-hold,1,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 258,
+    "Length": 2
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Eclipsing Moon",
     "Description": "{f,f-hold,1,4}",
     "Properties": "",
-    "Comment": "{f,f-hold,1,d-hold} to shift to Phoenix"
+    "Comment": "{f,f-hold,1,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 262,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Fortune",
     "Description": "{f,f-hold,2,1}",
     "Properties": "",
-    "Comment": "{f,f-hold,2,1,b-hold} to cancel into Rain Dance"
+    "Comment": "{f,f-hold,2,1,b-hold} to cancel into Rain Dance",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 266,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Raccoon Swing",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 270,
+    "Length": 2
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Soaring Blaze",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": "Chip damage on block, shift to Hypnotist on hit or block"
+    "Comment": "Chip damage on block, shift to Hypnotist on hit or block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 274,
+    "Length": 3
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "X Marks the Spot",
     "Description": "{f,f-hold,1+2,1+2}",
     "Properties": "",
-    "Comment": "Or while rising {1+2,1+2}"
+    "Comment": "Or while rising {1+2,1+2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 279,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Front Layout",
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 283,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Diving Falcon",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Shift to Phoenix, chip damage on block"
+    "Comment": "Shift to Phoenix, chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 287,
+    "Length": 2
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{u,4,1,2,1+2,1,3,4,4,4,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 291,
+    "Length": 6
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{u,4,1,2,4,4,2,1+2,1,4,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 299,
+    "Length": 6
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "False Salute",
     "Description": "{1+3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 307,
+    "Length": 3
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Greetings",
     "Description": "{2+3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 312,
+    "Length": 3
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 317,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Whirlwind Cross Kick",
     "Description": "While rising {1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 321,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Sunflower",
     "Description": "While rising {2}",
     "Properties": "",
-    "Comment": "While rising {2,f-hold} to face forward"
+    "Comment": "While rising {2,f-hold} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 325,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Jasmine Blossom",
     "Description": "While rising {2} hold",
     "Properties": "",
-    "Comment": "While rising {2} hold, then {f-hold} to face forward"
+    "Comment": "While rising {2} hold, then {f-hold} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 329,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Rising Axe Kick",
     "Description": "While rising {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 333,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Skyscraper Kick",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 337,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Fire Dancer",
     "Description": "While crouching {3,2,1,4}",
     "Properties": "",
-    "Comment": "While crouching {3,2,1,b-hold} to shift to Hypnotist"
+    "Comment": "While crouching {3,2,1,b-hold} to shift to Hypnotist",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 341,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Lotus Twist",
     "Description": "While crouching {df,2,1}",
     "Properties": "",
-    "Comment": "While crouching {df-hold,2} to shift to Rain Dance, while crouching {df,2,1,df-hold} to shift to Rain Dance"
+    "Comment": "While crouching {df-hold,2} to shift to Rain Dance, while crouching {df,2,1,df-hold} to shift to Rain Dance",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 346,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Flower Garden",
     "Description": "While crouching {df,4,4}",
     "Properties": "",
-    "Comment": "While crouching {df,4} to shift to Phoenix"
+    "Comment": "While crouching {df,4} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 350,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Low Back Turn",
     "Description": "While crouching {db,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 354,
+    "Length": 1
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Street Sweeper",
     "Description": "During sidestep {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 357,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Rain Dance",
     "Description": "{b,3+4}, etc.",
     "Properties": "",
-    "Comment": "Can move while face backward, {db-hold} or {b-hold} to face forward"
+    "Comment": "Can move while face backward, {db-hold} or {b-hold} to face forward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 361,
+    "Length": 1
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Waking Prominence",
     "Description": "Back facing opponent {1,2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 364,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Dark & Stormy",
     "Description": "Back facing opponent {2,1,4}",
     "Properties": "",
-    "Comment": "Back facing opponent {2,1,b-hold} to shift to Hypnotist"
+    "Comment": "Back facing opponent {2,1,b-hold} to shift to Hypnotist",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 368,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Turn of Fortune",
     "Description": "Back facing opponent {2,2,1}",
     "Properties": "",
-    "Comment": "Back facing opponent {2,2,1,d-hold} to shift to Phoenix"
+    "Comment": "Back facing opponent {2,2,1,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 372,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Peg Leg",
     "Description": "Back facing opponent {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 376,
+    "Length": 1
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Mistrust",
     "Description": "Back facing opponent {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 379,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Battering Storm",
     "Description": "Back facing opponent {1+2,4}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 383,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Battering Winds",
     "Description": "Back facing opponent {1+2,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 388,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Monkey Kick",
     "Description": "Back facing opponent {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 392,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Spinning Push Hands",
     "Description": "Back facing opponent {f,1+2}",
     "Properties": "",
-    "Comment": "Punch parry effect"
+    "Comment": "Punch parry effect",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 396,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Cyclone Left",
     "Description": "Back facing opponent {f,3+4,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 400,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Spinning Crane",
     "Description": "Back facing opponent {d,3,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 404,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Hou Sao Tui",
     "Description": "Back facing opponent {d,4}",
     "Properties": "",
-    "Comment": "Has clean hit effect"
+    "Comment": "Has clean hit effect",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 408,
+    "Length": 3
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Spin Tornado Up (Down)",
     "Description": "Back facing opponent {d,3+4}",
     "Properties": "",
-    "Comment": "Or back facing opponent {u,3+4}"
+    "Comment": "Or back facing opponent {u,3+4}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 413,
+    "Length": 1
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Reverse Knee Cracker",
     "Description": "Back facing opponent {db,4}",
     "Properties": "",
-    "Comment": "Or back facing opponent {df,4}"
+    "Comment": "Or back facing opponent {df,4}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 416,
+    "Length": 1
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Silver Needle",
     "Description": "Back facing opponent {uf,1}",
     "Properties": "",
-    "Comment": "Or back facing opponent {u,1}, shift to Phoenix, {uf,1,d-hold} to cancel and shift to crouching state"
+    "Comment": "Or back facing opponent {u,1}, shift to Phoenix, {uf,1,d-hold} to cancel and shift to crouching state",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 419,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "Back Layout",
     "Description": "Back facing opponent {f,f-hold,3+4}",
     "Properties": "",
-    "Comment": "Close range hit or throw while blocking, with chip damage on block"
+    "Comment": "Close range hit or throw while blocking, with chip damage on block",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 423,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "Hypnotist",
     "Description": "{db,1+2}, etc.",
     "Properties": "",
-    "Comment": "During Heat, take three steps or more to partially restore remaining Heat time"
+    "Comment": "During Heat, take three steps or more to partially restore remaining Heat time",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 427,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Spin Sticker",
     "Description": "During Hypnotist {2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 431,
+    "Length": 3
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Blue Luan Sweep",
     "Description": "During Hypnotist {3}",
     "Properties": "Homing",
-    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+    "Comment": "Power up during Heat or based on number of steps (partially uses remaining Heat time)",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 436,
+    "Length": 2
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Falling Tiger Kick",
     "Description": "During Hypnotist {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 440,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Hypnotist",
     "Description": "During Hypnotist {1+2}",
     "Properties": "",
-    "Comment": "Has punch parry effect"
+    "Comment": "Has punch parry effect",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 444,
+    "Length": 3
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Deadly Orchid",
     "Description": "During Hypnotist {3+4}",
     "Properties": "",
-    "Comment": "With chip damage on block, during Hypnotist {3+4,b-hold} to cancel into Rain Dance"
+    "Comment": "With chip damage on block, during Hypnotist {3+4,b-hold} to cancel into Rain Dance",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 449,
+    "Length": 2
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Thunder Strike",
     "Description": "During Hypnotist {2+3}",
     "Properties": "",
-    "Comment": "During Hypnotist, {2+3,b,b} to cancel into Rain Dance / Power up during Heat or based on number of steps (partially uses remaining Heat time)"
+    "Comment": "During Hypnotist, {2+3,b,b} to cancel into Rain Dance / Power up during Heat or based on number of steps (partially uses remaining Heat time)",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 453,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Phoenix",
     "Description": "{d,1+2}, etc.",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 458,
+    "Length": 1
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Double Serving",
     "Description": "During Phoenix {1,2}",
     "Properties": "",
-    "Comment": "During Phoenix {1,b-hold} to shift to Hypnotist"
+    "Comment": "During Phoenix {1,b-hold} to shift to Hypnotist",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 461,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Twin Mandarin Blows",
     "Description": "During Phoenix {1,4}",
     "Properties": "Tornado",
-    "Comment": "During Phoenix {1,b-hold} to shift to Hypnotist"
+    "Comment": "During Phoenix {1,b-hold} to shift to Hypnotist",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 465,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Phoenix Double Palm",
     "Description": "During Phoenix {2,1}",
     "Properties": "Heat Engager",
-    "Comment": "During Phoenix {2,1,b-hold} to cancel into Rain Dance"
+    "Comment": "During Phoenix {2,1,b-hold} to cancel into Rain Dance",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 469,
+    "Length": 3
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Piercing Spear Kick",
     "Description": "During Phoenix {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 474,
+    "Length": 2
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Rising Front Kick",
     "Description": "During Phoenix {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 478,
+    "Length": 2
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Phoenix Cannon",
     "Description": "During Phoenix {1+2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 482,
+    "Length": 2
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Siding Firecracker",
     "Description": "During Phoenix {3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 486,
+    "Length": 2
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Flower Garden",
     "Description": "During Phoenix {f,4,4}",
     "Properties": "",
-    "Comment": "During Phoenix {f,4} to shift to Phoenix"
+    "Comment": "During Phoenix {f,4} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 490,
+    "Length": 2
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Roll Ball",
     "Description": "During Phoenix {f,3+4}",
     "Properties": "",
-    "Comment": "During Phoenix {f,3+4,d-hold} to shift to Phoenix"
+    "Comment": "During Phoenix {f,3+4,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 494,
+    "Length": 2
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Butterfly",
     "Description": "During Phoenix {d}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 498,
+    "Length": 2
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Phoenix Swipe",
     "Description": "During Phoenix {d,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 502,
+    "Length": 2
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Return to the Nest",
     "Description": "During Phoenix {d,1} (Counter Hit)",
     "Properties": "",
-    "Comment": "Throw when hit from the front on the ground"
+    "Comment": "Throw when hit from the front on the ground",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 506,
+    "Length": 4
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Wave Crest",
     "Description": "During Phoenix {d,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 512,
+    "Length": 2
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Alley-Oop",
     "Description": "During Phoenix {uf,3,1}",
     "Properties": "",
-    "Comment": "Or {ub,3,1} or {u,3,1}"
+    "Comment": "Or {ub,3,1} or {u,3,1}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 516,
+    "Length": 2
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Double Scissor Kick",
     "Description": "During Phoenix {uf,3,4}",
     "Properties": "",
-    "Comment": "Or {ub,3,4} or {u,3,4}"
+    "Comment": "Or {ub,3,4} or {u,3,4}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 520,
+    "Length": 3
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Flower Power",
     "Description": "During Phoenix {uf,4,4}",
     "Properties": "",
-    "Comment": "Or {u,4,4}, {ub,4,d-hold} to shift to Phoenix, {uf,4,b-hold} to shift to Rain Dance"
+    "Comment": "Or {u,4,4}, {ub,4,d-hold} to shift to Phoenix, {uf,4,b-hold} to shift to Rain Dance",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 525,
+    "Length": 2
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Jumping Pirouette",
     "Description": "During Phoenix {uf} while in air {3}",
     "Properties": "",
-    "Comment": "Or {ub} while in air {3} or {u} while in air {3}, {uf} while in air {3,d-hold} to shift to Phoenix"
+    "Comment": "Or {ub} while in air {3} or {u} while in air {3}, {uf} while in air {3,d-hold} to shift to Phoenix",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 529,
+    "Length": 2
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Crane Kick",
     "Description": "During Phoenix {uf} while in air {4}",
     "Properties": "",
-    "Comment": "Or {ub} while in air {4} or {u} while in air {4}"
+    "Comment": "Or {ub} while in air {4} or {u} while in air {4}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 533,
+    "Length": 2
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "Sky Kick",
     "Description": "During Phoenix {uf} while landing {3}",
     "Properties": "",
-    "Comment": "Or {ub} while landing {3} or {u} while landing {3}"
+    "Comment": "Or {ub} while landing {3} or {u} while landing {3}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 537,
+    "Length": 3
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Jade",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 542,
+    "Length": 3
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Ruby",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 547,
+    "Length": 3
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Arm Flip",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 552,
+    "Length": 3
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Dump the Bucket",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 557,
+    "Length": 3
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Crank Up",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 562,
+    "Length": 3
   },
   {
     "Id": 130,
@@ -1037,7 +1424,10 @@
     "Name": "Wang's Waning Moon",
     "Description": "Approach opponent {f,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 567,
+    "Length": 3
   },
   {
     "Id": 131,
@@ -1045,7 +1435,10 @@
     "Name": "Dragon Fall",
     "Description": "Approach opponent {df,2+4}",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 572,
+    "Length": 3
   },
   {
     "Id": 132,
@@ -1053,7 +1446,10 @@
     "Name": "Dislocator",
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 577,
+    "Length": 3
   },
   {
     "Id": 133,
@@ -1061,7 +1457,10 @@
     "Name": "Bei Shen Zhuan Wu",
     "Description": "Back facing opponent {f,1+3} (or {f,2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} (or {2}), {f,1+3} (or {f,2+4}) {d-hold} to cancel and shift to crouching state"
+    "Comment": "Throw escape {1} (or {2}), {f,1+3} (or {f,2+4}) {d-hold} to cancel and shift to crouching state",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 582,
+    "Length": 4
   },
   {
     "Id": 134,
@@ -1069,7 +1468,10 @@
     "Name": "Wang's Waning Moon",
     "Description": "Back facing opponent {f,2+3}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, {f,2+3,d-hold} to cancel and shift to crouching state"
+    "Comment": "Throw escape {1+2}, {f,2+3,d-hold} to cancel and shift to crouching state",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 588,
+    "Length": 3
   },
   {
     "Id": 135,
@@ -1077,7 +1479,10 @@
     "Name": "Feng Huang Zhuan Wu",
     "Description": "During Phoenix {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1} (or {2}), {1+3} (or {2+4}) {d-hold} to cancel and shift to crouching state"
+    "Comment": "Throw escape {1} (or {2}), {1+3} (or {2+4}) {d-hold} to cancel and shift to crouching state",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 593,
+    "Length": 4
   },
   {
     "Id": 136,
@@ -1085,7 +1490,10 @@
     "Name": "Hypnotist > Spin Behind",
     "Description": "Time with opponent punch {db,1+2}",
     "Properties": "",
-    "Comment": "Or time with opponent punch {ub,1+2}, can shift into moves from second step of Hypnotist, partially restores remaining Heat time"
+    "Comment": "Or time with opponent punch {ub,1+2}, can shift into moves from second step of Hypnotist, partially restores remaining Heat time",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 599,
+    "Length": 3
   },
   {
     "Id": 137,
@@ -1093,7 +1501,10 @@
     "Name": "High Mid Parry",
     "Description": "Time with opponent attack {b,1+3} (or {b,2+4})",
     "Properties": "",
-    "Comment": "Also possible during Hypnotist or facing backward"
+    "Comment": "Also possible during Hypnotist or facing backward",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 604,
+    "Length": 2
   },
   {
     "Id": 138,
@@ -1101,7 +1512,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 608,
+    "Length": 2
   },
   {
     "Id": 139,
@@ -1109,7 +1523,10 @@
     "Name": "So Shoe Me",
     "Description": "Back facing opponent and time with opponent punch {f,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 612,
+    "Length": 3
   },
   {
     "Id": 140,
@@ -1117,6 +1534,9 @@
     "Name": "Reverse Low Parry",
     "Description": "Back facing opponent and time with opponent low attack {d,1+3} (or {d,2+4})",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "vKDwLOqTRX8",
+    "StartTime": 617,
+    "Length": 2
   }
 ]
