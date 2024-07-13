@@ -5,7 +5,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
-    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge"
+    "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 0,
+    "Length": 5
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block"
+    "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 7,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -21,7 +27,10 @@
     "Name": "What can be done during Heat (general)",
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
-    "Comment": "During Heat {HBHS} (or {2+3})"
+    "Comment": "During Heat {HBHS} (or {2+3})",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 12,
+    "Length": 4
   },
   {
     "Id": 4,
@@ -29,7 +38,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Powered up versions of sword moves that can only be performed during Mutou no Kiwami can be used from the normal stance",
     "Properties": "",
-    "Comment": "{ub,1+2}, {f,1+2}, {1+4}, etc."
+    "Comment": "{ub,1+2}, {f,1+2}, {1+4}, etc.",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 18,
+    "Length": 7
   },
   {
     "Id": 5,
@@ -37,7 +49,10 @@
     "Name": "What can be done during Heat (unique)",
     "Description": "Some sword moves during Manji Dragonfly are powered up",
     "Properties": "",
-    "Comment": "During Manji Dragonfly {1}, during Manji Dragonfly {f,1+2}"
+    "Comment": "During Manji Dragonfly {1}, during Manji Dragonfly {f,1+2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 27,
+    "Length": 5
   },
   {
     "Id": 6,
@@ -45,7 +60,10 @@
     "Name": "Heat Burst",
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
-    "Comment": "Partially uses remaining Heat time, 2+3,b,b to cancel attack"
+    "Comment": "Partially uses remaining Heat time, 2+3,b,b to cancel attack",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 34,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -53,7 +71,10 @@
     "Name": "Enma's Flame",
     "Description": "{3,1}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, shift to Manji Dragonfly (does not shift when using Heat Dash), power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, shift to Manji Dragonfly (does not shift when using Heat Dash), power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 39,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -61,7 +82,10 @@
     "Name": "Kuzuryu",
     "Description": "{f,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Mutou no Kiwami or Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Power up during Mutou no Kiwami or Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 44,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -69,7 +93,10 @@
     "Name": "Oma Kugiuchi",
     "Description": "{b,2,2}",
     "Properties": "Heat Engager",
-    "Comment": "{b,2,n,1+2} to shift to Kincho"
+    "Comment": "{b,2,n,1+2} to shift to Kincho",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 49,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -77,7 +104,10 @@
     "Name": "Ganto",
     "Description": "During Kincho ({1+2}, etc.) {f,2}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 54,
+    "Length": 3
   },
   {
     "Id": 11,
@@ -85,7 +115,10 @@
     "Name": "Dragonfly Twister",
     "Description": "During Manji Dragonfly ({u,1+2}, etc.) {4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 59,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -93,7 +126,10 @@
     "Name": "Divine Sword Kagekiyo",
     "Description": "During Heat {2+3}",
     "Properties": "",
-    "Comment": "Heat Smash, throw on hit, recover health on hit, on block {2+3,u-hold} to shift to Manji Dragonfly"
+    "Comment": "Heat Smash, throw on hit, recover health on hit, on block {2+3,u-hold} to shift to Manji Dragonfly",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 64,
+    "Length": 4
   },
   {
     "Id": 13,
@@ -101,7 +137,10 @@
     "Name": "Trailokya Pilgrimage",
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
-    "Comment": "Rage Art, erases opponent's recoverable health on hit"
+    "Comment": "Rage Art, erases opponent's recoverable health on hit",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 70,
+    "Length": 14
   },
   {
     "Id": 14,
@@ -109,7 +148,10 @@
     "Name": "Naguri Kabuto Wari",
     "Description": "{1,1}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 86,
+    "Length": 2
   },
   {
     "Id": 15,
@@ -117,7 +159,10 @@
     "Name": "Seiken Douharai",
     "Description": "{2,1}",
     "Properties": "",
-    "Comment": "Becomes Karakuri Uzumaki during Mutou no Kiwami, {2,1,b-hold} to cancel"
+    "Comment": "Becomes Karakuri Uzumaki during Mutou no Kiwami, {2,1,b-hold} to cancel",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 90,
+    "Length": 2
   },
   {
     "Id": 16,
@@ -125,7 +170,10 @@
     "Name": "Mushibami",
     "Description": "{2,2}",
     "Properties": "Tornado",
-    "Comment": "Shift to Mutou no Kiwami on hit or block, {2,2,1+2} to shift to Kincho"
+    "Comment": "Shift to Mutou no Kiwami on hit or block, {2,2,1+2} to shift to Kincho",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 94,
+    "Length": 2
   },
   {
     "Id": 17,
@@ -133,7 +181,10 @@
     "Name": "PK Combo",
     "Description": "{2,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 98,
+    "Length": 2
   },
   {
     "Id": 18,
@@ -141,7 +192,10 @@
     "Name": "PDK Combo",
     "Description": "{2,d,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 102,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -149,7 +203,10 @@
     "Name": "Enma's Flame",
     "Description": "{3,1}",
     "Properties": "Heat Engager",
-    "Comment": "Chip damage on block, shift to Manji Dragonfly (does not shift when using Heat Dash), power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, shift to Manji Dragonfly (does not shift when using Heat Dash), power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 106,
+    "Length": 3
   },
   {
     "Id": 20,
@@ -157,7 +214,10 @@
     "Name": "Enma's Cleansing Sword",
     "Description": "{3,2,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 111,
+    "Length": 3
   },
   {
     "Id": 21,
@@ -165,7 +225,10 @@
     "Name": "Tobi Ushiwaka",
     "Description": "{LB,3,4,RB}",
     "Properties": "",
-    "Comment": "{LB,3,4,RB,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)"
+    "Comment": "{LB,3,4,RB,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 116,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -173,7 +236,10 @@
     "Name": "Kangaroo Kick",
     "Description": "{LB,4,3,RB}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 120,
+    "Length": 3
   },
   {
     "Id": 23,
@@ -181,7 +247,10 @@
     "Name": "Wheel of Arrows > Sword Stab",
     "Description": "{4,4,2,2,1}",
     "Properties": "",
-    "Comment": "{4,4,2,2,LB,1,1,RB} to shift to Sword Poke Windmill"
+    "Comment": "{4,4,2,2,LB,1,1,RB} to shift to Sword Poke Windmill",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 125,
+    "Length": 5
   },
   {
     "Id": 24,
@@ -189,7 +258,10 @@
     "Name": "Triple Roundhouse Combo",
     "Description": "{4,4,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 132,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -197,7 +269,10 @@
     "Name": "Kincho",
     "Description": "{1+2}",
     "Properties": "",
-    "Comment": "Or while crouching {1+2}, to shift to Kincho, {1+2,f-hold} to move forward, {1+2,d-hold} to shift to crouching state, has strong attack reversal effect"
+    "Comment": "Or while crouching {1+2}, to shift to Kincho, {1+2,f-hold} to move forward, {1+2,d-hold} to shift to crouching state, has strong attack reversal effect",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 137,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -205,7 +280,10 @@
     "Name": "Meditation",
     "Description": "{3+4}",
     "Properties": "",
-    "Comment": "Or {b,3+4} or back facing opponent {3+4}, shift to Meditation, regain recoverable health, {1+3} or {2+4} to shift to back throw, {3+4} to face backward"
+    "Comment": "Or {b,3+4} or back facing opponent {3+4}, shift to Meditation, regain recoverable health, {1+3} or {2+4} to shift to back throw, {3+4} to face backward",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 141,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -213,7 +291,10 @@
     "Name": "Soul Stealer",
     "Description": "{1+4}",
     "Properties": "",
-    "Comment": "Or while crouching {1+4}, power up during Mutou no Kiwami or during Heat (increased chip damage on block, recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Or while crouching {1+4}, power up during Mutou no Kiwami or during Heat (increased chip damage on block, recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 145,
+    "Length": 1
   },
   {
     "Id": 28,
@@ -221,7 +302,10 @@
     "Name": "Spirit Shield",
     "Description": "{1+2+3}",
     "Properties": "",
-    "Comment": "Power up during Mutou no Kiwami"
+    "Comment": "Power up during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 148,
+    "Length": 2
   },
   {
     "Id": 29,
@@ -229,7 +313,10 @@
     "Name": "Manji Backfist Shredder",
     "Description": "{f,2,1}",
     "Properties": "Tornado",
-    "Comment": "Or back facing opponent {2,1}"
+    "Comment": "Or back facing opponent {2,1}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 152,
+    "Length": 2
   },
   {
     "Id": 30,
@@ -237,7 +324,10 @@
     "Name": "Backfist > Stone Fist",
     "Description": "{f,2,db,2,2,2,2,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 156,
+    "Length": 3
   },
   {
     "Id": 31,
@@ -245,7 +335,10 @@
     "Name": "Oni Kick",
     "Description": "{f,3}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 161,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -253,7 +346,10 @@
     "Name": "Zig Zag",
     "Description": "{f,3,4}",
     "Properties": "Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 165,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -261,7 +357,10 @@
     "Name": "Toita Daoshi",
     "Description": "{f,4}",
     "Properties": "Power Crush",
-    "Comment": "Absorb an attack to power up and deal more chip damage on block"
+    "Comment": "Absorb an attack to power up and deal more chip damage on block",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 169,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -269,7 +368,10 @@
     "Name": "Kuzuryu",
     "Description": "{f,1+2}",
     "Properties": "Heat Engager",
-    "Comment": "Power up during Mutou no Kiwami or Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Power up during Mutou no Kiwami or Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 173,
+    "Length": 3
   },
   {
     "Id": 35,
@@ -277,7 +379,10 @@
     "Name": "Kamikaze",
     "Description": "{f,3+4}",
     "Properties": "",
-    "Comment": "{f,3+4,b-hold} to cancel and face backward, to shift to Running Flea on hit (cannot shift during Mutou no Kiwami)"
+    "Comment": "{f,3+4,b-hold} to cancel and face backward, to shift to Running Flea on hit (cannot shift during Mutou no Kiwami)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 178,
+    "Length": 3
   },
   {
     "Id": 36,
@@ -285,7 +390,10 @@
     "Name": "Tsuka Atemi Shredder",
     "Description": "{df,1,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 183,
+    "Length": 2
   },
   {
     "Id": 37,
@@ -293,7 +401,10 @@
     "Name": "Tsuka Atemi > Slap U Crazy",
     "Description": "{df,1,2,db,2,2,2,2,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 187,
+    "Length": 3
   },
   {
     "Id": 38,
@@ -301,7 +412,10 @@
     "Name": "Autumn Leaves",
     "Description": "{df,1,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 192,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -309,7 +423,10 @@
     "Name": "Basic Uppercut",
     "Description": "{df,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 196,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -317,7 +434,10 @@
     "Name": "Wood Cutter",
     "Description": "{df,3,1}",
     "Properties": "",
-    "Comment": "Chip damage, hold at last step to Death Slash, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage, hold at last step to Death Slash, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 200,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -325,7 +445,10 @@
     "Name": "Gehosen",
     "Description": "{df,1+4}",
     "Properties": "",
-    "Comment": "{df,1+4,1+2} to shift to Kincho, {f,d,df,1} to power up"
+    "Comment": "{df,1+4,1+2} to shift to Kincho, {f,d,df,1} to power up",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 204,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -333,7 +456,10 @@
     "Name": "Flashing Steel",
     "Description": "{df,2+3}",
     "Properties": "",
-    "Comment": "{f,d,df,2} to power up"
+    "Comment": "{f,d,df,2} to power up",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 208,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -341,7 +467,10 @@
     "Name": "Quick Slash",
     "Description": "{d,1}",
     "Properties": "",
-    "Comment": "Chip damage, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 212,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -349,7 +478,10 @@
     "Name": "Death Slash",
     "Description": "{d,1} hold, then {n}",
     "Properties": "",
-    "Comment": "{d,1} hold, then {b-hold} to cancel"
+    "Comment": "{d,1} hold, then {b-hold} to cancel",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 216,
+    "Length": 5
   },
   {
     "Id": 45,
@@ -357,7 +489,10 @@
     "Name": "Heshikirigari",
     "Description": "{d,2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 223,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -365,7 +500,10 @@
     "Name": "Heshikiribarai",
     "Description": "{d,2,2,1}",
     "Properties": "",
-    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami"
+    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 227,
+    "Length": 3
   },
   {
     "Id": 47,
@@ -373,7 +511,10 @@
     "Name": "Heshikiriseibatsu",
     "Description": "{d,2,2,2}",
     "Properties": "Tornado",
-    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami"
+    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 232,
+    "Length": 3
   },
   {
     "Id": 48,
@@ -381,7 +522,10 @@
     "Name": "Heshikirinagi",
     "Description": "{d,2,2,d,1}",
     "Properties": "",
-    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami"
+    "Comment": "{d,2,2,b-hold} to shift to Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 237,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -389,7 +533,10 @@
     "Name": "Flea",
     "Description": "{d,1+2}",
     "Properties": "",
-    "Comment": "Shift to Flea, shift to Indian Stance during Mutou no Kiwami"
+    "Comment": "Shift to Flea, shift to Indian Stance during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 241,
+    "Length": 1
   },
   {
     "Id": 50,
@@ -397,7 +544,10 @@
     "Name": "Indian Stance",
     "Description": "{d,3+4}",
     "Properties": "",
-    "Comment": "Shift to Indian Stance"
+    "Comment": "Shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 244,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -405,7 +555,10 @@
     "Name": "Harakiri",
     "Description": "{d,1+4}",
     "Properties": "",
-    "Comment": "Deals self-damage"
+    "Comment": "Deals self-damage",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 249,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -413,7 +566,10 @@
     "Name": "Harakiri > Manji Blood Dance",
     "Description": "{d,1+4,b-hold,1,1,1,1,1}",
     "Properties": "",
-    "Comment": "Deals self-damage"
+    "Comment": "Deals self-damage",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 253,
+    "Length": 4
   },
   {
     "Id": 53,
@@ -421,7 +577,10 @@
     "Name": "Nebular Burst",
     "Description": "{db,1,2}",
     "Properties": "",
-    "Comment": "Cannot use during Mutou no Kiwami"
+    "Comment": "Cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 259,
+    "Length": 2
   },
   {
     "Id": 54,
@@ -429,7 +588,10 @@
     "Name": "Stone Fists",
     "Description": "{db,2,2,2,2,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 263,
+    "Length": 2
   },
   {
     "Id": 55,
@@ -437,7 +599,10 @@
     "Name": "Manji Spin Low Kicks",
     "Description": "{db,3,3,3,3,3,3}",
     "Properties": "",
-    "Comment": "During second to fifth hit {d,3+4} to shift to Indian Stance"
+    "Comment": "During second to fifth hit {d,3+4} to shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 267,
+    "Length": 3
   },
   {
     "Id": 56,
@@ -445,7 +610,10 @@
     "Name": "Manji Spin Low Kicks Front Kick",
     "Description": "During second to fifth hit of Manji Spin Low Kicks {4}",
     "Properties": "",
-    "Comment": "{4,1+2} to shift to Kincho, {4,b-hold} to shift to Mutou no Kiwami"
+    "Comment": "{4,1+2} to shift to Kincho, {4,b-hold} to shift to Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 272,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -453,7 +621,10 @@
     "Name": "Nozuchi Fumi",
     "Description": "{db,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 276,
+    "Length": 1
   },
   {
     "Id": 58,
@@ -461,7 +632,10 @@
     "Name": "Bad Stomach",
     "Description": "{db-hold,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 279,
+    "Length": 3
   },
   {
     "Id": 59,
@@ -469,7 +643,10 @@
     "Name": "Poison Breath",
     "Description": "During Bad Stomach {1}",
     "Properties": "",
-    "Comment": "Or during Bad Stomach {2}"
+    "Comment": "Or during Bad Stomach {2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 284,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -477,7 +654,10 @@
     "Name": "Backflip Kick",
     "Description": "During Bad Stomach {3}",
     "Properties": "",
-    "Comment": "Or during Bad Stomach {4}"
+    "Comment": "Or during Bad Stomach {4}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 288,
+    "Length": 2
   },
   {
     "Id": 61,
@@ -485,7 +665,10 @@
     "Name": "Slap U Silly",
     "Description": "{b,1,1,1,1,1,1}",
     "Properties": "",
-    "Comment": "During first to third {db,3} to shift to Manji Spin Low Kicks"
+    "Comment": "During first to third {db,3} to shift to Manji Spin Low Kicks",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 292,
+    "Length": 4
   },
   {
     "Id": 62,
@@ -493,7 +676,10 @@
     "Name": "Oma Gehosen",
     "Description": "{b,2,1}",
     "Properties": "",
-    "Comment": "{b,2,b,1+2} to shift to Kincho, {b,2,1,1+2} to shift to Kincho"
+    "Comment": "{b,2,b,1+2} to shift to Kincho, {b,2,1,1+2} to shift to Kincho",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 298,
+    "Length": 2
   },
   {
     "Id": 63,
@@ -501,7 +687,10 @@
     "Name": "Oma Kugiuchi",
     "Description": "{b,2,2}",
     "Properties": "Heat Engager",
-    "Comment": "{b,2,n,1+2} to shift to Kincho"
+    "Comment": "{b,2,n,1+2} to shift to Kincho",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 302,
+    "Length": 3
   },
   {
     "Id": 64,
@@ -509,7 +698,10 @@
     "Name": "Spinning Evade",
     "Description": "{b-hold,3,3,3,3,3,3} (or {b-hold,4,4,4,4,4,4})",
     "Properties": "",
-    "Comment": "Or during Slap U Silly, {b,3} (or {b,4}) or while rising {1,1,b,3} (or {b,4}), deals self-damage"
+    "Comment": "Or during Slap U Silly, {b,3} (or {b,4}) or while rising {1,1,b,3} (or {b,4}), deals self-damage",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 307,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -517,7 +709,10 @@
     "Name": "Mutou no Kiwami",
     "Description": "{b,1+2}",
     "Properties": "",
-    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami"
+    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 311,
+    "Length": 1
   },
   {
     "Id": 66,
@@ -525,7 +720,10 @@
     "Name": "Cleansing Sword Yoshimitsu",
     "Description": "{ub,1+2}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 314,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -533,7 +731,10 @@
     "Name": "Sword Stab",
     "Description": "{ub,1+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 318,
+    "Length": 3
   },
   {
     "Id": 68,
@@ -541,7 +742,10 @@
     "Name": "Face Splitter",
     "Description": "{ub,1+3,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 323,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -549,7 +753,10 @@
     "Name": "Sword Poke Windmill",
     "Description": "{ub,1+3,n,1}",
     "Properties": "",
-    "Comment": "{ub,1+3,n,1,b-hold} to shorten"
+    "Comment": "{ub,1+3,n,1,b-hold} to shorten",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 327,
+    "Length": 3
   },
   {
     "Id": 70,
@@ -557,7 +764,10 @@
     "Name": "Manji Dragonfly",
     "Description": "{u,1+2}",
     "Properties": "",
-    "Comment": "Shift to Manji Dragonfly, becomes Ishiusu Tsubushi during Mutou no Kiwami"
+    "Comment": "Shift to Manji Dragonfly, becomes Ishiusu Tsubushi during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 332,
+    "Length": 1
   },
   {
     "Id": 71,
@@ -565,7 +775,10 @@
     "Name": "Guillotine Crow Kick",
     "Description": "{u,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 335,
+    "Length": 2
   },
   {
     "Id": 72,
@@ -573,7 +786,10 @@
     "Name": "Helmet Strike",
     "Description": "{uf,1}",
     "Properties": "",
-    "Comment": "Or {ub,1} or {u,1}"
+    "Comment": "Or {ub,1} or {u,1}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 339,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -581,7 +797,10 @@
     "Name": "Kurama Itto",
     "Description": "{uf,2}",
     "Properties": "",
-    "Comment": "{uf,2,d-hold} to cancel and shift to crouching state"
+    "Comment": "{uf,2,d-hold} to cancel and shift to crouching state",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 343,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -589,7 +808,10 @@
     "Name": "Rising Knee",
     "Description": "{uf,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 347,
+    "Length": 2
   },
   {
     "Id": 75,
@@ -597,7 +819,10 @@
     "Name": "Avoiding the Puddle",
     "Description": "{uf,4}",
     "Properties": "Homing",
-    "Comment": "Or {ub,4} or {u,4}"
+    "Comment": "Or {ub,4} or {u,4}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 351,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -605,7 +830,10 @@
     "Name": "Poison Wind",
     "Description": "{uf,3+4}",
     "Properties": "",
-    "Comment": "{uf,3+4,1+2} to cancel and shift to Manji Dragonfly, {uf,3+4,d,1+2} to shift to Flea, {uf,3+4,d,3+4} to shift to Indian Stance"
+    "Comment": "{uf,3+4,1+2} to cancel and shift to Manji Dragonfly, {uf,3+4,d,1+2} to shift to Flea, {uf,3+4,d,3+4} to shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 355,
+    "Length": 2
   },
   {
     "Id": 77,
@@ -613,7 +841,10 @@
     "Name": "Poison Wind Gold Strike",
     "Description": "{uf,3+4,1,4,1}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time), hold at last step to shift to Death Slash"
+    "Comment": "Chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time), hold at last step to shift to Death Slash",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 359,
+    "Length": 4
   },
   {
     "Id": 78,
@@ -621,7 +852,10 @@
     "Name": "Poison Wind Steel Smash",
     "Description": "{uf,3+4,1,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 365,
+    "Length": 3
   },
   {
     "Id": 79,
@@ -629,7 +863,10 @@
     "Name": "Poison Wind Eclipse Kick",
     "Description": "{uf,3+4,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 370,
+    "Length": 2
   },
   {
     "Id": 80,
@@ -637,7 +874,10 @@
     "Name": "Poison Wind > Kangaroo Kick",
     "Description": "{uf,3+4,3+4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 374,
+    "Length": 3
   },
   {
     "Id": 81,
@@ -645,7 +885,10 @@
     "Name": "Death Copter",
     "Description": "{uf,1+3}",
     "Properties": "",
-    "Comment": "{uf,1+3,1+2} to cancel and shift to Manji Dragonfly, becomes Safe Heron Jump during Mutou no Kiwami"
+    "Comment": "{uf,1+3,1+2} to cancel and shift to Manji Dragonfly, becomes Safe Heron Jump during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 379,
+    "Length": 3
   },
   {
     "Id": 82,
@@ -653,7 +896,10 @@
     "Name": "Death Copter Slice",
     "Description": "{uf,1+3,d}",
     "Properties": "",
-    "Comment": "Chip damage on block, becomes Safe Heron Jump during Mutou no Kiwami"
+    "Comment": "Chip damage on block, becomes Safe Heron Jump during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 384,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -661,7 +907,10 @@
     "Name": "Death Copter Trick",
     "Description": "{uf,1+3,b}",
     "Properties": "",
-    "Comment": "{uf,1+3,b,1+2} to cancel and shift to Manji Dragonfly, becomes Safe Heron Jump during Mutou no Kiwami"
+    "Comment": "{uf,1+3,b,1+2} to cancel and shift to Manji Dragonfly, becomes Safe Heron Jump during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 388,
+    "Length": 3
   },
   {
     "Id": 84,
@@ -669,7 +918,10 @@
     "Name": "Sword Smash",
     "Description": "{f,f-hold,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 393,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -677,7 +929,10 @@
     "Name": "Yomi Kakenuke",
     "Description": "{f,f-hold,2} during hit from front {2}",
     "Properties": "",
-    "Comment": "{f,f-hold,2} during hit from the front {2,d,3+4} to shift to Indian Stance"
+    "Comment": "{f,f-hold,2} during hit from the front {2,d,3+4} to shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 397,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -685,7 +940,10 @@
     "Name": "Iwatsubute",
     "Description": "{f,f-hold,3}",
     "Properties": "",
-    "Comment": "{f,f-hold,3,1+2} to shift to Kincho"
+    "Comment": "{f,f-hold,3,1+2} to shift to Kincho",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 401,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -693,7 +951,10 @@
     "Name": "Fubuki",
     "Description": "{f,f-hold,4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 405,
+    "Length": 2
   },
   {
     "Id": 88,
@@ -701,7 +962,10 @@
     "Name": "Solar Kick",
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 409,
+    "Length": 1
   },
   {
     "Id": 89,
@@ -709,7 +973,10 @@
     "Name": "Reverse Cartwheel",
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 412,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -717,7 +984,10 @@
     "Name": "Solar Kick Shark Attack",
     "Description": "{f,f-hold,3+4,1+2,3+4}",
     "Properties": "Tornado",
-    "Comment": "Shift to Indian Stance when hit into a wall (deals self-damage)"
+    "Comment": "Shift to Indian Stance when hit into a wall (deals self-damage)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 416,
+    "Length": 4
   },
   {
     "Id": 91,
@@ -725,7 +995,10 @@
     "Name": "Suicide",
     "Description": "{f,f-hold,1+4}",
     "Properties": "",
-    "Comment": "Deals self-damage, cannot use during Mutou no Kiwami"
+    "Comment": "Deals self-damage, cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 422,
+    "Length": 2
   },
   {
     "Id": 92,
@@ -733,7 +1006,10 @@
     "Name": "Confusion",
     "Description": "{f,f-hold,1+4,n}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 426,
+    "Length": 1
   },
   {
     "Id": 93,
@@ -741,7 +1017,10 @@
     "Name": "Double Suicide",
     "Description": "{f,f-hold,1+4,f-hold}",
     "Properties": "",
-    "Comment": "Deals self-damage, cannot use during Mutou no Kiwami"
+    "Comment": "Deals self-damage, cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 429,
+    "Length": 5
   },
   {
     "Id": 94,
@@ -749,7 +1028,10 @@
     "Name": "Thunder Blade",
     "Description": "{b,b-hold,1+4}",
     "Properties": "",
-    "Comment": "{b,b-hold,1+4,b-hold} to shift to Soul Stealer"
+    "Comment": "{b,b-hold,1+4,b-hold} to shift to Soul Stealer",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 436,
+    "Length": 3
   },
   {
     "Id": 95,
@@ -757,7 +1039,10 @@
     "Name": "Moonsault Slayer",
     "Description": "{d,df,f,1}",
     "Properties": "",
-    "Comment": "Chip damage on block"
+    "Comment": "Chip damage on block",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 441,
+    "Length": 3
   },
   {
     "Id": 96,
@@ -765,7 +1050,10 @@
     "Name": "Manji Kick",
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
-    "Comment": "Chip damage on block, {f,f,f-hold,3,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)"
+    "Comment": "Chip damage on block, {f,f,f-hold,3,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 446,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -773,7 +1061,10 @@
     "Name": "10 Hit Combo 1",
     "Description": "{1,2,1,4,4,4,1,1,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 450,
+    "Length": 6
   },
   {
     "Id": 98,
@@ -781,7 +1072,10 @@
     "Name": "10 Hit Combo 2",
     "Description": "{1,2,1,4,2,2,2,4,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 458,
+    "Length": 6
   },
   {
     "Id": 99,
@@ -789,7 +1083,10 @@
     "Name": "Ki Charge",
     "Description": "{1+2+3+4}",
     "Properties": "",
-    "Comment": "Cannot block when it is still in effect / Automatic counter hit"
+    "Comment": "Cannot block when it is still in effect / Automatic counter hit",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 466,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -797,7 +1094,10 @@
     "Name": "Door Knocker",
     "Description": "While rising {1,1,1,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 470,
+    "Length": 3
   },
   {
     "Id": 101,
@@ -805,7 +1105,10 @@
     "Name": "Door Knocker Shredder",
     "Description": "While rising {1,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 475,
+    "Length": 3
   },
   {
     "Id": 102,
@@ -813,7 +1116,10 @@
     "Name": "Door Knocker > Back Knuckle Slap U Crazy",
     "Description": "While rising {1,2,db,2,2,2,2,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 480,
+    "Length": 4
   },
   {
     "Id": 103,
@@ -821,7 +1127,10 @@
     "Name": "Scowling Moon God",
     "Description": "While rising {2,1}",
     "Properties": "",
-    "Comment": "Shift to Manji Dragonfly, becomes Scowling Aratama during Mutou no Kiwami"
+    "Comment": "Shift to Manji Dragonfly, becomes Scowling Aratama during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 486,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -829,7 +1138,10 @@
     "Name": "Kimon Matagi",
     "Description": "While rising {3,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 491,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -837,7 +1149,10 @@
     "Name": "Toe Smash",
     "Description": "While rising {4}",
     "Properties": "",
-    "Comment": "While rising {4,1+2} to shift to Kincho, while rising {4,b-hold} to shift to Mutou no Kiwami"
+    "Comment": "While rising {4,1+2} to shift to Kincho, while rising {4,b-hold} to shift to Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 496,
+    "Length": 2
   },
   {
     "Id": 106,
@@ -845,7 +1160,10 @@
     "Name": "Knee Cap",
     "Description": "While crouching {df,4}",
     "Properties": "Homing",
-    "Comment": "While crouching {df,4,d-hold,1+2} to shift to Indian Stance"
+    "Comment": "While crouching {df,4,d-hold,1+2} to shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 500,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -853,7 +1171,10 @@
     "Name": "Samurai Cutter",
     "Description": "While crouching {df-hold,1}",
     "Properties": "",
-    "Comment": "Or while crouching {db,b,2}"
+    "Comment": "Or while crouching {db,b,2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 504,
+    "Length": 3
   },
   {
     "Id": 108,
@@ -861,7 +1182,10 @@
     "Name": "Inner Palm",
     "Description": "During sidestep {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 509,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -869,7 +1193,10 @@
     "Name": "Shrine",
     "Description": "During sidestep {2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 513,
+    "Length": 2
   },
   {
     "Id": 110,
@@ -877,7 +1204,10 @@
     "Name": "Indian Stance Healing",
     "Description": "While down and facing up {d,3+4}",
     "Properties": "",
-    "Comment": "Shift to Indian Stance"
+    "Comment": "Shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 517,
+    "Length": 2
   },
   {
     "Id": 111,
@@ -885,7 +1215,10 @@
     "Name": "Aratama",
     "Description": "Back facing opponent {1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 521,
+    "Length": 2
   },
   {
     "Id": 112,
@@ -893,7 +1226,10 @@
     "Name": "Magatama",
     "Description": "Back facing opponent {1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 525,
+    "Length": 2
   },
   {
     "Id": 113,
@@ -901,7 +1237,10 @@
     "Name": "Perilous Spirit",
     "Description": "Back facing opponent {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 529,
+    "Length": 1
   },
   {
     "Id": 114,
@@ -909,7 +1248,10 @@
     "Name": "Shisetsu Genman",
     "Description": "Back facing opponent {d,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 532,
+    "Length": 2
   },
   {
     "Id": 115,
@@ -917,7 +1259,10 @@
     "Name": "Mutou no Kiwami",
     "Description": "Back facing opponent {b,1+2}",
     "Properties": "",
-    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami"
+    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 536,
+    "Length": 1
   },
   {
     "Id": 116,
@@ -925,7 +1270,10 @@
     "Name": "Kincho",
     "Description": "{1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Kincho. {f-hold} to move forward, {d-hold} to shift to crouching state, has strong attack reversal effect"
+    "Comment": "Shift to Kincho. {f-hold} to move forward, {d-hold} to shift to crouching state, has strong attack reversal effect",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 539,
+    "Length": 2
   },
   {
     "Id": 117,
@@ -933,7 +1281,10 @@
     "Name": "Doushi Kiri",
     "Description": "During Kincho {1,1}",
     "Properties": "",
-    "Comment": "Power up during Mutou no Kiwami or during Heat (add chip damage on block, recover health on hit, partially uses remaining Heat time)"
+    "Comment": "Power up during Mutou no Kiwami or during Heat (add chip damage on block, recover health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 543,
+    "Length": 2
   },
   {
     "Id": 118,
@@ -941,7 +1292,10 @@
     "Name": "Tenshu Kuzushi",
     "Description": "During Kincho {2,1+2}",
     "Properties": "",
-    "Comment": "Can hold, chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Can hold, chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 547,
+    "Length": 3
   },
   {
     "Id": 119,
@@ -949,7 +1303,10 @@
     "Name": "Shibakari",
     "Description": "During Kincho {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 552,
+    "Length": 2
   },
   {
     "Id": 120,
@@ -957,7 +1314,10 @@
     "Name": "Whirlwind",
     "Description": "During Kincho {4}",
     "Properties": "Homing",
-    "Comment": "Or during sidestep {4}, during Kincho {4,1+2} to shift to Kincho, during Kincho {4,3+4} to shift to Meditation"
+    "Comment": "Or during sidestep {4}, during Kincho {4,1+2} to shift to Kincho, during Kincho {4,3+4} to shift to Meditation",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 556,
+    "Length": 2
   },
   {
     "Id": 121,
@@ -965,7 +1325,10 @@
     "Name": "Ashura Blade",
     "Description": "During Kincho {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 560,
+    "Length": 2
   },
   {
     "Id": 122,
@@ -973,7 +1336,10 @@
     "Name": "Soul Stealer",
     "Description": "During Kincho {1+4}",
     "Properties": "",
-    "Comment": "Power up during Mutou no Kiwami or during Heat (add chip damage on block, recover health on hit, partially uses remaining Heat time)"
+    "Comment": "Power up during Mutou no Kiwami or during Heat (add chip damage on block, recover health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 564,
+    "Length": 2
   },
   {
     "Id": 123,
@@ -981,7 +1347,10 @@
     "Name": "Ishigaki Kuzushi",
     "Description": "During Kincho {d,1}",
     "Properties": "",
-    "Comment": "During Kincho, {d,1,db-hold} to cancel and shift to crouching state"
+    "Comment": "During Kincho, {d,1,db-hold} to cancel and shift to crouching state",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 568,
+    "Length": 2
   },
   {
     "Id": 124,
@@ -989,7 +1358,10 @@
     "Name": "Submission Chakram",
     "Description": "During Kincho {f,1}",
     "Properties": "",
-    "Comment": "Can hold, chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Can hold, chip damage on block, power up during Mutou no Kiwami or during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 572,
+    "Length": 2
   },
   {
     "Id": 125,
@@ -997,7 +1369,10 @@
     "Name": "Ganto",
     "Description": "During Kincho {f,2}",
     "Properties": "Heat Engager, Homing",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 576,
+    "Length": 3
   },
   {
     "Id": 126,
@@ -1005,7 +1380,10 @@
     "Name": "Ikaruga",
     "Description": "During Kincho {b,2,1}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 581,
+    "Length": 3
   },
   {
     "Id": 127,
@@ -1013,7 +1391,10 @@
     "Name": "Mumyo Juji Ken",
     "Description": "During Kincho {b,1+2}",
     "Properties": "",
-    "Comment": "Cannot use during Mutou no Kiwami"
+    "Comment": "Cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 586,
+    "Length": 3
   },
   {
     "Id": 128,
@@ -1021,7 +1402,10 @@
     "Name": "Kincho Manji Dragonfly",
     "Description": "During Kincho {u,1+2}",
     "Properties": "",
-    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami"
+    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 591,
+    "Length": 2
   },
   {
     "Id": 129,
@@ -1029,7 +1413,10 @@
     "Name": "Meditation",
     "Description": "{3+4}, etc.",
     "Properties": "",
-    "Comment": "Or {b,3+4} or back facing opponent {3+4}, shift to Meditation, regain recoverable health, {1+3} or {2+4} to shift to back throw, {3+4} to face backward"
+    "Comment": "Or {b,3+4} or back facing opponent {3+4}, shift to Meditation, regain recoverable health, {1+3} or {2+4} to shift to back throw, {3+4} to face backward",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 595,
+    "Length": 2
   },
   {
     "Id": 130,
@@ -1037,7 +1424,10 @@
     "Name": "Back Handspring",
     "Description": "During Meditation {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 599,
+    "Length": 3
   },
   {
     "Id": 131,
@@ -1045,7 +1435,10 @@
     "Name": "Meditation Healing",
     "Description": "During Meditation {1+2}",
     "Properties": "",
-    "Comment": "Recover health"
+    "Comment": "Recover health",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 604,
+    "Length": 3
   },
   {
     "Id": 132,
@@ -1053,7 +1446,10 @@
     "Name": "Flea",
     "Description": "{d,1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Flea, {db} to cancel, cannot use during Mutou no Kiwami"
+    "Comment": "Shift to Flea, {db} to cancel, cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 609,
+    "Length": 1
   },
   {
     "Id": 133,
@@ -1061,7 +1457,10 @@
     "Name": "Flea Roll",
     "Description": "During Flea {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 612,
+    "Length": 2
   },
   {
     "Id": 134,
@@ -1069,7 +1468,10 @@
     "Name": "Flea > Sliding Headbutt",
     "Description": "During Flea {2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 616,
+    "Length": 3
   },
   {
     "Id": 135,
@@ -1077,7 +1479,10 @@
     "Name": "Flea Dance",
     "Description": "During Flea {3} (or {4})",
     "Properties": "",
-    "Comment": "Shift to Flea"
+    "Comment": "Shift to Flea",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 621,
+    "Length": 1
   },
   {
     "Id": 136,
@@ -1085,7 +1490,10 @@
     "Name": "Skull Splitter",
     "Description": "During Flea {1+2}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 624,
+    "Length": 2
   },
   {
     "Id": 137,
@@ -1093,7 +1501,10 @@
     "Name": "Flea > Kangaroo Kick",
     "Description": "During Flea {3+4}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 628,
+    "Length": 3
   },
   {
     "Id": 138,
@@ -1101,7 +1512,10 @@
     "Name": "Running Flea",
     "Description": "During Flea {f,f}",
     "Properties": "",
-    "Comment": "Shift to Flea, shift to Indian Stance when hit into a wall (deals self-damage)"
+    "Comment": "Shift to Flea, shift to Indian Stance when hit into a wall (deals self-damage)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 633,
+    "Length": 2
   },
   {
     "Id": 139,
@@ -1109,7 +1523,10 @@
     "Name": "Flea Digger",
     "Description": "During Flea {d}",
     "Properties": "",
-    "Comment": "Shift to Flea"
+    "Comment": "Shift to Flea",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 637,
+    "Length": 2
   },
   {
     "Id": 140,
@@ -1117,7 +1534,10 @@
     "Name": "Flea > Indian Stance",
     "Description": "During Flea {d,3+4}",
     "Properties": "",
-    "Comment": "Shift to Indian Stance"
+    "Comment": "Shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 641,
+    "Length": 2
   },
   {
     "Id": 141,
@@ -1125,7 +1545,10 @@
     "Name": "Flea > Manji Dragonfly",
     "Description": "During Flea {u,1+2}",
     "Properties": "",
-    "Comment": "Shift to Manji Dragonfly"
+    "Comment": "Shift to Manji Dragonfly",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 645,
+    "Length": 2
   },
   {
     "Id": 142,
@@ -1133,7 +1556,10 @@
     "Name": "Flea > Dragonfly Feint",
     "Description": "During Flea {u,3+4}",
     "Properties": "",
-    "Comment": "Side ukemi can be used"
+    "Comment": "Side ukemi can be used",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 649,
+    "Length": 3
   },
   {
     "Id": 143,
@@ -1141,7 +1567,10 @@
     "Name": "Jumping Flea",
     "Description": "During Flea {uf}",
     "Properties": "",
-    "Comment": "Or during Flea {ub} or during Flea {u}"
+    "Comment": "Or during Flea {ub} or during Flea {u}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 654,
+    "Length": 2
   },
   {
     "Id": 144,
@@ -1149,7 +1578,10 @@
     "Name": "Flea Step",
     "Description": "During Flea {f} (or {b})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 658,
+    "Length": 2
   },
   {
     "Id": 145,
@@ -1157,7 +1589,10 @@
     "Name": "Sakanobori",
     "Description": "During Flea Step {3}",
     "Properties": "",
-    "Comment": "Has clean hit effect, throw during front hit on ground"
+    "Comment": "Has clean hit effect, throw during front hit on ground",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 662,
+    "Length": 3
   },
   {
     "Id": 146,
@@ -1165,7 +1600,10 @@
     "Name": "Tsurubebi",
     "Description": "During Flea Step {4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 667,
+    "Length": 2
   },
   {
     "Id": 147,
@@ -1173,7 +1611,10 @@
     "Name": "Indian Stance",
     "Description": "{d,3+4}, etc.",
     "Properties": "",
-    "Comment": "Shift to Indian Stance"
+    "Comment": "Shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 671,
+    "Length": 2
   },
   {
     "Id": 148,
@@ -1181,7 +1622,10 @@
     "Name": "Indian Stance Healing",
     "Description": "{d,3+4,n}",
     "Properties": "",
-    "Comment": "Regain recoverable health"
+    "Comment": "Regain recoverable health",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 675,
+    "Length": 2
   },
   {
     "Id": 149,
@@ -1189,7 +1633,10 @@
     "Name": "Indian Stance Storm",
     "Description": "During Indian Stance Healing {1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 679,
+    "Length": 3
   },
   {
     "Id": 150,
@@ -1197,7 +1644,10 @@
     "Name": "Indian Stance Stone Fists",
     "Description": "During Indian Stance Healing {2,2,2,2,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 684,
+    "Length": 3
   },
   {
     "Id": 151,
@@ -1205,7 +1655,10 @@
     "Name": "Indian Stance Cannon",
     "Description": "During Indian Stance Healing {3,3+4}",
     "Properties": "Tornado",
-    "Comment": "Shift to Indian Stance when hit into a wall (deals self-damage)"
+    "Comment": "Shift to Indian Stance when hit into a wall (deals self-damage)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 689,
+    "Length": 4
   },
   {
     "Id": 152,
@@ -1213,7 +1666,10 @@
     "Name": "Indian Stance Knee Cap",
     "Description": "During Indian Stance Healing {4}",
     "Properties": "Homing",
-    "Comment": "During Indian Stance Healing {4,d-hold,3+4} to shift to Indian Stance"
+    "Comment": "During Indian Stance Healing {4,d-hold,3+4} to shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 695,
+    "Length": 2
   },
   {
     "Id": 153,
@@ -1221,7 +1677,10 @@
     "Name": "Indian Stance Flea",
     "Description": "During Indian Stance Healing {1+2}",
     "Properties": "",
-    "Comment": "Shift to Flea, cannot use during Mutou no Kiwami"
+    "Comment": "Shift to Flea, cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 699,
+    "Length": 2
   },
   {
     "Id": 154,
@@ -1229,7 +1688,10 @@
     "Name": "Indian Tobi Ushiwaka",
     "Description": "During Indian Stance Healing {3+4}",
     "Properties": "Homing",
-    "Comment": "During Indian Stance Healing {3+4,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)"
+    "Comment": "During Indian Stance Healing {3+4,u-hold} to shift to Manji Dragonfly (cannot shift during Mutou no Kiwami)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 703,
+    "Length": 2
   },
   {
     "Id": 155,
@@ -1237,7 +1699,10 @@
     "Name": "Indian Stance Vacuum Dance",
     "Description": "During Indian Stance Healing {b} (or {f})",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 707,
+    "Length": 2
   },
   {
     "Id": 156,
@@ -1245,7 +1710,10 @@
     "Name": "Indian Levitation",
     "Description": "During Indian Stance Healing {d-hold,3+4} hold",
     "Properties": "",
-    "Comment": "Can move while {3+4} holding {f-hold} (or {b-hold} or {d-hold} or {u-hold})"
+    "Comment": "Can move while {3+4} holding {f-hold} (or {b-hold} or {d-hold} or {u-hold})",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 711,
+    "Length": 2
   },
   {
     "Id": 157,
@@ -1253,7 +1721,10 @@
     "Name": "Indian Stance Manji Dragonfly",
     "Description": "During Indian Stance Healing {u,1+2}",
     "Properties": "",
-    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami"
+    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 715,
+    "Length": 2
   },
   {
     "Id": 158,
@@ -1261,7 +1732,10 @@
     "Name": "Mutou no Kiwami",
     "Description": "{b,1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami"
+    "Comment": "Shift to Mutou no Kiwami, some normal moves become unique moves during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 719,
+    "Length": 1
   },
   {
     "Id": 159,
@@ -1269,7 +1743,10 @@
     "Name": "Karakuri Uzumaki",
     "Description": "During Mutou no Kiwami {2,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 722,
+    "Length": 3
   },
   {
     "Id": 160,
@@ -1277,7 +1754,10 @@
     "Name": "Enma's Soul Blade",
     "Description": "During Mutou no Kiwami {3,2,1+2}",
     "Properties": "",
-    "Comment": "Or during Heat {3,2,1+2}, chip damage on block, has clean hit effect, recovers health on hit"
+    "Comment": "Or during Heat {3,2,1+2}, chip damage on block, has clean hit effect, recovers health on hit",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 727,
+    "Length": 4
   },
   {
     "Id": 161,
@@ -1285,7 +1765,10 @@
     "Name": "Soul Stealer",
     "Description": "During Mutou no Kiwami {1+4}",
     "Properties": "",
-    "Comment": "Or while crouching during Mutou no Kiwami {1+4}, increased chip damage on block, recovers health on hit"
+    "Comment": "Or while crouching during Mutou no Kiwami {1+4}, increased chip damage on block, recovers health on hit",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 733,
+    "Length": 3
   },
   {
     "Id": 162,
@@ -1293,7 +1776,10 @@
     "Name": "Indian Stance",
     "Description": "During Mutou no Kiwami {d,1+2}",
     "Properties": "",
-    "Comment": "Shift to Indian Stance"
+    "Comment": "Shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 738,
+    "Length": 2
   },
   {
     "Id": 163,
@@ -1301,7 +1787,10 @@
     "Name": "Unfinished Business",
     "Description": "During Mutou no Kiwami {d,1+4}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 742,
+    "Length": 2
   },
   {
     "Id": 164,
@@ -1309,7 +1798,10 @@
     "Name": "Manji Shagapan",
     "Description": "During Mutou no Kiwami {db,1}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 746,
+    "Length": 2
   },
   {
     "Id": 165,
@@ -1317,7 +1809,10 @@
     "Name": "Battou Kakugo",
     "Description": "During Mutou no Kiwami {b,1+2}",
     "Properties": "",
-    "Comment": "Remove Mutou no Kiwami"
+    "Comment": "Remove Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 750,
+    "Length": 2
   },
   {
     "Id": 166,
@@ -1325,7 +1820,10 @@
     "Name": "Soul Blade Yoshimitsu",
     "Description": "During Mutou no Kiwami {ub,1+2}",
     "Properties": "",
-    "Comment": "Or during Heat {ub,1+2}, chip damage, has clean hit effect, recover health on hit"
+    "Comment": "Or during Heat {ub,1+2}, chip damage, has clean hit effect, recover health on hit",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 754,
+    "Length": 3
   },
   {
     "Id": 167,
@@ -1333,7 +1831,10 @@
     "Name": "Ishiusu Tsubushi",
     "Description": "During Mutou no Kiwami {u,1+2}",
     "Properties": "",
-    "Comment": "Shift to Indian Stance"
+    "Comment": "Shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 759,
+    "Length": 2
   },
   {
     "Id": 168,
@@ -1341,7 +1842,10 @@
     "Name": "Safe Heron Jump",
     "Description": "During Mutou no Kiwami {uf,1+3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 763,
+    "Length": 2
   },
   {
     "Id": 169,
@@ -1349,7 +1853,10 @@
     "Name": "Scowling Aratama",
     "Description": "During Mutou no Kiwami while rising {2,1,2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 767,
+    "Length": 3
   },
   {
     "Id": 170,
@@ -1357,7 +1864,10 @@
     "Name": "Scowling Spirit",
     "Description": "During Mutou no Kiwami while rising {2,1,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 772,
+    "Length": 4
   },
   {
     "Id": 171,
@@ -1365,7 +1875,10 @@
     "Name": "Agonbaku",
     "Description": "During Mutou no Kiwami while crouching {df-hold,1,2}",
     "Properties": "",
-    "Comment": "Or during Mutou no Kiwami while crouching {db,b,1,2}"
+    "Comment": "Or during Mutou no Kiwami while crouching {db,b,1,2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 778,
+    "Length": 3
   },
   {
     "Id": 172,
@@ -1373,7 +1886,10 @@
     "Name": "Spinning Cleave",
     "Description": "During Mutou no Kiwami while crouching {df,3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 783,
+    "Length": 4
   },
   {
     "Id": 173,
@@ -1381,7 +1897,10 @@
     "Name": "Manji Dragonfly",
     "Description": "{u,1+2}, etc.",
     "Properties": "",
-    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami"
+    "Comment": "Shift to Manji Dragonfly, cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 789,
+    "Length": 1
   },
   {
     "Id": 174,
@@ -1389,7 +1908,10 @@
     "Name": "Dragonfly Blade",
     "Description": "During Manji Dragonfly {1}",
     "Properties": "",
-    "Comment": "Chip damage on block, power up during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 792,
+    "Length": 2
   },
   {
     "Id": 175,
@@ -1397,7 +1919,10 @@
     "Name": "Ubume",
     "Description": "During Manji Dragonfly {2,4}",
     "Properties": "Tornado",
-    "Comment": "During Manji Dragonfly {2} to shift to Manji Dragonfly, {2,4,b-hold} to shift to Mutou no Kiwami"
+    "Comment": "During Manji Dragonfly {2} to shift to Manji Dragonfly, {2,4,b-hold} to shift to Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 796,
+    "Length": 3
   },
   {
     "Id": 176,
@@ -1405,7 +1930,10 @@
     "Name": "Dragonfly Sweep",
     "Description": "During Manji Dragonfly {3}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 801,
+    "Length": 2
   },
   {
     "Id": 177,
@@ -1413,7 +1941,10 @@
     "Name": "Dragonfly Twister",
     "Description": "During Manji Dragonfly {4}",
     "Properties": "Heat Engager",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 805,
+    "Length": 3
   },
   {
     "Id": 178,
@@ -1421,7 +1952,10 @@
     "Name": "Manji Dragonfly > Flea",
     "Description": "During Manji Dragonfly {1+2}",
     "Properties": "",
-    "Comment": "Shift to Flea"
+    "Comment": "Shift to Flea",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 810,
+    "Length": 1
   },
   {
     "Id": 179,
@@ -1429,7 +1963,10 @@
     "Name": "Spirited Away",
     "Description": "During Manji Dragonfly {3+4}",
     "Properties": "",
-    "Comment": "Throw when hit from the front"
+    "Comment": "Throw when hit from the front",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 813,
+    "Length": 4
   },
   {
     "Id": 180,
@@ -1437,7 +1974,10 @@
     "Name": "Dragonfly Slash",
     "Description": "During Manji Dragonfly {f,2}",
     "Properties": "Homing",
-    "Comment": "Or during Flea {f,2}, to shift to Manji Dragonfly"
+    "Comment": "Or during Flea {f,2}, to shift to Manji Dragonfly",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 819,
+    "Length": 2
   },
   {
     "Id": 181,
@@ -1445,7 +1985,10 @@
     "Name": "Red Spider Lily",
     "Description": "During Manji Dragonfly {f,1+2}",
     "Properties": "Homing",
-    "Comment": "Chip damage on block, power up during Heat (recovers health on hit, partially uses remaining Heat time)"
+    "Comment": "Chip damage on block, power up during Heat (recovers health on hit, partially uses remaining Heat time)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 823,
+    "Length": 2
   },
   {
     "Id": 182,
@@ -1453,7 +1996,10 @@
     "Name": "Manji Dragonfly > Indian Stance",
     "Description": "During Manji Dragonfly {d,3+4}",
     "Properties": "",
-    "Comment": "Shift to Indian Stance"
+    "Comment": "Shift to Indian Stance",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 827,
+    "Length": 2
   },
   {
     "Id": 183,
@@ -1461,7 +2007,10 @@
     "Name": "Oni Killer",
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 831,
+    "Length": 4
   },
   {
     "Id": 184,
@@ -1469,7 +2018,10 @@
     "Name": "Sword Face Smash",
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
-    "Comment": "Throw escape {1} or {2}"
+    "Comment": "Throw escape {1} or {2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 837,
+    "Length": 3
   },
   {
     "Id": 185,
@@ -1477,7 +2029,10 @@
     "Name": "Wheels of Hell",
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {1}"
+    "Comment": "Throw escape {1}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 842,
+    "Length": 3
   },
   {
     "Id": 186,
@@ -1485,7 +2040,10 @@
     "Name": "Neck Breaker",
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Throw escape {2}"
+    "Comment": "Throw escape {2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 847,
+    "Length": 3
   },
   {
     "Id": 187,
@@ -1493,7 +2051,10 @@
     "Name": "Tornado Drop",
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 852,
+    "Length": 3
   },
   {
     "Id": 188,
@@ -1501,7 +2062,10 @@
     "Name": "Rainbow Drop",
     "Description": "{uf,1+2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}"
+    "Comment": "Throw escape {1+2}",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 857,
+    "Length": 4
   },
   {
     "Id": 189,
@@ -1509,7 +2073,10 @@
     "Name": "Soul Siphon",
     "Description": "{d,df,f,2}",
     "Properties": "",
-    "Comment": "Throw escape {1+2}, absorbs opponent's health (on successful throw escape, gives opponent health)"
+    "Comment": "Throw escape {1+2}, absorbs opponent's health (on successful throw escape, gives opponent health)",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 863,
+    "Length": 4
   },
   {
     "Id": 190,
@@ -1517,7 +2084,10 @@
     "Name": "Soul Possession",
     "Description": "{d,db,b,f,2}",
     "Properties": "",
-    "Comment": "Cannot throw escape"
+    "Comment": "Cannot throw escape",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 869,
+    "Length": 3
   },
   {
     "Id": 191,
@@ -1525,7 +2095,10 @@
     "Name": "Guillotine Crow Trap",
     "Description": "Time with opponent attack {1+2}",
     "Properties": "",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 874,
+    "Length": 2
   },
   {
     "Id": 192,
@@ -1533,7 +2106,10 @@
     "Name": "Low Parry",
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
-    "Comment": ""
+    "Comment": "",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 878,
+    "Length": 2
   },
   {
     "Id": 193,
@@ -1541,6 +2117,9 @@
     "Name": "Kaishaku",
     "Description": "While opponent is down {u,1}",
     "Properties": "",
-    "Comment": "Cannot use during Mutou no Kiwami"
+    "Comment": "Cannot use during Mutou no Kiwami",
+    "VideoId": "5B-IK35lhUE",
+    "StartTime": 882,
+    "Length": 2
   }
 ]
