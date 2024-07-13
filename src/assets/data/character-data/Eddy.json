@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "swVkLkpSL4M",
+    "VideoId": "9OMKIsClxYA",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 7,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 6,
     "Length": 4
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 14,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 12,
     "Length": 4
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Can use Guerreiro Explosivo",
     "Properties": "",
     "Comment": "{3+4}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 21,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 18,
     "Length": 3
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Can use Rabo de Arraia Liberado",
     "Properties": "",
     "Comment": "{d,df,f,4}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 27,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 23,
     "Length": 3
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 33,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 28,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{4,4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 39,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 33,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{f,3+4}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 45,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 38,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{b,3+4}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 51,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 43,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "During Negativa ({d,3+4}, etc.) {4,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 57,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 48,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "Approach (crouching enemy) {d,1+3}",
     "Properties": "Heat Engager",
     "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 63,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 53,
     "Length": 5
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Heat {3+4}",
     "Properties": "Tornado",
     "Comment": "Shift to Bananeira, partially uses remaining Heat time",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 71,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 60,
     "Length": 3
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Heat {d,df,f,4}",
     "Properties": "",
     "Comment": "Shift to Negativa, partially uses remaining Heat time",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 77,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 65,
     "Length": 3
   },
   {
@@ -149,8 +149,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Also possible during Bananeira and Negativa, Heat Smash, throw on hit, on block shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 83,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 70,
     "Length": 4
   },
   {
@@ -160,8 +160,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Aso possible during Negativa, Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 90,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 76,
     "Length": 14
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "{1,2,f-hold} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 107,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 92,
     "Length": 1
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2,LB,4,3,RB}",
     "Properties": "",
     "Comment": "Shift to Negativa, {1,2,4} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 111,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 95,
     "Length": 2
   },
   {
@@ -193,9 +193,9 @@
     "Description": "{1,2,LB,4,4,RB}",
     "Properties": "",
     "Comment": "Side ukemi can be used, {1,2,4} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 116,
-    "Length": 2
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 99,
+    "Length": 3
   },
   {
     "Id": 19,
@@ -204,8 +204,8 @@
     "Description": "{1,3}",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 121,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 104,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{2,1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 126,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 108,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{2,3}",
     "Properties": "",
     "Comment": "Shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 131,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 112,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{3,3}",
     "Properties": "",
     "Comment": "Shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 136,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 116,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{4,4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 141,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 120,
     "Length": 3
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 147,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 125,
     "Length": 2
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{f,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 152,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 129,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{f,3,4}",
     "Properties": "Homing",
     "Comment": "{f,3,4,f-hold} to can cancel third hit and shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 157,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 133,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{f,4,3,3+4}",
     "Properties": "",
     "Comment": "{f,4} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 162,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 137,
     "Length": 3
   },
   {
@@ -303,9 +303,9 @@
     "Description": "{f,4,3+4}",
     "Properties": "",
     "Comment": "Shift to Negativa {f,4} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 167,
-    "Length": 2
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 142,
+    "Length": 3
   },
   {
     "Id": 29,
@@ -314,8 +314,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "Or while rising {1+2}, shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 172,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 147,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{f,3+4}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 178,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 151,
     "Length": 3
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{df,1,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 184,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 156,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 189,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 160,
     "Length": 1
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{df,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 193,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 163,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{df,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 198,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 167,
     "Length": 2
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{df,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 203,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 171,
     "Length": 1
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{d,2,3}",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 207,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 174,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{d,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 212,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 178,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{d,4,3}",
     "Properties": "",
     "Comment": "{d,4} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 217,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 182,
     "Length": 2
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{d,3+4}",
     "Properties": "",
     "Comment": "Or while crouching {3+4}, shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 222,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 186,
     "Length": 2
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{db,2,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 227,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 190,
     "Length": 3
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 233,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 195,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{db,4,4}",
     "Properties": "",
     "Comment": "Chip damage on block, Mandinga level increases by 1 on hit",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 238,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 199,
     "Length": 3
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{db,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 244,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 204,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{db,3+4,4,3}",
     "Properties": "",
     "Comment": "{db,3+4} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 249,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 208,
     "Length": 3
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{b,1,4,3,3+4}",
     "Properties": "",
     "Comment": "{b,1} to shift to crouching state, {b,1,4} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 255,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 213,
     "Length": 3
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{b,1,4,3+4}",
     "Properties": "",
     "Comment": "Shift to Negativa {b,1} to shift to crouching state, {b,1,4} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 261,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 218,
     "Length": 3
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{b,2,3,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 267,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 223,
     "Length": 3
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{b,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 273,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 228,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{b,3,3}",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 278,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 232,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{b,4,4,3}",
     "Properties": "",
     "Comment": "{b,4,4,f-hold} to can cancel second hit and shift to Bananeira, chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 283,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 236,
     "Length": 3
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{b,1+2}",
     "Properties": "",
     "Comment": "Shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 289,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 241,
     "Length": 2
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{b,3+4}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 294,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 245,
     "Length": 3
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{ub,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 300,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 250,
     "Length": 2
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{ub,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 305,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 254,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{u,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 310,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 258,
     "Length": 3
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{u,LB,4,3,RB}",
     "Properties": "",
     "Comment": "Shift to Negativa {u,4} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 316,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 263,
     "Length": 2
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{u,LB,4,4,RB}",
     "Properties": "",
     "Comment": "Side ukemi can be used, {u,4} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 321,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 267,
     "Length": 2
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{u,1+2}",
     "Properties": "",
     "Comment": "Or {ub,1+2}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 326,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 271,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{uf,2}",
     "Properties": "",
     "Comment": "Or {ub,2} or {u,2}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 331,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 275,
     "Length": 2
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{uf,3,3}",
     "Properties": "Tornado",
     "Comment": "{uf,3,f-hold} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 336,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 279,
     "Length": 3
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{uf,3,4}",
     "Properties": "",
     "Comment": "{uf,3,f-hold} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 342,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 284,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{uf,4}",
     "Properties": "Homing",
     "Comment": "Shift to Negative on hit",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 347,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 288,
     "Length": 1
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": "Or {ub,3+4} or {u,3+4}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 351,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 291,
     "Length": 2
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 356,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 295,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "",
     "Comment": "Shift to Negativa on hit",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 361,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 299,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{f,f-hold,4}",
     "Properties": "Tornado",
     "Comment": "Shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 366,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 303,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
     "Comment": "{f,f-hold,3+4,n,f} to cancel and shift to Bananeira, chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 371,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 307,
     "Length": 2
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{b,b-hold,2+3}",
     "Properties": "",
     "Comment": "{b,b-hold,2+3,b,b} to cancel",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 376,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 311,
     "Length": 4
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Or {ub,b,3}, shift to Bananeira on block, chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 383,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 317,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "{ub,4,4,2,4,4,3+4,3+4,3+4,3+4,3+4,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 388,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 321,
     "Length": 8
   },
   {
@@ -776,8 +776,8 @@
     "Description": "{ub,b}",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 399,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 331,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 404,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 335,
     "Length": 2
   },
   {
@@ -798,8 +798,8 @@
     "Description": "While rising {1,3}",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 409,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 339,
     "Length": 3
   },
   {
@@ -809,8 +809,8 @@
     "Description": "While rising {1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 415,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 344,
     "Length": 2
   },
   {
@@ -820,8 +820,8 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 420,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 348,
     "Length": 3
   },
   {
@@ -831,8 +831,8 @@
     "Description": "While rising {3}",
     "Properties": "Tornado",
     "Comment": "Or {d,df,f,3}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 426,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 353,
     "Length": 3
   },
   {
@@ -842,8 +842,8 @@
     "Description": "While rising {4,4,4,3}",
     "Properties": "",
     "Comment": "While rising {4,4,4,f-hold} to can cancel third hit and shift ot Bananeira, chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 432,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 358,
     "Length": 3
   },
   {
@@ -853,8 +853,8 @@
     "Description": "While rising {3+4}",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 438,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 363,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "While crouching {df,3}",
     "Properties": "",
     "Comment": "Chip damage on block, shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 443,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 367,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "While crouching {df,4}",
     "Properties": "",
     "Comment": "Shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 448,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 371,
     "Length": 2
   },
   {
@@ -886,8 +886,8 @@
     "Description": "During sidestep {3}",
     "Properties": "",
     "Comment": "Shift to Negativa, during sidestep {3,d-hold} to cancel and shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 453,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 375,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "During sidestep {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 458,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 379,
     "Length": 2
   },
   {
@@ -908,8 +908,8 @@
     "Description": "During sidestep {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 463,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 383,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "(By opponent's feet) while down and facing up {b,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 468,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 387,
     "Length": 2
   },
   {
@@ -930,8 +930,8 @@
     "Description": "{f,1+2}, etc.",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 473,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 391,
     "Length": 2
   },
   {
@@ -941,8 +941,8 @@
     "Description": "During Bananeira {1}",
     "Properties": "",
     "Comment": "Chip damage on block, shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 478,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 395,
     "Length": 2
   },
   {
@@ -952,8 +952,8 @@
     "Description": "During Bananeira {2,3}",
     "Properties": "",
     "Comment": "Mandinga level increases by 1 on hit, during Bananeira {2,3,f-hold} to cancel second hit and shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 483,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 399,
     "Length": 3
   },
   {
@@ -963,8 +963,8 @@
     "Description": "During Bananeira {3,3,3}",
     "Properties": "Tornado",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 489,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 404,
     "Length": 3
   },
   {
@@ -974,8 +974,8 @@
     "Description": "During Bananeira {4,2}",
     "Properties": "Tornado",
     "Comment": "During Bananeira {4} to shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 495,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 409,
     "Length": 2
   },
   {
@@ -985,8 +985,8 @@
     "Description": "During Bananeira {4,LB,2,3,RB}",
     "Properties": "",
     "Comment": "During Bananeira {4} to shift to Bananeira, chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 500,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 413,
     "Length": 2
   },
   {
@@ -996,8 +996,8 @@
     "Description": "During Bananeira {1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 505,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 417,
     "Length": 2
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "During Bananeira {b,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 510,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 421,
     "Length": 2
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "During Bananeira {n,f}",
     "Properties": "",
     "Comment": "Shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 515,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 425,
     "Length": 2
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "During Bananeira {n,d} (or {n,u})",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 520,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 429,
     "Length": 2
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "{d,3+4}, etc.",
     "Properties": "",
     "Comment": "During Negativa {db-hold} or {b-hold} to block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 525,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 433,
     "Length": 2
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "During Negativa {1,3}",
     "Properties": "",
     "Comment": "During Negativa {1,d-hold} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 530,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 437,
     "Length": 2
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "During Negativa {2,4,4}",
     "Properties": "",
     "Comment": "During Negativa {2,4,d-hold} to shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 535,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 441,
     "Length": 3
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "During Negativa {3,3}",
     "Properties": "",
     "Comment": "Has clean hit effect, Mandinga level increases by 1 on hit, during Negativa {3} to shift to crouching state",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 541,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 446,
     "Length": 3
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "During Negativa {4,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 547,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 451,
     "Length": 3
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "During Negativa {1+2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 553,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 456,
     "Length": 2
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "During Negativa {3+4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 558,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 460,
     "Length": 2
   },
   {
@@ -1117,9 +1117,9 @@
     "Description": "During Negativa {n,f}",
     "Properties": "",
     "Comment": "Shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 563,
-    "Length": 1
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 464,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -1128,9 +1128,9 @@
     "Description": "During Negativa {n,d} (or {n,u})",
     "Properties": "",
     "Comment": "Shift to Bananeira",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 567,
-    "Length": 2
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 468,
+    "Length": 1
   },
   {
     "Id": 104,
@@ -1139,8 +1139,8 @@
     "Description": "While at Mandiga Level 1, during Bananeira {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 572,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 471,
     "Length": 3
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "While at Mandiga Level 2, during Bananeira {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 578,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 476,
     "Length": 4
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "While at Mandiga Level 1, during Bananeira {b,4}",
     "Properties": "",
     "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 585,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 482,
     "Length": 3
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "While at Mandiga Level 2, during Bananeira {b,4}",
     "Properties": "",
     "Comment": "Chip damage on block, during Bananeira {b,4,d-hold} to shift to Negativa",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 591,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 487,
     "Length": 3
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 597,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 492,
     "Length": 4
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 604,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 498,
     "Length": 3
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "Approach opponent {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 610,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 503,
     "Length": 3
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "Approach opponent {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 616,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 508,
     "Length": 4
   },
   {
@@ -1227,9 +1227,9 @@
     "Description": "Approach opponent {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 623,
-    "Length": 4
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 514,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -1238,9 +1238,9 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 630,
-    "Length": 3
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 519,
+    "Length": 4
   },
   {
     "Id": 114,
@@ -1249,8 +1249,8 @@
     "Description": "During Bananeira approach opponent {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape, shift to Negativa on hit",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 636,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 525,
     "Length": 3
   },
   {
@@ -1260,8 +1260,8 @@
     "Description": "During Negativa approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 642,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 530,
     "Length": 4
   },
   {
@@ -1271,8 +1271,8 @@
     "Description": "Approach (crouching enemy) {d,1+3}",
     "Properties": "Heat Engager",
     "Comment": "Or during Negativa {1+3}, cannot throw escape, unable to Heat Dash",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 649,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 536,
     "Length": 5
   },
   {
@@ -1282,8 +1282,8 @@
     "Description": "Approach (crouching enemy) {d,2+4}",
     "Properties": "",
     "Comment": "Or during Negativa {2+4}, cannot throw escape",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 657,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 543,
     "Length": 4
   },
   {
@@ -1293,8 +1293,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "swVkLkpSL4M",
-    "StartTime": 664,
+    "VideoId": "9OMKIsClxYA",
+    "StartTime": 549,
     "Length": 2
   }
 ]
