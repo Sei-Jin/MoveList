@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "_oalsk8LQgg",
+    "VideoId": "XHSkP-7TEiQ",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 7,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 6,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 13,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 11,
     "Length": 5
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Increased chip damage on block for fast multi-hit attacks such as Chain Punch, during Heat partially restore remaining Heat time",
     "Properties": "",
     "Comment": "{1,1,1+2}, {1+2,1+2}, {f,3,1+2}, etc.",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 21,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 18,
     "Length": 5
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Partially restores remaining Heat time with a successful parry or attack reversal unique to Leroy",
     "Properties": "",
     "Comment": "{db,1+2}, {b,2}, {ub,2}, etc.",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 29,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 25,
     "Length": 3
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 35,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 30,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{1+2,1+2,1}",
     "Properties": "Heat Engager",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 41,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 35,
     "Length": 4
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{f,4,4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 48,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 41,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{d,1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 54,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 46,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "{db,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 60,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 51,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "During Hermit ({3+4}, etc.) {1+2,1}",
     "Properties": "Heat Engager",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 66,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 56,
     "Length": 4
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Also possible during Hermit or after Twin Dragon Gate is successful, Heat Smash, on hit shift to throw on block shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 73,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 62,
     "Length": 5
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 81,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 69,
     "Length": 15
   },
   {
@@ -149,8 +149,8 @@
     "Description": "{1,1,1+2,1}",
     "Properties": "",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 99,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 86,
     "Length": 3
   },
   {
@@ -160,8 +160,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 105,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 91,
     "Length": 1
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,2,1}",
     "Properties": "",
     "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 109,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 94,
     "Length": 2
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 114,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 98,
     "Length": 2
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,2,4}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 119,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 102,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{2,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 124,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 106,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{2,1,2,1}",
     "Properties": "Tornado",
     "Comment": "Has strong attack reversal effect at Third Step (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 129,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 110,
     "Length": 3
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{3,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 135,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 115,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 140,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 119,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{1+2,1+2,1}",
     "Properties": "Heat Engager",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 145,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 123,
     "Length": 4
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{3+4}",
     "Properties": "",
     "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when successful), during Hermit {3+4} to stand up",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 152,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 129,
     "Length": 1
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{f,2,3,4}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 156,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 132,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{f,3,1+2,4}",
     "Properties": "Tornado",
     "Comment": "Or while rising {3,1+2,4}, power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 161,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 136,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{f,4,4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 166,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 140,
     "Length": 3
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{f,1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up (chip damage on block)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 172,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 145,
     "Length": 2
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{df,1,4}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 177,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 149,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{df,1,1+2,2}",
     "Properties": "",
     "Comment": "Fifth hit has a punch parry effect (partially restores remaining Heat time when successful during Heat), power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 182,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 153,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{df,2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 187,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 157,
     "Length": 3
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{df,3,1,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 193,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 162,
     "Length": 3
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{df,4,3}",
     "Properties": "",
     "Comment": "{df,4} to shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 199,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 167,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{df,3+4}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 204,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 171,
     "Length": 3
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{d,1,2,4}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 210,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 176,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{d,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 215,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 180,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{d,3,2}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 220,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 184,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{d,4,4}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 225,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 188,
     "Length": 2
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{d,1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 230,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 192,
     "Length": 3
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{db,1,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 236,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 197,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{db,1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 241,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 201,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{db,1,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 246,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 205,
     "Length": 2
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 251,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 209,
     "Length": 1
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{db,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 255,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 212,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{db,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat), chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 260,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 216,
     "Length": 3
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{b,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 266,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 221,
     "Length": 1
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{b,1} (Counter Hit)",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 270,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 224,
     "Length": 4
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{b,3}",
     "Properties": "Homing",
     "Comment": "Shift to Hermit, {b,3,3+4} to cancel into Hermit, chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 277,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 230,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{b,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 282,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 234,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{b,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 287,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 238,
     "Length": 1
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{b,3+4}",
     "Properties": "",
     "Comment": "Throw when hit from the front",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 291,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 241,
     "Length": 4
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{ub,2}",
     "Properties": "",
     "Comment": "Has punch parry effect (partially restores remaining Heat time when successful during Heat)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 298,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 247,
     "Length": 2
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{uf,1}",
     "Properties": "",
     "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 303,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 251,
     "Length": 2
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{uf,2}",
     "Properties": "",
     "Comment": "Or {u,2}, chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 308,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 255,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "Or {ub,3} or {u,3}",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 313,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 259,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "Or {ub,4} or {u,4}",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 318,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 263,
     "Length": 2
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{uf,3+4,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 323,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 267,
     "Length": 3
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 329,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 272,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{f,f-hold,2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 334,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 276,
     "Length": 3
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 340,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 281,
     "Length": 2
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{f,f-hold,4,2}",
     "Properties": "Tornado",
     "Comment": "{f,f-hold,4} to shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 345,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 285,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{d,df,f,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 350,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 289,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{d,df,f,3+4,f-hold}",
     "Properties": "",
     "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 355,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 293,
     "Length": 4
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 362,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 299,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{df,3,1,4,1+2,2,1+2,1+2}",
     "Properties": "",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 367,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 303,
     "Length": 5
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{1+4}",
     "Properties": "",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 375,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 310,
     "Length": 3
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{1+3+4}",
     "Properties": "",
     "Comment": "Has strong attack reversal effect (regain recoverable health and partially restore remaining Heat time), after attack reversal success {1} (or {2}) to Chain Punch: Branch",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 381,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 315,
     "Length": 3
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 387,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 320,
     "Length": 2
   },
   {
@@ -754,8 +754,8 @@
     "Description": "While rising {1,4}",
     "Properties": "",
     "Comment": "Shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 392,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 324,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 397,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 328,
     "Length": 3
   },
   {
@@ -776,8 +776,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 403,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 333,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "While crouching {df,4,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 408,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 337,
     "Length": 3
   },
   {
@@ -798,8 +798,8 @@
     "Description": "During sidestep {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 414,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 342,
     "Length": 2
   },
   {
@@ -809,8 +809,8 @@
     "Description": "During sidestep {1+2}",
     "Properties": "",
     "Comment": "Or during Nimble Shift {1+2}, chip damage on block, power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 419,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 346,
     "Length": 2
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{3+4}, etc.",
     "Properties": "",
     "Comment": "To Hermit, has strong low parry effect (partially restores remaining Heat time when sucessful), during Hermit {3+4} to stand up",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 424,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 350,
     "Length": 1
   },
   {
@@ -831,8 +831,8 @@
     "Description": "During Hermit {1}",
     "Properties": "",
     "Comment": "Has parry effect (partially restores remaining Heat time when successful during Heat)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 428,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 353,
     "Length": 2
   },
   {
@@ -842,8 +842,8 @@
     "Description": "During Hermit {2,3}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 433,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 357,
     "Length": 2
   },
   {
@@ -853,8 +853,8 @@
     "Description": "During Hermit {3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 438,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 361,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "During Hermit {4,1+2}",
     "Properties": "Tornado",
     "Comment": "During Hermit {4} to shift to Hermit",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 443,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 365,
     "Length": 3
   },
   {
@@ -875,8 +875,8 @@
     "Description": "During Hermit {1+2,1}",
     "Properties": "Heat Engager",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 449,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 370,
     "Length": 4
   },
   {
@@ -886,8 +886,8 @@
     "Description": "During Hermit {f,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 456,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 376,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "During Hermit {f,4}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 461,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 380,
     "Length": 3
   },
   {
@@ -908,8 +908,8 @@
     "Description": "During Hermit {b,1}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 467,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 385,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "During Hermit {b,3,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 472,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 389,
     "Length": 3
   },
   {
@@ -930,8 +930,8 @@
     "Description": "During Hermit {b,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 478,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 394,
     "Length": 2
   },
   {
@@ -941,8 +941,8 @@
     "Description": "During Hermit {d} (or {u})",
     "Properties": "",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 483,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 398,
     "Length": 2
   },
   {
@@ -952,8 +952,8 @@
     "Description": "(Only once per match) {f,2+3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 488,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 402,
     "Length": 4
   },
   {
@@ -963,8 +963,8 @@
     "Description": "(Only once per match) {db,2+3}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 495,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 408,
     "Length": 3
   },
   {
@@ -974,8 +974,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 501,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 413,
     "Length": 4
   },
   {
@@ -985,8 +985,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 508,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 419,
     "Length": 4
   },
   {
@@ -996,8 +996,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 515,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 425,
     "Length": 4
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 522,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 431,
     "Length": 4
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 529,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 437,
     "Length": 4
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "{uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 536,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 443,
     "Length": 4
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "Time with opponent attack {b,2}",
     "Properties": "",
     "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 543,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 449,
     "Length": 1
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "After Twin Dragon Gate succeeds {1} (or {2})",
     "Properties": "",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 547,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 452,
     "Length": 3
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "Time with opponent attack {b,2} (Perfect)",
     "Properties": "",
     "Comment": "Also possible during Hermit, when successful regain recoverable health and partially restore remaining Heat time, has strong attack reversal effect",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 553,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 457,
     "Length": 2
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "After Superior Twin Dragon Gate succeeds {1} (or {2})",
     "Properties": "",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 558,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 461,
     "Length": 4
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 565,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 467,
     "Length": 2
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "While opponent is down {db,2,1+2}",
     "Properties": "",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "_oalsk8LQgg",
-    "StartTime": 570,
+    "VideoId": "XHSkP-7TEiQ",
+    "StartTime": 471,
     "Length": 2
   }
 ]
