@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "c4MGh2vNhfk",
+    "VideoId": "OnXx_-OowAw",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 7,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 6,
     "Length": 4
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 14,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 12,
     "Length": 4
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Allows the use of new moves using the devil's power",
     "Properties": "",
     "Comment": "{1,1,2,f-hold}, {1+4}, {f,n,d,df,4,1,1}, etc.",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 21,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 18,
     "Length": 6
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Allows the use of Electric Wind God Fist without Just Input",
     "Properties": "",
     "Comment": "{f,n,d,df,2}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 30,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 26,
     "Length": 3
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 36,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 31,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{df,1,2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 42,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 36,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{db,1,2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 48,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 41,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{b,4}",
     "Properties": "Heat Engager, Homing",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 54,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 46,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 60,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 51,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 66,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 56,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash, on hit shift to throw",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 72,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 61,
     "Length": 4
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 79,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 67,
     "Length": 14
   },
   {
@@ -149,8 +149,8 @@
     "Description": "{1,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 96,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 83,
     "Length": 2
   },
   {
@@ -160,8 +160,8 @@
     "Description": "{1,2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 101,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 87,
     "Length": 2
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,2,LB,2,3,RB}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 106,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 91,
     "Length": 2
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 111,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 95,
     "Length": 3
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 117,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 100,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{3,1,4}",
     "Properties": "",
     "Comment": "{3,1,df-hold} to shift to Wind God Step",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 122,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 104,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 127,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 108,
     "Length": 1
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{LB,4,3,RB}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 131,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 111,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 136,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 115,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{f,2}",
     "Properties": "Tornado, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 141,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 119,
     "Length": 2
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{f,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 146,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 123,
     "Length": 1
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{f,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 150,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 126,
     "Length": 1
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "Punch parry effect",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 154,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 129,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{df,1,2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 159,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 133,
     "Length": 3
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{df,1,df-hold,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 165,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 138,
     "Length": 2
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{df,1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 170,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 142,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{df,2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 175,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 146,
     "Length": 1
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{df,3,2,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 179,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 149,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{df,3,2,1} hold",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 184,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 153,
     "Length": 3
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{df,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 190,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 158,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{df,3+4,1,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 195,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 162,
     "Length": 3
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{d,1+2}",
     "Properties": "",
     "Comment": "{d,1+2,b-hold} to cancel and shift to crouching state",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 201,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 167,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{db,1,2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 206,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 171,
     "Length": 3
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{db,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 212,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 176,
     "Length": 2
   },
   {
@@ -413,9 +413,9 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 217,
-    "Length": 1
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 180,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -424,8 +424,8 @@
     "Description": "{db,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 221,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 184,
     "Length": 2
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{b,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 226,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 188,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{b,2,2,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 231,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 192,
     "Length": 3
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{b,2,4,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 237,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 197,
     "Length": 2
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{b,3,1,4,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 242,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 201,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{b,3,1,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 247,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 205,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{b,4}",
     "Properties": "Heat Engager, Homing",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 252,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 209,
     "Length": 3
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 258,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 214,
     "Length": 3
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{b,1+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 264,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 219,
     "Length": 3
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{ub,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 270,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 224,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "Or {u,3}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 275,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 228,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{uf,4,4,4,4}",
     "Properties": "",
     "Comment": "Or {u,4,4,4,4}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 280,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 232,
     "Length": 3
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 286,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 237,
     "Length": 2
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{f,n}",
     "Properties": "",
     "Comment": "{f,n,df-hold} to shift to Wind God Step",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 291,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 241,
     "Length": 1
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
     "Comment": "With chip damage on block, shift to Devil Form on Heat activation",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 295,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 244,
     "Length": 3
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 301,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 249,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{f,f-hold,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 306,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 253,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 311,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 257,
     "Length": 2
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{f,f,n,2,1,2,2,3,4,4,3,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 316,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 261,
     "Length": 5
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{f,f,n,2,1,4,4,2,4,3,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 324,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 268,
     "Length": 5
   },
   {
@@ -644,9 +644,9 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 332,
-    "Length": 1
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 275,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -655,8 +655,8 @@
     "Description": "{f,n,d,df}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 336,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 279,
     "Length": 1
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{f,n,d,df,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 340,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 282,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{f,n,d,df,2}",
     "Properties": "",
     "Comment": "Becomes Electric Wind God Fist during Heat (partially uses remaining Heat time)]",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 345,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 286,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{f,n,d,df,2} ({df}+{2} press simultaneously)",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 350,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 290,
     "Length": 2
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{f,n,d,df,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 355,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 294,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{f,n,d,df,4,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 360,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 298,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{f,n,d,df,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 365,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 302,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{f,n,d,df,1+2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 370,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 306,
     "Length": 2
   },
   {
@@ -743,8 +743,8 @@
     "Description": "While rising {1,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 375,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 310,
     "Length": 3
   },
   {
@@ -754,8 +754,8 @@
     "Description": "While rising {2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 381,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 315,
     "Length": 3
   },
   {
@@ -765,8 +765,8 @@
     "Description": "While rising {3}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 387,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 320,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "While rising {4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 392,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 324,
     "Length": 2
   },
   {
@@ -787,9 +787,9 @@
     "Description": "While rising {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 397,
-    "Length": 1
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 328,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -798,8 +798,8 @@
     "Description": "While crouching {df,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 401,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 332,
     "Length": 2
   },
   {
@@ -809,8 +809,8 @@
     "Description": "{3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 406,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 336,
     "Length": 2
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 411,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 340,
     "Length": 2
   },
   {
@@ -831,8 +831,8 @@
     "Description": "During Devil Form {1,1,2,f-hold}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, on hit to standing or crouching opponent shift to throw",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 416,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 344,
     "Length": 3
   },
   {
@@ -842,8 +842,8 @@
     "Description": "During Devil Form {3+4}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 422,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 349,
     "Length": 4
   },
   {
@@ -853,8 +853,8 @@
     "Description": "During Devil Form {1+4}",
     "Properties": "Tornado, Power Crush",
     "Comment": "Partially uses remaining Heat time, absorb an attack to power up",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 429,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 355,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "During Devil Form {db,3+4}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, {db,3+4,df-hold} to shift to Wind God Step",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 434,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 359,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "During Devil Form {ub,1+2}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 439,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 363,
     "Length": 3
   },
   {
@@ -886,8 +886,8 @@
     "Description": "During Devil Form {u,1+2}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 445,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 368,
     "Length": 3
   },
   {
@@ -897,8 +897,8 @@
     "Description": "During Devil Form {f,f-hold,2}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, throw on front hit (does not shift when using Heat Dash)",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 451,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 373,
     "Length": 3
   },
   {
@@ -908,8 +908,8 @@
     "Description": "During Devil Form {f,n,d,df,1}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,1,b-hold})",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 457,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 378,
     "Length": 4
   },
   {
@@ -919,8 +919,8 @@
     "Description": "During Devil Form {f,n,d,df,3}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, on front hit shift to throw",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 464,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 384,
     "Length": 4
   },
   {
@@ -930,8 +930,8 @@
     "Description": "During Devil Form {f,n,d,df,4,1,1}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, on hit shift to throw (does not shift with {f,b,d,df,4,1,1,b-hold})",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 471,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 390,
     "Length": 5
   },
   {
@@ -941,8 +941,8 @@
     "Description": "During Devil Form and sidestep {2}",
     "Properties": "Tornado",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 479,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 397,
     "Length": 3
   },
   {
@@ -952,8 +952,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 485,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 402,
     "Length": 3
   },
   {
@@ -963,8 +963,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 491,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 407,
     "Length": 3
   },
   {
@@ -974,8 +974,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 497,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 412,
     "Length": 3
   },
   {
@@ -985,8 +985,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 503,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 417,
     "Length": 3
   },
   {
@@ -996,8 +996,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 509,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 422,
     "Length": 2
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Or {f,f-hold,1+2}, throw escape {1+2}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 514,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 426,
     "Length": 3
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "While crouching {db,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 520,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 431,
     "Length": 4
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 527,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 437,
     "Length": 2
   },
   {
@@ -1040,9 +1040,9 @@
     "Description": "While opponent is down {d,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 532,
-    "Length": 1
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 441,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -1051,8 +1051,8 @@
     "Description": "While opponent is down during Devil Form {db,1+2}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "c4MGh2vNhfk",
-    "StartTime": 536,
+    "VideoId": "OnXx_-OowAw",
+    "StartTime": 445,
     "Length": 2
   }
 ]
