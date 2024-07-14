@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "E9MAHmG1PJU",
+    "VideoId": "Jp6lyeP-Ig8",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 7,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 6,
     "Length": 4
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 14,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 12,
     "Length": 3
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Allows the use of moves during Lightning Glare",
     "Properties": "",
     "Comment": "During Lightning Glare {db,4,1,1+2}, {b,3,1,2}, {f,2,4,3}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 20,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 17,
     "Length": 6
   },
   {
@@ -50,8 +50,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, gain Lightning Glare {2+3,b,b} to cancel attack",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 29,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 25,
     "Length": 3
   },
   {
@@ -61,8 +61,8 @@
     "Description": "{db,2,4}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 35,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 30,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{b,2,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 41,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 35,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "While rising {4,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 47,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 40,
     "Length": 3
   },
   {
@@ -94,9 +94,9 @@
     "Description": "During Jin Ji Du Li ({f,4}, etc.) {1,2}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 53,
-    "Length": 4
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 45,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -105,8 +105,8 @@
     "Description": "During Fo Bu ({d,1+2}, etc.) {1+2}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 60,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 50,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash, throw on hit, on block {df-hold} to shift Jin Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 66,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 55,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Heat and Jin JI Du Li {2+3}",
     "Properties": "",
     "Comment": "Heat Smash",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 72,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 60,
     "Length": 4
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 79,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 66,
     "Length": 14
   },
   {
@@ -149,8 +149,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "{1,2,b-hold} to shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 96,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 82,
     "Length": 1
   },
   {
@@ -160,8 +160,8 @@
     "Description": "{1,2,1,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 100,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 85,
     "Length": 2
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,2,1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 105,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 89,
     "Length": 3
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 111,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 94,
     "Length": 2
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,4}",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 116,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 98,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 121,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 102,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 126,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 106,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{3,2,3}",
     "Properties": "Tornado",
     "Comment": "{3,2,3,b-hold} to cancel, {3,2,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 131,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 110,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{3,2,4}",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li, {3,2,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 136,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 114,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 141,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 118,
     "Length": 2
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{f,2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 146,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 122,
     "Length": 2
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{f,2,4}",
     "Properties": "",
     "Comment": "{f,2,4,df-hold} to shift to Jin Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 151,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 126,
     "Length": 2
   },
   {
@@ -281,9 +281,9 @@
     "Description": "{f,3}",
     "Properties": "",
     "Comment": "{f,3,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 156,
-    "Length": 2
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 130,
+    "Length": 1
   },
   {
     "Id": 27,
@@ -292,8 +292,8 @@
     "Description": "{f,4}",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 161,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 133,
     "Length": 2
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 166,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 137,
     "Length": 2
   },
   {
@@ -314,9 +314,9 @@
     "Description": "{f,3+4}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 171,
-    "Length": 2
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 141,
+    "Length": 1
   },
   {
     "Id": 30,
@@ -325,8 +325,8 @@
     "Description": "{f,2+3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 176,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 144,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{df,1,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 181,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 148,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 186,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 152,
     "Length": 2
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{df,3}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 191,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 156,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{df,2+3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 196,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 160,
     "Length": 1
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{d,1}",
     "Properties": "",
     "Comment": "{d,1,d-hold} to directly shift to crouching state",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 200,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 163,
     "Length": 1
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{d,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 204,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 166,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{d,4,2} on hit {1+2}",
     "Properties": "",
     "Comment": "Gain Lightning Glare",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 209,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 170,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{d,1+2}",
     "Properties": "",
     "Comment": "Or while crouching {d} (or {db}) {1+2}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 214,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 174,
     "Length": 1
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{db,2,4}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 218,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 177,
     "Length": 3
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 224,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 182,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{db,4,1}",
     "Properties": "",
     "Comment": "Has clean hit effect",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 229,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 186,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{db,1+2,1}",
     "Properties": "",
     "Comment": "{db,1+2,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 234,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 190,
     "Length": 2
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{b,1,4}",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 239,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 194,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{b,1,1+2}",
     "Properties": "",
     "Comment": "{b,1,1+2,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 244,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 198,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{b,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 249,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 202,
     "Length": 2
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{b,2,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 254,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 206,
     "Length": 3
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{b,3,1}",
     "Properties": "",
     "Comment": "{b,3,1,d-hold} to shift to Fo Bu, {b,3,1,b-hold} to shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 260,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 211,
     "Length": 2
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{b,4,1}",
     "Properties": "",
     "Comment": "{b,4,1,d-hold} to cancel and shift to crouching state",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 265,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 215,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{b,4,LB,1,4,RB}",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 270,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 219,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{b,1+2,1+2,2}",
     "Properties": "",
     "Comment": "{b,1+2,1+2,d,df,f,2} to power up and deal more chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 275,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 223,
     "Length": 3
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{b,3+4}",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 281,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 228,
     "Length": 2
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{b,1+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 286,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 232,
     "Length": 2
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{b,2+3}",
     "Properties": "",
     "Comment": "Punch parry effect",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 291,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 236,
     "Length": 2
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{ub,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 296,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 240,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{ub,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 301,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 244,
     "Length": 3
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{u,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 307,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 249,
     "Length": 2
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{uf,1,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 312,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 253,
     "Length": 2
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{uf,1,2} on hit {1+2}",
     "Properties": "",
     "Comment": "Gain Lightning Glare",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 317,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 257,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{uf,2,1}",
     "Properties": "",
     "Comment": "{uf,2,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 322,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 261,
     "Length": 2
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "Or {u,3}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 327,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 265,
     "Length": 2
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "Or {ub,4} or {u,4}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 332,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 269,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 337,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 273,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{f,f-hold,2} on hit {1+2}",
     "Properties": "",
     "Comment": "Gain Lightning Glare",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 342,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 277,
     "Length": 2
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "",
     "Comment": "{f,f-hold,3,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 347,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 281,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{f,f-hold,4,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 352,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 285,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 357,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 289,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{2,1,3,2,1,2,3,1,2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 362,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 293,
     "Length": 6
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{2,1,3,2,1,3,2,4,2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 371,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 301,
     "Length": 6
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit / Gain Lightning Glare",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 380,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 309,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "During Lightning Glare {f,2,4,3}",
     "Properties": "",
     "Comment": "Or during Heat {f,2,4,3} (partially uses remaining Heat time), chip damage on block, {f,2,4,3,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 385,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 313,
     "Length": 4
   },
   {
@@ -776,8 +776,8 @@
     "Description": "During Lightning Glare {db,4,1,1+2}",
     "Properties": "",
     "Comment": "Or during Heat {db,4,1,1+2} (partially uses remaining Heat time), chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 392,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 319,
     "Length": 4
   },
   {
@@ -787,8 +787,8 @@
     "Description": "During Lightning Glare {b,3,1,2}",
     "Properties": "",
     "Comment": "Or during Heat {b,3,1,2} (partially uses remaining Heat time), chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 399,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 325,
     "Length": 4
   },
   {
@@ -798,8 +798,8 @@
     "Description": "While rising {1,4,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 406,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 331,
     "Length": 3
   },
   {
@@ -809,8 +809,8 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 412,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 336,
     "Length": 2
   },
   {
@@ -820,8 +820,8 @@
     "Description": "While rising {3,1,2}",
     "Properties": "",
     "Comment": "While rising {3,1,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 417,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 340,
     "Length": 3
   },
   {
@@ -831,8 +831,8 @@
     "Description": "While rising {4,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 423,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 345,
     "Length": 3
   },
   {
@@ -842,8 +842,8 @@
     "Description": "While rising {1+2} on hit {1+2}",
     "Properties": "",
     "Comment": "Gain Lightning Glare",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 429,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 350,
     "Length": 2
   },
   {
@@ -853,8 +853,8 @@
     "Description": "While crouching {df,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 434,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 354,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "During sidestep {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 439,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 358,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "Back facing opponent {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 444,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 362,
     "Length": 2
   },
   {
@@ -886,9 +886,9 @@
     "Description": "{d,df,f}",
     "Properties": "",
     "Comment": "{d,df-hold} to shift to crouching state",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 449,
-    "Length": 3
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 366,
+    "Length": 1
   },
   {
     "Id": 82,
@@ -897,8 +897,8 @@
     "Description": "{d,df,f,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 455,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 369,
     "Length": 2
   },
   {
@@ -908,8 +908,8 @@
     "Description": "{d,df,f,2,1}",
     "Properties": "",
     "Comment": "{d,df,f,2,b-hold} to shift Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 460,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 373,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "{d,df,f,2,4}",
     "Properties": "",
     "Comment": "Chip damage on block, {d,df,f,2,b-hold} to shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 465,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 377,
     "Length": 3
   },
   {
@@ -930,8 +930,8 @@
     "Description": "{d,df,f,3+4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 471,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 382,
     "Length": 2
   },
   {
@@ -941,8 +941,8 @@
     "Description": "{f,4}, etc.",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 476,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 386,
     "Length": 2
   },
   {
@@ -952,9 +952,9 @@
     "Description": "During Jin Ji Du Li {1,2}",
     "Properties": "Heat Engager",
     "Comment": "Gain Lightning Glare on Heat activation, during Jin Ji Du Li {1,d-hold} to shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 481,
-    "Length": 4
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 390,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -963,8 +963,8 @@
     "Description": "During Jin Ji Du Li {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 488,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 395,
     "Length": 2
   },
   {
@@ -974,8 +974,8 @@
     "Description": "During Jin Ji Du Li {3,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 493,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 399,
     "Length": 3
   },
   {
@@ -985,8 +985,8 @@
     "Description": "During Jin Ji Du Li {4}",
     "Properties": "",
     "Comment": "During JIn Ji Du Li {4,df-hold} to shift to Jin Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 499,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 404,
     "Length": 2
   },
   {
@@ -996,8 +996,8 @@
     "Description": "During Jin Ji Du Li {1+2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 504,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 408,
     "Length": 2
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "During Jin Ji Du Li {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 509,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 412,
     "Length": 2
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "During Jin Ji Du Li {df-hold}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 514,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 416,
     "Length": 1
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "{d,1+2}, etc.",
     "Properties": "",
     "Comment": "Shift to Fo Bu",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 518,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 419,
     "Length": 1
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "During Fo Bu {1,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 522,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 422,
     "Length": 3
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "During Fo Bu {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 528,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 427,
     "Length": 2
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "During Fo Bu {3}",
     "Properties": "Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 533,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 431,
     "Length": 2
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "During Fo Bu {4}",
     "Properties": "",
     "Comment": "Shift to Jin Ji Du Li",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 538,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 435,
     "Length": 2
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "During Fo Bu {1+2}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Gain Lightning Glare on Heat activation, absorb attacks to power up and deal more chip damage on block",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 543,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 439,
     "Length": 3
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 549,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 444,
     "Length": 3
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 555,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 449,
     "Length": 3
   },
   {
@@ -1117,8 +1117,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 561,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 454,
     "Length": 3
   },
   {
@@ -1128,8 +1128,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 567,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 459,
     "Length": 3
   },
   {
@@ -1139,8 +1139,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 573,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 464,
     "Length": 2
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 578,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 468,
     "Length": 4
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "Time with opponent kick {ub,1}",
     "Properties": "",
     "Comment": "When parrying an attack, {4} for follow-up attack",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 585,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 474,
     "Length": 2
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "After Bao Zhou succeeds {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 590,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 478,
     "Length": 2
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "Time with opponent attack {b,1+3}",
     "Properties": "",
     "Comment": "When parrying an attack, {2} for follow-up attack",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 595,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 482,
     "Length": 1
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "After Shi Zi Xiao Zhang Kou succeeds {2}",
     "Properties": "",
     "Comment": "Gain Lightning Glare on hit",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 599,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 485,
     "Length": 3
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "Time with opponent attack {b,2+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 605,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 490,
     "Length": 2
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 610,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 494,
     "Length": 2
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "While opponent is down {d,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "E9MAHmG1PJU",
-    "StartTime": 615,
+    "VideoId": "Jp6lyeP-Ig8",
+    "StartTime": 498,
     "Length": 2
   }
 ]
