@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "OCuO-KFfuQ8",
+    "VideoId": "7nIgu0UlAk4",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 7,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 6,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 13,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 11,
     "Length": 3
   },
   {
@@ -39,8 +39,8 @@
     "Description": "A powered up Limited Entry can be used",
     "Properties": "",
     "Comment": "Limited Entry {1}, during Limited Entry {2}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 19,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 16,
     "Length": 4
   },
   {
@@ -50,8 +50,8 @@
     "Description": "A new Silent Entry shift move can be used",
     "Properties": "",
     "Comment": "{f,3+4}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 26,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 22,
     "Length": 3
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 32,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 27,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{1,1,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 38,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 32,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{3+4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 44,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 37,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "During Dynamic Entry ({f,3}, etc.) {1,2}",
     "Properties": "Heat Engager",
     "Comment": "During Dynamic Entry {1,f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 50,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 42,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "During Dynamic Entry ({f,3}, etc.) {3}",
     "Properties": "Heat Engager, Homing",
     "Comment": "Shift to Silent Entry (does not shift when using Heat Dash), chip damage on lock",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 56,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 47,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "During Silent Entry (during Dynamic Entry {n,f-hold}, etc.) {1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 62,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 52,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Heat {f,3+4}",
     "Properties": "Power Crush",
     "Comment": "Shift to Silent Entry, partially uses remaining Heat time",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 68,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 57,
     "Length": 3
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Heat and Limited Entry (during Silent Entry {d-hold}, etc.) {1}",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 74,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 62,
     "Length": 5
   },
   {
@@ -149,8 +149,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash, throw on hit, shift to Dynamic Entry on block (no shift with {2+3,b-hold})",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 82,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 69,
     "Length": 3
   },
   {
@@ -160,8 +160,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 88,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 74,
     "Length": 12
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,1,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 103,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 88,
     "Length": 3
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 109,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 93,
     "Length": 1
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,4}",
     "Properties": "",
     "Comment": "{1,4,d-hold} to shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 113,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 96,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{2,1}",
     "Properties": "",
     "Comment": "Shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 118,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 100,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{3}",
     "Properties": "",
     "Comment": "{3,d-hold} to shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 123,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 104,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 128,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 108,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 133,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 112,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{3+4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 138,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 116,
     "Length": 3
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{f,1,2}",
     "Properties": "",
     "Comment": "Shift to Silent Entry, {f,1,2,b-hold} to shift to standing state",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 144,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 121,
     "Length": 2
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{f,1,2,3}",
     "Properties": "",
     "Comment": "Shift to Dynamic Entry, {f,1,2,3,b-hold} to shift to standing state",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 149,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 125,
     "Length": 3
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{f,2,1}",
     "Properties": "",
     "Comment": "Shift to Silent Entry, {f,2,1,b-hold} to shift to standing state",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 155,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 130,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{f,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 160,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 134,
     "Length": 2
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{f,3}",
     "Properties": "",
     "Comment": "Shift to Dynamic Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 165,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 138,
     "Length": 1
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{f,4,1,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 169,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 141,
     "Length": 3
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 175,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 146,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{f,1+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 180,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 150,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "Shift to Silent Entry, {df,2,b-hold} to shift to standing state",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 185,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 154,
     "Length": 2
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{df,3,3}",
     "Properties": "",
     "Comment": "{df,3,d-hold} to shift to Dynamic Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 190,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 158,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{d,2}",
     "Properties": "",
     "Comment": "{d,2,d-hold} to directly shift to crouching state",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 195,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 162,
     "Length": 1
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{d,3,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 199,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 165,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{d,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 204,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 169,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{db,1,3}",
     "Properties": "",
     "Comment": "{db,1,3,d-hold} to shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 209,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 173,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{db,2,1}",
     "Properties": "",
     "Comment": "{db,2,f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 214,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 177,
     "Length": 2
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{db,2,3}",
     "Properties": "Tornado",
     "Comment": "Hold at last step to power up and deal more chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 219,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 181,
     "Length": 2
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{db,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 224,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 185,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{db,1+2}",
     "Properties": "",
     "Comment": "{db,1+2,d-hold} to shift to Dynamic Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 229,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 189,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{b,1}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 234,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 193,
     "Length": 1
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{b,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 238,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 196,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{b,2,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 243,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 200,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{b,3,4}",
     "Properties": "",
     "Comment": "{b,3,f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 248,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 204,
     "Length": 2
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{b,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 253,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 208,
     "Length": 1
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{b,4} (Counter Hit)",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 257,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 211,
     "Length": 4
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{b,1+2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 264,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 217,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{b,2+3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 269,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 221,
     "Length": 4
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "Or {ub,3} or {u,3}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 276,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 227,
     "Length": 2
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "Or {ub,4} or {u,4}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 281,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 231,
     "Length": 2
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": "Or {ub,3+4} or {u,3+4}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 286,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 235,
     "Length": 2
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{uf,3+4,4}",
     "Properties": "",
     "Comment": "Throw when hit from the front",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 291,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 239,
     "Length": 2
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{uf,3+4,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 296,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 243,
     "Length": 3
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 302,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 248,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "Tornado",
     "Comment": "{f,f-hold,2} on hit {f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 307,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 252,
     "Length": 2
   },
   {
@@ -622,9 +622,9 @@
     "Description": "{f,f-hold,4,2}",
     "Properties": "",
     "Comment": "Shift to Dynamic Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 312,
-    "Length": 3
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 256,
+    "Length": 2
   },
   {
     "Id": 58,
@@ -633,8 +633,8 @@
     "Description": "{f,f-hold,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 318,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 260,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 323,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 264,
     "Length": 2
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{f,f-hold,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 328,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 268,
     "Length": 2
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{f,n,b,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 333,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 272,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 338,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 276,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{uf,1,2,1,1,2,2,3,3,1+2,1+2}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 343,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 280,
     "Length": 6
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 352,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 288,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "While rising {1}",
     "Properties": "Tornado",
     "Comment": "While rising {1} on hit {f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 357,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 292,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "While rising {2,1}",
     "Properties": "",
     "Comment": "While rising {2,d-hold} to shift to Dynamic Entry, while rising {2,f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 362,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 296,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "While rising {2,3}",
     "Properties": "",
     "Comment": "While rising {2,3,d-hold} to shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 367,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 300,
     "Length": 2
   },
   {
@@ -743,8 +743,8 @@
     "Description": "While rising {3}",
     "Properties": "",
     "Comment": "While rising {3,d-hold} to shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 372,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 304,
     "Length": 3
   },
   {
@@ -754,8 +754,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 378,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 309,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "While crouching {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 383,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 313,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "While crouching {df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 388,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 317,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "During sidestep {2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 393,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 321,
     "Length": 2
   },
   {
@@ -798,8 +798,8 @@
     "Description": "{f,3}, etc.",
     "Properties": "",
     "Comment": "Shift to Dynamic Entry, during Dynamic Entry {n,f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 398,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 325,
     "Length": 1
   },
   {
@@ -809,8 +809,8 @@
     "Description": "During Dynamic Entry {1,2}",
     "Properties": "Heat Engager",
     "Comment": "During Dynamic Entry, {1,f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 402,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 328,
     "Length": 3
   },
   {
@@ -820,8 +820,8 @@
     "Description": "During Dynamic Entry {2}",
     "Properties": "",
     "Comment": "During Dynamic Entry, {2} on hit {uf-hold} to shift to Avalanche Flip",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 408,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 333,
     "Length": 2
   },
   {
@@ -831,8 +831,8 @@
     "Description": "During Dynamic Entry {3}",
     "Properties": "Heat Engager, Homing",
     "Comment": "Shift to Silent Entry (does not shift when using Heat Dash), chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 413,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 337,
     "Length": 3
   },
   {
@@ -842,8 +842,8 @@
     "Description": "During Dynamic Entry {4}",
     "Properties": "",
     "Comment": "During Dynamic Entry, {4,d-hold} to shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 419,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 342,
     "Length": 2
   },
   {
@@ -853,8 +853,8 @@
     "Description": "During Dynamic Entry {1+2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 424,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 346,
     "Length": 3
   },
   {
@@ -864,8 +864,8 @@
     "Description": "During Dynamic Entry {3+4}",
     "Properties": "",
     "Comment": "During Dynamic Entry, {3+4,f-hold} to shift to Silent Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 430,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 351,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "During Dynamic Entry {b-hold}",
     "Properties": "",
     "Comment": "Shift to Dynamic Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 435,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 355,
     "Length": 2
   },
   {
@@ -886,8 +886,8 @@
     "Description": "During Dynamic Entry {n,f-hold}, etc.",
     "Properties": "",
     "Comment": "Shift to Silent Entry, during Silent Entry {d-hold} to shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 440,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 359,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "During Silent Entry {1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 445,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 363,
     "Length": 3
   },
   {
@@ -908,8 +908,8 @@
     "Description": "During Silent Entry {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 451,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 368,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "During Silent Entry {3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 456,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 372,
     "Length": 2
   },
   {
@@ -930,8 +930,8 @@
     "Description": "During Silent Entry {4}",
     "Properties": "Power Crush, Homing",
     "Comment": "Absorb an attack to power up and deal more chip damgae on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 461,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 376,
     "Length": 2
   },
   {
@@ -941,8 +941,8 @@
     "Description": "During Silent Entry {1+2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 466,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 380,
     "Length": 2
   },
   {
@@ -952,8 +952,8 @@
     "Description": "During Silent Entry {3+4}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 471,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 384,
     "Length": 3
   },
   {
@@ -963,8 +963,8 @@
     "Description": "During Silent Entry {b-hold}",
     "Properties": "",
     "Comment": "Shift to Dynamic Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 477,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 389,
     "Length": 2
   },
   {
@@ -974,8 +974,8 @@
     "Description": "During Silent Entry {d-hold}, etc.",
     "Properties": "",
     "Comment": "Shift to Limited Entry",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 482,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 393,
     "Length": 2
   },
   {
@@ -985,8 +985,8 @@
     "Description": "During Limited Entry {1}",
     "Properties": "",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 487,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 397,
     "Length": 3
   },
   {
@@ -996,8 +996,8 @@
     "Description": "During Heat and Limited Entry {1}",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 493,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 402,
     "Length": 4
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "During Limited Entry {2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 500,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 408,
     "Length": 3
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 506,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 413,
     "Length": 4
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 513,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 419,
     "Length": 4
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 520,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 425,
     "Length": 3
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 526,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 430,
     "Length": 3
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 532,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 435,
     "Length": 4
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 539,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 441,
     "Length": 3
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "Approach opponent {f,f,f-hold,2+4}",
     "Properties": "",
     "Comment": "Or during Dynamic Entry {2+3}, throw escape {1+2}",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 545,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 446,
     "Length": 2
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "Approach airborne opponent {f,f,f-hold,2+4}",
     "Properties": "",
     "Comment": "Or approach airborne opponent during Dynamic Entry {2+3}, cannot throw escape",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 550,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 450,
     "Length": 3
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "OCuO-KFfuQ8",
-    "StartTime": 556,
+    "VideoId": "7nIgu0UlAk4",
+    "StartTime": 455,
     "Length": 2
   }
 ]
