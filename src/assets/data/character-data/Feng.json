@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "QoVgBp6MlIc",
+    "VideoId": "yHzr3fWRT1w",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}, additional chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 7,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 6,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 13,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 11,
     "Length": 3
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Allows the use of Essence of Iron Palm",
     "Properties": "",
     "Comment": "{b,1}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 19,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 16,
     "Length": 2
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Allows the use of Essence of Nian Zhang Mie Ba",
     "Properties": "",
     "Comment": "{f,f-hold,1+2} hold",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 24,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 20,
     "Length": 3
   },
   {
@@ -61,8 +61,8 @@
     "Description": "Allows the use of Jiaolong Sea Splitter",
     "Properties": "",
     "Comment": "{3+4}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 30,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 25,
     "Length": 3
   },
   {
@@ -72,9 +72,9 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 36,
-    "Length": 2
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 30,
+    "Length": 3
   },
   {
     "Id": 8,
@@ -83,8 +83,8 @@
     "Description": "{f,1+2}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 41,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 35,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 47,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 40,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 53,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 45,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "Back facing opponent ({b,LB,3,4,RB}, etc.) {2}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 59,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 50,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Deceptive Step ({b,3+4}, etc.) {2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 65,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 55,
     "Length": 3
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Heat {3+4}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 71,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 60,
     "Length": 3
   },
   {
@@ -149,8 +149,8 @@
     "Description": "During Heat {b,1}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 77,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 65,
     "Length": 2
   },
   {
@@ -160,8 +160,8 @@
     "Description": "During Heat {f,f-hold,1+2} hold",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 82,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 69,
     "Length": 3
   },
   {
@@ -171,8 +171,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash, to shift to Shifting Couds on block ({2+3,b-hold} to stand up)",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 88,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 74,
     "Length": 3
   },
   {
@@ -182,8 +182,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 94,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 79,
     "Length": 14
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 111,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 95,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 116,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 99,
     "Length": 1
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{1,2,2}",
     "Properties": "",
     "Comment": "{b-hold} to face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 120,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 102,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 125,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 106,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{2,4,1}",
     "Properties": "",
     "Comment": "{b-hold} to cancel and face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 130,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 110,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{3,3,4}",
     "Properties": "",
     "Comment": "{b-hold} to cancel and face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 135,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 114,
     "Length": 2
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{3,1+2}",
     "Properties": "",
     "Comment": "Hold at last step to power up and deal more chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 140,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 118,
     "Length": 3
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{LB,3,4,RB,3}",
     "Properties": "",
     "Comment": "{LB,3,4,RB,b-hold} to face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 146,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 123,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{LB,4,3,RB}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 151,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 127,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{1+2}",
     "Properties": "",
     "Comment": "Punch parry effect",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 156,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 131,
     "Length": 2
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{f,2,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 161,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 135,
     "Length": 3
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{f,3,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 167,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 140,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{f,3,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 172,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 144,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{f,4,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 177,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 148,
     "Length": 3
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{f,4,3}",
     "Properties": "",
     "Comment": "{f,4,b-hold} to face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 183,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 153,
     "Length": 2
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{f,4,4}",
     "Properties": "",
     "Comment": "{f,4,b-hold} to face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 188,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 157,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{f,1+2}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 193,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 161,
     "Length": 3
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "Or {d,df,f,3+4}, to shift to Shifting Clouds, {b-hold} to shift to Deceptive Step",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 199,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 166,
     "Length": 1
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{df,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 203,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 169,
     "Length": 1
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{df,2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 207,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 172,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{df,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 212,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 176,
     "Length": 3
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{df,4,2,1+2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 218,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 181,
     "Length": 3
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{df,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 224,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 186,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{df,3+4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 229,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 190,
     "Length": 2
   },
   {
@@ -457,9 +457,9 @@
     "Description": "{d,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 234,
-    "Length": 1
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 194,
+    "Length": 2
   },
   {
     "Id": 43,
@@ -468,8 +468,8 @@
     "Description": "{d,4,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 238,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 198,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{d,1+2,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 243,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 202,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{db,1,2,4,3+4}",
     "Properties": "",
     "Comment": "{db,1,f-hold} to shift to Shifting Clouds, {db,1,b-hold} to shift to Deceptive Step",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 248,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 206,
     "Length": 3
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{db,1,4}",
     "Properties": "",
     "Comment": "{db,1,f-hold} to shift to Shifting Clouds, {db,1,b-hold} to shift to Deceptive Step",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 254,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 211,
     "Length": 2
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{db,2,2,2}",
     "Properties": "",
     "Comment": "{db,2,2,b-hold} to cancel",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 259,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 215,
     "Length": 3
   },
   {
@@ -523,9 +523,9 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 265,
-    "Length": 1
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 220,
+    "Length": 2
   },
   {
     "Id": 49,
@@ -534,8 +534,8 @@
     "Description": "{db,3} (Counter Hit)",
     "Properties": "",
     "Comment": "Throw when hit from the front on the ground",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 269,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 224,
     "Length": 3
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{db,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 275,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 229,
     "Length": 3
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{db,1+2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 281,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 234,
     "Length": 2
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{b,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 286,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 238,
     "Length": 1
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{b,2,3,4,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 290,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 241,
     "Length": 3
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{b,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 296,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 246,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{b,LB,3,4,RB}",
     "Properties": "",
     "Comment": "Back towards opponent",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 301,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 250,
     "Length": 1
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{b,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 305,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 253,
     "Length": 1
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 309,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 256,
     "Length": 3
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{b,3+4}",
     "Properties": "",
     "Comment": "Shift to Deceptive Step, {f-hold} to shift to Shifting Clouds",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 315,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 261,
     "Length": 1
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{ub,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 319,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 264,
     "Length": 2
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{ub,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 324,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 268,
     "Length": 4
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{u,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 331,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 274,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{uf,1}",
     "Properties": "",
     "Comment": "{ub,1} or {u,1}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 336,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 278,
     "Length": 1
   },
   {
@@ -688,9 +688,9 @@
     "Description": "{uf,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 340,
-    "Length": 1
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 281,
+    "Length": 2
   },
   {
     "Id": 64,
@@ -699,9 +699,9 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "{ub,3} or {u,3}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 344,
-    "Length": 1
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 285,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -710,8 +710,8 @@
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "{ub,4} or {u,4}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 348,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 289,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{uf,3+4,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 353,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 293,
     "Length": 3
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 359,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 298,
     "Length": 2
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 364,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 302,
     "Length": 3
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block, {f,f-hold,3,f-hold} to shift to Shifting Clouds",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 370,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 307,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "{f,f-hold,4,3}",
     "Properties": "",
     "Comment": "Power up with delay",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 375,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 311,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
     "Comment": "Hold to power up and deal more chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 380,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 315,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "{b,f,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 385,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 319,
     "Length": 2
   },
   {
@@ -798,8 +798,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 390,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 323,
     "Length": 2
   },
   {
@@ -809,8 +809,8 @@
     "Description": "{1,1,2,1,3,4,2,2,2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 395,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 327,
     "Length": 6
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{1+3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 404,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 335,
     "Length": 3
   },
   {
@@ -831,8 +831,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 410,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 340,
     "Length": 2
   },
   {
@@ -842,8 +842,8 @@
     "Description": "While rising {1,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 415,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 344,
     "Length": 2
   },
   {
@@ -853,8 +853,8 @@
     "Description": "While rising {1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 420,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 348,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 425,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 352,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "While rising {3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 430,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 356,
     "Length": 2
   },
   {
@@ -886,8 +886,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 435,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 360,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "While rising {1+2}",
     "Properties": "",
     "Comment": "Punch parry effect",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 440,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 364,
     "Length": 2
   },
   {
@@ -908,8 +908,8 @@
     "Description": "While crouching {df,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 445,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 368,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "While crouching {df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 450,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 372,
     "Length": 3
   },
   {
@@ -930,8 +930,8 @@
     "Description": "While crouching {df,4,1}",
     "Properties": "",
     "Comment": "Or {d,df-hold,4,1}, while crouching {df,4} to face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 456,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 377,
     "Length": 2
   },
   {
@@ -941,9 +941,9 @@
     "Description": "During sidestep {2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 461,
-    "Length": 1
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 381,
+    "Length": 2
   },
   {
     "Id": 87,
@@ -952,8 +952,8 @@
     "Description": "During sidestep {4}",
     "Properties": "",
     "Comment": "Has clean hit effect",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 465,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 385,
     "Length": 3
   },
   {
@@ -963,8 +963,8 @@
     "Description": "During sidestep {1+2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 471,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 390,
     "Length": 2
   },
   {
@@ -974,8 +974,8 @@
     "Description": "While down and facing up {b,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 476,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 394,
     "Length": 2
   },
   {
@@ -985,8 +985,8 @@
     "Description": "Back facing opponent {1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 481,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 398,
     "Length": 1
   },
   {
@@ -996,8 +996,8 @@
     "Description": "Back facing opponent {2}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to powe rup and deal more chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 485,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 401,
     "Length": 3
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "Back facing opponent {3}",
     "Properties": "",
     "Comment": "Chip damage on block, back facing opponent {3,f-hold} to shift to Shifting Clouds",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 491,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 406,
     "Length": 2
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "Back facing opponent {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 496,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 410,
     "Length": 1
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "Back facing opponent {d,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 500,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 413,
     "Length": 2
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "Back facing opponent {d,3}",
     "Properties": "",
     "Comment": "Has clean hit effect",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 505,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 417,
     "Length": 3
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "{d,df,f}",
     "Properties": "",
     "Comment": "{d,df-hold} to shift to crouching state",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 511,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 422,
     "Length": 1
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "{d,df,f,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 515,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 425,
     "Length": 1
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "{d,df,f,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 519,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 428,
     "Length": 2
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "{d,df,f,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 524,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 432,
     "Length": 2
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "{f,3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Shifting Clouds, {b-hold} to shift to Deceptive Step",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 529,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 436,
     "Length": 1
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "During Shifting Clouds {1}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 533,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 439,
     "Length": 2
   },
   {
@@ -1117,8 +1117,8 @@
     "Description": "During Shifting Clouds {2}",
     "Properties": "",
     "Comment": "{b-hold} to face backward",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 538,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 443,
     "Length": 2
   },
   {
@@ -1128,8 +1128,8 @@
     "Description": "During Shifting Clouds {3}",
     "Properties": "Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 543,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 447,
     "Length": 2
   },
   {
@@ -1139,8 +1139,8 @@
     "Description": "During Shifting Clouds {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 548,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 451,
     "Length": 2
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "During Shifting Clouds {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 553,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 455,
     "Length": 2
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "{b,3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Deceptive Step, {f-hold} to shift to Shifting Clouds",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 558,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 459,
     "Length": 1
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "During Deceptive Step {1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 562,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 462,
     "Length": 2
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "During Deceptive Step {2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 567,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 466,
     "Length": 3
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "During Deceptive Step {3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 573,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 471,
     "Length": 3
   },
   {
@@ -1205,9 +1205,9 @@
     "Description": "During Deceptive Step {4,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 579,
-    "Length": 2
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 476,
+    "Length": 3
   },
   {
     "Id": 111,
@@ -1216,8 +1216,8 @@
     "Description": "During Deceptive Step {3+4,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 584,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 481,
     "Length": 3
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 590,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 486,
     "Length": 3
   },
   {
@@ -1238,8 +1238,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 596,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 491,
     "Length": 3
   },
   {
@@ -1249,8 +1249,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 602,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 496,
     "Length": 4
   },
   {
@@ -1260,8 +1260,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 609,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 502,
     "Length": 2
   },
   {
@@ -1271,8 +1271,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 614,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 506,
     "Length": 3
   },
   {
@@ -1282,9 +1282,9 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 620,
-    "Length": 3
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 511,
+    "Length": 4
   },
   {
     "Id": 118,
@@ -1293,8 +1293,8 @@
     "Description": "Back facing opponent {1+4} (or {2+3})",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 626,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 517,
     "Length": 4
   },
   {
@@ -1304,8 +1304,8 @@
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 633,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 523,
     "Length": 2
   },
   {
@@ -1315,8 +1315,8 @@
     "Description": "Time with opponent attack {f,3+4}",
     "Properties": "",
     "Comment": "Absorb two attacks for a follow-up attack",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 638,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 527,
     "Length": 3
   },
   {
@@ -1326,8 +1326,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 644,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 532,
     "Length": 2
   },
   {
@@ -1337,8 +1337,8 @@
     "Description": "While opponent is down {d,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "QoVgBp6MlIc",
-    "StartTime": 649,
+    "VideoId": "yHzr3fWRT1w",
+    "StartTime": 536,
     "Length": 2
   }
 ]
