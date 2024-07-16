@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "KYXWEd2cXgY",
+    "VideoId": "jOnZPqhEyRw",
     "StartTime": 0,
     "Length": 5
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 8,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 7,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 14,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 12,
     "Length": 3
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Allows the use of Kazama's Power (heath reducing move) without reducing health",
     "Properties": "",
     "Comment": "{f,2} on hit or block {1+2}, {df,2} on hit or block {1+2}, etc.",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 20,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 17,
     "Length": 4
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Allows the use of the powered up version of Inner Peace",
     "Properties": "",
     "Comment": "{f,1+2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 27,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 23,
     "Length": 2
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 32,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 27,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 38,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 32,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{f,2} on hit or block {1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 44,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 37,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "During sidestep ({u,n} or {d,n}) {4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 50,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 42,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "During Izumo ({u,2}, etc.) {3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 56,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 47,
     "Length": 4
   },
   {
@@ -116,8 +116,8 @@
     "Description": "During Miare ({b,1+2}, etc.) {2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 63,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 53,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "On hit or block regain recoverable heatlh, Heat Smash",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 69,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 58,
     "Length": 3
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Heat and Genjitsu {2+3}",
     "Properties": "",
     "Comment": "Heat Smash",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 75,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 63,
     "Length": 4
   },
   {
@@ -149,8 +149,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 82,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 69,
     "Length": 15
   },
   {
@@ -160,8 +160,8 @@
     "Description": "{1,1}",
     "Properties": "",
     "Comment": "Shift to Izumo",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 100,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 86,
     "Length": 2
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "{1,2,d-hold} (or {u-hold}) to shift to sidestep",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 105,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 90,
     "Length": 2
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2,2}",
     "Properties": "Homing",
     "Comment": "Shift to Izumo",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 110,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 94,
     "Length": 2
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 115,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 98,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 120,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 102,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{2,1,4,1}",
     "Properties": "",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 125,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 106,
     "Length": 3
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{2,1,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 131,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 111,
     "Length": 3
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{2,1,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 137,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 116,
     "Length": 3
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 143,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 121,
     "Length": 2
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 148,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 125,
     "Length": 3
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{3+4}",
     "Properties": "",
     "Comment": "{1+2,d-hold} to shift to crouching state when blocking, deals self-damage (recoverable when not in Heat)",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 154,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 130,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{1+4,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 159,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 134,
     "Length": 3
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{1+4,2,d,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 165,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 139,
     "Length": 3
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{1+4,3,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 171,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 144,
     "Length": 3
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{1+4,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 177,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 149,
     "Length": 3
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{f,1}",
     "Properties": "",
     "Comment": "Shift to Izumo",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 183,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 154,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{f,2}",
     "Properties": "",
     "Comment": "{f,2,d-hold} to cancel and shift to crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 188,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 158,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{f,2} on hit or block {1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 193,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 162,
     "Length": 3
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{f,3,2}",
     "Properties": "Homing",
     "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep, shift to Izumo",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 199,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 167,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{f,3,4}",
     "Properties": "Tornado",
     "Comment": "{f,3,d-hold} (or {u-hold}) to shift to sidestep",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 204,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 171,
     "Length": 2
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{f,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 209,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 175,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "On hit shift to Miare, can parry during Heat (partially uses remaining Heat time), deals self-damage (reverable when not in Heat)",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 214,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 179,
     "Length": 1
   },
   {
@@ -402,9 +402,9 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "Shift to Genjitsu, during Genjitsu {d-hold} to shift ot crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 218,
-    "Length": 1
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 182,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -413,8 +413,8 @@
     "Description": "{f,2+3}",
     "Properties": "",
     "Comment": "Punch parry effect",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 222,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 186,
     "Length": 2
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{df,1,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 227,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 190,
     "Length": 2
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{df,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 232,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 194,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 237,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 198,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{df,2} on hit or block {1+2}",
     "Properties": "",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 242,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 202,
     "Length": 2
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{df,3}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 247,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 206,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{df,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 252,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 210,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{df,3+4,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 257,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 214,
     "Length": 2
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{df,3+4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 262,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 218,
     "Length": 2
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{d,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 267,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 222,
     "Length": 2
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{d,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 272,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 226,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{d,1+2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 277,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 230,
     "Length": 3
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{d,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 283,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 235,
     "Length": 2
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{db,1,1,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 288,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 239,
     "Length": 3
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{db,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 294,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 244,
     "Length": 2
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 299,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 248,
     "Length": 2
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{db,4,4,4}",
     "Properties": "",
     "Comment": "{db,4,d-hold}, {db,4,4,d-hold}, {db,4,4,4,d-hold} to directly shift ot crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 304,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 252,
     "Length": 3
   },
   {
@@ -600,8 +600,8 @@
     "Description": "During Kariashi {1+4}",
     "Properties": "",
     "Comment": "Link to attack from {1+4}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 310,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 257,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{b,1}",
     "Properties": "",
     "Comment": "{b,1,d-hold} to cancel and shift to crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 315,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 261,
     "Length": 2
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{b,1} (Counter Hit)",
     "Properties": "",
     "Comment": "Throw when hit from the front",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 320,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 265,
     "Length": 3
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{b,2,1,1}",
     "Properties": "",
     "Comment": "{b,2,1,f-hold} to shift ot Genjitsu, {b,2,1,b-hold} to shift to Miare",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 326,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 270,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{b,2,1,2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 331,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 274,
     "Length": 3
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{b,2,1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 337,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 279,
     "Length": 3
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{b,2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 343,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 284,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{b,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 348,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 288,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{b,3,2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 353,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 292,
     "Length": 3
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{b,3,4}",
     "Properties": "",
     "Comment": "Link to attack from {db,4}, {b,3,4,d-hold} to directly shift to crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 359,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 297,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{b,4,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 364,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 301,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{b,1+2}",
     "Properties": "",
     "Comment": "Shift to Miare, regain recoverable health, during Miare {d-hold} (or {u-hold}) to shift to sidestep",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 369,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 305,
     "Length": 1
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{b,3+4}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 373,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 308,
     "Length": 2
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{b,2+3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 378,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 312,
     "Length": 3
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{u,2}",
     "Properties": "Homing",
     "Comment": "Or {ub,2}, shift to Izumo",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 384,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 317,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "{u,4}",
     "Properties": "",
     "Comment": "Or {ub,4}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 389,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 321,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "{uf,1}",
     "Properties": "",
     "Comment": "Deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 394,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 325,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "{uf,2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 399,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 329,
     "Length": 2
   },
   {
@@ -798,8 +798,8 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "Or {ub,3} or {u,3}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 404,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 333,
     "Length": 1
   },
   {
@@ -809,8 +809,8 @@
     "Description": "{uf,4,3}",
     "Properties": "Tornado",
     "Comment": "On hit shift to Miare, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 408,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 336,
     "Length": 3
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": "Or {ub,3+4} or {u,3+4}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 414,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 341,
     "Length": 2
   },
   {
@@ -831,8 +831,8 @@
     "Description": "{f,f-hold,2,2}",
     "Properties": "Tornado",
     "Comment": "{f,f-hold,2,f-hold} to shift to Genjitsu, {f,f-hold,f,2,b-hold} to shift to Maire",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 419,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 345,
     "Length": 2
   },
   {
@@ -842,8 +842,8 @@
     "Description": "{f,f-hold,2,3}",
     "Properties": "",
     "Comment": "{f,f-hold,2,f-hold} to shift to Genjitsu, {f,f-hold,f,2,b-hold} to shift to Maire",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 424,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 349,
     "Length": 2
   },
   {
@@ -853,8 +853,8 @@
     "Description": "{f,f-hold,3,3+4}",
     "Properties": "Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 429,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 353,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 434,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 357,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Or {ub,b,3}, chip damage on block",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 439,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 361,
     "Length": 2
   },
   {
@@ -886,8 +886,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 444,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 365,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "While rising {1,1,1}",
     "Properties": "",
     "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 449,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 369,
     "Length": 3
   },
   {
@@ -908,8 +908,8 @@
     "Description": "While rising {1,1,2}",
     "Properties": "Tornado",
     "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare, chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 455,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 374,
     "Length": 3
   },
   {
@@ -919,8 +919,8 @@
     "Description": "While rising {1,1,4}",
     "Properties": "",
     "Comment": "While rising {1,1,f-hold} to shift to Genjitsu, while rising {1,1,b-hold} to shift to Miare",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 461,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 379,
     "Length": 3
   },
   {
@@ -930,8 +930,8 @@
     "Description": "While rising {1,4,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 467,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 384,
     "Length": 3
   },
   {
@@ -941,8 +941,8 @@
     "Description": "While rising {1,4,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 473,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 389,
     "Length": 3
   },
   {
@@ -952,8 +952,8 @@
     "Description": "While rising {2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 479,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 394,
     "Length": 2
   },
   {
@@ -963,8 +963,8 @@
     "Description": "While rising {3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 484,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 398,
     "Length": 2
   },
   {
@@ -974,8 +974,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 489,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 402,
     "Length": 2
   },
   {
@@ -985,8 +985,8 @@
     "Description": "While rising {1+2}",
     "Properties": "",
     "Comment": "While rising {1+2,d-hold} to cancel and shift to crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 494,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 406,
     "Length": 2
   },
   {
@@ -996,8 +996,8 @@
     "Description": "While rising {3+4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 499,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 410,
     "Length": 2
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "While crouching {3+4,3}",
     "Properties": "",
     "Comment": "While crouching {3+4,d-hold} (or {3+4,3,d-hold}) to directly shift to crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 504,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 414,
     "Length": 3
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "While crouching {df,1}",
     "Properties": "",
     "Comment": "Deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 510,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 419,
     "Length": 3
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "While crouching {df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 516,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 424,
     "Length": 2
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "While crouching {df,3}",
     "Properties": "",
     "Comment": "Has clean hit effect",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 521,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 428,
     "Length": 2
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "While rising {1,1,1+4,2,1,2,4,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 526,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 432,
     "Length": 5
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "During sidestep {2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 534,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 439,
     "Length": 2
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "During sidestep {4}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 539,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 443,
     "Length": 3
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "During sidestep {1+2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 545,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 448,
     "Length": 2
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "{u,2}, etc.",
     "Properties": "",
     "Comment": "Shift to Izumo",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 550,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 452,
     "Length": 2
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "During Izumo {1,1}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 555,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 456,
     "Length": 3
   },
   {
@@ -1117,8 +1117,8 @@
     "Description": "During Izumo {1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 561,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 461,
     "Length": 3
   },
   {
@@ -1128,8 +1128,8 @@
     "Description": "During Izumo {2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 567,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 466,
     "Length": 3
   },
   {
@@ -1139,8 +1139,8 @@
     "Description": "During Izumo {3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 573,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 471,
     "Length": 4
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "During Izumo {4,1}",
     "Properties": "",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 580,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 477,
     "Length": 3
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "During Izumo {1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 586,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 482,
     "Length": 2
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "During Izumo {f,1+2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 591,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 486,
     "Length": 2
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "{f,3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Genjitsu, during Genjitsu {d-hold} to shift to crouching state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 596,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 490,
     "Length": 2
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "During Genjitsu {1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 601,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 494,
     "Length": 2
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "During Genjitsu {2}",
     "Properties": "Power Crush",
     "Comment": "Throw on front hit, deals self-damage when not in a Heat state (recoverable), absorb an attack to power up and add chip damage",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 606,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 498,
     "Length": 4
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "During Genjitsu {3,2}",
     "Properties": "",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 613,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 504,
     "Length": 3
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "During Genjitsu {4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 619,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 509,
     "Length": 2
   },
   {
@@ -1238,8 +1238,8 @@
     "Description": "{b,1+2}, etc.",
     "Properties": "",
     "Comment": "Shift to Miare, regain recoverable health, during Miare {d-hold} (or {u-hold}) to shift to sidestep, {db-hold} to shift to standing state",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 624,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 513,
     "Length": 1
   },
   {
@@ -1249,8 +1249,8 @@
     "Description": "During Miare {1}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 628,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 516,
     "Length": 3
   },
   {
@@ -1260,8 +1260,8 @@
     "Description": "During Miare {2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, deals self-damage (recoverable) when not in Heat",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 634,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 521,
     "Length": 3
   },
   {
@@ -1271,8 +1271,8 @@
     "Description": "During Miare {1+2}",
     "Properties": "Homing",
     "Comment": "Shift to Izumo",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 640,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 526,
     "Length": 2
   },
   {
@@ -1282,8 +1282,8 @@
     "Description": "During Miare {f-hold}",
     "Properties": "",
     "Comment": "Shift to Genjitsu",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 645,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 530,
     "Length": 2
   },
   {
@@ -1293,8 +1293,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 650,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 534,
     "Length": 3
   },
   {
@@ -1304,8 +1304,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 656,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 539,
     "Length": 4
   },
   {
@@ -1315,8 +1315,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 663,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 545,
     "Length": 4
   },
   {
@@ -1326,8 +1326,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 670,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 551,
     "Length": 3
   },
   {
@@ -1337,8 +1337,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 676,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 556,
     "Length": 3
   },
   {
@@ -1348,8 +1348,8 @@
     "Description": "Approach opponent {df,2+3}",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 682,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 561,
     "Length": 3
   },
   {
@@ -1359,8 +1359,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 688,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 566,
     "Length": 4
   },
   {
@@ -1370,8 +1370,8 @@
     "Description": "While crouching {db,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 695,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 572,
     "Length": 4
   },
   {
@@ -1381,8 +1381,8 @@
     "Description": "During Izumo {1+4} (or {2+3})",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 702,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 578,
     "Length": 3
   },
   {
@@ -1392,8 +1392,8 @@
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 708,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 583,
     "Length": 3
   },
   {
@@ -1403,8 +1403,8 @@
     "Description": "Time with opponent low attack {f,3+4}",
     "Properties": "",
     "Comment": "Regain recoverable health",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 714,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 588,
     "Length": 4
   },
   {
@@ -1414,8 +1414,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 721,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 594,
     "Length": 2
   },
   {
@@ -1425,8 +1425,8 @@
     "Description": "Time with opponent throw {f,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "KYXWEd2cXgY",
-    "StartTime": 726,
+    "VideoId": "jOnZPqhEyRw",
+    "StartTime": 598,
     "Length": 3
   }
 ]
