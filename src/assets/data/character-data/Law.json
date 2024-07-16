@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "BlW2OHkZ5i4",
+    "VideoId": "lxZJWOwpWRA",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 7,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 6,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 13,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 11,
     "Length": 5
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Allows the use of the powered up versions of nunchuck moves",
     "Properties": "",
     "Comment": "{1+2}, during Dragon Charge {1+2}, time with opponent punch {b,2+4}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 21,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 18,
     "Length": 6
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Can parry punches with Dragon Charge",
     "Properties": "",
     "Comment": "Take punches from opponent during Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 30,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 26,
     "Length": 5
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 38,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 33,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{1,1,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 44,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 38,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{b,1,2,2}",
     "Properties": "Heat Engager",
     "Comment": "{b,1,f-hold}, {b,1,2,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 50,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 43,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{uf,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 56,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 48,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Chip damage on block, absorb an attack to power up",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 62,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 53,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "During Dragon Charge ({d,1+2}, etc.) {f,1}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 68,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 58,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Dragon Charge ({d,1+2}, etc.) {f,3}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Chip damage on block, perfect frame input to power up, absorb an attack to power up",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 74,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 63,
     "Length": 3
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Also possible during Dragon Charge, Heat Smash, throw on hit, on block shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 80,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 68,
     "Length": 5
   },
   {
@@ -149,8 +149,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 88,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 75,
     "Length": 13
   },
   {
@@ -160,8 +160,8 @@
     "Description": "{1,1,1}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 104,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 90,
     "Length": 3
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,1,2}",
     "Properties": "",
     "Comment": "{1,1,2,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 110,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 95,
     "Length": 2
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 115,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 99,
     "Length": 1
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,2,2,2}",
     "Properties": "",
     "Comment": "{1,2,2,2,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 119,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 102,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{1,2,2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 124,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 106,
     "Length": 3
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{1,2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 130,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 111,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{1,2,uf,3,4}",
     "Properties": "",
     "Comment": "{1,2,uf,3,df-hold} to shift to Slide Step",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 135,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 115,
     "Length": 3
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{2,2,2}",
     "Properties": "",
     "Comment": "{2,2,2,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 141,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 120,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{2,2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 146,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 124,
     "Length": 3
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{2,b,2,1,2}",
     "Properties": "",
     "Comment": "{2,b,2,1,2,d-hold} to shift to crouching state",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 152,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 129,
     "Length": 3
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{3,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 158,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 134,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 163,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 138,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{4,3,4}",
     "Properties": "",
     "Comment": "{4,3,f-hold}, {4,3,4,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 168,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 142,
     "Length": 2
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{4,u,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 173,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 146,
     "Length": 2
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{1+2}",
     "Properties": "Tornado",
     "Comment": "Power up during Heat (paritally uses remaining Heat time)",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 178,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 150,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{3+4,4}",
     "Properties": "",
     "Comment": "Or during Dragon Charge {3+4,4}, chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 183,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 154,
     "Length": 3
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{f,LB,2,1,RB}",
     "Properties": "",
     "Comment": "Chip damage on block, {f,LB,2,1,RB,df-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 189,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 159,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{f,3,1}",
     "Properties": "",
     "Comment": "{f,3,1,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 194,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 163,
     "Length": 2
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "{f,1+2,d-hold} to shift to crouching state",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 199,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 167,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "Or during Dragon Charge {f,3+4}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 204,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 171,
     "Length": 2
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 209,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 175,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{df,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 214,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 179,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{df,4,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 219,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 183,
     "Length": 3
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{df,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 225,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 188,
     "Length": 2
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{d,1,3}",
     "Properties": "",
     "Comment": "{d,1,df-hold} to shift to Slide Step",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 230,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 192,
     "Length": 2
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{d,2,3}",
     "Properties": "Tornado",
     "Comment": "Or while crouching {2,3}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 235,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 196,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{d,3,3}",
     "Properties": "",
     "Comment": "{d,3,d-hold} to shift to crouching state",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 240,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 200,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{d,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 245,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 204,
     "Length": 2
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{d,1+2}",
     "Properties": "",
     "Comment": "Shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 250,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 208,
     "Length": 1
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{d,3+4,3}",
     "Properties": "",
     "Comment": "Or while crouching {4,3}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 254,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 211,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{db,2,4}",
     "Properties": "",
     "Comment": "{db,2,4,d-hold} to downed",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 259,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 215,
     "Length": 2
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 264,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 219,
     "Length": 2
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{db,4,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 269,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 223,
     "Length": 3
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{b,1,2,2}",
     "Properties": "Heat Engager",
     "Comment": "{b,1,f-hold}, {b,1,2,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 275,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 228,
     "Length": 3
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{b,2,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 281,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 233,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{b,2,2}",
     "Properties": "",
     "Comment": "{b,2,2,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 286,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 237,
     "Length": 2
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{b,2,3,4}",
     "Properties": "Tornado",
     "Comment": "{b,2,3,4,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 291,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 241,
     "Length": 3
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{b,2,3,u,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 297,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 246,
     "Length": 3
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{b,3}",
     "Properties": "Homing",
     "Comment": "{b,3,b-hold} to face backward",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 303,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 251,
     "Length": 2
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{b,4,3}",
     "Properties": "Homing",
     "Comment": "{b,4,b-hold} to face backward",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 308,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 255,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{b,1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 313,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 259,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{b,3+4}",
     "Properties": "",
     "Comment": "Or during Dragon Charge {b,3+4}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 318,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 263,
     "Length": 2
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{ub,1,2,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 323,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 267,
     "Length": 2
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{u,3}",
     "Properties": "",
     "Comment": "Or {ub,3}, {u,3,df-hold} to shift to Slide Step",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 328,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 271,
     "Length": 1
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{u,3,4}",
     "Properties": "",
     "Comment": "Or {ub,3,4}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 332,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 274,
     "Length": 2
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{uf,1,3}",
     "Properties": "",
     "Comment": "Or during Charge Power Punch {1,3} or during Ki Charge {1,3}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 337,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 278,
     "Length": 2
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{uf,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 342,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 282,
     "Length": 3
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 348,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 287,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": "Or during Dragon Charge {uf,3+4}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 353,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 291,
     "Length": 2
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 358,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 295,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{uf-hold,4}",
     "Properties": "",
     "Comment": "Or {ub-hold,4} or {u-hold,4} or while crouching {ub} (or {u} or {uf}) {4}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 363,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 299,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{uf-hold,4,3}",
     "Properties": "Tornado",
     "Comment": "Or {ub-hold,4,3} or {u-hold,4,3} or while crouching {ub} (or {u} or {uf}) {4,3}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 368,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 303,
     "Length": 3
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{f,f-hold,2,1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 374,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 308,
     "Length": 3
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{f,f-hold,2,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 380,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 313,
     "Length": 2
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{f,f-hold,2,f,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block, {f,f-hold,2,f,1+2,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 385,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 317,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Chip damage on block, absorb an attack to power up",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 390,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 321,
     "Length": 3
   },
   {
@@ -776,8 +776,8 @@
     "Description": "{f,f-hold,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 396,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 326,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 401,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 330,
     "Length": 2
   },
   {
@@ -798,8 +798,8 @@
     "Description": "{b,b-hold,2+3}",
     "Properties": "",
     "Comment": "{b,b-hold,2+3,b,b} to cancel and shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 406,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 334,
     "Length": 4
   },
   {
@@ -809,8 +809,8 @@
     "Description": "{df,1,3,2,2,3,3,3,4,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 413,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 340,
     "Length": 5
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{2+3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 421,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 347,
     "Length": 3
   },
   {
@@ -831,8 +831,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 427,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 352,
     "Length": 2
   },
   {
@@ -842,8 +842,8 @@
     "Description": "While rising {1,2}",
     "Properties": "",
     "Comment": "While rising {1,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 432,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 356,
     "Length": 3
   },
   {
@@ -853,8 +853,8 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 438,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 361,
     "Length": 2
   },
   {
@@ -864,8 +864,8 @@
     "Description": "While rising {3}",
     "Properties": "",
     "Comment": "Shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 443,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 365,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "While rising {4,3}",
     "Properties": "Tornado",
     "Comment": "While rising {4,f-hold} to shift to Dragon Chage",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 448,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 369,
     "Length": 3
   },
   {
@@ -886,8 +886,8 @@
     "Description": "While rising {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 454,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 374,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "While crouching {3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 459,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 378,
     "Length": 2
   },
   {
@@ -908,9 +908,9 @@
     "Description": "While crouching {uf-hold,3+4}",
     "Properties": "",
     "Comment": "Or while crouching {ub-hold} (or {u-hold}) {3+4}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 464,
-    "Length": 3
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 382,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -919,8 +919,8 @@
     "Description": "While crouching {df,d,df-hold}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 470,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 386,
     "Length": 1
   },
   {
@@ -930,8 +930,8 @@
     "Description": "While crouching {df,d,df-hold,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 474,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 389,
     "Length": 2
   },
   {
@@ -941,8 +941,8 @@
     "Description": "During sidestep {2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 479,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 393,
     "Length": 2
   },
   {
@@ -952,8 +952,8 @@
     "Description": "During sidestep {3}",
     "Properties": "",
     "Comment": "Shift to Dragon Charge on hit",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 484,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 397,
     "Length": 2
   },
   {
@@ -963,8 +963,8 @@
     "Description": "During sidestep {1+2,1}",
     "Properties": "",
     "Comment": "During sidestep {1+2} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 489,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 401,
     "Length": 3
   },
   {
@@ -974,8 +974,8 @@
     "Description": "During sidestep {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 495,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 406,
     "Length": 3
   },
   {
@@ -985,8 +985,8 @@
     "Description": "Back facing opponent {1}",
     "Properties": "",
     "Comment": "Link to attack from while facing forward {1}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 501,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 411,
     "Length": 1
   },
   {
@@ -996,8 +996,8 @@
     "Description": "Back facing opponent {2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 505,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 414,
     "Length": 3
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "Back facing opponent {4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 511,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 419,
     "Length": 2
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "Back facing opponent {1+2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 516,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 423,
     "Length": 2
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "Back facing opponent {d,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 521,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 427,
     "Length": 2
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "Back facing opponent {d,3+4}",
     "Properties": "",
     "Comment": "{d-hold,3+4} to downed",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 526,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 431,
     "Length": 2
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "{d,1+2}, etc.",
     "Properties": "",
     "Comment": "Shift to Dragon Charge, during Dragon Charge {df-hold} to shift Slide Step, absorb an attack during Heat state to shift to Dragon Parry",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 531,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 435,
     "Length": 1
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "During Dragon Charge {1}",
     "Properties": "",
     "Comment": "Chip damage on block, shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 535,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 438,
     "Length": 3
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "During Dragon Charge {2}",
     "Properties": "",
     "Comment": "Or {1+2+3+4} hold {2}, with chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 541,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 443,
     "Length": 2
   },
   {
@@ -1084,9 +1084,9 @@
     "Description": "During Dragon Charge {3}",
     "Properties": "Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 546,
-    "Length": 3
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 447,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -1095,8 +1095,8 @@
     "Description": "During Dragon Charge {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 552,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 451,
     "Length": 2
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "During Dragon Charge {1+2}",
     "Properties": "Tornado",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 557,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 455,
     "Length": 2
   },
   {
@@ -1117,8 +1117,8 @@
     "Description": "During Dragon Charge {f,1}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 562,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 459,
     "Length": 3
   },
   {
@@ -1128,9 +1128,9 @@
     "Description": "During Dragon Charge {f,LB,2,1,RB}",
     "Properties": "",
     "Comment": "Chip damage on block, during Dragon Charge {f,LB,2,1,RB,f-hold} to shift to Dragon Charge",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 568,
-    "Length": 2
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 464,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -1139,8 +1139,8 @@
     "Description": "During Dragon Charge {f,3}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Chip damage on block, perfect frame input to power up, absorb an attack to power up",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 573,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 469,
     "Length": 3
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "During Dragon Charge {f,4}",
     "Properties": "",
     "Comment": "Chip damage on block, perfect frame input to power up",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 579,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 474,
     "Length": 3
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 585,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 479,
     "Length": 3
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} (or {2}), {2+4,d-hold} to face backward",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 591,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 484,
     "Length": 3
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 597,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 489,
     "Length": 3
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 603,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 494,
     "Length": 4
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 610,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 500,
     "Length": 4
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "Approach opponent {f,2+3}",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 617,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 506,
     "Length": 4
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 624,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 512,
     "Length": 4
   },
   {
@@ -1238,8 +1238,8 @@
     "Description": "Approach opponent {uf,1+2,1,2,1+2}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 631,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 518,
     "Length": 3
   },
   {
@@ -1249,8 +1249,8 @@
     "Description": "Approach opponent {f,f-hold,3+4}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 637,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 523,
     "Length": 3
   },
   {
@@ -1260,8 +1260,8 @@
     "Description": "During Dragon Charge {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 643,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 528,
     "Length": 4
   },
   {
@@ -1271,8 +1271,8 @@
     "Description": "Time with opponent attack {b,1+3}",
     "Properties": "",
     "Comment": "Or during Dragon Charge {b,1+3}, {f} to shift to Dragon Charge when successful",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 650,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 534,
     "Length": 1
   },
   {
@@ -1282,8 +1282,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 654,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 537,
     "Length": 2
   },
   {
@@ -1293,8 +1293,8 @@
     "Description": "Time with opponent punch {b,2+4}",
     "Properties": "",
     "Comment": "Or during Dragon Charge {b,2+4}, partially restores remaining Heat time",
-    "VideoId": "BlW2OHkZ5i4",
-    "StartTime": 659,
+    "VideoId": "lxZJWOwpWRA",
+    "StartTime": 541,
     "Length": 4
   }
 ]
