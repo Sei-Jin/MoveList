@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "NWBhStfiokc",
+    "VideoId": "mQ3TaO0s76o",
     "StartTime": 0,
     "Length": 4
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 7,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 6,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 13,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 11,
     "Length": 3
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Perfect Input moves can be used without Perfect Input",
     "Properties": "",
     "Comment": "{f,4,1}, {f,f-hold,2}, etc.",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 19,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 16,
     "Length": 4
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Restores remaining Heat upon Perfect Input",
     "Properties": "",
     "Comment": "{f,4,1}, {f,f-hold,2}, etc.",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 26,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 22,
     "Length": 4
   },
   {
@@ -61,8 +61,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 33,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 28,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{4,4,4} (Perfect Input)",
     "Properties": "Heat Engager",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 39,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 33,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{df,4,4}",
     "Properties": "Heat Engager",
     "Comment": "{df,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 45,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 38,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{b,3+4}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 51,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 43,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 57,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 48,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "During Hitman ({3+4}, etc.) {u,3}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, during Hitman {u,3,d-hold} to directly shift to crouching state",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 63,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 53,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "On during Heat and Hitman {2+3}, Heat Smash, on hit shift to throw",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 69,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 58,
     "Length": 3
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Or during Rage and Hitman {df,1+2}, Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 75,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 63,
     "Length": 13
   },
   {
@@ -149,8 +149,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "{1,2,f-hold} to shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 91,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 78,
     "Length": 1
   },
   {
@@ -160,8 +160,8 @@
     "Description": "{1,2,2,3}",
     "Properties": "",
     "Comment": "{1,2,2,3,4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 95,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 81,
     "Length": 3
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{1,2,4}",
     "Properties": "",
     "Comment": "{1,2,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 101,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 86,
     "Length": 2
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,2,4} (Perfect Input)",
     "Properties": "",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage, {1,2,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 106,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 90,
     "Length": 2
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,3,3,3} (Pefect: third and fourth hit)",
     "Properties": "",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 111,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 94,
     "Length": 3
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{2,1,1}",
     "Properties": "",
     "Comment": "{2,1,3+4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 117,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 99,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{2,1,3}",
     "Properties": "",
     "Comment": "{2,1,3+4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 122,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 103,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{2,1,4}",
     "Properties": "",
     "Comment": "{2,1,3+4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 127,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 107,
     "Length": 2
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{2,2,3}",
     "Properties": "",
     "Comment": "{2,2,3,4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 132,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 111,
     "Length": 2
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{3,3}",
     "Properties": "",
     "Comment": "{3,4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 137,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 115,
     "Length": 2
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{LB,3,3,RB} when hit from front or on block {4} (Perfect Input)",
     "Properties": "",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat)",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 142,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 119,
     "Length": 2
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{4,3,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 147,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 123,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{4,3,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 152,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 127,
     "Length": 3
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{4,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 158,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 132,
     "Length": 2
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{4,4,4} (Perfect Input)",
     "Properties": "Heat Engager",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 163,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 136,
     "Length": 3
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{4,u,3}",
     "Properties": "",
     "Comment": "{4,u,3,f-hold} to shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 169,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 141,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{1+2}",
     "Properties": "Homing",
     "Comment": "{1+2,3+4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 174,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 145,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{3+4}",
     "Properties": "",
     "Comment": "Shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 179,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 149,
     "Length": 1
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{f,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 183,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 152,
     "Length": 3
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{f,3,3,3,3,3,4}",
     "Properties": "Tornado",
     "Comment": "From second to fourth hit {4} to shift to move",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 189,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 157,
     "Length": 4
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{f,3,3,3,3,3,4} (Perfect Input)",
     "Properties": "Tornado",
     "Comment": "Perfect Input not requred during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 196,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 163,
     "Length": 4
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{f,4,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 203,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 169,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{f,4,1} (Perfect Input)",
     "Properties": "Tornado",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 208,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 173,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{f,4,3}",
     "Properties": "",
     "Comment": "{f,4,3,4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 213,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 177,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{f,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 218,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 181,
     "Length": 2
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 223,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 185,
     "Length": 2
   },
   {
@@ -435,8 +435,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 228,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 189,
     "Length": 2
   },
   {
@@ -446,8 +446,8 @@
     "Description": "{df,3,2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 233,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 193,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{df,4,4}",
     "Properties": "Heat Engager",
     "Comment": "{df,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 238,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 197,
     "Length": 3
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{d,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 244,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 202,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{d,3}",
     "Properties": "",
     "Comment": "{d,3,4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 249,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 206,
     "Length": 1
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{d,4,n,4}",
     "Properties": "",
     "Comment": "Link to attack from {4}",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 253,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 209,
     "Length": 2
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{d-hold,4,4,4,4}",
     "Properties": "",
     "Comment": "{d-hold,4,4,4,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 258,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 213,
     "Length": 3
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{d,3+4}",
     "Properties": "",
     "Comment": "{d,3+4,3+4} to cancel and shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 264,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 218,
     "Length": 3
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 270,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 223,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{db,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 275,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 227,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{b,1,1,2}",
     "Properties": "",
     "Comment": "{b,1,1,3+4} to shift to Hitman, {b,1,1,f-hold} to cancel and shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 280,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 231,
     "Length": 2
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{b,1,1,2} (Perfect: second hit)",
     "Properties": "",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage, {b,1,1,3+4} to shift to Hitman, {b,1,1,f-hold} to cancel into Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 285,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 235,
     "Length": 3
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{b,1,1+2} (Perfect Input)",
     "Properties": "",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 291,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 240,
     "Length": 3
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{b,2}",
     "Properties": "",
     "Comment": "{b,2,f-hold} to shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 297,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 245,
     "Length": 1
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{b,2,4,3}",
     "Properties": "",
     "Comment": "{b,2,4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 301,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 248,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{b,3,3}",
     "Properties": "",
     "Comment": "{b,3,3,f-hold} to shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 306,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 252,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{b,4}",
     "Properties": "",
     "Comment": "{b,4,3} to shift Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 311,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 256,
     "Length": 1
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{b,3+4}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 315,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 259,
     "Length": 3
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{ub,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 321,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 264,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{u,3}",
     "Properties": "",
     "Comment": "{u,3,d-hold} to directly shift to crouching state, {u,3,3+4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 326,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 268,
     "Length": 1
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{uf,3,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 330,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 271,
     "Length": 2
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{uf,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 335,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 275,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{uf,4}",
     "Properties": "",
     "Comment": "Or {ub,4} or {u,4}",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 340,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 279,
     "Length": 2
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": "Chip damage on block, {uf,3+4,3+4} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 345,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 283,
     "Length": 2
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 350,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 287,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, {f,f-hold,2,f-hold} to shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 355,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 291,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{f,f-hold,2} (quick input)",
     "Properties": "Tornado",
     "Comment": "Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat), chip damage, {f,f-hold,2,f-hold} to shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 360,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 295,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 365,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 299,
     "Length": 3
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{f,f-hold,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 371,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 304,
     "Length": 2
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{d,db-hold,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 376,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 308,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "{b,b-hold,4}",
     "Properties": "Homing",
     "Comment": "Chip damage on block, {b,b-hold,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 381,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 312,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "{f,f,f-hold,3,4}",
     "Properties": "",
     "Comment": "Chip damage on block, {f,f,f-hold,3,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 386,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 316,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "{df,1,2,2,1,3,3,3,4,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 391,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 320,
     "Length": 5
   },
   {
@@ -798,8 +798,8 @@
     "Description": "{ub,b}",
     "Properties": "",
     "Comment": "Shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 399,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 327,
     "Length": 2
   },
   {
@@ -809,8 +809,8 @@
     "Description": "{2+3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 404,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 331,
     "Length": 3
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 410,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 336,
     "Length": 2
   },
   {
@@ -831,8 +831,8 @@
     "Description": "While rising {1,2}",
     "Properties": "",
     "Comment": "While rising {1} to shift to Hitman, while rising {1,2,f-hold} to shift to Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 415,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 340,
     "Length": 2
   },
   {
@@ -842,8 +842,8 @@
     "Description": "While rising {1,4}",
     "Properties": "",
     "Comment": "While rising {1} to shift to Hitman, while rising {1,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 420,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 344,
     "Length": 2
   },
   {
@@ -853,8 +853,8 @@
     "Description": "While rising {2,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 425,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 348,
     "Length": 3
   },
   {
@@ -864,8 +864,8 @@
     "Description": "While rising {2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 431,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 353,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "While rising {3,3,d-hold,3,3,d-hold,3,3,d-hold,3,3},...",
     "Properties": "",
     "Comment": "While rising {3,3,4} to shift to Hitman, can shift to mid attacks ({n,3}) on the fourth, sixth, and eighth high attacks",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 436,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 357,
     "Length": 5
   },
   {
@@ -886,8 +886,8 @@
     "Description": "While rising {3,3,df-hold,3,3,n,3,3,n,3,3},...",
     "Properties": "",
     "Comment": "While rising {3,3,4} to shift to Hitman, can shift to low attacks ({d-hold,3}) on the fourth, sixthm, and eighth high attacks",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 444,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 364,
     "Length": 5
   },
   {
@@ -897,8 +897,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "While rising {4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 452,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 371,
     "Length": 2
   },
   {
@@ -908,8 +908,8 @@
     "Description": "While crouching {df,4}",
     "Properties": "",
     "Comment": "While crouching {df,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 457,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 375,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "While crouching {uf-hold,4}",
     "Properties": "",
     "Comment": "Or while crouching {ub-hold} (or {u-hold}) {4}, while crouching {uf-hold,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 462,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 379,
     "Length": 2
   },
   {
@@ -930,9 +930,9 @@
     "Description": "While crouching {uf-hold,3+4}",
     "Properties": "",
     "Comment": "Or while crouching {ub-hold} (or {u-hold}) {3+4}",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 467,
-    "Length": 3
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 383,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -941,8 +941,8 @@
     "Description": "While crouching {df,d,df-hold}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 473,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 387,
     "Length": 1
   },
   {
@@ -952,8 +952,8 @@
     "Description": "While crouching {df,d,df-hold,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 477,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 390,
     "Length": 2
   },
   {
@@ -963,8 +963,8 @@
     "Description": "While crouching {df,d,df,3} ({df}+{3} press simultaneously)",
     "Properties": "",
     "Comment": "Or while crouching {df,d,df,3} (quick input), Perfect Input not required during Heat (partially uses remaining Heat time, Perfect Input restores Heat)",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 482,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 394,
     "Length": 2
   },
   {
@@ -974,8 +974,8 @@
     "Description": "{f,n}",
     "Properties": "",
     "Comment": "Or during Hitman {f,n}",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 487,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 398,
     "Length": 1
   },
   {
@@ -985,8 +985,8 @@
     "Description": "During Mist Step {3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 491,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 401,
     "Length": 2
   },
   {
@@ -996,8 +996,8 @@
     "Description": "During Mist Step {3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 496,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 405,
     "Length": 2
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "During Mist Step {b,n}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 501,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 409,
     "Length": 1
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "During Mist Step {b,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 505,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 412,
     "Length": 2
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "{3+4},etc.",
     "Properties": "",
     "Comment": "Shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 510,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 416,
     "Length": 1
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "During Hitman {1}",
     "Properties": "",
     "Comment": "During Hitman {1,f-hold} to cancel and shift to Mist Step, {1,3} to cancel and shift to Scatter Kick",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 514,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 419,
     "Length": 2
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "During Hitman {1,1,1}",
     "Properties": "",
     "Comment": "From first to second hit to Hitman, during Hitman {1,1,f-hold} to cancel into Mist Step",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 519,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 423,
     "Length": 3
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "During Hitman {1,4}",
     "Properties": "",
     "Comment": "During Hitman {1,4,3} to shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 525,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 428,
     "Length": 2
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "During Hitman {2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 530,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 432,
     "Length": 3
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "During Hitman {3}",
     "Properties": "Power Crush, Homing",
     "Comment": "Chip damage, throw on close range front hit",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 536,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 437,
     "Length": 3
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "During Hitman {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 542,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 442,
     "Length": 2
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "During Hitman {1+2}",
     "Properties": "",
     "Comment": "Shift to Hitman",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 547,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 446,
     "Length": 2
   },
   {
@@ -1117,8 +1117,8 @@
     "Description": "During Hitman {u,3}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block, during Hitman {u,3,d-hold} to directly shift to crouching state",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 552,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 450,
     "Length": 3
   },
   {
@@ -1128,8 +1128,8 @@
     "Description": "During Hitman {u,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 558,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 455,
     "Length": 2
   },
   {
@@ -1139,8 +1139,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} (or {2})",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 563,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 459,
     "Length": 3
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} (or {2})",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 569,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 464,
     "Length": 3
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 575,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 469,
     "Length": 4
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 582,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 475,
     "Length": 3
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 588,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 480,
     "Length": 3
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Or during Hitman {uf,1+2}, throw escape {1+2}",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 594,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 485,
     "Length": 2
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4})",
     "Properties": "",
     "Comment": "Or during Hitman {b,1+3} (or {b,2+4}), when parrying an attack, {4} for follow-up attack",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 599,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 489,
     "Length": 2
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "After Mist Illusion succeeds {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 604,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 493,
     "Length": 3
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "NWBhStfiokc",
-    "StartTime": 610,
+    "VideoId": "mQ3TaO0s76o",
+    "StartTime": 498,
     "Length": 2
   }
 ]
