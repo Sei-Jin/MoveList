@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "hvbJroHyJxw",
+    "VideoId": "GJR6Vjc9RWI",
     "StartTime": 0,
     "Length": 5
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 8,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 7,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 14,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 12,
     "Length": 3
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Some hold moves can have shortened max level holds",
     "Properties": "",
     "Comment": "{db,1,2} hold, etc.",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 20,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 17,
     "Length": 3
   },
   {
@@ -50,8 +50,8 @@
     "Description": "Allows the use of the powered up version of Bear Roll",
     "Properties": "",
     "Comment": "While crouching {1+2}, during Bear Roll {1}, etc.",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 26,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 22,
     "Length": 2
   },
   {
@@ -61,8 +61,8 @@
     "Description": "Allows the use of Wind Bear Fist, Fresh Wind Bear Fist",
     "Properties": "",
     "Comment": "{df,2+3}, {df,2+3} hold",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 31,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 26,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 37,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 31,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "{1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 43,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 36,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "{b,1}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "{b,1,d-hold} (or [3+4}) to shift to Hunting (does not shift when using Heat Dash), absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 49,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 41,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager, Homing",
     "Comment": "Chip damage, {b,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 55,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 46,
     "Length": 3
   },
   {
@@ -116,8 +116,8 @@
     "Description": "{f,f,f-hold,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage, {f,f,f-hold,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 61,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 51,
     "Length": 3
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Hunting ({3+4}, etc.) {d,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Shift to Hunting (does not shift when using Heat Dash)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 67,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 56,
     "Length": 3
   },
   {
@@ -138,8 +138,8 @@
     "Description": "During Heat {df,2+3}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, during Heat {f,d,df,2} to power up",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 73,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 61,
     "Length": 2
   },
   {
@@ -149,8 +149,8 @@
     "Description": "During Heat {df,2+3} hold",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, during Heat {f,d,df,2} to power up, cannot absorb with Power Crush",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 78,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 65,
     "Length": 3
   },
   {
@@ -160,8 +160,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 84,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 70,
     "Length": 3
   },
   {
@@ -171,8 +171,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 90,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 75,
     "Length": 14
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{1,1,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 107,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 91,
     "Length": 3
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 113,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 96,
     "Length": 2
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{2,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 118,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 100,
     "Length": 3
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{2,1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 124,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 105,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 129,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 109,
     "Length": 3
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{3+4}",
     "Properties": "",
     "Comment": "Or while down and facing down {3+4}, to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 135,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 114,
     "Length": 1
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{f,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 139,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 117,
     "Length": 2
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{f,1+2,1+2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 144,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 121,
     "Length": 3
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 150,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 126,
     "Length": 2
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{f,3+4,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 155,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 130,
     "Length": 3
   },
   {
@@ -292,9 +292,9 @@
     "Description": "{df,1,2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 161,
-    "Length": 2
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 135,
+    "Length": 3
   },
   {
     "Id": 28,
@@ -303,8 +303,8 @@
     "Description": "{df,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 166,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 140,
     "Length": 2
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{df,3,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 171,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 144,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{d,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 176,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 148,
     "Length": 2
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{d,3+4}",
     "Properties": "",
     "Comment": "Or {db,3+4}, {d,3+4,f-hold} to shift to Bear Roll, {d,3+4,b-hold} to shift to California Roll",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 181,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 152,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{db,1,2}",
     "Properties": "",
     "Comment": "Can hold, {db,1,2,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 186,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 156,
     "Length": 2
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{db,1,2} hold",
     "Properties": "",
     "Comment": "Chip damage on block, {db,1,2} hold {d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 191,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 160,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{db,1,2} hold (max)",
     "Properties": "",
     "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time), {db,1,2} hold, then {d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 196,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 164,
     "Length": 3
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{db,2}",
     "Properties": "",
     "Comment": "{db,2,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 202,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 169,
     "Length": 2
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{db,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 207,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 173,
     "Length": 1
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{db,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 211,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 176,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{db,1+2,1+2,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 216,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 180,
     "Length": 3
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{db,2+3}",
     "Properties": "",
     "Comment": "Hold to power up and deal more chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 222,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 185,
     "Length": 2
   },
   {
@@ -435,9 +435,9 @@
     "Description": "{db,2+3} hold",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 227,
-    "Length": 2
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 189,
+    "Length": 3
   },
   {
     "Id": 41,
@@ -446,8 +446,8 @@
     "Description": "{db,2+3} hold (max)",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 232,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 194,
     "Length": 3
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{b,1}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "{b,1,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash), absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 238,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 199,
     "Length": 3
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{b,2,1,1+2}",
     "Properties": "",
     "Comment": "{b,2,1,d-hold} (or {3+4}) to shift to Hunting, {b,2,1,f-hold} to shift to Bear Roll",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 244,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 204,
     "Length": 2
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{b,2,2,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 249,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 208,
     "Length": 3
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager, Homing",
     "Comment": "Chip damage, {b,1+2,d-hold} (or {3+4}) to shift ot Hunting (does not shift when using Heat Dash)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 255,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 213,
     "Length": 3
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{b,3+4}",
     "Properties": "Tornado",
     "Comment": "Or while rising {3+4}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 261,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 218,
     "Length": 3
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{b,1+4}",
     "Properties": "",
     "Comment": "{b,1+4,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 267,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 223,
     "Length": 3
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{b,1+4,f,f}",
     "Properties": "",
     "Comment": "{b,1+4,f,f-hold} to extend",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 273,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 228,
     "Length": 3
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{ub,1+2}",
     "Properties": "",
     "Comment": "{ub,1+2,d-hold} (or {3+4}) to cancel and shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 279,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 233,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{u,1+2}",
     "Properties": "",
     "Comment": "{u,1+2,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 284,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 237,
     "Length": 2
   },
   {
@@ -556,8 +556,8 @@
     "Description": "{u,3+4}",
     "Properties": "",
     "Comment": "Shift to Bear Sit",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 289,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 241,
     "Length": 2
   },
   {
@@ -567,8 +567,8 @@
     "Description": "{uf,1}",
     "Properties": "",
     "Comment": "Or {ub,1} or {u,1}, chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 294,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 245,
     "Length": 2
   },
   {
@@ -578,8 +578,8 @@
     "Description": "{uf,2}",
     "Properties": "Homing",
     "Comment": "Or {ub,2} or {u,2}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 299,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 249,
     "Length": 2
   },
   {
@@ -589,8 +589,8 @@
     "Description": "{uf,3,4,1+2}",
     "Properties": "",
     "Comment": "{uf,3,4,1+2,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 304,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 253,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{uf,4} on hit or block {3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 309,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 257,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 314,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 261,
     "Length": 2
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
     "Comment": "Chip damage, to shift to Hunting, {f,f-hold,1+2,f-hold} to shift Bear Roll",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 319,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 265,
     "Length": 3
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{b,f,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 325,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 270,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{d,df,f,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 330,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 274,
     "Length": 3
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{d,df,f,2,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 336,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 279,
     "Length": 3
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 342,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 284,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{f,f,f-hold,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage, {f,f,f-hold,1+2,d-hold} (or {3+4}) to shift to Hunting (does not shift when using Heat Dash)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 347,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 288,
     "Length": 3
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{1+3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 353,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 293,
     "Length": 3
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 359,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 298,
     "Length": 2
   },
   {
@@ -710,8 +710,8 @@
     "Description": "While rising {1,2}",
     "Properties": "Tornado",
     "Comment": "Can hold at last step, while rising {1,2,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 364,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 302,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "While rising {1,2} hold",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, while rising {1,2} hold {d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 369,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 306,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "While rising {1,2} hold (max)",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time), while rising {1,2} hold, then {d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 374,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 310,
     "Length": 3
   },
   {
@@ -743,8 +743,8 @@
     "Description": "While rising {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 380,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 315,
     "Length": 2
   },
   {
@@ -754,8 +754,8 @@
     "Description": "While rising {3}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 385,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 319,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 390,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 323,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "While crouching {1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 395,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 327,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "While crouching {1+2}",
     "Properties": "",
     "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 400,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 331,
     "Length": 1
   },
   {
@@ -798,8 +798,8 @@
     "Description": "While crouching {df,2,1,1+2,3,1+2,3+4,1+2,2,3,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 404,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 334,
     "Length": 8
   },
   {
@@ -809,8 +809,8 @@
     "Description": "During sidestep {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 415,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 344,
     "Length": 2
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Hunting, {db-hold} to shift to crouching state, {ub} (or {u} or {uf}) to shift to standing state",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 420,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 348,
     "Length": 1
   },
   {
@@ -831,8 +831,8 @@
     "Description": "During Hunting {1,2}",
     "Properties": "",
     "Comment": "Can hold at last step",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 424,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 351,
     "Length": 2
   },
   {
@@ -842,8 +842,8 @@
     "Description": "During Hunting {1,2} hold",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 429,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 355,
     "Length": 2
   },
   {
@@ -853,8 +853,8 @@
     "Description": "During Hunting {1,2} hold (max)",
     "Properties": "",
     "Comment": "Chip damage on block, cannot absorb with Power Crush, shortened hold during Heat (consumes remaining time)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 434,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 359,
     "Length": 3
   },
   {
@@ -864,8 +864,8 @@
     "Description": "During Hunting {2}",
     "Properties": "",
     "Comment": "Shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 440,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 364,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "During Hunting {1+2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 445,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 368,
     "Length": 3
   },
   {
@@ -886,8 +886,8 @@
     "Description": "During Hunting {3+4}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 451,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 373,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "During Hunting {f,3+4}",
     "Properties": "",
     "Comment": "Or during Hunting {b,3+4}, shift to Bear Sit",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 456,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 377,
     "Length": 2
   },
   {
@@ -908,8 +908,8 @@
     "Description": "During Hunting {df,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 461,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 381,
     "Length": 2
   },
   {
@@ -919,8 +919,8 @@
     "Description": "During Hunting {d,1+2}",
     "Properties": "Heat Engager",
     "Comment": "Shift to Hunting (does not shift whne using Heat Dash)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 466,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 385,
     "Length": 3
   },
   {
@@ -930,8 +930,8 @@
     "Description": "During Hunting {b,1+2,1+2}",
     "Properties": "",
     "Comment": "During Hunting {b,1+2,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 472,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 390,
     "Length": 3
   },
   {
@@ -941,8 +941,8 @@
     "Description": "During Hunting {3} (or {4})",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 478,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 395,
     "Length": 2
   },
   {
@@ -952,8 +952,8 @@
     "Description": "During Hunting {d,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 483,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 399,
     "Length": 1
   },
   {
@@ -963,8 +963,8 @@
     "Description": "During Hunting {f,f}",
     "Properties": "",
     "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 487,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 402,
     "Length": 1
   },
   {
@@ -974,8 +974,8 @@
     "Description": "During Hunting {b,b}",
     "Properties": "",
     "Comment": "During Bear Sit {b-hold}, during Hunting {b,b,d-hold} (or {3+4}) to shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 491,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 405,
     "Length": 2
   },
   {
@@ -985,8 +985,8 @@
     "Description": "{d,3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Bear Sit",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 496,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 409,
     "Length": 2
   },
   {
@@ -996,8 +996,8 @@
     "Description": "During Bear Sit {1,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 501,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 413,
     "Length": 2
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "During Bear Sit {2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 506,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 417,
     "Length": 3
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "During Bear Sit {3+4}",
     "Properties": "",
     "Comment": "During Bear Sit {3+4,f-hold} to shift to Bear Roll",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 512,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 422,
     "Length": 3
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "During Bear Sit {f-hold}",
     "Properties": "",
     "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 518,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 427,
     "Length": 2
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "While crouching {1+2}, etc.",
     "Properties": "",
     "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 523,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 431,
     "Length": 1
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "During Bear Roll {1}",
     "Properties": "Tornado",
     "Comment": "Power up during Heat (partially uses remaining Heat time)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 527,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 434,
     "Length": 3
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "During Bear Roll {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 533,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 439,
     "Length": 3
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "During Bear Roll {3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 539,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 444,
     "Length": 3
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "During Bear Roll {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 545,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 449,
     "Length": 3
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "During Bear Roll {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 551,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 454,
     "Length": 3
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "During Bear Roll {d-hold} (or {3+4})",
     "Properties": "",
     "Comment": "Shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 557,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 459,
     "Length": 2
   },
   {
@@ -1117,8 +1117,8 @@
     "Description": "While down and facing up {1+2}",
     "Properties": "",
     "Comment": "Shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 562,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 463,
     "Length": 2
   },
   {
@@ -1128,8 +1128,8 @@
     "Description": "While down and facing up {d,1+2}",
     "Properties": "",
     "Comment": "Shift to Bear Sit",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 567,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 467,
     "Length": 2
   },
   {
@@ -1139,8 +1139,8 @@
     "Description": "While down and facing down {1+2}",
     "Properties": "",
     "Comment": "Shift to Hunting",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 572,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 471,
     "Length": 1
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "While down and facing down {f-hold}",
     "Properties": "",
     "Comment": "Shift to Bear Roll, becomes special mid attack during Heat (partially uses remaining Heat time)",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 576,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 474,
     "Length": 1
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 580,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 477,
     "Length": 4
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 587,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 483,
     "Length": 4
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 594,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 489,
     "Length": 4
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 601,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 495,
     "Length": 3
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 607,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 500,
     "Length": 5
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 615,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 507,
     "Length": 3
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "Approach opponent {f,df,d,db,b,f,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 621,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 512,
     "Length": 5
   },
   {
@@ -1238,9 +1238,9 @@
     "Description": "During Hunting {f,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Cannot throw escape",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 629,
-    "Length": 4
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 519,
+    "Length": 5
   },
   {
     "Id": 114,
@@ -1249,8 +1249,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 636,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 526,
     "Length": 2
   },
   {
@@ -1260,8 +1260,8 @@
     "Description": "Time with opponent low attack during Hunting {f-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 641,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 530,
     "Length": 3
   },
   {
@@ -1271,8 +1271,8 @@
     "Description": "While opponent is down {d,1+4}",
     "Properties": "",
     "Comment": "(While opponent is down) {d,1+4,3+4} to cancel and face backward",
-    "VideoId": "hvbJroHyJxw",
-    "StartTime": 647,
+    "VideoId": "GJR6Vjc9RWI",
+    "StartTime": 535,
     "Length": 4
   }
 ]
