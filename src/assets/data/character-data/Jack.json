@@ -6,7 +6,7 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "S8DQG1kU1es",
+    "VideoId": "kMNCHWi1vXU",
     "StartTime": 0,
     "Length": 5
   },
@@ -17,8 +17,8 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 8,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 7,
     "Length": 3
   },
   {
@@ -28,8 +28,8 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHS} (or {2+3})",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 14,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 12,
     "Length": 4
   },
   {
@@ -39,8 +39,8 @@
     "Description": "Allows the use of moves while Gamma Charge is activated",
     "Properties": "",
     "Comment": "During Gamma Howl {2}, during Gamma Howl {1}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 21,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 18,
     "Length": 6
   },
   {
@@ -50,8 +50,8 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 30,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 26,
     "Length": 3
   },
   {
@@ -61,8 +61,8 @@
     "Description": "{b,2}",
     "Properties": "Heat Engager",
     "Comment": "Hold to power up (chip damage on block)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 36,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 31,
     "Length": 3
   },
   {
@@ -72,8 +72,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 42,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 36,
     "Length": 3
   },
   {
@@ -83,8 +83,8 @@
     "Description": "During Gamma Howl ({3+4}, etc.) {4}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 48,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 41,
     "Length": 3
   },
   {
@@ -94,8 +94,8 @@
     "Description": "During Gamma Howl ({3+4}, etc.) {3+4}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 54,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 46,
     "Length": 3
   },
   {
@@ -105,8 +105,8 @@
     "Description": "Approach crouching opponent {d,3+4}",
     "Properties": "Heat Engager",
     "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 60,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 51,
     "Length": 4
   },
   {
@@ -116,8 +116,8 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash, on hit shift to throw",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 67,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 57,
     "Length": 4
   },
   {
@@ -127,8 +127,8 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 74,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 63,
     "Length": 14
   },
   {
@@ -138,8 +138,8 @@
     "Description": "{1,1}",
     "Properties": "",
     "Comment": "{1,1,d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 91,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 79,
     "Length": 2
   },
   {
@@ -149,8 +149,8 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 96,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 83,
     "Length": 2
   },
   {
@@ -160,8 +160,8 @@
     "Description": "{2,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 101,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 87,
     "Length": 3
   },
   {
@@ -171,8 +171,8 @@
     "Description": "{2,1,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 107,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 92,
     "Length": 3
   },
   {
@@ -182,8 +182,8 @@
     "Description": "{2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 113,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 97,
     "Length": 2
   },
   {
@@ -193,8 +193,8 @@
     "Description": "{1+2}",
     "Properties": "Tornado, Homing",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 118,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 101,
     "Length": 3
   },
   {
@@ -204,8 +204,8 @@
     "Description": "{3+4}",
     "Properties": "Power Crush",
     "Comment": "Or while rising {3+4}, shift to Gamma howl, abosrb an attack to activate Gamma Charge",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 124,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 106,
     "Length": 2
   },
   {
@@ -215,8 +215,8 @@
     "Description": "{1+4,1}",
     "Properties": "",
     "Comment": "{b,db,d,df,f,1} to power up, chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 129,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 110,
     "Length": 2
   },
   {
@@ -226,8 +226,8 @@
     "Description": "{1+4} hold, then {1}",
     "Properties": "",
     "Comment": "{1+4} hold or {b,db,d,df,f-hold} to increase rotation",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 134,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 114,
     "Length": 5
   },
   {
@@ -237,8 +237,8 @@
     "Description": "{1+4,df,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 142,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 121,
     "Length": 3
   },
   {
@@ -248,8 +248,8 @@
     "Description": "{1+4,df,1} (quick input)",
     "Properties": "Tornado",
     "Comment": "{b,db,d,df,f,df,1} (quick input) to power up",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 148,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 126,
     "Length": 3
   },
   {
@@ -259,8 +259,8 @@
     "Description": "{f,1,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 154,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 131,
     "Length": 2
   },
   {
@@ -270,8 +270,8 @@
     "Description": "{f,1,2,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 159,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 135,
     "Length": 3
   },
   {
@@ -281,8 +281,8 @@
     "Description": "{f,1,2,2}",
     "Properties": "",
     "Comment": "Hold at last step to power up (chip damage on block)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 165,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 140,
     "Length": 2
   },
   {
@@ -292,8 +292,8 @@
     "Description": "{f,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 170,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 144,
     "Length": 1
   },
   {
@@ -303,8 +303,8 @@
     "Description": "{f,3,2}",
     "Properties": "",
     "Comment": "Or while rising {3,2}, {f,3,d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 174,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 147,
     "Length": 2
   },
   {
@@ -314,8 +314,8 @@
     "Description": "{f,3,1+2}",
     "Properties": "",
     "Comment": "Or while rising {3,1+2}, {f,3,d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 179,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 151,
     "Length": 2
   },
   {
@@ -325,8 +325,8 @@
     "Description": "{f,LB,4,1,RB}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 184,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 155,
     "Length": 3
   },
   {
@@ -336,8 +336,8 @@
     "Description": "{f,LB,4,1,RB,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 190,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 160,
     "Length": 2
   },
   {
@@ -347,8 +347,8 @@
     "Description": "{f,1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 195,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 164,
     "Length": 2
   },
   {
@@ -358,8 +358,8 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "{f,3+4,d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 200,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 168,
     "Length": 2
   },
   {
@@ -369,8 +369,8 @@
     "Description": "{df,1,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 205,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 172,
     "Length": 2
   },
   {
@@ -380,8 +380,8 @@
     "Description": "{df,1,2,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 210,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 176,
     "Length": 3
   },
   {
@@ -391,8 +391,8 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 216,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 181,
     "Length": 2
   },
   {
@@ -402,8 +402,8 @@
     "Description": "{df,2,1}",
     "Properties": "",
     "Comment": "Hold at last step to power up, {df,2,1,d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 221,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 185,
     "Length": 2
   },
   {
@@ -413,8 +413,8 @@
     "Description": "{df,2,1} hold",
     "Properties": "Tornado",
     "Comment": "{df,2,1} hold, then {d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 226,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 189,
     "Length": 4
   },
   {
@@ -424,8 +424,8 @@
     "Description": "{df,3,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 233,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 195,
     "Length": 2
   },
   {
@@ -435,9 +435,9 @@
     "Description": "{df,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 238,
-    "Length": 1
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 199,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -446,8 +446,8 @@
     "Description": "{df,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 242,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 203,
     "Length": 2
   },
   {
@@ -457,8 +457,8 @@
     "Description": "{df,1+3}",
     "Properties": "",
     "Comment": "Throw when hit form the front in close range",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 247,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 207,
     "Length": 4
   },
   {
@@ -468,8 +468,8 @@
     "Description": "{df,1+3} during hit {1+2}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 254,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 213,
     "Length": 5
   },
   {
@@ -479,8 +479,8 @@
     "Description": "{df,1+4}",
     "Properties": "Homing",
     "Comment": "{b,db,d,df,1} to power up",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 262,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 220,
     "Length": 2
   },
   {
@@ -490,8 +490,8 @@
     "Description": "{df,2+3}",
     "Properties": "",
     "Comment": "{b,db,d,df,1} to power up",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 267,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 224,
     "Length": 2
   },
   {
@@ -501,8 +501,8 @@
     "Description": "{df,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 272,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 228,
     "Length": 2
   },
   {
@@ -512,8 +512,8 @@
     "Description": "{d,3+4}",
     "Properties": "",
     "Comment": "Shift to Sit Down",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 277,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 232,
     "Length": 2
   },
   {
@@ -523,8 +523,8 @@
     "Description": "{db,1,1,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 282,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 236,
     "Length": 2
   },
   {
@@ -534,8 +534,8 @@
     "Description": "{db,2}",
     "Properties": "",
     "Comment": "Hold to power up (chip damage on block)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 287,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 240,
     "Length": 2
   },
   {
@@ -545,8 +545,8 @@
     "Description": "{db,3,4,3,4,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 292,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 244,
     "Length": 4
   },
   {
@@ -556,8 +556,8 @@
     "Description": "During Cossack Kicks {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 299,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 250,
     "Length": 3
   },
   {
@@ -567,8 +567,8 @@
     "Description": "During Cossack Kicks approach (crouching opponent) {d,1+2}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 305,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 255,
     "Length": 4
   },
   {
@@ -578,9 +578,9 @@
     "Description": "{db,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 312,
-    "Length": 2
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 261,
+    "Length": 1
   },
   {
     "Id": 54,
@@ -589,8 +589,8 @@
     "Description": "{db,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 317,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 264,
     "Length": 2
   },
   {
@@ -600,8 +600,8 @@
     "Description": "{b,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 322,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 268,
     "Length": 2
   },
   {
@@ -611,8 +611,8 @@
     "Description": "{b,2}",
     "Properties": "Heat Engager",
     "Comment": "Hold to power up (chip damage on block)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 327,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 272,
     "Length": 3
   },
   {
@@ -622,8 +622,8 @@
     "Description": "{b,3,2,2}",
     "Properties": "",
     "Comment": "{b,3,2,d-hold} to shift to Gamma Howl, hold at last step to power up (chip damage on block)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 333,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 277,
     "Length": 3
   },
   {
@@ -633,8 +633,8 @@
     "Description": "{b,4,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 339,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 282,
     "Length": 2
   },
   {
@@ -644,8 +644,8 @@
     "Description": "{b,1+2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 344,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 286,
     "Length": 3
   },
   {
@@ -655,8 +655,8 @@
     "Description": "{ub,1+2}",
     "Properties": "Power Crush, Homing",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 350,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 291,
     "Length": 2
   },
   {
@@ -666,8 +666,8 @@
     "Description": "{u,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 355,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 295,
     "Length": 2
   },
   {
@@ -677,8 +677,8 @@
     "Description": "{u,3+4}",
     "Properties": "",
     "Comment": "Or {ub,3+4}, {u,3+4,3+4,3+4,3+4,3+4} to power up",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 360,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 299,
     "Length": 3
   },
   {
@@ -688,8 +688,8 @@
     "Description": "{uf,1}",
     "Properties": "Tornado",
     "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1,d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 366,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 304,
     "Length": 3
   },
   {
@@ -699,8 +699,8 @@
     "Description": "{uf,1} hold",
     "Properties": "Tornado",
     "Comment": "Or {ub,1} or {u,1}, hold to power up, hits airborne opponents only, {uf,1} hold {d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 372,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 309,
     "Length": 3
   },
   {
@@ -710,8 +710,8 @@
     "Description": "{uf,2}",
     "Properties": "",
     "Comment": "Or {ub,2} or {u,2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 378,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 314,
     "Length": 2
   },
   {
@@ -721,8 +721,8 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "Or {ub,3} or {u,3}, on hit shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 383,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 318,
     "Length": 2
   },
   {
@@ -732,8 +732,8 @@
     "Description": "{uf,3+4}",
     "Properties": "",
     "Comment": "Shift to Sit Down",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 388,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 322,
     "Length": 2
   },
   {
@@ -743,8 +743,8 @@
     "Description": "{f,f-hold,1}",
     "Properties": "",
     "Comment": "{f,f-hold,1,d-hold} to shift to Gamma Howl",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 393,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 326,
     "Length": 2
   },
   {
@@ -754,8 +754,8 @@
     "Description": "{f,f-hold,2}",
     "Properties": "",
     "Comment": "Hold to power up (chip damage on block)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 398,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 330,
     "Length": 2
   },
   {
@@ -765,8 +765,8 @@
     "Description": "{f,f-hold,3}",
     "Properties": "",
     "Comment": "{f,f-hold,3,d-hold} to directly shift to crouching state",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 403,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 334,
     "Length": 2
   },
   {
@@ -776,8 +776,8 @@
     "Description": "{f,f-hold,4}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 408,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 338,
     "Length": 2
   },
   {
@@ -787,8 +787,8 @@
     "Description": "{f,f-hold,1+2,2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 413,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 342,
     "Length": 2
   },
   {
@@ -798,8 +798,8 @@
     "Description": "{f,f-hold,1+2,1+2}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 418,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 346,
     "Length": 2
   },
   {
@@ -809,8 +809,8 @@
     "Description": "{f,f-hold,1+4}",
     "Properties": "",
     "Comment": "Low attack on landing",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 423,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 350,
     "Length": 3
   },
   {
@@ -820,8 +820,8 @@
     "Description": "{f,f,f-hold,2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 429,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 355,
     "Length": 2
   },
   {
@@ -831,8 +831,8 @@
     "Description": "{f,f,f-hold,1+2}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 434,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 359,
     "Length": 2
   },
   {
@@ -842,8 +842,8 @@
     "Description": "{d,2,1,1,1,2,1,2,1,1+2,1+2}",
     "Properties": "",
     "Comment": "Or while crouching {2,1,1,1,2,1,2,1,1+2,1+2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 439,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 363,
     "Length": 5
   },
   {
@@ -853,8 +853,8 @@
     "Description": "{d,2,1,1,1,2,1,2,1,d,1+2,1+2}",
     "Properties": "",
     "Comment": "Or while crouching {2,1,1,1,2,1,2,1,d,1+2,1+2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 447,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 370,
     "Length": 6
   },
   {
@@ -864,8 +864,8 @@
     "Description": "{1+2+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 456,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 378,
     "Length": 2
   },
   {
@@ -875,8 +875,8 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 461,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 382,
     "Length": 2
   },
   {
@@ -886,8 +886,8 @@
     "Description": "While rising {1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 466,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 386,
     "Length": 2
   },
   {
@@ -897,8 +897,8 @@
     "Description": "While rising {2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 471,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 390,
     "Length": 2
   },
   {
@@ -908,8 +908,8 @@
     "Description": "While rising {2,4}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 476,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 394,
     "Length": 3
   },
   {
@@ -919,8 +919,8 @@
     "Description": "While rising {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 482,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 399,
     "Length": 2
   },
   {
@@ -930,8 +930,8 @@
     "Description": "While rising {1+2,1+2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 487,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 403,
     "Length": 3
   },
   {
@@ -941,8 +941,8 @@
     "Description": "While crouching {1,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 493,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 408,
     "Length": 2
   },
   {
@@ -952,8 +952,8 @@
     "Description": "While crouching {1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 498,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 412,
     "Length": 3
   },
   {
@@ -963,8 +963,8 @@
     "Description": "While crouching {1+2,1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 504,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 417,
     "Length": 3
   },
   {
@@ -974,8 +974,8 @@
     "Description": "While crouching {df,1,2,1,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 510,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 422,
     "Length": 3
   },
   {
@@ -985,8 +985,8 @@
     "Description": "While crouching {df,2,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 516,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 427,
     "Length": 3
   },
   {
@@ -996,8 +996,8 @@
     "Description": "While crouching {df,2,f,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 522,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 432,
     "Length": 3
   },
   {
@@ -1007,8 +1007,8 @@
     "Description": "While crouching {df,2,d,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 528,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 437,
     "Length": 2
   },
   {
@@ -1018,8 +1018,8 @@
     "Description": "While crouching {df,4,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 533,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 441,
     "Length": 2
   },
   {
@@ -1029,8 +1029,8 @@
     "Description": "While crouching {df,3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 538,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 445,
     "Length": 2
   },
   {
@@ -1040,8 +1040,8 @@
     "Description": "While crouching {db,1,1,1}",
     "Properties": "",
     "Comment": "Hold at last step to power up (chip damage on block)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 543,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 449,
     "Length": 3
   },
   {
@@ -1051,8 +1051,8 @@
     "Description": "During sidestep {1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 549,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 454,
     "Length": 3
   },
   {
@@ -1062,8 +1062,8 @@
     "Description": "During sidestep {2}",
     "Properties": "",
     "Comment": "During sidestep {2,d-hold} to shift to Gamma Howl, chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 555,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 459,
     "Length": 2
   },
   {
@@ -1073,8 +1073,8 @@
     "Description": "While down and facing up {d,1+2}",
     "Properties": "",
     "Comment": "Shift to Sit Down",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 560,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 463,
     "Length": 2
   },
   {
@@ -1084,8 +1084,8 @@
     "Description": "{d,3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Sit Down",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 565,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 467,
     "Length": 2
   },
   {
@@ -1095,8 +1095,8 @@
     "Description": "During Sit Down {1,2,1,2}",
     "Properties": "",
     "Comment": "Or during Sit Down {2,1,2,1}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 570,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 471,
     "Length": 3
   },
   {
@@ -1106,8 +1106,8 @@
     "Description": "During Sit Down {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 576,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 476,
     "Length": 2
   },
   {
@@ -1117,8 +1117,8 @@
     "Description": "During Sit Down {3+4}",
     "Properties": "",
     "Comment": "Shift to Sit Down (can shift to moves other than Extra Pancake Press)",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 581,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 480,
     "Length": 3
   },
   {
@@ -1128,8 +1128,8 @@
     "Description": "During Sit Down {f}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 587,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 485,
     "Length": 2
   },
   {
@@ -1139,8 +1139,8 @@
     "Description": "During Sit Down {b}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 592,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 489,
     "Length": 2
   },
   {
@@ -1150,8 +1150,8 @@
     "Description": "{3+4}, etc.",
     "Properties": "Power Crush",
     "Comment": "To Gamma Howl, partially restore remaining Heat time",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 597,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 493,
     "Length": 2
   },
   {
@@ -1161,8 +1161,8 @@
     "Description": "During Gama Howl {1}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 602,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 497,
     "Length": 2
   },
   {
@@ -1172,8 +1172,8 @@
     "Description": "During Gama Howl {2}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 607,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 501,
     "Length": 3
   },
   {
@@ -1183,8 +1183,8 @@
     "Description": "During Gama Howl {3}",
     "Properties": "",
     "Comment": "During Gamma Howl {3,d-hold} to directly shift to crouching state",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 613,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 506,
     "Length": 2
   },
   {
@@ -1194,8 +1194,8 @@
     "Description": "During Gama Howl {4}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 618,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 510,
     "Length": 3
   },
   {
@@ -1205,8 +1205,8 @@
     "Description": "During Gama Howl {3+4}",
     "Properties": "Heat Engager, Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 624,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 515,
     "Length": 3
   },
   {
@@ -1216,8 +1216,8 @@
     "Description": "During Gama Howl {f,1}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 630,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 520,
     "Length": 3
   },
   {
@@ -1227,8 +1227,8 @@
     "Description": "During Gama Howl {f,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 636,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 525,
     "Length": 3
   },
   {
@@ -1238,8 +1238,8 @@
     "Description": "During Gama Howl {ub}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 642,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 530,
     "Length": 2
   },
   {
@@ -1249,8 +1249,8 @@
     "Description": "During Gama Howl {uf}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 647,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 534,
     "Length": 2
   },
   {
@@ -1260,8 +1260,8 @@
     "Description": "Time with opponent attack {3+4}",
     "Properties": "",
     "Comment": "Always active during Heat, absorb attack to regain recoverable health and partially restore remaining Heat time",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 652,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 538,
     "Length": 2
   },
   {
@@ -1271,8 +1271,8 @@
     "Description": "During Gamma Charge and Gamma Howl {1}",
     "Properties": "Homing",
     "Comment": "Chip damage on block, during Heat partially uses remaining Heat time",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 657,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 542,
     "Length": 4
   },
   {
@@ -1282,8 +1282,8 @@
     "Description": "During Gamma Charge and Gamma Howl {2}",
     "Properties": "Tornado, Power Crush",
     "Comment": "Chip damage on block, during Heat partially uses remaining Heat time",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 664,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 548,
     "Length": 3
   },
   {
@@ -1293,8 +1293,8 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 670,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 553,
     "Length": 3
   },
   {
@@ -1304,8 +1304,8 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 676,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 558,
     "Length": 3
   },
   {
@@ -1315,8 +1315,8 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 682,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 563,
     "Length": 3
   },
   {
@@ -1326,8 +1326,8 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 688,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 568,
     "Length": 4
   },
   {
@@ -1337,8 +1337,8 @@
     "Description": "Approach opponent from behind {1+3}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 695,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 574,
     "Length": 3
   },
   {
@@ -1348,8 +1348,8 @@
     "Description": "Approach opponent from behind {2+4}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 701,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 579,
     "Length": 3
   },
   {
@@ -1359,8 +1359,8 @@
     "Description": "Approach opponent {df,2+4}",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 707,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 584,
     "Length": 4
   },
   {
@@ -1370,8 +1370,8 @@
     "Description": "Approach opponent {df,df-hold,2+4}",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 714,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 590,
     "Length": 4
   },
   {
@@ -1381,8 +1381,8 @@
     "Description": "Approach opponent {db,2+3}",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 721,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 596,
     "Length": 3
   },
   {
@@ -1392,8 +1392,8 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 727,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 601,
     "Length": 4
   },
   {
@@ -1403,8 +1403,8 @@
     "Description": "Approach opponent {uf,1+2,d,df,2}",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 734,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 607,
     "Length": 4
   },
   {
@@ -1414,9 +1414,9 @@
     "Description": "Approach opponent {db,n,f,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 741,
-    "Length": 4
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 613,
+    "Length": 5
   },
   {
     "Id": 130,
@@ -1425,8 +1425,8 @@
     "Description": "Approach opponent {d,df,f,1}",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 748,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 620,
     "Length": 5
   },
   {
@@ -1436,8 +1436,8 @@
     "Description": "Approach opponent {d,db,b,2}",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 756,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 627,
     "Length": 4
   },
   {
@@ -1447,8 +1447,8 @@
     "Description": "During Gamma Howl {1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 763,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 633,
     "Length": 4
   },
   {
@@ -1458,8 +1458,8 @@
     "Description": "Approach crouching opponent {1+3}",
     "Properties": "",
     "Comment": "Or during Gamma Howl {1+3}, cannot throw escape",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 770,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 639,
     "Length": 3
   },
   {
@@ -1469,8 +1469,8 @@
     "Description": "Approach crouching opponent {2+4}",
     "Properties": "Heat Engager",
     "Comment": "Or during Gamma Howl {2+4}, cannot throw escape, unable to shift to Heat Dash",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 776,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 644,
     "Length": 4
   },
   {
@@ -1480,8 +1480,8 @@
     "Description": "During opponent wall stun {1+3} (or {2+4})",
     "Properties": "Homing",
     "Comment": "Or (during opponent wall stun) {uf,1+2}, cannot throw escape",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 783,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 650,
     "Length": 4
   },
   {
@@ -1491,8 +1491,8 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "S8DQG1kU1es",
-    "StartTime": 790,
+    "VideoId": "kMNCHWi1vXU",
+    "StartTime": 656,
     "Length": 2
   }
 ]
