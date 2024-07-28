@@ -25,7 +25,7 @@
   },
   {
     "id": 7,
-    "name": "Dragunov"
+    "name": "Dragonuv"
   },
   {
     "id": 8,
@@ -85,50 +85,54 @@
   },
   {
     "id": 22,
-    "name": "Lili"
+    "name": "Lidia"
   },
   {
     "id": 23,
-    "name": "Nina"
+    "name": "Lili"
   },
   {
     "id": 24,
-    "name": "Panda"
+    "name": "Nina"
   },
   {
     "id": 25,
-    "name": "Paul"
+    "name": "Panda"
   },
   {
     "id": 26,
-    "name": "Raven"
+    "name": "Paul"
   },
   {
     "id": 27,
-    "name": "Reina"
+    "name": "Raven"
   },
   {
     "id": 28,
-    "name": "Shaheen"
+    "name": "Reina"
   },
   {
     "id": 29,
-    "name": "Steve"
+    "name": "Shaheen"
   },
   {
     "id": 30,
-    "name": "Victor"
+    "name": "Steve"
   },
   {
     "id": 31,
-    "name": "Xiaoyu"
+    "name": "Victor"
   },
   {
     "id": 32,
-    "name": "Yoshimitsu"
+    "name": "Xiaoyu"
   },
   {
     "id": 33,
+    "name": "Yoshimitsu"
+  },
+  {
+    "id": 34,
     "name": "Zafina"
   }
 ]
