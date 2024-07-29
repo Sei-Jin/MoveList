@@ -6,9 +6,9 @@
     "Description": "All moves will deal chip damage on block",
     "Properties": "",
     "Comment": "Cannot K.O. with chip damage, chip damage turns into recoverable health gauge",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 0,
+    "Length": 4
   },
   {
     "Id": 2,
@@ -17,9 +17,9 @@
     "Description": "A Heat Dash can be used when a Heat Engager hits or is blocked (after activation, Heat will end)",
     "Properties": "",
     "Comment": "Until Heat Engager reaches the opponent {f-hold} (or {HBHS}), additional chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 6,
+    "Length": 3
   },
   {
     "Id": 3,
@@ -28,9 +28,9 @@
     "Description": "Heat Smash, a move that causes critical damage, can be activated (after activation, Heat will end)",
     "Properties": "",
     "Comment": "During Heat {HBHB} (or {2+3})",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 11,
+    "Length": 5
   },
   {
     "Id": 4,
@@ -39,9 +39,9 @@
     "Description": "Can use Heaven and Earth",
     "Properties": "",
     "Comment": "Entering stance increases Heaven and Earth level (carries over into next round), Heat consumption is reduced the higher the level",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 18,
+    "Length": 6
   },
   {
     "Id": 5,
@@ -50,9 +50,9 @@
     "Description": "Allows the use of the powered up version of Seikenzuki",
     "Properties": "",
     "Comment": "{1+2}, {f,f-hold,2}, {f,f,f-hold,1}",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 26,
+    "Length": 4
   },
   {
     "Id": 6,
@@ -61,9 +61,9 @@
     "Description": "When Heat activation available {2+3}",
     "Properties": "Power Crush",
     "Comment": "Partially uses remaining Heat time, {2+3,b,b} to cancel attack",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 32,
+    "Length": 3
   },
   {
     "Id": 7,
@@ -72,9 +72,9 @@
     "Description": "{f,1+2,3,1+2}",
     "Properties": "Heat Engager",
     "Comment": "{f,1+2,3,d,df,f,1+2} to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 37,
+    "Length": 4
   },
   {
     "Id": 8,
@@ -83,9 +83,9 @@
     "Description": "{b,1}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 43,
+    "Length": 3
   },
   {
     "Id": 9,
@@ -94,9 +94,9 @@
     "Description": "While crouching {df,2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 48,
+    "Length": 3
   },
   {
     "Id": 10,
@@ -105,9 +105,9 @@
     "Description": "During Horse Stance ({f,3+4}, etc.) {2}",
     "Properties": "Heat Engager",
     "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed, shift to Heaven and Earth (does not shift with {2,b-hold})",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 53,
+    "Length": 4
   },
   {
     "Id": 11,
@@ -116,9 +116,9 @@
     "Description": "During Cat Stance ({b,3+4}, etc.) {3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 59,
+    "Length": 3
   },
   {
     "Id": 12,
@@ -127,9 +127,9 @@
     "Description": "During Heat and Horse Stance ({f,3+4}, etc.) {u-hold}",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially uses remaining Heat time, Heaven and Earth level increases each time stance is used, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 64,
+    "Length": 2
   },
   {
     "Id": 13,
@@ -138,9 +138,9 @@
     "Description": "During Heat and Cat Stance ({b,3+4}, etc.) {u-hold}",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially uses remaining Heat time, Heaven and Earth level increases each time stance is used, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 68,
+    "Length": 2
   },
   {
     "Id": 14,
@@ -149,9 +149,9 @@
     "Description": "During Heat and Stalking Wolf Stance ({f,3+4,f-hold}, etc.) {u-hold}",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially uses remaining Heat time, Heaven and Earth level increases each time stance is used, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 72,
+    "Length": 3
   },
   {
     "Id": 15,
@@ -160,9 +160,9 @@
     "Description": "During Heat {2+3}",
     "Properties": "",
     "Comment": "Heat Smash, to throw on hit, shift to Heaven and Earth on block (does not shift with {b-hold})",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 77,
+    "Length": 5
   },
   {
     "Id": 16,
@@ -171,9 +171,9 @@
     "Description": "During Rage {df,1+2}",
     "Properties": "Removes Recoverable",
     "Comment": "Rage Art, erases opponent's recoverable health on hit",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 84,
+    "Length": 14
   },
   {
     "Id": 17,
@@ -182,9 +182,9 @@
     "Description": "{1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 100,
+    "Length": 1
   },
   {
     "Id": 18,
@@ -193,9 +193,9 @@
     "Description": "{1,2,2}",
     "Properties": "",
     "Comment": "Shift to Cat Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 103,
+    "Length": 2
   },
   {
     "Id": 19,
@@ -204,9 +204,9 @@
     "Description": "{1,2,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 107,
+    "Length": 2
   },
   {
     "Id": 20,
@@ -215,9 +215,9 @@
     "Description": "{1,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 111,
+    "Length": 2
   },
   {
     "Id": 21,
@@ -226,9 +226,9 @@
     "Description": "{1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 115,
+    "Length": 2
   },
   {
     "Id": 22,
@@ -237,9 +237,9 @@
     "Description": "{2,2}",
     "Properties": "",
     "Comment": "Shift to Cat Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 119,
+    "Length": 2
   },
   {
     "Id": 23,
@@ -248,9 +248,9 @@
     "Description": "{2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 123,
+    "Length": 2
   },
   {
     "Id": 24,
@@ -259,9 +259,9 @@
     "Description": "{3,2}",
     "Properties": "Tornado",
     "Comment": "Just Input to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 127,
+    "Length": 3
   },
   {
     "Id": 25,
@@ -270,9 +270,9 @@
     "Description": "{4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 132,
+    "Length": 2
   },
   {
     "Id": 26,
@@ -281,9 +281,9 @@
     "Description": "{1+2}",
     "Properties": "",
     "Comment": "{b,b} (or {f,f}) to cancel",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 136,
+    "Length": 2
   },
   {
     "Id": 27,
@@ -292,9 +292,9 @@
     "Description": "{1+2} hold",
     "Properties": "",
     "Comment": "Chip damage on block, {b,b} (or {f,f}) to cancel",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 140,
+    "Length": 2
   },
   {
     "Id": 28,
@@ -303,9 +303,9 @@
     "Description": "{1+2} hold (max)",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 144,
+    "Length": 3
   },
   {
     "Id": 29,
@@ -314,9 +314,9 @@
     "Description": "During Heat {1+2}",
     "Properties": "",
     "Comment": "Partially uses remaining Heat time, has reversal break effect, {b,b} (or {f,f}) to cancel, shift to Heaven and Earth on hit or block (does not shift with {1+2,b-hold})",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 149,
+    "Length": 3
   },
   {
     "Id": 30,
@@ -325,9 +325,9 @@
     "Description": "{3+4}",
     "Properties": "",
     "Comment": "Shift to Cat Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 154,
+    "Length": 2
   },
   {
     "Id": 31,
@@ -336,9 +336,9 @@
     "Description": "{f,2,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 158,
+    "Length": 2
   },
   {
     "Id": 32,
@@ -347,9 +347,9 @@
     "Description": "{f,3,4}",
     "Properties": "",
     "Comment": "Chip damage on block, {f,3,d,df,f,4} to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 162,
+    "Length": 2
   },
   {
     "Id": 33,
@@ -358,9 +358,9 @@
     "Description": "{f,4,3,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 166,
+    "Length": 2
   },
   {
     "Id": 34,
@@ -369,9 +369,9 @@
     "Description": "{f,4,3,4}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 170,
+    "Length": 2
   },
   {
     "Id": 35,
@@ -380,9 +380,9 @@
     "Description": "{f,1+2,3,1+2}",
     "Properties": "Heat Engager",
     "Comment": "{f,1+2,3,d,df,f,1+2} to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 174,
+    "Length": 4
   },
   {
     "Id": 36,
@@ -391,9 +391,9 @@
     "Description": "{f,3+4}",
     "Properties": "",
     "Comment": "Shift to Horse Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 180,
+    "Length": 1
   },
   {
     "Id": 37,
@@ -402,9 +402,9 @@
     "Description": "{df,1,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 183,
+    "Length": 2
   },
   {
     "Id": 38,
@@ -413,9 +413,9 @@
     "Description": "{df,1,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 187,
+    "Length": 2
   },
   {
     "Id": 39,
@@ -424,9 +424,9 @@
     "Description": "{df,2}",
     "Properties": "",
     "Comment": "Shift to Cat Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 191,
+    "Length": 2
   },
   {
     "Id": 40,
@@ -435,9 +435,9 @@
     "Description": "{df,3,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 195,
+    "Length": 2
   },
   {
     "Id": 41,
@@ -446,9 +446,9 @@
     "Description": "{df,4,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 199,
+    "Length": 2
   },
   {
     "Id": 42,
@@ -457,9 +457,9 @@
     "Description": "{df,LB,4,3,RB}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 203,
+    "Length": 3
   },
   {
     "Id": 43,
@@ -468,9 +468,9 @@
     "Description": "{df,LB,4,4,RB}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 208,
+    "Length": 2
   },
   {
     "Id": 44,
@@ -479,9 +479,9 @@
     "Description": "{df,3+4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 212,
+    "Length": 2
   },
   {
     "Id": 45,
@@ -490,9 +490,9 @@
     "Description": "{d,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 216,
+    "Length": 2
   },
   {
     "Id": 46,
@@ -501,9 +501,9 @@
     "Description": "{d,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 220,
+    "Length": 2
   },
   {
     "Id": 47,
@@ -512,9 +512,9 @@
     "Description": "{d,3,1,2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 224,
+    "Length": 3
   },
   {
     "Id": 48,
@@ -523,9 +523,9 @@
     "Description": "{db,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 229,
+    "Length": 1
   },
   {
     "Id": 49,
@@ -534,9 +534,9 @@
     "Description": "{db,3}",
     "Properties": "Homing",
     "Comment": "Has clean hit effect, shift to Horse Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 232,
+    "Length": 2
   },
   {
     "Id": 50,
@@ -545,9 +545,9 @@
     "Description": "{db,3} (Counter Hit)",
     "Properties": "",
     "Comment": "Cannot throw escape, power up based on Heaven and Earth level, regain recoverable health",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 236,
+    "Length": 3
   },
   {
     "Id": 51,
@@ -556,9 +556,9 @@
     "Description": "{db,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 241,
+    "Length": 2
   },
   {
     "Id": 52,
@@ -567,9 +567,9 @@
     "Description": "{db,3+4}",
     "Properties": "",
     "Comment": "Has low parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 245,
+    "Length": 1
   },
   {
     "Id": 53,
@@ -578,9 +578,9 @@
     "Description": "Time with opponent low attack {db,3+4}",
     "Properties": "",
     "Comment": "{1} at the right time to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 248,
+    "Length": 3
   },
   {
     "Id": 54,
@@ -589,9 +589,9 @@
     "Description": "{b,1}",
     "Properties": "Heat Engager",
     "Comment": "Chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 253,
+    "Length": 3
   },
   {
     "Id": 55,
@@ -600,9 +600,9 @@
     "Description": "{b,2,3}",
     "Properties": "",
     "Comment": "Just Input to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 258,
+    "Length": 2
   },
   {
     "Id": 56,
@@ -611,9 +611,9 @@
     "Description": "{b,3,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 262,
+    "Length": 2
   },
   {
     "Id": 57,
@@ -622,9 +622,9 @@
     "Description": "{b,3,4,1+2}",
     "Properties": "",
     "Comment": "{b,3,4,d,df,f,1+2} to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 266,
+    "Length": 3
   },
   {
     "Id": 58,
@@ -633,9 +633,9 @@
     "Description": "{b,4}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 271,
+    "Length": 1
   },
   {
     "Id": 59,
@@ -644,9 +644,9 @@
     "Description": "{b,1+2}",
     "Properties": "Power Crush",
     "Comment": "Absorb an attack to power up and deal more chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 274,
+    "Length": 2
   },
   {
     "Id": 60,
@@ -655,9 +655,9 @@
     "Description": "{b,3+4}",
     "Properties": "",
     "Comment": "Shift to Cat Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 278,
+    "Length": 1
   },
   {
     "Id": 61,
@@ -666,9 +666,9 @@
     "Description": "{b,1+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 281,
+    "Length": 3
   },
   {
     "Id": 62,
@@ -677,9 +677,9 @@
     "Description": "{uf,1}",
     "Properties": "",
     "Comment": "Or {ub,1} or {u,1}, has high parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 286,
+    "Length": 1
   },
   {
     "Id": 63,
@@ -688,9 +688,9 @@
     "Description": "Time with opponent high attack {uf,1}",
     "Properties": "",
     "Comment": "Shift to Cat Stance, {2} at the right time to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 289,
+    "Length": 3
   },
   {
     "Id": 64,
@@ -699,9 +699,9 @@
     "Description": "{uf,3}",
     "Properties": "",
     "Comment": "Or {ub,3} or {u,3}",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 294,
+    "Length": 2
   },
   {
     "Id": 65,
@@ -710,9 +710,9 @@
     "Description": "{uf,4}",
     "Properties": "Tornado",
     "Comment": "Or {u,4}, shift to Cat Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 298,
+    "Length": 3
   },
   {
     "Id": 66,
@@ -721,9 +721,9 @@
     "Description": "{uf,n,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 303,
+    "Length": 2
   },
   {
     "Id": 67,
@@ -732,9 +732,9 @@
     "Description": "{f,f-hold,2}",
     "Properties": "",
     "Comment": "{f,f,f-hold,2} to power up, shift to Horse Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 307,
+    "Length": 2
   },
   {
     "Id": 68,
@@ -743,9 +743,9 @@
     "Description": "During Heat {f,f-hold,2}",
     "Properties": "",
     "Comment": "Partially uses remaining heat time, has reversal break effect, {f,f,f-hold,2} to power up, shift to Horse Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 311,
+    "Length": 2
   },
   {
     "Id": 69,
@@ -754,9 +754,9 @@
     "Description": "{f,f-hold,3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 315,
+    "Length": 2
   },
   {
     "Id": 70,
@@ -765,9 +765,9 @@
     "Description": "{f,f-hold,4,3}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 319,
+    "Length": 2
   },
   {
     "Id": 71,
@@ -776,9 +776,9 @@
     "Description": "Approach airborne opponent {f,f-hold,4,3}",
     "Properties": "",
     "Comment": "Power up based on Heaven and Earth level, regain recoverable health",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 323,
+    "Length": 5
   },
   {
     "Id": 72,
@@ -787,9 +787,9 @@
     "Description": "{f,f-hold,1+2}",
     "Properties": "",
     "Comment": "Has clean hit effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 330,
+    "Length": 2
   },
   {
     "Id": 73,
@@ -798,9 +798,9 @@
     "Description": "{f,f,f-hold,1}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 334,
+    "Length": 2
   },
   {
     "Id": 74,
@@ -809,9 +809,9 @@
     "Description": "During Heat {f,f,f-hold,1}",
     "Properties": "Tornado",
     "Comment": "Partially uses remaining heat time, has reversal break effect, shift to Heaven and Earth on hit or block (does not shift with {f,f,f-hold,1,b-hold})",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 338,
+    "Length": 3
   },
   {
     "Id": 75,
@@ -820,9 +820,9 @@
     "Description": "{f,f,f-hold,3}",
     "Properties": "",
     "Comment": "Chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 343,
+    "Length": 2
   },
   {
     "Id": 76,
@@ -831,9 +831,9 @@
     "Description": "{d,df,f,2,2,1+2}",
     "Properties": "",
     "Comment": "{d,df,f,d,df,f,2,2,b,f,f-hold,1+2} to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 347,
+    "Length": 3
   },
   {
     "Id": 77,
@@ -842,9 +842,9 @@
     "Description": "{d,df,f,4}",
     "Properties": "Homing",
     "Comment": "Chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 352,
+    "Length": 2
   },
   {
     "Id": 78,
@@ -853,9 +853,9 @@
     "Description": "{d,df,f,1+2,2}",
     "Properties": "Tornado",
     "Comment": "Shift to Stalking Wolf Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 356,
+    "Length": 2
   },
   {
     "Id": 79,
@@ -864,9 +864,9 @@
     "Description": "{2,1,4,4,1,2,1,3,2,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 360,
+    "Length": 5
   },
   {
     "Id": 80,
@@ -875,9 +875,9 @@
     "Description": "{1+3+4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 367,
+    "Length": 2
   },
   {
     "Id": 81,
@@ -886,9 +886,9 @@
     "Description": "{1+2+3+4}",
     "Properties": "",
     "Comment": "Cannot block when it is still in effect / Automatic counter hit",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 371,
+    "Length": 2
   },
   {
     "Id": 82,
@@ -897,9 +897,9 @@
     "Description": "While rising {1,2}",
     "Properties": "",
     "Comment": "Shift to Cat Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 375,
+    "Length": 2
   },
   {
     "Id": 83,
@@ -908,9 +908,9 @@
     "Description": "While rising {1,4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 379,
+    "Length": 2
   },
   {
     "Id": 84,
@@ -919,9 +919,9 @@
     "Description": "While rising {2}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 383,
+    "Length": 2
   },
   {
     "Id": 85,
@@ -930,9 +930,9 @@
     "Description": "While rising {3}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 387,
+    "Length": 2
   },
   {
     "Id": 86,
@@ -941,9 +941,9 @@
     "Description": "While rising {4,2}",
     "Properties": "",
     "Comment": "Shift to Cat Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 391,
+    "Length": 3
   },
   {
     "Id": 87,
@@ -952,9 +952,9 @@
     "Description": "While crouching {df,2}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 396,
+    "Length": 3
   },
   {
     "Id": 88,
@@ -963,9 +963,9 @@
     "Description": "While crouching {df,3}",
     "Properties": "",
     "Comment": "Has clean hit effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 401,
+    "Length": 2
   },
   {
     "Id": 89,
@@ -974,9 +974,9 @@
     "Description": "During sidestep {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 405,
+    "Length": 2
   },
   {
     "Id": 90,
@@ -985,9 +985,9 @@
     "Description": "During sidestep {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 409,
+    "Length": 2
   },
   {
     "Id": 91,
@@ -996,9 +996,9 @@
     "Description": "{f,3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Horse Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 413,
+    "Length": 1
   },
   {
     "Id": 92,
@@ -1007,9 +1007,9 @@
     "Description": "During Horse Stance {1}",
     "Properties": "Power Crush, Homing",
     "Comment": "Absorb an attack to power up and deal more chip damage on block, shift to Stalking Wolf Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 416,
+    "Length": 2
   },
   {
     "Id": 93,
@@ -1018,9 +1018,9 @@
     "Description": "During Horse Stance {2}",
     "Properties": "Heat Engager",
     "Comment": "Throw when hit from the front on the ground (does not shift when using Heat Dash), Heat engaged when the throw is completed, shift to Heaven and Earth (does not shift with {2,b-hold})",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 420,
+    "Length": 4
   },
   {
     "Id": 94,
@@ -1029,9 +1029,9 @@
     "Description": "During Horse Stance {3}",
     "Properties": "Homing",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 426,
+    "Length": 2
   },
   {
     "Id": 95,
@@ -1040,9 +1040,9 @@
     "Description": "During Horse Stance {4}",
     "Properties": "",
     "Comment": "Chip damage on block, shift to Stalking Wolf Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 430,
+    "Length": 2
   },
   {
     "Id": 96,
@@ -1051,9 +1051,9 @@
     "Description": "During Horse Stance {1+2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 434,
+    "Length": 2
   },
   {
     "Id": 97,
@@ -1062,9 +1062,9 @@
     "Description": "During Horse Stance {f-hold}",
     "Properties": "",
     "Comment": "Shift to Stalking Wolf Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 438,
+    "Length": 2
   },
   {
     "Id": 98,
@@ -1073,9 +1073,9 @@
     "Description": "During Heat and Horse Stance {u-hold}",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially uses remaining Heat time, Heaven and Earth level increases each time stance is used, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 442,
+    "Length": 2
   },
   {
     "Id": 99,
@@ -1084,9 +1084,9 @@
     "Description": "During Horse Stance {b,b-hold}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 446,
+    "Length": 2
   },
   {
     "Id": 100,
@@ -1095,9 +1095,9 @@
     "Description": "{b,3+4}, etc.",
     "Properties": "",
     "Comment": "Shift to Cat Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 450,
+    "Length": 1
   },
   {
     "Id": 101,
@@ -1106,9 +1106,9 @@
     "Description": "During Cat Stance {1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 453,
+    "Length": 2
   },
   {
     "Id": 102,
@@ -1117,9 +1117,9 @@
     "Description": "During Cat Stance {2,2}",
     "Properties": "Tornado",
     "Comment": "Just Input to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 457,
+    "Length": 2
   },
   {
     "Id": 103,
@@ -1128,9 +1128,9 @@
     "Description": "During Cat Stance {2,3,1}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 461,
+    "Length": 3
   },
   {
     "Id": 104,
@@ -1139,9 +1139,9 @@
     "Description": "During Cat Stance {3}",
     "Properties": "Heat Engager",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 466,
+    "Length": 3
   },
   {
     "Id": 105,
@@ -1150,9 +1150,9 @@
     "Description": "During Cat Stance {4,3+4}",
     "Properties": "",
     "Comment": "During Cat Stance {4} on hit or block to shift to Stalking Wolf Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 471,
+    "Length": 3
   },
   {
     "Id": 106,
@@ -1161,9 +1161,9 @@
     "Description": "During Cat Stance {1+2}",
     "Properties": "Tornado",
     "Comment": "Shift to Stalking Wolf Stance on hit or block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 476,
+    "Length": 2
   },
   {
     "Id": 107,
@@ -1172,9 +1172,9 @@
     "Description": "During Cat Stance {f-hold}",
     "Properties": "",
     "Comment": "Shift to Stalking Wolf Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 480,
+    "Length": 2
   },
   {
     "Id": 108,
@@ -1183,9 +1183,9 @@
     "Description": "During Heat and Cat Stance {u-hold}",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially uses remaining Heat time, Heaven and Earth level increases each time stance is used, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 484,
+    "Length": 2
   },
   {
     "Id": 109,
@@ -1194,9 +1194,9 @@
     "Description": "During Cat Stance {b,b-hold}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 488,
+    "Length": 2
   },
   {
     "Id": 110,
@@ -1205,9 +1205,9 @@
     "Description": "During Horse Stance {f-hold}, etc.",
     "Properties": "",
     "Comment": "Shift to Stalking Wolf Stance",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 492,
+    "Length": 2
   },
   {
     "Id": 111,
@@ -1216,9 +1216,9 @@
     "Description": "During Stalking Wolf Stance {1}",
     "Properties": "Tornado",
     "Comment": "Chip damage on block, can hold, {b,b} (or {f,f}) to cancel",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 496,
+    "Length": 3
   },
   {
     "Id": 112,
@@ -1227,9 +1227,9 @@
     "Description": "During Heat and Stalking Wolf Stance {1}",
     "Properties": "Tornado",
     "Comment": "Can hold, {b,b} (or {f,f}) to cancel, shift to Heaven and Earth on hit or block (does not shift with {1,b-hold})",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 501,
+    "Length": 3
   },
   {
     "Id": 113,
@@ -1238,9 +1238,9 @@
     "Description": "During Stalking Wolf Stance {2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 506,
+    "Length": 2
   },
   {
     "Id": 114,
@@ -1249,9 +1249,9 @@
     "Description": "During Stalking Wolf Stance {3,2}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 510,
+    "Length": 3
   },
   {
     "Id": 115,
@@ -1260,9 +1260,9 @@
     "Description": "During Stalking Wolf Stance {4}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 515,
+    "Length": 3
   },
   {
     "Id": 116,
@@ -1271,9 +1271,9 @@
     "Description": "During Heat and Stalking Wolf Stance {u-hold}",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially uses remaining Heat time, Heaven and Earth level increases each time stance is used, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 520,
+    "Length": 3
   },
   {
     "Id": 117,
@@ -1282,9 +1282,9 @@
     "Description": "During Stalking Wolf Stance {b,b-hold}",
     "Properties": "",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 525,
+    "Length": 2
   },
   {
     "Id": 118,
@@ -1293,9 +1293,9 @@
     "Description": "During Heat and Horse Stance {u-hold}, etc.",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially uses remaining Heat time, Heaven and Earth level increases each time stance is used, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 529,
+    "Length": 2
   },
   {
     "Id": 119,
@@ -1304,9 +1304,9 @@
     "Description": "During Heaven and Earth {1}",
     "Properties": "Power Crush",
     "Comment": "Power up based on Heaven and Earth level, chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 533,
+    "Length": 4
   },
   {
     "Id": 120,
@@ -1315,9 +1315,9 @@
     "Description": "During Heaven and Earth {2}",
     "Properties": "",
     "Comment": "Power up based on Heaven and Earth level, chip damage on block",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 539,
+    "Length": 3
   },
   {
     "Id": 121,
@@ -1326,9 +1326,9 @@
     "Description": "During Heaven and Earth {1+2}",
     "Properties": "Tornado",
     "Comment": "Power up based on Heaven and Earth level",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 544,
+    "Length": 3
   },
   {
     "Id": 122,
@@ -1337,9 +1337,9 @@
     "Description": "During Heaven and Earth, take attack from opponent",
     "Properties": "",
     "Comment": "Shift to Heaven and Earth, partially restore remaining Heat Time, has strong parry effect",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 549,
+    "Length": 3
   },
   {
     "Id": 123,
@@ -1348,9 +1348,9 @@
     "Description": "Approach opponent {1+3}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 554,
+    "Length": 4
   },
   {
     "Id": 124,
@@ -1359,9 +1359,9 @@
     "Description": "Approach opponent {2+4}",
     "Properties": "Homing",
     "Comment": "Throw escape {1} or {2}",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 560,
+    "Length": 3
   },
   {
     "Id": 125,
@@ -1370,9 +1370,9 @@
     "Description": "Approach opponent from left side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {1}",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 565,
+    "Length": 4
   },
   {
     "Id": 126,
@@ -1381,9 +1381,9 @@
     "Description": "Approach opponent from right side {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Throw escape {2}",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 571,
+    "Length": 3
   },
   {
     "Id": 127,
@@ -1392,9 +1392,9 @@
     "Description": "Approach opponent from behind {1+3} (or {2+4})",
     "Properties": "",
     "Comment": "Cannot throw escape",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 576,
+    "Length": 2
   },
   {
     "Id": 128,
@@ -1403,9 +1403,9 @@
     "Description": "Approach opponent {uf,1+2}",
     "Properties": "",
     "Comment": "Throw escape {1+2}, power up based on Heaven and Earth level, regain recoverable health",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 580,
+    "Length": 4
   },
   {
     "Id": 129,
@@ -1414,9 +1414,9 @@
     "Description": "Time with opponent low attack {db,3+4}",
     "Properties": "",
     "Comment": "{1} at the right time to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 586,
+    "Length": 3
   },
   {
     "Id": 130,
@@ -1425,9 +1425,9 @@
     "Description": "Time with opponent punch {b,1+3} (or {b,2+4}",
     "Properties": "",
     "Comment": "{2} at the right time to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 591,
+    "Length": 3
   },
   {
     "Id": 131,
@@ -1436,9 +1436,9 @@
     "Description": "Time with opponent high attack {uf,1}",
     "Properties": "",
     "Comment": "Shift to Cat Stance, {2} at the right time to power up",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 596,
+    "Length": 3
   },
   {
     "Id": 132,
@@ -1447,9 +1447,9 @@
     "Description": "Time with opponent low attack {df-hold}",
     "Properties": "Tornado",
     "Comment": "",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 601,
+    "Length": 2
   },
   {
     "Id": 133,
@@ -1458,8 +1458,8 @@
     "Description": "While opponent is down {d,1+2}",
     "Properties": "",
     "Comment": "Power up based on Heaven and Earth level, regain recoverable health",
-    "VideoId": "",
-    "StartTime": "",
-    "Length": ""
+    "VideoId": "WZBTwmvRnCo",
+    "StartTime": 605,
+    "Length": 2
   }
 ]
