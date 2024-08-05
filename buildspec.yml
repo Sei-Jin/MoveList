@@ -18,7 +18,7 @@ artifacts:
   # Specify the files to be output as artifacts of the build
   files:
     - '3rdpartylicenses.txt'
-    - 'browser/**/*'
+    - 'browser/**'
   # Base directory for the artifacts (relative to the project root)
   base-directory: 'dist/move-list'
 
