@@ -2,13 +2,24 @@ version: 0.2
 
 phases:
   install:
+    runtime-versions:
+      nodejs: 20
     commands:
+      # Install Angular CLI globally to run Angular commands
+      - npm install -g @angular/cli
+      # Install project dependencies
       - npm install
   build:
     commands:
-      - npm run build -- --prod
+      # Build the Angular project using the production configuration
+      - ng build --configuration production
+
 artifacts:
+  # Specify the files to be output as artifacts of the build
   files:
     - '**/*'
-  base-directory: 'dist/move-list'  # Adjust according to your project structure
+  # Base directory for the artifacts (relative to the project root)
+  base-directory: 'dist/move-list'
+  # Discard-paths tells CodeBuild to ignore the directory structure which is useful when you want to deploy directly to the root of an S3 bucket
+  discard-paths: yes
 
