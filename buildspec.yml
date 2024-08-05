@@ -20,6 +20,4 @@ artifacts:
     - '**/*'
   # Base directory for the artifacts (relative to the project root)
   base-directory: 'dist/move-list'
-  # Discard-paths tells CodeBuild to ignore the directory structure which is useful when you want to deploy directly to the root of an S3 bucket
-  discard-paths: yes
 
