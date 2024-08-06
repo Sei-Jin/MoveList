@@ -17,7 +17,7 @@ phases:
 artifacts:
   # Specify the files to be output as artifacts of the build
   files:
-    - '**'
+    - '**/*'
   # Base directory for the artifacts (relative to the project root)
   base-directory: 'dist/move-list/browser'
 
